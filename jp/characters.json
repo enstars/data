@@ -1,10 +1,10 @@
 [
     {
-      "character_id":1,
+      "id":1,
       "last_name":"南雲",
       "first_name":"鉄虎",
       "last_nameRuby":"なぐも",
-      "last_nameRuby__1":"てとら",
+      "first_nameRuby":"てとら",
       "unit":[
         "ryuseitai"
       ],
@@ -35,11 +35,11 @@
       "height_old":"168 cm"
     },
     {
-      "character_id":2,
+      "id":2,
       "last_name":"紫之",
       "first_name":"創",
       "last_nameRuby":"しの",
-      "last_nameRuby__1":"はじめ",
+      "first_nameRuby":"はじめ",
       "unit":[
         "rabits"
       ],
@@ -71,11 +71,11 @@
       "height_old":""
     },
     {
-      "character_id":3,
+      "id":3,
       "last_name":"真白",
       "first_name":"友也",
       "last_nameRuby":"ましろ",
-      "last_nameRuby__1":"ともや",
+      "first_nameRuby":"ともや",
       "unit":[
         "rabits"
       ],
@@ -106,11 +106,11 @@
       "height_old":"167 cm"
     },
     {
-      "character_id":4,
+      "id":4,
       "last_name":"葵",
       "first_name":"ひなた",
       "last_nameRuby":"あおい",
-      "last_nameRuby__1":"ひなた",
+      "first_nameRuby":"ひなた",
       "unit":[
         "2wink"
       ],
@@ -141,11 +141,11 @@
       "height_old":"168 cm"
     },
     {
-      "character_id":5,
+      "id":5,
       "last_name":"高峯",
       "first_name":"翠",
       "last_nameRuby":"たかみね",
-      "last_nameRuby__1":"みどり",
+      "first_nameRuby":"みどり",
       "unit":[
         "ryuseitai"
       ],
@@ -176,11 +176,11 @@
       "height_old":"178 cm"
     },
     {
-      "character_id":6,
+      "id":6,
       "last_name":"姫宮",
       "first_name":"桃李",
       "last_nameRuby":"ひめみや",
-      "last_nameRuby__1":"とうり",
+      "first_nameRuby":"とうり",
       "unit":[
         "fine"
       ],
@@ -211,11 +211,11 @@
       "height_old":"152 cm"
     },
     {
-      "character_id":7,
+      "id":7,
       "last_name":"仙石",
       "first_name":"忍",
       "last_nameRuby":"せんごく",
-      "last_nameRuby__1":"しのぶ",
+      "first_nameRuby":"しのぶ",
       "unit":[
         "ryuseitai"
       ],
@@ -246,11 +246,11 @@
       "height_old":"159 cm"
     },
     {
-      "character_id":8,
+      "id":8,
       "last_name":"葵",
       "first_name":"ゆうた",
       "last_nameRuby":"あおい",
-      "last_nameRuby__1":"ゆうた",
+      "first_nameRuby":"ゆうた",
       "unit":[
         "2wink"
       ],
@@ -281,11 +281,11 @@
       "height_old":"168 cm"
     },
     {
-      "character_id":9,
+      "id":9,
       "last_name":"天満",
       "first_name":"光",
       "last_nameRuby":"てんま",
-      "last_nameRuby__1":"みつる",
+      "first_nameRuby":"みつる",
       "unit":[
         "rabits"
       ],
@@ -316,11 +316,11 @@
       "height_old":"167 cm"
     },
     {
-      "character_id":10,
+      "id":10,
       "last_name":"朱桜",
       "first_name":"司",
       "last_nameRuby":"すおう",
-      "last_nameRuby__1":"つかさ",
+      "first_nameRuby":"つかさ",
       "unit":[
         "knights"
       ],
@@ -352,11 +352,11 @@
       "height_old":"167 cm"
     },
     {
-      "character_id":11,
+      "id":11,
       "last_name":"明星",
       "first_name":"スバル",
       "last_nameRuby":"あけほし",
-      "last_nameRuby__1":"すばる",
+      "first_nameRuby":"すばる",
       "unit":[
         "trickstar"
       ],
@@ -387,11 +387,11 @@
       "height_old":"170 cm"
     },
     {
-      "character_id":12,
+      "id":12,
       "last_name":"氷鷹",
       "first_name":"北斗",
       "last_nameRuby":"ひだか",
-      "last_nameRuby__1":"ほくと",
+      "first_nameRuby":"ほくと",
       "unit":[
         "trickstar"
       ],
@@ -422,11 +422,11 @@
       "height_old":"172 cm"
     },
     {
-      "character_id":13,
+      "id":13,
       "last_name":"遊木",
       "first_name":"真",
       "last_nameRuby":"ゆうき",
-      "last_nameRuby__1":"まこと",
+      "first_nameRuby":"まこと",
       "unit":[
         "trickstar"
       ],
@@ -457,11 +457,11 @@
       "height_old":"173 cm"
     },
     {
-      "character_id":14,
+      "id":14,
       "last_name":"神崎",
       "first_name":"颯馬",
       "last_nameRuby":"かんざき",
-      "last_nameRuby__1":"そうま",
+      "first_nameRuby":"そうま",
       "unit":[
         "akatsuki"
       ],
@@ -492,11 +492,11 @@
       "height_old":"173 cm"
     },
     {
-      "character_id":15,
+      "id":15,
       "last_name":"乙狩",
       "first_name":"アドニス",
       "last_nameRuby":"おとがり",
-      "last_nameRuby__1":"あどにす",
+      "first_nameRuby":"あどにす",
       "unit":[
         "undead"
       ],
@@ -527,11 +527,11 @@
       "height_old":""
     },
     {
-      "character_id":16,
+      "id":16,
       "last_name":"大神",
       "first_name":"晃牙",
       "last_nameRuby":"おおがみ",
-      "last_nameRuby__1":"こうが",
+      "first_nameRuby":"こうが",
       "unit":[
         "undead"
       ],
@@ -562,11 +562,11 @@
       "height_old":"174 cm"
     },
     {
-      "character_id":17,
+      "id":17,
       "last_name":"朔間",
       "first_name":"凛月",
       "last_nameRuby":"さくま",
-      "last_nameRuby__1":"りつ",
+      "first_nameRuby":"りつ",
       "unit":[
         "knights"
       ],
@@ -597,11 +597,11 @@
       "height_old":""
     },
     {
-      "character_id":18,
+      "id":18,
       "last_name":"衣更",
       "first_name":"真緒",
       "last_nameRuby":"いさら",
-      "last_nameRuby__1":"まお",
+      "first_nameRuby":"まお",
       "unit":[
         "trickstar"
       ],
@@ -632,11 +632,11 @@
       "height_old":""
     },
     {
-      "character_id":19,
+      "id":19,
       "last_name":"伏見",
       "first_name":"弓弦",
       "last_nameRuby":"ふしみ",
-      "last_nameRuby__1":"ゆづる",
+      "first_nameRuby":"ゆづる",
       "unit":[
         "fine"
       ],
@@ -667,11 +667,11 @@
       "height_old":""
     },
     {
-      "character_id":20,
+      "id":20,
       "last_name":"鳴上",
       "first_name":"嵐",
       "last_nameRuby":"なるかみ",
-      "last_nameRuby__1":"あらし",
+      "first_nameRuby":"あらし",
       "unit":[
         "knights"
       ],
@@ -702,11 +702,11 @@
       "height_old":"175 cm"
     },
     {
-      "character_id":21,
+      "id":21,
       "last_name":"蓮巳",
       "first_name":"敬人",
       "last_nameRuby":"はすみ",
-      "last_nameRuby__1":"けいと",
+      "first_nameRuby":"けいと",
       "unit":[
         "akatsuki"
       ],
@@ -738,11 +738,11 @@
       "height_old":""
     },
     {
-      "character_id":22,
+      "id":22,
       "last_name":"天祥院",
       "first_name":"英智",
       "last_nameRuby":"てんしょういん",
-      "last_nameRuby__1":"えいち",
+      "first_nameRuby":"えいち",
       "unit":[
         "fine"
       ],
@@ -773,11 +773,11 @@
       "height_old":""
     },
     {
-      "character_id":23,
+      "id":23,
       "last_name":"羽風",
       "first_name":"薫",
       "last_nameRuby":"はかぜ",
-      "last_nameRuby__1":"かおる",
+      "first_nameRuby":"かおる",
       "unit":[
         "undead"
       ],
@@ -808,11 +808,11 @@
       "height_old":""
     },
     {
-      "character_id":24,
+      "id":24,
       "last_name":"瀬名",
       "first_name":"泉",
       "last_nameRuby":"せな",
-      "last_nameRuby__1":"いずみ",
+      "first_nameRuby":"いずみ",
       "unit":[
         "knights"
       ],
@@ -843,11 +843,11 @@
       "height_old":""
     },
     {
-      "character_id":25,
+      "id":25,
       "last_name":"守沢",
       "first_name":"千秋",
       "last_nameRuby":"もりさわ",
-      "last_nameRuby__1":"ちあき",
+      "first_nameRuby":"ちあき",
       "unit":[
         "ryuseitai"
       ],
@@ -878,11 +878,11 @@
       "height_old":""
     },
     {
-      "character_id":26,
+      "id":26,
       "last_name":"鬼龍",
       "first_name":"紅郎",
       "last_nameRuby":"きりゅう",
-      "last_nameRuby__1":"くろう",
+      "first_nameRuby":"くろう",
       "unit":[
         "akatsuki"
       ],
@@ -913,11 +913,11 @@
       "height_old":"180 cm"
     },
     {
-      "character_id":27,
+      "id":27,
       "last_name":"日々樹",
       "first_name":"渉",
       "last_nameRuby":"ひびき",
-      "last_nameRuby__1":"わたる",
+      "first_nameRuby":"わたる",
       "unit":[
         "fine"
       ],
@@ -948,11 +948,11 @@
       "height_old":"179 cm"
     },
     {
-      "character_id":28,
+      "id":28,
       "last_name":"深海",
       "first_name":"奏汰",
       "last_nameRuby":"しんかい",
-      "last_nameRuby__1":"かなた",
+      "first_nameRuby":"かなた",
       "unit":[
         "ryuseitai"
       ],
@@ -983,11 +983,11 @@
       "height_old":""
     },
     {
-      "character_id":29,
+      "id":29,
       "last_name":"朔間",
       "first_name":"零",
       "last_nameRuby":"さくま",
-      "last_nameRuby__1":"れい",
+      "first_nameRuby":"れい",
       "unit":[
         "undead"
       ],
@@ -1018,11 +1018,11 @@
       "height_old":""
     },
     {
-      "character_id":30,
+      "id":30,
       "last_name":"仁兎",
       "first_name":"なずな",
       "last_nameRuby":"にと",
-      "last_nameRuby__1":"なずな",
+      "first_nameRuby":"なずな",
       "unit":[
         "rabits"
       ],
@@ -1053,11 +1053,11 @@
       "height_old":""
     },
     {
-      "character_id":31,
+      "id":31,
       "last_name":"佐賀美",
       "first_name":"陣",
       "last_nameRuby":"さがみ",
-      "last_nameRuby__1":"じん",
+      "first_nameRuby":"じん",
       "unit":"",
       "character_voice":"樋柴智康",
       "image_color":"#8da0b6",
@@ -1083,11 +1083,11 @@
       "height_old":""
     },
     {
-      "character_id":32,
+      "id":32,
       "last_name":"椚",
       "first_name":"章臣",
       "last_nameRuby":"くぬぎ",
-      "last_nameRuby__1":"あきおみ",
+      "first_nameRuby":"あきおみ",
       "unit":"",
       "character_voice":"駒田航",
       "image_color":"#915c8b",
@@ -1113,11 +1113,11 @@
       "height_old":""
     },
     {
-      "character_id":33,
+      "id":33,
       "last_name":"月永",
       "first_name":"レオ",
       "last_nameRuby":"つきなが",
-      "last_nameRuby__1":"れお",
+      "first_nameRuby":"れお",
       "unit":[
         "knights"
       ],
@@ -1148,11 +1148,11 @@
       "height_old":"168 cm"
     },
     {
-      "character_id":34,
+      "id":34,
       "last_name":"影片",
       "first_name":"みか",
       "last_nameRuby":"かげひら",
-      "last_nameRuby__1":"みか",
+      "first_nameRuby":"みか",
       "unit":[
         "valkyrie"
       ],
@@ -1183,11 +1183,11 @@
       "height_old":""
     },
     {
-      "character_id":35,
+      "id":35,
       "last_name":"斎宮",
       "first_name":"宗",
       "last_nameRuby":"いつき",
-      "last_nameRuby__1":"しゅう",
+      "first_nameRuby":"しゅう",
       "unit":[
         "valkyrie"
       ],
@@ -1218,11 +1218,11 @@
       "height_old":""
     },
     {
-      "character_id":37,
+      "id":37,
       "last_name":"春川",
       "first_name":"宙",
       "last_nameRuby":"はるかわ",
-      "last_nameRuby__1":"そら",
+      "first_nameRuby":"そら",
       "unit":[
         "switch"
       ],
@@ -1253,11 +1253,11 @@
       "height_old":"163 cm"
     },
     {
-      "character_id":38,
+      "id":38,
       "last_name":"逆先",
       "first_name":"夏目",
       "last_nameRuby":"さかさき",
-      "last_nameRuby__1":"なつめ",
+      "first_nameRuby":"なつめ",
       "unit":[
         "switch"
       ],
@@ -1289,11 +1289,11 @@
       "height_old":"168 cm"
     },
     {
-      "character_id":39,
+      "id":39,
       "last_name":"青葉",
       "first_name":"つむぎ",
       "last_nameRuby":"あおば",
-      "last_nameRuby__1":"つむぎ",
+      "first_nameRuby":"つむぎ",
       "unit":[
         "switch"
       ],
@@ -1324,11 +1324,11 @@
       "height_old":""
     },
     {
-      "character_id":40,
+      "id":40,
       "last_name":"三毛縞",
       "first_name":"斑",
       "last_nameRuby":"みけじま",
-      "last_nameRuby__1":"まだら",
+      "first_nameRuby":"まだら",
       "unit":[
         "mam",
         "doubleface"
@@ -1360,11 +1360,11 @@
       "height_old":""
     },
     {
-      "character_id":41,
+      "id":41,
       "last_name":"巴",
       "first_name":"日和",
       "last_nameRuby":"ともえ",
-      "last_nameRuby__1":"ひより",
+      "first_nameRuby":"ひより",
       "unit":[
         "eden"
       ],
@@ -1395,11 +1395,11 @@
       "height_old":""
     },
     {
-      "character_id":42,
+      "id":42,
       "last_name":"漣",
       "first_name":"ジュン",
       "last_nameRuby":"さざなみ",
-      "last_nameRuby__1":"じゅん",
+      "first_nameRuby":"じゅん",
       "unit":[
         "eden"
       ],
@@ -1430,11 +1430,11 @@
       "height_old":""
     },
     {
-      "character_id":50,
+      "id":50,
       "last_name":"乱",
       "first_name":"凪砂",
       "last_nameRuby":"らん",
-      "last_nameRuby__1":"なぎさ",
+      "first_nameRuby":"なぎさ",
       "unit":[
         "eden"
       ],
@@ -1465,11 +1465,11 @@
       "height_old":""
     },
     {
-      "character_id":51,
+      "id":51,
       "last_name":"七種",
       "first_name":"茨",
       "last_nameRuby":"さえぐさ",
-      "last_nameRuby__1":"いばら",
+      "first_nameRuby":"いばら",
       "unit":[
         "eden"
       ],
@@ -1500,11 +1500,11 @@
       "height_old":""
     },
     {
-      "character_id":61,
+      "id":61,
       "last_name":"氷鷹",
       "first_name":"誠矢",
       "last_nameRuby":"ひだか",
-      "last_nameRuby__1":"せいや",
+      "first_nameRuby":"せいや",
       "unit":"",
       "character_voice":"眞一郎三木",
       "image_color":"",
@@ -1530,11 +1530,11 @@
       "height_old":""
     },
     {
-      "character_id":67,
+      "id":67,
       "last_name":"天城",
       "first_name":"一彩",
       "last_nameRuby":"あまぎ",
-      "last_nameRuby__1":"ひいろ",
+      "first_nameRuby":"ひいろ",
       "unit":[
         "alkaloid"
       ],
@@ -1565,11 +1565,11 @@
       "height_old":""
     },
     {
-      "character_id":68,
+      "id":68,
       "last_name":"白鳥",
       "first_name":"藍良",
       "last_nameRuby":"しらとり",
-      "last_nameRuby__1":"あいら",
+      "first_nameRuby":"あいら",
       "unit":[
         "alkaloid"
       ],
@@ -1600,11 +1600,11 @@
       "height_old":""
     },
     {
-      "character_id":69,
+      "id":69,
       "last_name":"礼瀬",
       "first_name":"マヨイ",
       "last_nameRuby":"あやせ",
-      "last_nameRuby__1":"まよい",
+      "first_nameRuby":"まよい",
       "unit":[
         "alkaloid"
       ],
@@ -1635,11 +1635,11 @@
       "height_old":""
     },
     {
-      "character_id":70,
+      "id":70,
       "last_name":"風早",
       "first_name":"巽",
       "last_nameRuby":"かぜはや",
-      "last_nameRuby__1":"たつみ",
+      "first_nameRuby":"たつみ",
       "unit":[
         "alkaloid"
       ],
@@ -1670,11 +1670,11 @@
       "height_old":""
     },
     {
-      "character_id":71,
+      "id":71,
       "last_name":"天城",
       "first_name":"燐音",
       "last_nameRuby":"あまぎ",
-      "last_nameRuby__1":"りんね",
+      "first_nameRuby":"りんね",
       "unit":[
         "crazyb"
       ],
@@ -1705,11 +1705,11 @@
       "height_old":""
     },
     {
-      "character_id":72,
+      "id":72,
       "last_name":"",
       "first_name":"HiMERU",
       "last_nameRuby":"",
-      "last_nameRuby__1":"ひめる",
+      "first_nameRuby":"ひめる",
       "unit":[
         "crazyb"
       ],
@@ -1740,11 +1740,11 @@
       "height_old":""
     },
     {
-      "character_id":73,
+      "id":73,
       "last_name":"桜河",
       "first_name":"こはく",
       "last_nameRuby":"おうかわ",
-      "last_nameRuby__1":"こはく",
+      "first_nameRuby":"こはく",
       "unit":[
         "crazyb",
         "doubleface"
@@ -1776,11 +1776,11 @@
       "height_old":""
     },
     {
-      "character_id":74,
+      "id":74,
       "last_name":"椎名",
       "first_name":"ニキ",
       "last_nameRuby":"しいな",
-      "last_nameRuby__1":"にき",
+      "first_nameRuby":"にき",
       "unit":[
         "crazyb"
       ],
@@ -1811,11 +1811,11 @@
       "height_old":""
     },
     {
-      "character_id":75,
+      "id":75,
       "last_name":"",
       "first_name":"",
       "last_nameRuby":"",
-      "last_nameRuby__1":"",
+      "first_nameRuby":"",
       "unit":"",
       "character_voice":"",
       "image_color":"",
