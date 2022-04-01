@@ -1,0 +1,479 @@
+[
+    {
+        "id": 1,
+        "unit_id": 1,
+        "character_id": 13,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.035+09:00",
+        "updated_at": "2020-07-15T13:17:28.293+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 2,
+        "unit_id": 1,
+        "character_id": 12,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.038+09:00",
+        "updated_at": "2020-07-15T13:17:28.301+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 3,
+        "unit_id": 1,
+        "character_id": 11,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.042+09:00",
+        "updated_at": "2020-07-15T13:17:28.308+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 4,
+        "unit_id": 1,
+        "character_id": 18,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.047+09:00",
+        "updated_at": "2020-07-15T13:17:28.313+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 5,
+        "unit_id": 2,
+        "character_id": 27,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.051+09:00",
+        "updated_at": "2020-07-15T13:17:28.319+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 6,
+        "unit_id": 2,
+        "character_id": 22,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.055+09:00",
+        "updated_at": "2020-07-15T13:17:28.325+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 7,
+        "unit_id": 2,
+        "character_id": 6,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.059+09:00",
+        "updated_at": "2020-07-15T13:17:28.333+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 8,
+        "unit_id": 2,
+        "character_id": 19,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.062+09:00",
+        "updated_at": "2020-07-15T13:17:28.339+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 9,
+        "unit_id": 3,
+        "character_id": 15,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.066+09:00",
+        "updated_at": "2020-07-15T13:17:28.345+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 10,
+        "unit_id": 3,
+        "character_id": 29,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.070+09:00",
+        "updated_at": "2020-07-15T13:17:28.352+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 11,
+        "unit_id": 3,
+        "character_id": 23,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.074+09:00",
+        "updated_at": "2020-07-15T13:17:28.359+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 12,
+        "unit_id": 3,
+        "character_id": 16,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.078+09:00",
+        "updated_at": "2020-07-15T13:17:28.364+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 13,
+        "unit_id": 4,
+        "character_id": 10,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.082+09:00",
+        "updated_at": "2020-07-15T13:17:28.371+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 14,
+        "unit_id": 4,
+        "character_id": 20,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.086+09:00",
+        "updated_at": "2020-07-15T13:17:28.377+09:00",
+        "order_num_in_unit_as_list": 5
+    },
+    {
+        "id": 15,
+        "unit_id": 4,
+        "character_id": 33,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.090+09:00",
+        "updated_at": "2020-07-15T13:17:28.384+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 16,
+        "unit_id": 4,
+        "character_id": 24,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.094+09:00",
+        "updated_at": "2020-07-15T13:17:28.391+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 17,
+        "unit_id": 4,
+        "character_id": 17,
+        "order_num_in_unit": 5,
+        "created_at": "2020-03-15T12:42:24.097+09:00",
+        "updated_at": "2020-07-15T13:17:28.396+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 18,
+        "unit_id": 5,
+        "character_id": 28,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.101+09:00",
+        "updated_at": "2020-07-15T13:17:28.402+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 19,
+        "unit_id": 5,
+        "character_id": 1,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.106+09:00",
+        "updated_at": "2020-07-15T13:17:28.408+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 20,
+        "unit_id": 5,
+        "character_id": 25,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.110+09:00",
+        "updated_at": "2020-07-15T13:17:28.415+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 21,
+        "unit_id": 5,
+        "character_id": 7,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.114+09:00",
+        "updated_at": "2020-07-15T13:17:28.422+09:00",
+        "order_num_in_unit_as_list": 5
+    },
+    {
+        "id": 22,
+        "unit_id": 5,
+        "character_id": 5,
+        "order_num_in_unit": 5,
+        "created_at": "2020-03-15T12:42:24.118+09:00",
+        "updated_at": "2020-07-15T13:17:28.426+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 23,
+        "unit_id": 6,
+        "character_id": 9,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.122+09:00",
+        "updated_at": "2020-07-15T13:17:28.433+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 24,
+        "unit_id": 6,
+        "character_id": 2,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.126+09:00",
+        "updated_at": "2020-07-15T13:17:28.440+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 25,
+        "unit_id": 6,
+        "character_id": 30,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.130+09:00",
+        "updated_at": "2020-07-15T13:17:28.445+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 26,
+        "unit_id": 6,
+        "character_id": 3,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.134+09:00",
+        "updated_at": "2020-07-15T13:17:28.451+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 27,
+        "unit_id": 7,
+        "character_id": 8,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.138+09:00",
+        "updated_at": "2020-07-15T13:17:28.458+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 28,
+        "unit_id": 7,
+        "character_id": 4,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.142+09:00",
+        "updated_at": "2020-07-15T13:17:28.466+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 29,
+        "unit_id": 8,
+        "character_id": 26,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.146+09:00",
+        "updated_at": "2020-07-15T13:17:28.473+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 30,
+        "unit_id": 8,
+        "character_id": 21,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.150+09:00",
+        "updated_at": "2020-07-15T13:17:28.478+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 31,
+        "unit_id": 8,
+        "character_id": 14,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.154+09:00",
+        "updated_at": "2020-07-15T13:17:28.483+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 32,
+        "unit_id": 9,
+        "character_id": 34,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.157+09:00",
+        "updated_at": "2020-07-15T13:17:28.488+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 33,
+        "unit_id": 9,
+        "character_id": 35,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.161+09:00",
+        "updated_at": "2020-07-15T13:17:28.494+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 34,
+        "unit_id": 10,
+        "character_id": 39,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.165+09:00",
+        "updated_at": "2020-07-15T13:17:28.501+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 35,
+        "unit_id": 10,
+        "character_id": 38,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.169+09:00",
+        "updated_at": "2020-07-15T13:17:28.505+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 36,
+        "unit_id": 10,
+        "character_id": 37,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.173+09:00",
+        "updated_at": "2020-07-15T13:17:28.510+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 37,
+        "unit_id": 11,
+        "character_id": 40,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.176+09:00",
+        "updated_at": "2020-07-15T13:17:28.516+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 38,
+        "unit_id": 14,
+        "character_id": 51,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.180+09:00",
+        "updated_at": "2020-07-15T13:17:28.521+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 39,
+        "unit_id": 14,
+        "character_id": 50,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.184+09:00",
+        "updated_at": "2020-07-15T13:17:28.549+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 40,
+        "unit_id": 14,
+        "character_id": 41,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.188+09:00",
+        "updated_at": "2020-07-15T13:17:28.555+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 41,
+        "unit_id": 14,
+        "character_id": 42,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.191+09:00",
+        "updated_at": "2020-07-15T13:17:28.561+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 42,
+        "unit_id": 15,
+        "character_id": 69,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.195+09:00",
+        "updated_at": "2020-07-15T13:17:28.567+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 43,
+        "unit_id": 15,
+        "character_id": 68,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.199+09:00",
+        "updated_at": "2020-07-15T13:17:28.573+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 44,
+        "unit_id": 15,
+        "character_id": 67,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.202+09:00",
+        "updated_at": "2020-07-15T13:17:28.579+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 45,
+        "unit_id": 15,
+        "character_id": 70,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.206+09:00",
+        "updated_at": "2020-07-15T13:17:28.584+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 46,
+        "unit_id": 16,
+        "character_id": 73,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-15T12:42:24.210+09:00",
+        "updated_at": "2020-07-15T13:17:28.591+09:00",
+        "order_num_in_unit_as_list": 3
+    },
+    {
+        "id": 47,
+        "unit_id": 16,
+        "character_id": 71,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-15T12:42:24.213+09:00",
+        "updated_at": "2020-07-15T13:17:28.598+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 48,
+        "unit_id": 16,
+        "character_id": 72,
+        "order_num_in_unit": 3,
+        "created_at": "2020-03-15T12:42:24.217+09:00",
+        "updated_at": "2020-07-15T13:17:28.603+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 49,
+        "unit_id": 16,
+        "character_id": 74,
+        "order_num_in_unit": 4,
+        "created_at": "2020-03-15T12:42:24.221+09:00",
+        "updated_at": "2020-07-15T13:17:28.611+09:00",
+        "order_num_in_unit_as_list": 4
+    },
+    {
+        "id": 52,
+        "unit_id": 17,
+        "character_id": 40,
+        "order_num_in_unit": 1,
+        "created_at": "2020-08-10T13:31:07.872+09:00",
+        "updated_at": "2020-08-10T13:31:07.872+09:00",
+        "order_num_in_unit_as_list": 1
+    },
+    {
+        "id": 53,
+        "unit_id": 17,
+        "character_id": 73,
+        "order_num_in_unit": 2,
+        "created_at": "2020-08-10T13:31:07.879+09:00",
+        "updated_at": "2020-08-10T13:31:07.879+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 51,
+        "unit_id": 18,
+        "character_id": 32,
+        "order_num_in_unit": 1,
+        "created_at": "2020-03-31T14:35:45.963+09:00",
+        "updated_at": "2020-07-15T13:17:28.622+09:00",
+        "order_num_in_unit_as_list": 2
+    },
+    {
+        "id": 50,
+        "unit_id": 18,
+        "character_id": 31,
+        "order_num_in_unit": 2,
+        "created_at": "2020-03-31T14:35:45.958+09:00",
+        "updated_at": "2020-07-15T13:17:28.616+09:00",
+        "order_num_in_unit_as_list": 1
+    }
+]
