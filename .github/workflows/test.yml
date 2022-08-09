@@ -8,13 +8,13 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-      steps:
-        - id: googlesheet_actions
-          uses: rjoydip/googlesheet-actions@0.1.1
-          with:
-            sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
-        - id: echo
-          uses: actions/github-script@v6
-          with:
-            script: |
-                console.log(${{steps.googlesheet_actions.outputs.result}})
+    steps:
+      - id: googlesheet_actions
+        uses: rjoydip/googlesheet-actions@0.1.1
+        with:
+          sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
+      - id: echo
+        uses: actions/github-script@v6
+        with:
+          script: |
+              console.log(${{steps.googlesheet_actions.outputs.result}})
