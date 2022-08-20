@@ -23,12 +23,12 @@ jobs:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
           path: ja/cards-test.json
           
-      - uses: "DamianReeves/write-file-action@master"
-        with:
-          path: ja/cards-test.json
-          write-mode: overwrite
-          contents: |
-            ${{ steps.sheets_fetch_card.outputs.result }}
+      # - uses: "DamianReeves/write-file-action@master"
+      #   with:
+      #     path: ja/cards-test.json
+      #     write-mode: overwrite
+      #     contents: |
+      #       ${{ steps.sheets_fetch_card.outputs.result }}
           
       - id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
