@@ -21,14 +21,7 @@ jobs:
         uses: enstars/googlesheet-actions@master
         with:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
-          path: ja/cards-test.json
-          
-      # - uses: "DamianReeves/write-file-action@master"
-      #   with:
-      #     path: ja/cards-test.json
-      #     write-mode: overwrite
-      #     contents: |
-      #       ${{ steps.sheets_fetch_card.outputs.result }}
+          path: ja/cards.json
           
       - id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
