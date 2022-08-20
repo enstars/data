@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - id: googlesheet_actions
-        uses: enstars/googlesheet-actions@main
+        uses: enstars/googlesheet-actions@master
         with:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
       - id: echo
