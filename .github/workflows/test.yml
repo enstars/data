@@ -28,7 +28,7 @@ jobs:
           path: ja/cards-test.json
           write-mode: overwrite
           contents: |
-            ${{ steps.date.outputs.sheets_fetch_card.result }}
+            ${{ steps.sheets_fetch_card.outputs.result }}
           
       - id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
