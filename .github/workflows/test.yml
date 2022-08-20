@@ -10,12 +10,17 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
+      - id: checkout
+        uses: actions/checkout@v3
       - id: googlesheet_actions
         uses: enstars/googlesheet-actions@master
         with:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
-      - id: echo
-        uses: actions/github-script@v6
-        with:
-          script: |
-              console.log(${{steps.googlesheet_actions.outputs.result}})
+      - id: commit
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
