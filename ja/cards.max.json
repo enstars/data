@@ -117555,6 +117555,10 @@
     "title": "挑戦とサプライズ",
     "name": "衣更真緒",
     "releaseDate": "2022-05-12",
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
     "stats": {
       "ir": {
         "da": 15570,
