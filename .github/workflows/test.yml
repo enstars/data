@@ -21,7 +21,7 @@ jobs:
         uses: enstars/googlesheet-actions@master
         with:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
-          path: ja/cards.json
+          repo: ${{ github.repository }}
           
       - id: commit
         uses: stefanzweifel/git-auto-commit-action@v4
