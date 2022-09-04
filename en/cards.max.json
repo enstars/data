@@ -5540,12 +5540,18 @@
   },
   {
     "id": 2422,
-    "title": "Candy Trap",
+    "title": "Trap of Sweets",
     "name": "Subaru Akehoshi",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "Embrace of Sweets"
+      },
+      "live": {
+        "name": "Sweet Lost Item"
+      },
+      "support": {
+        "name": "Tea Party Guest"
+      }
     },
     "quote": {
       "n": "ホッケ〜の忘れもの？",
@@ -5732,7 +5738,8 @@
     "quote": {
       "n": "ししょ〜の『魔法』 です !",
       "e": "探してるお宝はどこだ~?"
-    }
+    },
+    "releaseDate": "9/2/2022"
   },
   {
     "id": 2433,
@@ -5746,7 +5753,8 @@
     "quote": {
       "n": "見つけ出してみせます…！",
       "e": "お探しのものはありましたか？"
-    }
+    },
+    "releaseDate": "9/2/2022"
   },
   {
     "id": 2434,
@@ -5757,7 +5765,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/2/2022"
   },
   {
     "id": 2435,
@@ -5771,7 +5780,8 @@
     "quote": {
       "n": "できれば秘密にしてくださいね",
       "e": "望むものをあなたに…♪"
-    }
+    },
+    "releaseDate": "9/2/2022"
   },
   {
     "id": 2436,
@@ -5782,7 +5792,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2437,
@@ -5793,7 +5804,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2438,
@@ -5804,7 +5816,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2439,
@@ -5815,29 +5828,44 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2440,
-    "title": "Willpower and Nightlife",
+    "title": "Night Out and Will",
     "name": "Kohaku Oukawa",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "Night with Friends"
+      },
+      "live": {
+        "name": "Assembled at Club"
+      },
+      "support": {
+        "name": "Detection on Night Club"
+      }
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2441,
     "title": "Forced Night Out",
     "name": "Niki Shiina",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "Night of Feast"
+      },
+      "live": {
+        "name": "Delicious Club"
+      },
+      "support": {
+        "name": "Gathering of Fellows"
+      }
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2442,
@@ -5848,7 +5876,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2443,
@@ -5862,11 +5891,12 @@
     "quote": {
       "n": "みんなで守ろう〜って感じなんや",
       "e": "いろんなひとが来るんやねぇ♪"
-    }
+    },
+    "releaseDate": "9/3/2022"
   },
   {
     "id": 2444,
-    "title": "The Princely Princess I Aspire to Be",
+    "title": "Aspiring Sweet Prince",
     "name": "Tori Himemiya",
     "skills": {
       "center": {},
@@ -5876,11 +5906,12 @@
     "quote": {
       "n": "…これでいいのかなぁ？",
       "e": "愛されるボクでありたいな…♪"
-    }
+    },
+    "releaseDate": "8/26/2022"
   },
   {
     "id": 2445,
-    "title": "Escaping the Heat After School",
+    "title": "After School Time",
     "name": "Yuzuru Fushimi",
     "skills": {
       "center": {},
@@ -5890,11 +5921,12 @@
     "quote": {
       "n": "それは名案ですね",
       "e": "色んな姿をお見せしましょう"
-    }
+    },
+    "releaseDate": "8/26/2022"
   },
   {
     "id": 2446,
-    "title": "Leaving it to Chance",
+    "title": "Leave it to Fate",
     "name": "Rinne Amagi",
     "skills": {
       "center": {},
@@ -5905,7 +5937,8 @@
         "name": "Encounter With Luck"
       }
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "8/26/2022"
   },
   {
     "id": 2447,
@@ -5916,7 +5949,8 @@
       "live": {},
       "support": {}
     },
-    "quote": {}
+    "quote": {},
+    "releaseDate": "8/26/2022"
   },
   {
     "id": 2448,
