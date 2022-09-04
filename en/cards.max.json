@@ -5869,24 +5869,36 @@
   },
   {
     "id": 2442,
-    "title": "Night-Time Meetup",
+    "title": "Assembly for Night Out",
     "name": "Jun Sazanami",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "Enviable Position"
+      },
+      "live": {
+        "name": "Dish Distribution"
+      },
+      "support": {
+        "name": "Bond with Colleagues"
+      }
     },
     "quote": {},
     "releaseDate": "9/3/2022"
   },
   {
     "id": 2443,
-    "title": "Nightlife Protector",
+    "title": "Guardian of Night Out",
     "name": "Mika Kagehira",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "The Aspiration"
+      },
+      "live": {
+        "name": "Serving in the Hall"
+      },
+      "support": {
+        "name": "Precious Juniors"
+      }
     },
     "quote": {
       "n": "みんなで守ろう〜って感じなんや",
