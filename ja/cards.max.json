@@ -126636,6 +126636,368 @@
     "associated_story": "敬人塾"
   },
   {
+    "id": 3176,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 4,
+    "substat_type": 0,
+    "title": "緑と日差しの中で",
+    "name": "紫之創",
+    "releaseDate": "2022-07-10",
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "name": "フィーチャースカウト　創編2",
+      "id": 417
+    },
+    "stats": {
+      "ir": {
+        "da": 43221,
+        "vo": 25928,
+        "pf": 25943
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "陽だまりの光景",
+        "effect_value": [
+          "120"
+        ]
+      },
+      "live": {
+        "name": "撮られる意識"
+      },
+      "support": {
+        "name": "自然体の瞬間"
+      }
+    },
+    "spp": {
+      "name": "メイド・イン・トキメキ♪",
+      "song_id": 99
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スイートペタル",
+          "スイートペタル (SCR)"
+        ],
+        "3d": [
+          "スイートペタル",
+          "スイートペタル (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ぼくりさぁち"
+  },
+  {
+    "id": 3177,
+    "rarity": 4,
+    "releaseDate": "2022-07-10",
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "name": "フィーチャースカウト　創編3",
+      "id": 417
+    },
+    "skills": {
+      "center": {},
+      "live": {},
+      "support": {}
+    },
+    "spp": {},
+    "items": {
+      "outfit": {}
+    }
+  },
+  {
+    "id": 3178,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ささやかな楽しみ",
+    "name": "天祥院英智",
+    "releaseDate": "2022-07-10",
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "name": "フィーチャースカウト　創編4",
+      "id": 417
+    },
+    "stats": {
+      "ir": {
+        "da": 11881,
+        "vo": 18924,
+        "pf": 12516
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ここで体験できるもの",
+        "effect_value": [
+          "35"
+        ]
+      },
+      "live": {
+        "name": "ニューチャレンジ"
+      },
+      "support": {
+        "name": "新文化の視察"
+      }
+    },
+    "associated_story": "Together"
+  },
+  {
+    "id": 3179,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 1,
+    "substat_type": 1,
+    "title": "出会いのクルーズ",
+    "name": "逆先夏目",
+    "releaseDate": "2022-07-15",
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "name": "船旅！海と出会うクルーズ",
+      "id": 256
+    },
+    "stats": {
+      "min": {
+        "da": 5510,
+        "vo": 11310,
+        "pf": 6310
+      },
+      "max": {
+        "da": 12740,
+        "vo": 22890,
+        "pf": 14990
+      },
+      "ir": {
+        "da": 22454,
+        "vo": 47509,
+        "pf": 25089
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "夏を構成するもの",
+        "effect_value": [
+          "120"
+        ]
+      },
+      "live": {
+        "name": "海中の世界"
+      },
+      "support": {
+        "name": "孤島の再会"
+      }
+    },
+    "spp": {
+      "name": "Romancing Cruise",
+      "song_id": 166
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "クルーズ衣装",
+          "クルーズ衣装 (SCR)"
+        ],
+        "3d": [
+          "クルーズ衣装",
+          "クルーズ衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "陽だまりの歌"
+  },
+  {
+    "id": 3180,
+    "rarity": 4,
+    "releaseDate": "2022-07-15",
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "name": "船旅！海と出会うクルーズ",
+      "id": 256
+    },
+    "skills": {
+      "center": {},
+      "live": {},
+      "support": {}
+    },
+    "spp": {
+      "name": "Romancing Cruise",
+      "song_id": 166
+    },
+    "items": {
+      "outfit": {}
+    },
+    "associated_story": "陽だまりの歌"
+  },
+  {
+    "id": 3181,
+    "rarity": 3,
+    "character_id": 37,
+    "type": 4,
+    "substat_type": 2,
+    "title": "魔法のクルーズ",
+    "name": "春川宙",
+    "releaseDate": "2022-07-15",
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "name": "船旅！海と出会うクルーズ",
+      "id": 256
+    },
+    "stats": {
+      "ir": {
+        "da": 9944,
+        "vo": 9822,
+        "pf": 21749
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "嫌いにならない魔法",
+        "effect_value": [
+          "80"
+        ]
+      },
+      "live": {
+        "name": "秘密の仕掛け"
+      },
+      "support": {
+        "name": "三人で向かう島"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "クルーズ衣装"
+        ],
+        "3d": [
+          "クルーズ衣装"
+        ]
+      }
+    },
+    "associated_story": "陽だまりの歌"
+  },
+  {
+    "id": 3182,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 0,
+    "title": "蝶とクルーズ",
+    "name": "斎宮宗",
+    "releaseDate": "2022-07-15",
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "name": "船旅！海と出会うクルーズ",
+      "id": 256
+    },
+    "stats": {
+      "ir": {
+        "da": 18555,
+        "vo": 14014,
+        "pf": 10841
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "演出家のこだわり",
+        "effect_value": [
+          "80"
+        ]
+      },
+      "live": {
+        "name": "異なる視点"
+      },
+      "support": {
+        "name": "創作意欲の蝶"
+      }
+    },
+    "items": {},
+    "associated_story": "陽だまりの歌"
+  },
+  {
+    "id": 3183,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 2,
+    "substat_type": 0,
+    "title": "みずたまの思い出",
+    "name": "南雲鉄虎",
+    "releaseDate": "2022-07-14",
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "name": "スカウト！みずたま模様",
+      "id": 416
+    },
+    "stats": {
+      "ir": {
+        "da": 46333,
+        "vo": 21437,
+        "pf": 25608
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "仰ぎ見た夏の空",
+        "effect_value": [
+          "120"
+        ]
+      },
+      "live": {
+        "name": "点と転と天"
+      },
+      "support": {
+        "name": "会場の道案内"
+      }
+    },
+    "spp": {
+      "name": "流星花火",
+      "song_id": 83
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "みずたま模様衣装",
+          "みずたま模様衣装 (SCR)"
+        ],
+        "3d": [
+          "みずたま模様衣装",
+          "みずたま模様衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "みずたま模様"
+  },
+  {
+    "obtain": {},
+    "stats": {
+      "min": {},
+      "max": {},
+      "ir": {},
+      "ir1": {},
+      "ir2": {},
+      "ir3": {},
+      "ir4": {}
+    },
+    "skills": {
+      "center": {},
+      "live": {},
+      "support": {}
+    },
+    "spp": {},
+    "items": {
+      "outfit": {}
+    }
+  },
+  {
     "obtain": {},
     "stats": {
       "min": {},
