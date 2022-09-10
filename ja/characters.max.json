@@ -1,6 +1,7 @@
 [
   {
     "character_id": 1,
+    "sort_id": 11,
     "last_name": "南雲",
     "first_name": "鉄虎",
     "last_nameRuby": "なぐも",
@@ -30,6 +31,7 @@
   },
   {
     "character_id": 2,
+    "sort_id": 37,
     "last_name": "紫之",
     "first_name": "創",
     "last_nameRuby": "しの",
@@ -59,6 +61,7 @@
   },
   {
     "character_id": 3,
+    "sort_id": 34,
     "last_name": "真白",
     "first_name": "友也",
     "last_nameRuby": "ましろ",
@@ -94,6 +97,7 @@
   },
   {
     "character_id": 4,
+    "sort_id": 24,
     "last_name": "葵",
     "first_name": "ひなた",
     "last_nameRuby": "あおい",
@@ -123,6 +127,7 @@
   },
   {
     "character_id": 5,
+    "sort_id": 12,
     "last_name": "高峯",
     "first_name": "翠",
     "last_nameRuby": "たかみね",
@@ -152,6 +157,7 @@
   },
   {
     "character_id": 6,
+    "sort_id": 3,
     "last_name": "姫宮",
     "first_name": "桃李",
     "last_nameRuby": "ひめみや",
@@ -181,6 +187,7 @@
   },
   {
     "character_id": 7,
+    "sort_id": 13,
     "last_name": "仙石",
     "first_name": "忍",
     "last_nameRuby": "せんごく",
@@ -210,6 +217,7 @@
   },
   {
     "character_id": 8,
+    "sort_id": 25,
     "last_name": "葵",
     "first_name": "ゆうた",
     "last_nameRuby": "あおい",
@@ -239,6 +247,7 @@
   },
   {
     "character_id": 9,
+    "sort_id": 36,
     "last_name": "天満",
     "first_name": "光",
     "last_nameRuby": "てんま",
@@ -268,6 +277,7 @@
   },
   {
     "character_id": 10,
+    "sort_id": 41,
     "last_name": "朱桜",
     "first_name": "司",
     "last_nameRuby": "すおう",
@@ -298,6 +308,7 @@
   },
   {
     "character_id": 11,
+    "sort_id": 6,
     "last_name": "明星",
     "first_name": "スバル",
     "last_nameRuby": "あけほし",
@@ -327,6 +338,7 @@
   },
   {
     "character_id": 12,
+    "sort_id": 5,
     "last_name": "氷鷹",
     "first_name": "北斗",
     "last_nameRuby": "ひだか",
@@ -362,6 +374,7 @@
   },
   {
     "character_id": 13,
+    "sort_id": 7,
     "last_name": "遊木",
     "first_name": "真",
     "last_nameRuby": "ゆうき",
@@ -391,6 +404,7 @@
   },
   {
     "character_id": 14,
+    "sort_id": 40,
     "last_name": "神崎",
     "first_name": "颯馬",
     "last_nameRuby": "かんざき",
@@ -420,6 +434,7 @@
   },
   {
     "character_id": 15,
+    "sort_id": 33,
     "last_name": "乙狩",
     "first_name": "アドニス",
     "last_nameRuby": "おとがり",
@@ -448,6 +463,7 @@
   },
   {
     "character_id": 16,
+    "sort_id": 32,
     "last_name": "大神",
     "first_name": "晃牙",
     "last_nameRuby": "おおがみ",
@@ -477,6 +493,7 @@
   },
   {
     "character_id": 17,
+    "sort_id": 44,
     "last_name": "朔間",
     "first_name": "凛月",
     "last_nameRuby": "さくま",
@@ -505,6 +522,7 @@
   },
   {
     "character_id": 18,
+    "sort_id": 8,
     "last_name": "衣更",
     "first_name": "真緒",
     "last_nameRuby": "いさら",
@@ -533,6 +551,7 @@
   },
   {
     "character_id": 19,
+    "sort_id": 4,
     "last_name": "伏見",
     "first_name": "弓弦",
     "last_nameRuby": "ふしみ",
@@ -561,6 +580,7 @@
   },
   {
     "character_id": 20,
+    "sort_id": 45,
     "last_name": "鳴上",
     "first_name": "嵐",
     "last_nameRuby": "なるかみ",
@@ -590,6 +610,7 @@
   },
   {
     "character_id": 21,
+    "sort_id": 38,
     "last_name": "蓮巳",
     "first_name": "敬人",
     "last_nameRuby": "はすみ",
@@ -617,6 +638,7 @@
   },
   {
     "character_id": 22,
+    "sort_id": 1,
     "last_name": "天祥院",
     "first_name": "英智",
     "last_nameRuby": "てんしょういん",
@@ -648,6 +670,7 @@
   },
   {
     "character_id": 23,
+    "sort_id": 31,
     "last_name": "羽風",
     "first_name": "薫",
     "last_nameRuby": "はかぜ",
@@ -674,6 +697,7 @@
   },
   {
     "character_id": 24,
+    "sort_id": 43,
     "last_name": "瀬名",
     "first_name": "泉",
     "last_nameRuby": "せな",
@@ -700,6 +724,7 @@
   },
   {
     "character_id": 25,
+    "sort_id": 9,
     "last_name": "守沢",
     "first_name": "千秋",
     "last_nameRuby": "もりさわ",
@@ -726,6 +751,7 @@
   },
   {
     "character_id": 26,
+    "sort_id": 39,
     "last_name": "鬼龍",
     "first_name": "紅郎",
     "last_nameRuby": "きりゅう",
@@ -753,6 +779,7 @@
   },
   {
     "character_id": 27,
+    "sort_id": 2,
     "last_name": "日々樹",
     "first_name": "渉",
     "last_nameRuby": "ひびき",
@@ -785,6 +812,7 @@
   },
   {
     "character_id": 28,
+    "sort_id": 10,
     "last_name": "深海",
     "first_name": "奏汰",
     "last_nameRuby": "しんかい",
@@ -811,6 +839,7 @@
   },
   {
     "character_id": 29,
+    "sort_id": 30,
     "last_name": "朔間",
     "first_name": "零",
     "last_nameRuby": "さくま",
@@ -837,6 +866,7 @@
   },
   {
     "character_id": 30,
+    "sort_id": 35,
     "last_name": "仁兎",
     "first_name": "なずな",
     "last_nameRuby": "にと",
@@ -863,6 +893,7 @@
   },
   {
     "character_id": 31,
+    "sort_id": 50,
     "last_name": "佐賀美",
     "first_name": "陣",
     "last_nameRuby": "さがみ",
@@ -882,6 +913,7 @@
   },
   {
     "character_id": 32,
+    "sort_id": 51,
     "last_name": "椚",
     "first_name": "章臣",
     "last_nameRuby": "くぬぎ",
@@ -901,6 +933,7 @@
   },
   {
     "character_id": 33,
+    "sort_id": 42,
     "last_name": "月永",
     "first_name": "レオ",
     "last_nameRuby": "つきなが",
@@ -928,6 +961,7 @@
   },
   {
     "character_id": 34,
+    "sort_id": 23,
     "last_name": "影片",
     "first_name": "みか",
     "last_nameRuby": "かげひら",
@@ -956,6 +990,7 @@
   },
   {
     "character_id": 35,
+    "sort_id": 22,
     "last_name": "斎宮",
     "first_name": "宗",
     "last_nameRuby": "いつき",
@@ -982,6 +1017,7 @@
   },
   {
     "character_id": 37,
+    "sort_id": 48,
     "last_name": "春川",
     "first_name": "宙",
     "last_nameRuby": "はるかわ",
@@ -1011,6 +1047,7 @@
   },
   {
     "character_id": 38,
+    "sort_id": 46,
     "last_name": "逆先",
     "first_name": "夏目",
     "last_nameRuby": "さかさき",
@@ -1041,6 +1078,7 @@
   },
   {
     "character_id": 39,
+    "sort_id": 47,
     "last_name": "青葉",
     "first_name": "つむぎ",
     "last_nameRuby": "あおば",
@@ -1067,6 +1105,7 @@
   },
   {
     "character_id": 40,
+    "sort_id": 49,
     "last_name": "三毛縞",
     "first_name": "斑",
     "last_nameRuby": "みけじま",
@@ -1094,6 +1133,7 @@
   },
   {
     "character_id": 41,
+    "sort_id": 19,
     "last_name": "巴",
     "first_name": "日和",
     "last_nameRuby": "ともえ",
@@ -1120,6 +1160,7 @@
   },
   {
     "character_id": 42,
+    "sort_id": 21,
     "last_name": "漣",
     "first_name": "ジュン",
     "last_nameRuby": "さざなみ",
@@ -1148,6 +1189,7 @@
   },
   {
     "character_id": 50,
+    "sort_id": 18,
     "last_name": "乱",
     "first_name": "凪砂",
     "last_nameRuby": "らん",
@@ -1174,6 +1216,7 @@
   },
   {
     "character_id": 51,
+    "sort_id": 20,
     "last_name": "七種",
     "first_name": "茨",
     "last_nameRuby": "さえぐさ",
@@ -1202,6 +1245,7 @@
   },
   {
     "character_id": 61,
+    "sort_id": 52,
     "last_name": "氷鷹",
     "first_name": "誠矢",
     "last_nameRuby": "ひだか",
@@ -1222,6 +1266,7 @@
   },
   {
     "character_id": 67,
+    "sort_id": 14,
     "last_name": "天城",
     "first_name": "一彩",
     "last_nameRuby": "あまぎ",
@@ -1250,6 +1295,7 @@
   },
   {
     "character_id": 68,
+    "sort_id": 15,
     "last_name": "白鳥",
     "first_name": "藍良",
     "last_nameRuby": "しらとり",
@@ -1278,6 +1324,7 @@
   },
   {
     "character_id": 69,
+    "sort_id": 16,
     "last_name": "礼瀬",
     "first_name": "マヨイ",
     "last_nameRuby": "あやせ",
@@ -1306,6 +1353,7 @@
   },
   {
     "character_id": 70,
+    "sort_id": 17,
     "last_name": "風早",
     "first_name": "巽",
     "last_nameRuby": "かぜはや",
@@ -1334,6 +1382,7 @@
   },
   {
     "character_id": 71,
+    "sort_id": 26,
     "last_name": "天城",
     "first_name": "燐音",
     "last_nameRuby": "あまぎ",
@@ -1360,6 +1409,7 @@
   },
   {
     "character_id": 72,
+    "sort_id": 27,
     "first_name": "HiMERU",
     "first_nameRuby": "ひめる",
     "unit": [
@@ -1386,6 +1436,7 @@
   },
   {
     "character_id": 73,
+    "sort_id": 28,
     "last_name": "桜河",
     "first_name": "こはく",
     "last_nameRuby": "おうかわ",
@@ -1415,6 +1466,7 @@
   },
   {
     "character_id": 74,
+    "sort_id": 29,
     "last_name": "椎名",
     "first_name": "ニキ",
     "last_nameRuby": "しいな",
