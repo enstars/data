@@ -125841,6 +125841,7 @@
     "id": 3090,
     "rarity": 4,
     "character_id": 20,
+    "type": 2,
     "substat_type": 2,
     "title": "幸福とサプライズ",
     "name": "鳴上嵐",
@@ -133786,6 +133787,135 @@
           "みずたま模様衣装 (SCR)"
         ]
       }
+    },
+    "associated_story": "みずたま模様"
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3184,
+    "rarity": 4,
+    "releaseDate": "2022-07-15",
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "name": "スカウト！みずたま模様",
+      "id": 416
+    },
+    "stats": {
+      "min": {},
+      "max": {},
+      "ir": {},
+      "ir1": {},
+      "ir2": {},
+      "ir3": {},
+      "ir4": {}
+    },
+    "skills": {
+      "center": {},
+      "live": {},
+      "support": {}
+    },
+    "spp": {},
+    "items": {
+      "outfit": {}
+    },
+    "associated_story": "みずたま模様"
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3185,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 3,
+    "substat_type": 0,
+    "title": "祭りとみずたま",
+    "name": "氷鷹北斗",
+    "releaseDate": "2022-07-16",
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "name": "スカウト！みずたま模様",
+      "id": 416
+    },
+    "stats": {
+      "min": {},
+      "max": {},
+      "ir": {
+        "da": 21536,
+        "vo": 8735,
+        "pf": 11275
+      },
+      "ir1": {},
+      "ir2": {},
+      "ir3": {},
+      "ir4": {}
+    },
+    "skills": {
+      "center": {
+        "name": "祭り囃子と面",
+        "effect_value": [
+          "80"
+        ]
+      },
+      "live": {
+        "name": "見回る出店"
+      },
+      "support": {
+        "name": "到着の報告"
+      }
+    },
+    "spp": {},
+    "items": {
+      "outfit": {}
+    },
+    "associated_story": "みずたま模様"
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3186,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 1,
+    "substat_type": 1,
+    "title": "屋台とみずたま",
+    "name": "七種茨",
+    "releaseDate": "2022-07-17",
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "name": "スカウト！みずたま模様",
+      "id": 416
+    },
+    "stats": {
+      "min": {},
+      "max": {},
+      "ir": {
+        "da": 11342,
+        "vo": 19738,
+        "pf": 11690
+      },
+      "ir1": {},
+      "ir2": {},
+      "ir3": {},
+      "ir4": {}
+    },
+    "skills": {
+      "center": {
+        "name": "涼やかな夏祭り",
+        "effect_value": [
+          "80"
+        ]
+      },
+      "live": {
+        "name": "付き合いの屋台"
+      },
+      "support": {
+        "name": "射的の準備"
+      }
+    },
+    "spp": {},
+    "items": {
+      "outfit": {}
     },
     "associated_story": "みずたま模様"
   },
