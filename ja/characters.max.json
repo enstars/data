@@ -1,5 +1,6 @@
 [
   {
+    "compliant": "TRUE",
     "character_id": 1,
     "sort_id": 11,
     "last_name": "南雲",
@@ -30,6 +31,7 @@
     "height_old": "168 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 2,
     "sort_id": 37,
     "last_name": "紫之",
@@ -60,6 +62,7 @@
     "introduction": "女の子と間違われる見た目ではあるが、けっこう力持ち。 穏やかで献身的な性格だが、すこし引っ込み思案なところがある。 恥じらう乙女のような歌声で、パフォーマンスは控えめながら繊細。 『Rhythm Link』の『Ra*bits』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 3,
     "sort_id": 34,
     "last_name": "真白",
@@ -96,6 +99,7 @@
     "height_old": "167 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 4,
     "sort_id": 24,
     "last_name": "葵",
@@ -126,6 +130,7 @@
     "height_old": "168 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 5,
     "sort_id": 12,
     "last_name": "高峯",
@@ -156,6 +161,7 @@
     "height_old": "178 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 6,
     "sort_id": 3,
     "last_name": "姫宮",
@@ -186,6 +192,7 @@
     "height_old": "152 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 7,
     "sort_id": 13,
     "last_name": "仙石",
@@ -216,6 +223,7 @@
     "height_old": "159 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 8,
     "sort_id": 25,
     "last_name": "葵",
@@ -246,6 +254,7 @@
     "height_old": "168 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 9,
     "sort_id": 36,
     "last_name": "天満",
@@ -276,6 +285,7 @@
     "height_old": "167 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 10,
     "sort_id": 41,
     "last_name": "朱桜",
@@ -307,6 +317,7 @@
     "height_old": "167 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 11,
     "sort_id": 6,
     "last_name": "明星",
@@ -337,6 +348,7 @@
     "height_old": "170 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 12,
     "sort_id": 5,
     "last_name": "氷鷹",
@@ -373,6 +385,7 @@
     "height_old": "172 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 13,
     "sort_id": 7,
     "last_name": "遊木",
@@ -403,6 +416,7 @@
     "height_old": "173 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 14,
     "sort_id": 40,
     "last_name": "神崎",
@@ -433,6 +447,7 @@
     "height_old": "173 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 15,
     "sort_id": 33,
     "last_name": "乙狩",
@@ -462,6 +477,7 @@
     "introduction": "中東から来日してきた異国情緒溢れるハーフの青年。 心優しい性格で、暴力を良しとせず弱きものへの庇護欲が強い。 包み込むような優しい歌声で、パフォーマンスは力強くも優しい。 『Rhythm Link』の『UNDEAD』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 16,
     "sort_id": 32,
     "last_name": "大神",
@@ -492,6 +508,7 @@
     "height_old": "174 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 17,
     "sort_id": 44,
     "last_name": "朔間",
@@ -521,6 +538,7 @@
     "introduction": "昼間はエンジンがかかりにくく、各所で仮眠をとっていることが多い。 マイペースでのんびりしているが、思考は速く時に辛辣なことも言う。 囁くような甘い歌声、パフォーマンスはゆったりと流れるよう。 『NEW DIMENSION』の『Knights』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 18,
     "sort_id": 8,
     "last_name": "衣更",
@@ -550,6 +568,7 @@
     "introduction": "気さくな人柄でコミュニケーションが得意。夢ノ咲学院では生徒会長を務めている。 快活で社交的な性格だが、トラブルに巻き込まれやすい体質。 明るく甘い歌声を持ち、パフォーマンスは華やかでエネルギッシュ。 『STARMAKER PRODUCTION』の『Trickstar』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 19,
     "sort_id": 4,
     "last_name": "伏見",
@@ -579,6 +598,7 @@
     "introduction": "姫宮桃李の執事として生きながら、共にアイドル活動をしている。 冷静沈着で臨機応変。長年の執事生活で補佐が得意。 柔らかな歌声に加え、パフォーマンスは正確で上品。 『STARMAKER PRODUCTION』の『fine』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 20,
     "sort_id": 45,
     "last_name": "鳴上",
@@ -609,6 +629,7 @@
     "height_old": "175 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 21,
     "sort_id": 38,
     "last_name": "蓮巳",
@@ -637,6 +658,7 @@
     "introduction": "寺の住職の息子で、説教になると話が長くなる。 真面目で気難しいが、急なハプニングには少々弱い。 艶があり通る歌声で、パフォーマンスは流れるように美しい。 『Rhythm Link』の『紅月』に所属しリーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 22,
     "sort_id": 1,
     "last_name": "天祥院",
@@ -669,6 +691,7 @@
     "handedness": "左利き"
   },
   {
+    "compliant": "TRUE",
     "character_id": 23,
     "sort_id": 31,
     "last_name": "羽風",
@@ -696,6 +719,7 @@
     "introduction": "女の子にちやほやされるとやる気が出るタイプ。サーフィンが趣味。 軟派で飄々としているが、仲間想いで気が利く。 艶のあるハスキーな歌声に加え、パフォーマンスも華やか。 『Rhythm Link』の『UNDEAD』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 24,
     "sort_id": 43,
     "last_name": "瀬名",
@@ -723,6 +747,7 @@
     "introduction": "ヨーロッパでモデルの仕事もしつつアイドルをしている。 ストイックで神経質だが、気を許した相手には世話焼きなところがある。 芯のある歌声を持ち、パフォーマンスは伸びやかで美しい。 『NEW DIMENSION』の『Knights』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 25,
     "sort_id": 9,
     "last_name": "守沢",
@@ -750,6 +775,7 @@
     "introduction": "ヒーローに憧れ、ヒーローとして生きるアイドル。芸能界では『流星隊M』のリーダーとなっている。 真っ直ぐで体当たりな性格だが、誰よりも仲間を大事にする熱血漢。 力強い歌声に加え、パフォーマンスもストレートで全力。 『STARMAKER PRODUCTION』の『流星隊』に所属しリーダーを務めている。流星レッドを担当。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 26,
     "sort_id": 39,
     "last_name": "鬼龍",
@@ -778,6 +804,7 @@
     "height_old": "180 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 27,
     "sort_id": 2,
     "last_name": "日々樹",
@@ -811,6 +838,7 @@
     "height_old": "179 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 28,
     "sort_id": 10,
     "last_name": "深海",
@@ -838,6 +866,7 @@
     "introduction": "海を愛し、ひととしての生き方を模索するアイドル。実家は水族館。 穏やかでのんびりとした性格。水がないと息苦しくなる体質。 柔らかく転がるような歌声で、パフォーマンスはゆったりとしている。 『STARMAKER PRODUCTION』の『流星隊』に所属している。流星ブルーを担当。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 29,
     "sort_id": 30,
     "last_name": "朔間",
@@ -865,6 +894,7 @@
     "introduction": "自称吸血鬼でいろんな知識を持っているが、朝に弱い。 達観したところが有り思慮深く、身内に対する仲間意識が強い。弟の朔間凛月を溺愛している。 引き込むような艶のある歌声で、パフォーマンスは優しくも力強い。 『Rhythm Link』の『UNDEAD』に所属し、リーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 30,
     "sort_id": 35,
     "last_name": "仁兎",
@@ -892,6 +922,7 @@
     "introduction": "明るい性格で面倒見がいいが、心配性で抱え込みがちなところがある。 大学にも通っており、アイドル活動と合わせてがんばっている。すこしハスキーな歌声で、パフォーマンスは小柄ながら力いっぱい。 『Rhythm Link』の『Ra*bits』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 31,
     "sort_id": 50,
     "last_name": "佐賀美",
@@ -912,6 +943,7 @@
     "introduction": "ESの事業部でアイドルたちのサポートをしている。 面倒臭がりで人任せなところがあるが、真面目で後輩想いなところがある。 夢ノ咲学院の教師でもあり、生徒の体調管理を任されているスポーツドクター。 元スーパーアイドルで、OBとしてのアドバイスもしている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 32,
     "sort_id": 51,
     "last_name": "椚",
@@ -932,6 +964,7 @@
     "introduction": "ESの事業部でアイドルたちのサポートをしている。 真面目で厳格な性格だが、後輩たちの成長のために厳しくしているところが多い。 夢ノ咲学院の教師でもあり、生徒たちの生活指導や授業も持っている。 元モデル出身のアイドルで、OBとしてのアドバイスもしている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 33,
     "sort_id": 42,
     "last_name": "月永",
@@ -960,6 +993,7 @@
     "height_old": "168 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 34,
     "sort_id": 23,
     "last_name": "影片",
@@ -989,6 +1023,7 @@
     "introduction": "斎宮宗の芸術に傾倒していたが、現在は自分自身の芸術を探求中。 和やかな性格だが、やや天然で気の抜けたところがある。 すこし憂いのある歌声で、パフォーマンスは個性的でありながら伸びやか。 『COSMIC PRODUCTION』の『Valkyrie』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 35,
     "sort_id": 22,
     "last_name": "斎宮",
@@ -1016,6 +1051,7 @@
     "introduction": "アイドルを芸術として探求している。現在はフランスでも活動を行っている。 几帳面で神経質な性格。短気で激情家なところもある。 踊るように表情豊かな歌声で、パフォーマンスは繊細でエレガント。 『COSMIC PRODUCTION』の『Valkyrie』に所属し、リーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 37,
     "sort_id": 48,
     "last_name": "春川",
@@ -1046,6 +1082,7 @@
     "height_old": "163 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 38,
     "sort_id": 46,
     "last_name": "逆先",
@@ -1077,6 +1114,7 @@
     "height_old": "168 cm"
   },
   {
+    "compliant": "TRUE",
     "character_id": 39,
     "sort_id": 47,
     "last_name": "青葉",
@@ -1104,6 +1142,7 @@
     "introduction": "お人好しで苦労をしょいがち。鈍臭さもあり天然さが際立つ。 優しく穏やかな性格だが、時々空気を読まない言動がある。 柔らかく温かい歌声で、パフォーマンスは軽やかで優しい。 『NEW DIMENSION』の『Switch』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 40,
     "sort_id": 49,
     "last_name": "三毛縞",
@@ -1132,6 +1171,7 @@
     "introduction": "お祭り参加、町おこしなどフレキシブルに駆けつける助っ人。 快活で剛胆だが、誰にでも距離感が近い。 優しく軽やかな歌声で、パフォーマンスは大胆でありながら包容力がある。 『NEW DIMENSION』に所属し『MaM』として活動しているが、現在は主に『Double Face』として桜河こはくと共に活動している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 41,
     "sort_id": 19,
     "last_name": "巴",
@@ -1159,6 +1199,7 @@
     "introduction": "巴財団の御曹司。漣ジュンとふたりで『Eve』としても活動している。 明るく社交的な性格だが、自分のペースに巻き込む。 甘く華やかな歌声で、パフォーマンスは美しく伸びやか。 『COSMIC PRODUCTION』の『Eden』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 42,
     "sort_id": 21,
     "last_name": "漣",
@@ -1188,6 +1229,7 @@
     "introduction": "父親が元アイドルで、佐賀美陣との因縁がある。 真面目で熱心な性格だが、巴日和に関しては口が悪くなる。 ハスキーで水面が揺れるような歌声ながら、パフォーマンスはエネルギッシュ。 『COSMIC PRODUCTION』の『Eden』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 50,
     "sort_id": 18,
     "last_name": "乱",
@@ -1215,6 +1257,7 @@
     "introduction": "世間と隔絶した生活が長く、浮き世離れしている。七種茨とふたりで『Adam』としても活動している。 穏やかで物静かだが、思慮深く仲間思いなところがある。 深く語りかけるような歌声で、パフォーマンスはひとを惹きつける魅力がある。 『COSMIC PRODUCTION』の『Eden』に所属しリーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 51,
     "sort_id": 20,
     "last_name": "七種",
@@ -1244,6 +1287,7 @@
     "introduction": "『COSMIC PRODUCTION』の副所長でアイドル代表。青年実業家でもある。 社交的な性格だが、自身の目的と利益のために動くことが多い。 良く通る甘い歌声を持ち、パフォーマンスは正確でテクニカル。 『COSMIC PRODUCTION』の『Eden』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 61,
     "sort_id": 52,
     "last_name": "氷鷹",
@@ -1265,6 +1309,7 @@
     "family": "妻、息子"
   },
   {
+    "compliant": "TRUE",
     "character_id": 67,
     "sort_id": 14,
     "last_name": "天城",
@@ -1294,6 +1339,7 @@
     "introduction": "アイドル業界の知識がない状態でアイドルを目指した新人。 前向きで純情、情熱的な性格で無理をするところがある。天城燐音の弟。気持ちが勝って先走ってしまう一面も。 芯のある歌声に加えて、パフォーマンスはストレートで力強い。 『STARMAKER PRODUCTION』の『ALKALOID』に所属しリーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 68,
     "sort_id": 15,
     "last_name": "白鳥",
@@ -1323,6 +1369,7 @@
     "introduction": "アイドルが大好きなアイドルオタク。仏日のハーフの母を持つクォーター。 社交的な性格で、明るく物怖じしない。常識的な感覚を持つが、現実を素直に受け止めてしまうところもある。 少年らしい無邪気な歌声だが、パフォーマンスには愛らしさが垣間見える。 『STARMAKER PRODUCTION』の『ALKALOID』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 69,
     "sort_id": 16,
     "last_name": "礼瀬",
@@ -1352,6 +1399,7 @@
     "introduction": "子供のようなか弱い存在が好きな変態。時々心の衝動を口走ってしまう。 臆病で卑屈な性格で、困ったひとを見過ごすことができない。あまり人前に出るのは得意ではない様子。 深く揺れるような歌声で、パフォーマンスは柔らかく伸びがある。 『STARMAKER PRODUCTION』の『ALKALOID』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 70,
     "sort_id": 17,
     "last_name": "風早",
@@ -1381,6 +1429,7 @@
     "introduction": "事故でアイドル活動を休止していたアイドル経験者。実家が教会。 優しくおっとりした性格で、包容力がある。聖職者ゆえか、悪しき気配を感じとることができる一面も。 空へと通る歌声で、パフォーマンスは優しく落ち着きがある。 『STARMAKER PRODUCTION』の『ALKALOID』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 71,
     "sort_id": 26,
     "last_name": "天城",
@@ -1408,6 +1457,7 @@
     "introduction": "趣味も人生もギャンブルのように生きるアイドル。椎名ニキとは元コンビ。 明るく気前が良い性格だが、浪費家で横暴なところがある。天城一彩の兄。運がツイているかどうかを試すことも。 遊ぶようにやんちゃな歌声で、パフォーマンスは力強く豪快。 『COSMIC PRODUCTION』の『Crazy:B』に所属し、リーダーを務めている。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 72,
     "sort_id": 27,
     "first_name": "HiMERU",
@@ -1435,6 +1485,7 @@
     "introduction": "元々ソロ活動をしていたアイドル。どこか距離を取った話し方をする。 優しく落ち着いた性格だが、つかみ所がない。時折自分の行動を確認しているような言動が見られる。 誘うような歌声で、パフォーマンスは実年齢より大人の色香が漂う。 『COSMIC PRODUCTION』の『Crazy:B』に所属している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 73,
     "sort_id": 28,
     "last_name": "桜河",
@@ -1465,6 +1516,7 @@
     "introduction": "世間の情報はネットやTVからのみですこしずれた知識がある。朱桜家の分家出身。 努力家で我慢強いが、身内に対しては語調が強くなる。京風の話しかたが特徴的で、年の割に大人びた言動が多い。 シャープな歌声で、パフォーマンスは細やかでキレがある。 『COSMIC PRODUCTION』の『Crazy:B』に所属しながら、三毛縞斑と共に『Double Face』としても活動している。"
   },
   {
+    "compliant": "TRUE",
     "character_id": 74,
     "sort_id": 29,
     "last_name": "椎名",
@@ -1492,8 +1544,7 @@
     "introduction": "料理人としても活躍するアイドル。天城燐音とは元コンビ。 落ち着きがなく流されやすいが、陽気な性格。空腹になると気性が荒くなる。普段は気さくで話しやすい雰囲気を持つ。 やんちゃな歌声で、パフォーマンスも軽くノリが良い。 『COSMIC PRODUCTION』の『Crazy:B』に所属している。"
   },
   {
+    "compliant": "FALSE",
     "character_id": 75
-  },
-  {},
-  {}
+  }
 ]
