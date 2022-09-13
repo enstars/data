@@ -6108,14 +6108,20 @@
     "releaseDate": "9/3/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2437,
     "title": "Night Out of Adults",
     "name": "Rinne Amagi",
     "skills": {
-      "center": {},
-      "live": {},
-      "support": {}
+      "center": {
+        "name": "Night of Outsiders"
+      },
+      "live": {
+        "name": "Unrestrained Club"
+      },
+      "support": {
+        "name": "Incomparable Master"
+      }
     },
     "quote": {},
     "releaseDate": "9/3/2022"
