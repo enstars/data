@@ -1,31 +1,10 @@
 [
   {
-    "compliant": "FALSE",
-    "eventStartDate": "2022-06-18",
-    "eventEndDate": "2022-07-02",
-    "eventType": "scout",
-    "eventName": "Featured Scout: Mika",
-    "eventStoryName": "The First Outfit",
-    "author": "Yuumasu",
-    "season": "summer"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 305,
-    "eventStartDate": "2022-06-22",
-    "eventEndDate": "2022-07-07",
-    "eventType": "scout",
-    "eventName": "Scout! MeowSketeers",
-    "eventStoryName": "Meowsketeers",
-    "author": "Kino Seitaro",
-    "season": "spring"
-  },
-  {
     "compliant": "TRUE",
     "eventId": 201,
     "eventStartDate": "2022-06-23",
     "eventEndDate": "2022-07-01",
-    "eventType": "event",
+    "eventType": "song",
     "eventName": "New Stars Sparkling ★ BIGBANG!",
     "eventPTupGachaName": "Scout! MeowSketeers",
     "gachaId": 305,
@@ -40,28 +19,10 @@
   },
   {
     "compliant": "TRUE",
-    "eventStartDate": "2022-07-02",
-    "eventEndDate": "2022-07-17",
-    "eventType": "scout",
-    "eventName": "Featured Scout: Tatsumi"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 307,
-    "eventStartDate": "2022-07-07",
-    "eventEndDate": "2022-07-22",
-    "eventType": "scout",
-    "eventName": "Scout! √ AtoZ",
-    "eventStoryName": "Date Plan",
-    "author": "Kino Seitaro",
-    "season": "summer"
-  },
-  {
-    "compliant": "TRUE",
     "eventId": 202,
     "eventStartDate": "2022-07-08",
     "eventEndDate": "2022-07-16",
-    "eventType": "event",
+    "eventType": "song",
     "eventName": "SHUFFLE X Love √ AtoZ",
     "eventPTupGachaName": "Scout! √ AtoZ",
     "gachaId": 307,
@@ -69,17 +30,6 @@
     "eventSongName": "Date Plan A to Z",
     "eventStoryName": "Date Plan",
     "author": "Kino Seitaro",
-    "season": "summer"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 309,
-    "eventStartDate": "2022-07-22",
-    "eventEndDate": "2022-08-05",
-    "eventType": "scout",
-    "eventName": "Scout! HONEYBEE",
-    "eventStoryName": "Honey Bee",
-    "author": "Nishioka Maiko",
     "season": "summer"
   },
   {
@@ -101,27 +51,11 @@
     ]
   },
   {
-    "compliant": "FALSE",
-    "eventStartDate": "2022-08-01",
-    "eventEndDate": "2022-08-15",
-    "eventType": "scout",
-    "eventName": "Featured Scout: Koga"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 311,
-    "eventStartDate": "2022-08-05",
-    "eventEndDate": "2022-08-19",
-    "eventType": "scout",
-    "eventName": "Scout! VAGABOND",
-    "eventStoryName": "Vagabond"
-  },
-  {
     "compliant": "TRUE",
     "eventId": 204,
     "eventStartDate": "2022-08-06",
     "eventEndDate": "2022-08-14",
-    "eventType": "event",
+    "eventType": "song",
     "eventName": "Thunder in Spring*Praise of Tempest",
     "eventPTupGachaName": "Scout! VAGABOND",
     "gachaId": 311,
@@ -135,27 +69,11 @@
     ]
   },
   {
-    "compliant": "FALSE",
-    "eventStartDate": "2022-08-15",
-    "eventEndDate": "2022-08-29",
-    "eventType": "scout",
-    "eventName": "Featured Scout: Izumi"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 313,
-    "eventStartDate": "2022-08-19",
-    "eventEndDate": "2022-09-02",
-    "eventType": "scout",
-    "eventName": "Scout! House of Sweets",
-    "eventStoryName": "Hansel and Gretel"
-  },
-  {
     "compliant": "TRUE",
     "eventId": 205,
     "eventStartDate": "2022-08-20",
     "eventEndDate": "2022-08-28",
-    "eventType": "event",
+    "eventType": "song",
     "eventName": "Discord♦Internal Conquest",
     "eventPTupGachaName": "Scout! House of Sweets",
     "gachaId": 313,
@@ -167,15 +85,6 @@
     "eventUnits": [
       "eden"
     ]
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 315,
-    "eventStartDate": "2022-09-02",
-    "eventEndDate": "2022-09-16",
-    "eventType": "scout",
-    "eventName": "Scout! King of Thieves",
-    "eventStoryName": "King of Thieves"
   },
   {
     "compliant": "TRUE",
@@ -196,30 +105,19 @@
     ]
   },
   {
-    "compliant": "FALSE",
-    "eventStartDate": "2022-09-12",
-    "eventEndDate": "2022-09-26",
-    "eventType": "scout",
-    "eventName": "Featured Scout: Mao"
-  },
-  {
-    "compliant": "TRUE",
-    "eventId": 318,
-    "eventStartDate": "2022-09-16",
-    "eventEndDate": "2022-09-30",
-    "eventType": "scout",
-    "eventName": "Scout! Beasts Survival"
-  },
-  {
     "compliant": "TRUE",
     "eventId": 207,
     "eventStartDate": "2022-09-17",
     "eventEndDate": "2022-09-25",
-    "eventType": "event",
+    "eventType": "song",
     "eventName": "Resume* Growth-Showing High Five",
     "eventPTupGachaName": "Scout! Beasts Survival",
     "gachaId": 318,
     "eventIntroLines": "Members of Ra*bits have been enthusiastically preparing for the Comeback Live of Nazuna. However, the Live is now in danger of being canceled. Feeling frustrated and anxious, Tomoya decides to apologize to Nazuna, but...",
+    "eventSongName": "Love It Love It",
+    "eventStoryName": "High Five!",
+    "author": "Akira",
+    "season": "summer",
     "eventUnits": [
       "ra*bits"
     ]
