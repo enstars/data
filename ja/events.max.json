@@ -13,9 +13,6 @@
     "story_name": "BIGBANG",
     "story_author": "Akira",
     "story_season": "spring",
-    "event_units": [
-      1
-    ],
     "five_star_id": 2201
   },
   {
@@ -47,10 +44,6 @@
     "story_name": "Motor Show",
     "story_author": "Akira",
     "story_season": "summer",
-    "event_units": [
-      15,
-      5
-    ],
     "five_star_id": 2213
   },
   {
@@ -67,9 +60,6 @@
     "story_name": "Tempest",
     "story_author": "Akira",
     "story_season": "spring",
-    "event_units": [
-      2
-    ],
     "five_star_id": 2416
   },
   {
@@ -86,9 +76,6 @@
     "story_name": "CONQUEST",
     "story_author": "Akira",
     "story_season": "spring",
-    "event_units": [
-      14
-    ],
     "five_star_id": 2424
   },
   {
@@ -104,10 +91,6 @@
     "story_name": "Night Club",
     "story_author": "Akira",
     "story_season": "summer",
-    "event_units": [
-      7,
-      16
-    ],
     "five_star_id": 2436
   },
   {
@@ -124,9 +107,6 @@
     "story_name": "High Five!",
     "story_author": "Akira",
     "story_season": "summer",
-    "event_units": [
-      6
-    ],
     "five_star_id": 2452
   },
   {
