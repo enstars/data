@@ -15,7 +15,8 @@
     "season": "spring",
     "eventUnits": [
       "trickstar"
-    ]
+    ],
+    "eventFiveStar": 2201
   },
   {
     "compliant": "TRUE",
@@ -30,7 +31,8 @@
     "eventSongName": "Date Plan A to Z",
     "eventStoryName": "Date Plan",
     "author": "Kino Seitaro",
-    "season": "summer"
+    "season": "summer",
+    "eventFiveStar": 2409
   },
   {
     "compliant": "TRUE",
@@ -48,7 +50,8 @@
     "eventUnits": [
       "alkaloid",
       "ryuseitai"
-    ]
+    ],
+    "eventFiveStar": 2213
   },
   {
     "compliant": "TRUE",
@@ -66,7 +69,8 @@
     "season": "spring",
     "eventUnits": [
       "fine"
-    ]
+    ],
+    "eventFiveStar": 2416
   },
   {
     "compliant": "TRUE",
@@ -84,7 +88,8 @@
     "season": "spring",
     "eventUnits": [
       "eden"
-    ]
+    ],
+    "eventFiveStar": 2424
   },
   {
     "compliant": "TRUE",
@@ -102,7 +107,8 @@
     "eventUnits": [
       "2wink",
       "crazyb"
-    ]
+    ],
+    "eventFiveStar": 2436
   },
   {
     "compliant": "TRUE",
@@ -120,7 +126,8 @@
     "season": "summer",
     "eventUnits": [
       "ra*bits"
-    ]
+    ],
+    "eventFiveStar": 2452
   },
   {
     "compliant": "FALSE",
