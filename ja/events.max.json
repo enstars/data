@@ -13,7 +13,8 @@
     "story_name": "BIGBANG",
     "story_author": "Akira",
     "story_season": "spring",
-    "banner_id": 2201
+    "banner_id": 2201,
+    "unit_id": 1
   },
   {
     "compliant": "TRUE",
@@ -44,7 +45,8 @@
     "story_name": "Motor Show",
     "story_author": "Akira",
     "story_season": "summer",
-    "banner_id": 2213
+    "banner_id": 2213,
+    "unit_id": "5,15"
   },
   {
     "compliant": "TRUE",
@@ -60,7 +62,8 @@
     "story_name": "Tempest",
     "story_author": "Akira",
     "story_season": "spring",
-    "banner_id": 2416
+    "banner_id": 2416,
+    "unit_id": 2
   },
   {
     "compliant": "TRUE",
@@ -76,7 +79,8 @@
     "story_name": "CONQUEST",
     "story_author": "Akira",
     "story_season": "spring",
-    "banner_id": 2424
+    "banner_id": 2424,
+    "unit_id": 14
   },
   {
     "compliant": "TRUE",
@@ -91,7 +95,8 @@
     "story_name": "Night Club",
     "story_author": "Akira",
     "story_season": "summer",
-    "banner_id": 2436
+    "banner_id": 2436,
+    "unit_id": "7,16"
   },
   {
     "compliant": "TRUE",
@@ -107,7 +112,8 @@
     "story_name": "High Five!",
     "story_author": "Akira",
     "story_season": "summer",
-    "banner_id": 2452
+    "banner_id": 2452,
+    "unit_id": 6
   },
   {
     "compliant": "FALSE",
