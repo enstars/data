@@ -6,7 +6,7 @@
     "end_date": "2022-07-01",
     "type": "song",
     "name": "New Stars Sparkling ★ BIGBANG!",
-    "event_gacha": "Scout! MeowSketeers",
+    "event_gacha": "MeowSketeers",
     "gacha_id": 305,
     "intro_lines": "Trickstar accepted a job from Eichi, which is said to be introducing ES in a program. However, Subaru reacts differently as he always does. Subaru has no idea about his mood changes, so Mao decides to find out why.",
     "song_name": "BIGBANG REFLECTION!!",
@@ -14,6 +14,9 @@
     "story_author": "Akira",
     "story_season": "spring",
     "banner_id": 2201,
+    "five_star": {
+      "card_id": 2201
+    },
     "unit_id": 1
   },
   {
@@ -23,14 +26,17 @@
     "end_date": "2022-07-16",
     "type": "song",
     "name": "SHUFFLE X Love √ AtoZ",
-    "event_gacha": "Scout! √ AtoZ",
+    "event_gacha": "√ AtoZ",
     "gacha_id": 307,
     "intro_lines": "Chiaki joins a shuffle unit to brainstorm ideas about a date plan. Though all members seem to fit for this job, they fail to make any progress. And Kaoru is not at his best...",
     "song_name": "Date Plan A to Z",
     "story_name": "Date Plan",
     "story_author": "Kino Seitaro",
     "story_season": "summer",
-    "banner_id": 2409
+    "banner_id": 2409,
+    "five_star": {
+      "card_id": 2409
+    }
   },
   {
     "compliant": "TRUE",
@@ -38,14 +44,17 @@
     "start_date": "2022-07-23",
     "end_date": "2022-07-31",
     "type": "tour",
-    "name": "INTERSECTING/MOTOR SHOW",
-    "event_gacha": "Scout! HONEYBEE",
+    "name": "INTERSECTING / MOTOR SHOW",
+    "event_gacha": "HONEYBEE",
     "gacha_id": 309,
     "intro_lines": "RYUSEITAI-N and ALKALOID will perform together for the Motor Show. Tetora is struggling with how to treat his juniors. Hiiro asks Tetora to take the lead while the latter is at sea as the captain of RYUSEITAI-N. At the same time, Tetora consults Shinobu and Midori about their work plan for the future.",
     "story_name": "Motor Show",
     "story_author": "Akira",
     "story_season": "summer",
     "banner_id": 2213,
+    "five_star": {
+      "card_id": 2213
+    },
     "unit_id": "5,15"
   },
   {
@@ -55,7 +64,7 @@
     "end_date": "2022-08-14",
     "type": "song",
     "name": "Thunder in Spring*Praise of Tempest",
-    "event_gacha": "Scout! VAGABOND",
+    "event_gacha": "VAGABOND",
     "gacha_id": 311,
     "intro_lines": "All members of fine are getting busier at their own jobs, but Tori hopes they can do more activities together as a unit. Meanwhile, Tori finds Yuzuru spacing out frequently, so he turns to Eichi and Wataru for help...",
     "song_name": "The Tempest Night",
@@ -63,6 +72,9 @@
     "story_author": "Akira",
     "story_season": "spring",
     "banner_id": 2416,
+    "five_star": {
+      "card_id": 2416
+    },
     "unit_id": 2
   },
   {
@@ -72,7 +84,7 @@
     "end_date": "2022-08-28",
     "type": "song",
     "name": "Discord♦Internal Conquest",
-    "event_gacha": "Scout! House of Sweets",
+    "event_gacha": "House of Sweets",
     "gacha_id": 313,
     "intro_lines": "\\\"A breakup of Eden! A showdown between Adam and Eve!...\\\" Hiyori resents such a plan proposed by COS PRO, and refuses to work as a member of Eden. Seeing this, Nagisa declares that Hiyori is to be banished...",
     "song_name": "Paradise Banishment -Faith Conquest-",
@@ -80,6 +92,9 @@
     "story_author": "Akira",
     "story_season": "spring",
     "banner_id": 2424,
+    "five_star": {
+      "card_id": 2424
+    },
     "unit_id": 14
   },
   {
@@ -89,13 +104,16 @@
     "end_date": "2022-09-11",
     "type": "tour",
     "name": "Welcome / Night Club",
-    "event_gacha": "Scout! King of Thieves",
+    "event_gacha": "King of Thieves",
     "gacha_id": 315,
     "intro_lines": "Yuta is puzzling over how he should present himself to others as a member of 2wink and as he himself. Just then, he saw Rinne taking Hinata into a place \\\"for grown-ups\\\"...",
     "story_name": "Night Club",
     "story_author": "Akira",
     "story_season": "summer",
     "banner_id": 2436,
+    "five_star": {
+      "card_id": 2436
+    },
     "unit_id": "7,16"
   },
   {
@@ -105,7 +123,7 @@
     "end_date": "2022-09-25",
     "type": "song",
     "name": "Resume* Growth-Showing High Five",
-    "event_gacha": "Scout! Beasts Survival",
+    "event_gacha": "Beasts Survival",
     "gacha_id": 318,
     "intro_lines": "Members of Ra*bits have been enthusiastically preparing for the Comeback Live of Nazuna. However, the Live is now in danger of being canceled. Feeling frustrated and anxious, Tomoya decides to apologize to Nazuna, but...",
     "song_name": "Love It Love It",
@@ -113,19 +131,56 @@
     "story_author": "Akira",
     "story_season": "summer",
     "banner_id": 2452,
+    "five_star": {
+      "card_id": 2452
+    },
     "unit_id": 6
   },
   {
-    "compliant": "FALSE",
-    "event_id": 208
+    "compliant": "TRUE",
+    "event_id": 208,
+    "start_date": "2022-10-01",
+    "end_date": "2022-10-09",
+    "type": "tour",
+    "name": "Learning from the Past／Succession Match",
+    "event_gacha": "Dollhouse",
+    "gacha_id": 320,
+    "story_name": "Succession Match",
+    "banner_id": 2469,
+    "five_star": {
+      "card_id": 2470
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 209
+    "compliant": "TRUE",
+    "event_id": 209,
+    "start_date": "2022-10-15",
+    "end_date": "2022-10-23",
+    "type": "song",
+    "name": "Fresh Faces! The Eye-Opening Dark Night's Passing",
+    "event_gacha": "Dead End Land",
+    "gacha_id": 322,
+    "song_name": "\\=EYE\\=",
+    "story_name": "Fresh Faces",
+    "banner_id": 2488,
+    "five_star": {
+      "card_id": 2489
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 210
+    "compliant": "TRUE",
+    "event_id": 210,
+    "start_date": "2022-10-29",
+    "end_date": "2022-11-06",
+    "type": "tour",
+    "name": "Advancing to the Future / Next Door",
+    "event_gacha": "Summer Snow",
+    "gacha_id": 324,
+    "story_name": "Next Door",
+    "banner_id": 2503,
+    "five_star": {
+      "card_id": 2504
+    }
   },
   {
     "compliant": "FALSE",

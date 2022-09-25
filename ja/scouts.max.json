@@ -79,7 +79,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 308,
     "name": "Ibara Saegusa",
     "start_date": "2022-07-17",
@@ -90,9 +90,11 @@
       "card_id": 2222
     },
     "four_star": {
+      "chara_id": 12,
       "card_id": 2223
     },
     "three_star": {
+      "chara_id": "15,4",
       "card_id": "2224,2225"
     }
   },
@@ -118,7 +120,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 310,
     "name": "Koga Ogami",
     "start_date": "2022-08-01",
@@ -129,14 +131,16 @@
       "card_id": 2354
     },
     "four_star": {
+      "chara_id": 35,
       "card_id": 2355
     },
     "three_star": {
+      "chara_id": "29,30",
       "card_id": "2356,2357"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 311,
     "name": "VAGABOND",
     "start_date": "2022-08-05",
@@ -147,32 +151,52 @@
       "card_id": 2226
     },
     "four_star": {
+      "chara_id": 14,
       "card_id": 2227
     },
     "three_star": {
+      "chara_id": "21,67",
       "card_id": "2228,2229"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 312,
     "name": "Izumi Sena",
     "start_date": "2022-08-15",
     "end_date": "2022-08-29",
     "type": "feature scout",
     "five_star": {
-      "chara_id": 24
+      "chara_id": 24,
+      "card_id": 2428
+    },
+    "four_star": {
+      "chara_id": 33,
+      "card_id": 2429
+    },
+    "three_star": {
+      "chara_id": "1,7",
+      "card_id": "2430,2431"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 313,
     "name": "House of Sweets",
     "start_date": "2022-08-19",
     "end_date": "2022-09-02",
     "type": "scout",
     "five_star": {
-      "chara_id": 2
+      "chara_id": 2,
+      "card_id": 2420
+    },
+    "four_star": {
+      "chara_id": 20,
+      "card_id": 2421
+    },
+    "three_star": {
+      "chara_id": "11,17",
+      "card_id": "2422,2423"
     }
   },
   {
