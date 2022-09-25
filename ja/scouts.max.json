@@ -200,58 +200,103 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 314,
     "name": "Tori Himemiya",
     "start_date": "2022-08-29",
     "end_date": "2022-09-12",
     "type": "feature scout",
     "five_star": {
-      "chara_id": 6
+      "chara_id": 6,
+      "card_id": 2444
+    },
+    "four_star": {
+      "chara_id": 19,
+      "card_id": 2445
+    },
+    "three_star": {
+      "chara_id": "71,50",
+      "card_id": "2446,2447"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 315,
     "name": "King of Thieves",
     "start_date": "2022-09-02",
     "end_date": "2022-09-16",
     "type": "scout",
     "five_star": {
-      "chara_id": 37
+      "chara_id": 37,
+      "card_id": 2432
+    },
+    "four_star": {
+      "chara_id": 39,
+      "card_id": 2433
+    },
+    "three_star": {
+      "chara_id": "38,69",
+      "card_id": "2434,2435"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 317,
     "name": "Mao Isara",
     "start_date": "2022-09-12",
     "end_date": "2022-09-26",
     "type": "feature scout",
     "five_star": {
-      "chara_id": 18
+      "chara_id": 18,
+      "card_id": 2456
+    },
+    "four_star": {
+      "chara_id": 13,
+      "card_id": 2457
+    },
+    "three_star": {
+      "chara_id": "22,5",
+      "card_id": "2458,2459"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 318,
     "name": "Beasts Survival",
     "start_date": "2022-09-16",
     "end_date": "2022-09-30",
     "type": "scout",
     "five_star": {
-      "chara_id": 42
+      "chara_id": 42,
+      "card_id": 2448
+    },
+    "four_star": {
+      "chara_id": 68,
+      "card_id": 2449
+    },
+    "three_star": {
+      "chara_id": "33,70",
+      "card_id": "2450,2451"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 319,
     "name": "Hokuto Hidaka",
     "start_date": "2022-09-26",
     "end_date": "2022-10-10",
     "type": "feature scout",
     "five_star": {
-      "chara_id": 12
+      "chara_id": 12,
+      "card_id": 2476
+    },
+    "four_star": {
+      "chara_id": 10,
+      "card_id": 2477
+    },
+    "three_star": {
+      "chara_id": "41,67",
+      "card_id": "2478,2479"
     }
   },
   {
