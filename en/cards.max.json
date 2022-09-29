@@ -5902,33 +5902,73 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2452,
-    "title": "Love Ra*bits",
+    "title": "Love Rabbits",
     "name": "Nazuna Nito",
     "skills": {
+      "center": {
+        "name": "Love For Everyone"
+      },
       "live": {
-        "name": "みんなへの愛"
+        "name": "Blank Period Conquered"
+      },
+      "support": {
+        "name": "Gaze of the Guardian"
+      }
+    },
+    "releaseDate": "2022-09-17"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2453,
+    "title": "Love Friends",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Love for Friends"
+      },
+      "live": {
+        "name": "Successor of Leader"
+      },
+      "support": {
+        "name": "Project of Hope"
       }
     }
   },
   {
-    "compliant": "FALSE",
-    "id": 2453,
-    "title": "Love for Friends",
-    "name": "Tomoya Mashiro"
-  },
-  {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2454,
     "title": "Love Power",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Love of Trust"
+      },
+      "live": {
+        "name": "Cool Charisma"
+      },
+      "support": {
+        "name": "Catch and Run"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2455,
     "title": "Love Song",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Love for Family"
+      },
+      "live": {
+        "name": "Polished Cuteness"
+      },
+      "support": {
+        "name": "The Calming Tea"
+      }
+    }
   },
   {
     "compliant": "FALSE",
