@@ -3,8 +3,8 @@
     "compliant": "TRUE",
     "gacha_id": 304,
     "name": "Mika Kagehira",
-    "start_date": "2022-06-18",
-    "end_date": "2022-07-02",
+    "start_date": "2022-06-18 17:00Z",
+    "end_date": "2022-07-02 16:59Z",
     "type": "feature scout",
     "story_name": "The First Outfit",
     "story_author": "Yuumasu",
@@ -26,8 +26,8 @@
     "compliant": "TRUE",
     "gacha_id": 305,
     "name": "MeowSketeers",
-    "start_date": "2022-06-22",
-    "end_date": "2022-07-07",
+    "start_date": "2022-06-22 17:00Z",
+    "end_date": "2022-07-07 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 17,
@@ -46,8 +46,8 @@
     "compliant": "TRUE",
     "gacha_id": 306,
     "name": "Tatsumi Kazehaya",
-    "start_date": "2022-07-02",
-    "end_date": "2022-07-17",
+    "start_date": "2022-07-02 17:00Z",
+    "end_date": "2022-07-17 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 70,
@@ -66,8 +66,8 @@
     "compliant": "TRUE",
     "gacha_id": 307,
     "name": "√ AtoZ",
-    "start_date": "2022-07-07",
-    "end_date": "2022-07-22",
+    "start_date": "2022-07-07 17:00Z",
+    "end_date": "2022-07-22 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 25,
@@ -82,8 +82,8 @@
     "compliant": "TRUE",
     "gacha_id": 308,
     "name": "Ibara Saegusa",
-    "start_date": "2022-07-17",
-    "end_date": "2022-08-01",
+    "start_date": "2022-07-17 17:00Z",
+    "end_date": "2022-08-01 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 51,
@@ -102,8 +102,8 @@
     "compliant": "TRUE",
     "gacha_id": 309,
     "name": "HONEYBEE",
-    "start_date": "2022-07-22",
-    "end_date": "2022-08-05",
+    "start_date": "2022-07-22 17:00Z",
+    "end_date": "2022-08-05 16:59Z",
     "type": "scout",
     "story_name": "Honeybee",
     "five_star": {
@@ -123,8 +123,8 @@
     "compliant": "TRUE",
     "gacha_id": 310,
     "name": "Koga Ogami",
-    "start_date": "2022-08-01",
-    "end_date": "2022-08-15",
+    "start_date": "2022-08-01 17:00Z",
+    "end_date": "2022-08-15 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 16,
@@ -143,8 +143,8 @@
     "compliant": "TRUE",
     "gacha_id": 311,
     "name": "VAGABOND",
-    "start_date": "2022-08-05",
-    "end_date": "2022-08-19",
+    "start_date": "2022-08-05 17:00Z",
+    "end_date": "2022-08-19 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 26,
@@ -163,8 +163,8 @@
     "compliant": "TRUE",
     "gacha_id": 312,
     "name": "Izumi Sena",
-    "start_date": "2022-08-15",
-    "end_date": "2022-08-29",
+    "start_date": "2022-08-15 17:00Z",
+    "end_date": "2022-08-29 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 24,
@@ -183,8 +183,8 @@
     "compliant": "TRUE",
     "gacha_id": 313,
     "name": "House of Sweets",
-    "start_date": "2022-08-19",
-    "end_date": "2022-09-02",
+    "start_date": "2022-08-19 17:00Z",
+    "end_date": "2022-09-02 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 2,
@@ -203,8 +203,8 @@
     "compliant": "TRUE",
     "gacha_id": 314,
     "name": "Tori Himemiya",
-    "start_date": "2022-08-29",
-    "end_date": "2022-09-12",
+    "start_date": "2022-08-29 17:00Z",
+    "end_date": "2022-09-12 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 6,
@@ -223,8 +223,8 @@
     "compliant": "TRUE",
     "gacha_id": 315,
     "name": "King of Thieves",
-    "start_date": "2022-09-02",
-    "end_date": "2022-09-16",
+    "start_date": "2022-09-02 17:00Z",
+    "end_date": "2022-09-16 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 37,
@@ -243,8 +243,8 @@
     "compliant": "TRUE",
     "gacha_id": 317,
     "name": "Mao Isara",
-    "start_date": "2022-09-12",
-    "end_date": "2022-09-26",
+    "start_date": "2022-09-12 17:00Z",
+    "end_date": "2022-09-26 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 18,
@@ -263,8 +263,8 @@
     "compliant": "TRUE",
     "gacha_id": 318,
     "name": "Beasts Survival",
-    "start_date": "2022-09-16",
-    "end_date": "2022-09-30",
+    "start_date": "2022-09-16 17:00Z",
+    "end_date": "2022-09-30 16:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 42,
@@ -283,8 +283,8 @@
     "compliant": "TRUE",
     "gacha_id": 319,
     "name": "Hokuto Hidaka",
-    "start_date": "2022-09-26",
-    "end_date": "2022-10-10",
+    "start_date": "2022-09-26 17:00Z",
+    "end_date": "2022-10-10 16:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 12,
@@ -300,30 +300,268 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 320,
     "name": "Doll House",
-    "start_date": "2022-09-30",
-    "end_date": "2022-10-14",
-    "type": "scout"
+    "start_date": "2022-09-30 17:00Z",
+    "end_date": "2022-10-14 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 5,
+      "card_id": 2464
+    },
+    "four_star": {
+      "chara_id": 34,
+      "card_id": 2465
+    },
+    "three_star": {
+      "chara_id": "25,39",
+      "card_id": "2466,2467"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 321,
+    "name": "Mitsuru Tenma",
+    "start_date": "2022-10-10 17:00Z",
+    "end_date": "2022-10-24 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 9,
+      "card_id": 2480
+    },
+    "four_star": {
+      "chara_id": 1,
+      "card_id": 2481
+    },
+    "three_star": {
+      "chara_id": "11,35",
+      "card_id": "2482,2483"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 322,
+    "name": "Dead End Land",
+    "start_date": "2022-10-14 17:00Z",
+    "end_date": "2022-10-28 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 69,
+      "card_id": 2484
+    },
+    "four_star": {
+      "chara_id": 27,
+      "card_id": 2485
+    },
+    "three_star": {
+      "chara_id": "3,7",
+      "card_id": "2486,2487"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 323,
+    "name": "HiMERU",
+    "start_date": "2022-10-24 17:00Z",
+    "end_date": "2022-11-07 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 72,
+      "card_id": 2494
+    },
+    "four_star": {
+      "chara_id": 23,
+      "card_id": 2496
+    },
+    "three_star": {
+      "chara_id": "42,26",
+      "card_id": "2496,2497"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 324,
+    "name": "Summer Snow",
+    "start_date": "2022-10-28 17:00Z",
+    "end_date": "2022-11-11 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 28,
+      "card_id": 2498
+    },
+    "four_star": {
+      "chara_id": 51,
+      "card_id": 2499
+    },
+    "three_star": {
+      "chara_id": "4,29",
+      "card_id": "2500,2501"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 325,
+    "name": "Souma Kanzaki",
+    "start_date": "2022-11-07 17:00Z",
+    "end_date": "2022-11-21 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 14,
+      "card_id": 2510
+    },
+    "four_star": {
+      "chara_id": 24,
+      "card_id": 2511
+    },
+    "three_star": {
+      "chara_id": "38,17",
+      "card_id": "2512,2513"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 326,
+    "name": "Flowers of the Wasteland",
+    "start_date": "2022-11-11 17:00Z",
+    "end_date": "2022-11-25 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 50,
+      "card_id": 2519
+    },
+    "four_star": {
+      "chara_id": 11,
+      "card_id": 2520
+    },
+    "three_star": {
+      "chara_id": "18,5",
+      "card_id": "2521,2522"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 327,
+    "name": "Shinobu Sengoku",
+    "start_date": "2022-11-21 17:00Z",
+    "end_date": "2022-12-05 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 7,
+      "card_id": 2523
+    },
+    "four_star": {
+      "chara_id": 25,
+      "card_id": 2524
+    },
+    "three_star": {
+      "chara_id": "19,74",
+      "card_id": "2525,2526"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 328,
+    "name": "Moon-Viewing Story",
+    "start_date": "2022-11-25 17:00Z",
+    "end_date": "2022-12-09 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 15,
+      "card_id": 2533
+    },
+    "four_star": {
+      "chara_id": 30,
+      "card_id": 2534
+    },
+    "three_star": {
+      "chara_id": "13,16",
+      "card_id": "2535,2536"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 329,
+    "name": "Arashi Narukami",
+    "start_date": "2022-12-05 17:00Z",
+    "end_date": "2022-12-19 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 20,
+      "card_id": 2537
+    },
+    "four_star": {
+      "chara_id": 21,
+      "card_id": 2538
+    },
+    "three_star": {
+      "chara_id": "24,39",
+      "card_id": "2539,2540"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 330,
+    "name": "Werewolf",
+    "start_date": "2022-12-09 17:00Z",
+    "end_date": "2022-12-23 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 38,
+      "card_id": 2549
+    },
+    "four_star": {
+      "chara_id": 41,
+      "card_id": 2550
+    },
+    "three_star": {
+      "chara_id": "37,42",
+      "card_id": "2551,2552"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 331,
+    "name": "Tomoya Mashiro",
+    "start_date": "2022-12-19 17:00Z",
+    "end_date": "2023-01-02 16:59Z",
+    "type": "feature scout",
+    "five_star": {
+      "chara_id": 3,
+      "card_id": 2553
+    },
+    "four_star": {
+      "chara_id": 8,
+      "card_id": 2554
+    },
+    "three_star": {
+      "chara_id": "9,33",
+      "card_id": "2555,2556"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 332,
+    "name": "Spy THE Mission",
+    "start_date": "2022-12-23 17:00Z",
+    "end_date": "2023-01-06 16:59Z",
+    "type": "scout",
+    "five_star": {
+      "chara_id": 22,
+      "card_id": 2561
+    },
+    "four_star": {
+      "chara_id": 26,
+      "card_id": 2562
+    },
+    "three_star": {
+      "chara_id": "40,21",
+      "card_id": "2563,2564"
+    }
   },
   {
     "compliant": "FALSE"
   },
-  {
-    "compliant": "FALSE"
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
   {},
   {},
   {},

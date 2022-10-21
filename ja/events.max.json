@@ -2,8 +2,8 @@
   {
     "compliant": "TRUE",
     "event_id": 201,
-    "start_date": "2022-06-23",
-    "end_date": "2022-07-01",
+    "start_date": "2022-06-23 17:00Z",
+    "end_date": "2022-07-02 03:00Z",
     "type": "song",
     "name": "New Stars Sparkling ★ BIGBANG!",
     "event_gacha": "MeowSketeers",
@@ -22,8 +22,8 @@
   {
     "compliant": "TRUE",
     "event_id": 202,
-    "start_date": "2022-07-08",
-    "end_date": "2022-07-16",
+    "start_date": "2022-07-08 17:00Z",
+    "end_date": "2022-07-17 03:00Z",
     "type": "song",
     "name": "SHUFFLE X Love √ AtoZ",
     "event_gacha": "√ AtoZ",
@@ -41,8 +41,8 @@
   {
     "compliant": "TRUE",
     "event_id": 203,
-    "start_date": "2022-07-23",
-    "end_date": "2022-07-31",
+    "start_date": "2022-07-23 17:00Z",
+    "end_date": "2022-08-01 03:00Z",
     "type": "tour",
     "name": "INTERSECTING / MOTOR SHOW",
     "event_gacha": "HONEYBEE",
@@ -60,8 +60,8 @@
   {
     "compliant": "TRUE",
     "event_id": 204,
-    "start_date": "2022-08-06",
-    "end_date": "2022-08-14",
+    "start_date": "2022-08-06 17:00Z",
+    "end_date": "2022-08-15 03:00Z",
     "type": "song",
     "name": "Thunder in Spring*Praise of Tempest",
     "event_gacha": "VAGABOND",
@@ -80,8 +80,8 @@
   {
     "compliant": "TRUE",
     "event_id": 205,
-    "start_date": "2022-08-20",
-    "end_date": "2022-08-28",
+    "start_date": "2022-08-20 17:00Z",
+    "end_date": "2022-08-29 03:00Z",
     "type": "song",
     "name": "Discord♦Internal Conquest",
     "event_gacha": "House of Sweets",
@@ -100,8 +100,8 @@
   {
     "compliant": "TRUE",
     "event_id": 206,
-    "start_date": "2022-09-03",
-    "end_date": "2022-09-11",
+    "start_date": "2022-09-03 17:00Z",
+    "end_date": "2022-09-12 03:00Z",
     "type": "tour",
     "name": "Welcome / Night Club",
     "event_gacha": "King of Thieves",
@@ -119,8 +119,8 @@
   {
     "compliant": "TRUE",
     "event_id": 207,
-    "start_date": "2022-09-17",
-    "end_date": "2022-09-25",
+    "start_date": "2022-09-17 17:00Z",
+    "end_date": "2022-09-26 03:00Z",
     "type": "song",
     "name": "Resume* Growth-Showing High Five",
     "event_gacha": "Beasts Survival",
@@ -139,8 +139,8 @@
   {
     "compliant": "TRUE",
     "event_id": 208,
-    "start_date": "2022-10-01",
-    "end_date": "2022-10-09",
+    "start_date": "2022-10-01 17:00Z",
+    "end_date": "2022-10-10 03:00Z",
     "type": "tour",
     "name": "Learning from the Past／Succession Match",
     "event_gacha": "Dollhouse",
@@ -148,30 +148,30 @@
     "story_name": "Succession Match",
     "banner_id": 2469,
     "five_star": {
-      "card_id": 2470
+      "card_id": 2469
     }
   },
   {
     "compliant": "TRUE",
     "event_id": 209,
-    "start_date": "2022-10-15",
-    "end_date": "2022-10-23",
+    "start_date": "2022-10-15 17:00Z",
+    "end_date": "2022-10-24 03:00Z",
     "type": "song",
     "name": "Debut! Awakened Night Patrollers",
     "event_gacha": "Dead End Land",
     "gacha_id": 322,
     "song_name": "\\=EYE\\=",
-    "story_name": "Debut",
+    "story_name": "Walking in Darkness",
     "banner_id": 2488,
     "five_star": {
-      "card_id": 2489
+      "card_id": 2488
     }
   },
   {
     "compliant": "TRUE",
     "event_id": 210,
-    "start_date": "2022-10-29",
-    "end_date": "2022-11-06",
+    "start_date": "2022-10-29 17:00Z",
+    "end_date": "2022-11-07 03:00Z",
     "type": "tour",
     "name": "Advancing to the Future / Next Door",
     "event_gacha": "Summer Snow",
@@ -179,24 +179,80 @@
     "story_name": "Next Door",
     "banner_id": 2503,
     "five_star": {
-      "card_id": 2504
+      "card_id": 2503
     }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 211
+    "compliant": "TRUE",
+    "event_id": 211,
+    "start_date": "2022-11-12 17:00Z",
+    "end_date": "2022-11-21 03:00Z",
+    "type": "song",
+    "name": "Descent! The Neverland We Begin to Spin",
+    "event_gacha": "Flowers of the Wasteland",
+    "gacha_id": 326,
+    "story_name": "Descent",
+    "banner_id": 2515,
+    "five_star": {
+      "card_id": 2515
+    },
+    "four_star": {
+      "card_id": 2516
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 212
+    "compliant": "TRUE",
+    "event_id": 212,
+    "start_date": "2022-11-26 17:00Z",
+    "end_date": "2022-12-05 03:00Z",
+    "type": "song",
+    "name": "Heat Haze ◆ Remnants of Summer and Hot Limit",
+    "event_gacha": "Moon-Viewing Story",
+    "gacha_id": 328,
+    "story_name": "Hot Limit",
+    "banner_id": 2529,
+    "five_star": {
+      "card_id": 2529,
+      "chara_id": 74
+    },
+    "four_star": {
+      "card_id": 2530,
+      "chara_id": 71
+    },
+    "three_star": {
+      "card_id": "2531,2532",
+      "chara_id": "72,73"
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 213
+    "compliant": "TRUE",
+    "event_id": 213,
+    "start_date": "2022-12-10 17:00Z",
+    "end_date": "2022-12-19 03:00Z",
+    "type": "tour",
+    "name": "Fight to the Death on the Silver Screen／Fist of the Shangri-la Idol!",
+    "event_gacha": "Werewolf",
+    "gacha_id": 330,
+    "story_name": "Shangri-la Idol",
+    "banner_id": 2541,
+    "five_star": {
+      "card_id": 2541
+    }
   },
   {
-    "compliant": "FALSE",
-    "event_id": 214
+    "compliant": "TRUE",
+    "event_id": 214,
+    "start_date": "2022-12-24 17:00Z",
+    "end_date": "2023-01-02 03:00Z",
+    "type": "song",
+    "name": "Envy ♦︎ The Feather-Light Brush of Small Wings",
+    "event_gacha": "Spy THE Mission",
+    "gacha_id": 332,
+    "story_name": "Feather Touch",
+    "banner_id": 2557,
+    "five_star": {
+      "card_id": 2557
+    }
   },
   {
     "compliant": "FALSE",
