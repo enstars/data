@@ -2,8 +2,6 @@
   {
     "compliant": "TRUE",
     "event_id": 201,
-    "start_date": "2022-06-23",
-    "end_date": "2022-07-01",
     "type": "song",
     "name": "New Stars Sparkling ★ BIGBANG!",
     "event_gacha": "MeowSketeers",
@@ -22,8 +20,6 @@
   {
     "compliant": "TRUE",
     "event_id": 202,
-    "start_date": "2022-07-08",
-    "end_date": "2022-07-16",
     "type": "song",
     "name": "SHUFFLE X Love √ AtoZ",
     "event_gacha": "√ AtoZ",
@@ -41,8 +37,6 @@
   {
     "compliant": "TRUE",
     "event_id": 203,
-    "start_date": "2022-07-23",
-    "end_date": "2022-07-31",
     "type": "tour",
     "name": "INTERSECTING / MOTOR SHOW",
     "event_gacha": "HONEYBEE",
@@ -60,8 +54,6 @@
   {
     "compliant": "TRUE",
     "event_id": 204,
-    "start_date": "2022-08-06",
-    "end_date": "2022-08-14",
     "type": "song",
     "name": "Thunder in Spring*Praise of Tempest",
     "event_gacha": "VAGABOND",
@@ -80,8 +72,6 @@
   {
     "compliant": "TRUE",
     "event_id": 205,
-    "start_date": "2022-08-20",
-    "end_date": "2022-08-28",
     "type": "song",
     "name": "Discord♦Internal Conquest",
     "event_gacha": "House of Sweets",
@@ -100,8 +90,6 @@
   {
     "compliant": "TRUE",
     "event_id": 206,
-    "start_date": "2022-09-03",
-    "end_date": "2022-09-11",
     "type": "tour",
     "name": "Welcome / Night Club",
     "event_gacha": "King of Thieves",
@@ -119,8 +107,6 @@
   {
     "compliant": "TRUE",
     "event_id": 207,
-    "start_date": "2022-09-17",
-    "end_date": "2022-09-25",
     "type": "song",
     "name": "Resume* Growth-Showing High Five",
     "event_gacha": "Beasts Survival",
