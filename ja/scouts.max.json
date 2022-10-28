@@ -4,7 +4,7 @@
     "gacha_id": 304,
     "name": "Mika Kagehira",
     "start_date": "2022-06-18T17:00:00Z",
-    "end_date": "2022-07-02T16:59:00Z",
+    "end_date": "2022-07-02T16:59:59Z",
     "type": "feature scout",
     "story_name": "The First Outfit",
     "story_author": "Yuumasu",
@@ -27,7 +27,7 @@
     "gacha_id": 305,
     "name": "MeowSketeers",
     "start_date": "2022-06-22T17:00:00Z",
-    "end_date": "2022-07-07T16:59:00Z",
+    "end_date": "2022-07-07T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 17,
@@ -47,7 +47,7 @@
     "gacha_id": 306,
     "name": "Tatsumi Kazehaya",
     "start_date": "2022-07-02T17:00:00Z",
-    "end_date": "2022-07-17T16:59:00Z",
+    "end_date": "2022-07-17T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 70,
@@ -67,7 +67,7 @@
     "gacha_id": 307,
     "name": "√ AtoZ",
     "start_date": "2022-07-07T17:00:00Z",
-    "end_date": "2022-07-22T16:59:00Z",
+    "end_date": "2022-07-22T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 25,
@@ -83,7 +83,7 @@
     "gacha_id": 308,
     "name": "Ibara Saegusa",
     "start_date": "2022-07-17T17:00:00Z",
-    "end_date": "2022-08-01T16:59:00Z",
+    "end_date": "2022-08-01T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 51,
@@ -103,7 +103,7 @@
     "gacha_id": 309,
     "name": "HONEYBEE",
     "start_date": "2022-07-22T17:00:00Z",
-    "end_date": "2022-08-05T16:59:00Z",
+    "end_date": "2022-08-05T16:59:59Z",
     "type": "scout",
     "story_name": "Honeybee",
     "five_star": {
@@ -124,7 +124,7 @@
     "gacha_id": 310,
     "name": "Koga Ogami",
     "start_date": "2022-08-01T17:00:00Z",
-    "end_date": "2022-08-15T16:59:00Z",
+    "end_date": "2022-08-15T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 16,
@@ -144,7 +144,7 @@
     "gacha_id": 311,
     "name": "VAGABOND",
     "start_date": "2022-08-05T17:00:00Z",
-    "end_date": "2022-08-19T16:59:00Z",
+    "end_date": "2022-08-19T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 26,
@@ -164,7 +164,7 @@
     "gacha_id": 312,
     "name": "Izumi Sena",
     "start_date": "2022-08-15T17:00:00Z",
-    "end_date": "2022-08-29T16:59:00Z",
+    "end_date": "2022-08-29T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 24,
@@ -184,7 +184,7 @@
     "gacha_id": 313,
     "name": "House of Sweets",
     "start_date": "2022-08-19T17:00:00Z",
-    "end_date": "2022-09-02T16:59:00Z",
+    "end_date": "2022-09-02T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 2,
@@ -204,7 +204,7 @@
     "gacha_id": 314,
     "name": "Tori Himemiya",
     "start_date": "2022-08-29T17:00:00Z",
-    "end_date": "2022-09-12T16:59:00Z",
+    "end_date": "2022-09-12T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 6,
@@ -224,7 +224,7 @@
     "gacha_id": 315,
     "name": "King of Thieves",
     "start_date": "2022-09-02T17:00:00Z",
-    "end_date": "2022-09-16T16:59:00Z",
+    "end_date": "2022-09-16T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 37,
@@ -244,7 +244,7 @@
     "gacha_id": 317,
     "name": "Mao Isara",
     "start_date": "2022-09-12T17:00:00Z",
-    "end_date": "2022-09-26T16:59:00Z",
+    "end_date": "2022-09-26T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 18,
@@ -264,7 +264,7 @@
     "gacha_id": 318,
     "name": "Beasts Survival",
     "start_date": "2022-09-16T17:00:00Z",
-    "end_date": "2022-09-30T16:59:00Z",
+    "end_date": "2022-09-30T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 42,
@@ -284,7 +284,7 @@
     "gacha_id": 319,
     "name": "Hokuto Hidaka",
     "start_date": "2022-09-26T17:00:00Z",
-    "end_date": "2022-10-10T16:59:00Z",
+    "end_date": "2022-10-10T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 12,
@@ -304,7 +304,7 @@
     "gacha_id": 320,
     "name": "Doll House",
     "start_date": "2022-09-30T17:00:00Z",
-    "end_date": "2022-10-14T16:59:00Z",
+    "end_date": "2022-10-14T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 5,
@@ -324,7 +324,7 @@
     "gacha_id": 321,
     "name": "Mitsuru Tenma",
     "start_date": "2022-10-10T17:00:00Z",
-    "end_date": "2022-10-24T16:59:00Z",
+    "end_date": "2022-10-24T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 9,
@@ -344,7 +344,7 @@
     "gacha_id": 322,
     "name": "Dead End Land",
     "start_date": "2022-10-14T17:00:00Z",
-    "end_date": "2022-10-28T16:59:00Z",
+    "end_date": "2022-10-28T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 69,
@@ -364,7 +364,7 @@
     "gacha_id": 323,
     "name": "HiMERU",
     "start_date": "2022-10-24T17:00:00Z",
-    "end_date": "2022-11-07T16:59:00Z",
+    "end_date": "2022-11-07T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 72,
@@ -384,7 +384,7 @@
     "gacha_id": 324,
     "name": "Summer Snow",
     "start_date": "2022-10-28T17:00:00Z",
-    "end_date": "2022-11-11T16:59:00Z",
+    "end_date": "2022-11-11T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 28,
@@ -404,7 +404,7 @@
     "gacha_id": 325,
     "name": "Souma Kanzaki",
     "start_date": "2022-11-07T17:00:00Z",
-    "end_date": "2022-11-21T16:59:00Z",
+    "end_date": "2022-11-21T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 14,
@@ -424,7 +424,7 @@
     "gacha_id": 326,
     "name": "Flowers of the Wasteland",
     "start_date": "2022-11-11T17:00:00Z",
-    "end_date": "2022-11-25T16:59:00Z",
+    "end_date": "2022-11-25T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 50,
@@ -444,7 +444,7 @@
     "gacha_id": 327,
     "name": "Shinobu Sengoku",
     "start_date": "2022-11-21T17:00:00Z",
-    "end_date": "2022-12-05T16:59:00Z",
+    "end_date": "2022-12-05T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 7,
@@ -464,7 +464,7 @@
     "gacha_id": 328,
     "name": "Moon-Viewing Story",
     "start_date": "2022-11-25T17:00:00Z",
-    "end_date": "2022-12-09T16:59:00Z",
+    "end_date": "2022-12-09T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 15,
@@ -484,7 +484,7 @@
     "gacha_id": 329,
     "name": "Arashi Narukami",
     "start_date": "2022-12-05T17:00:00Z",
-    "end_date": "2022-12-19T16:59:00Z",
+    "end_date": "2022-12-19T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 20,
@@ -504,7 +504,7 @@
     "gacha_id": 330,
     "name": "Werewolf",
     "start_date": "2022-12-09T17:00:00Z",
-    "end_date": "2022-12-23T16:59:00Z",
+    "end_date": "2022-12-23T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 38,
@@ -524,7 +524,7 @@
     "gacha_id": 331,
     "name": "Tomoya Mashiro",
     "start_date": "2022-12-19T17:00:00Z",
-    "end_date": "2023-01-02T16:59:00Z",
+    "end_date": "2023-01-02T16:59:59Z",
     "type": "feature scout",
     "five_star": {
       "chara_id": 3,
@@ -544,7 +544,7 @@
     "gacha_id": 332,
     "name": "Spy THE Mission",
     "start_date": "2022-12-23T17:00:00Z",
-    "end_date": "2023-01-06T16:59:00Z",
+    "end_date": "2023-01-06T16:59:59Z",
     "type": "scout",
     "five_star": {
       "chara_id": 22,
