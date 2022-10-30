@@ -3322,7 +3322,7 @@
   {
     "compliant": "TRUE",
     "id": 2161,
-    "title": "Combative Rascal",
+    "title": "Combative Spirit",
     "name": "Koga Oogami",
     "skills": {
       "center": {
@@ -3472,7 +3472,7 @@
   {
     "compliant": "TRUE",
     "id": 2168,
-    "title": "Assertive Performance",
+    "title": "Assertive Performer",
     "name": "Izumi Sena",
     "skills": {
       "center": {
@@ -3538,7 +3538,7 @@
   {
     "compliant": "TRUE",
     "id": 2171,
-    "title": "Lover of the Ocean",
+    "title": "Ocean Lover",
     "name": "Kanata Shinkai",
     "skills": {
       "center": {
@@ -4649,17 +4649,39 @@
     "releaseDate": "7/17/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2224,
     "title": "Sincere Gift",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Natural Priorities"
+      },
+      "live": {
+        "name": "Location of Stone"
+      },
+      "support": {
+        "name": "Excavation and Exploration"
+      }
+    },
     "releaseDate": "7/17/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2225,
     "title": "A Heartfelt Bunch",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Smile of Hinata"
+      },
+      "live": {
+        "name": "The Magic of Verbena"
+      },
+      "support": {
+        "name": "Picking up Herbs"
+      }
+    },
     "releaseDate": "7/17/2022"
   },
   {
@@ -4703,17 +4725,39 @@
     "releaseDate": "8/5/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2228,
     "title": "Merciful Vagabond",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Vagabond of Wisdom"
+      },
+      "live": {
+        "name": "Training on Patience"
+      },
+      "support": {
+        "name": "Exorcism of the Evil"
+      }
+    },
     "releaseDate": "8/5/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2229,
     "title": "Drifting Vagabond",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Vagabond of Sky"
+      },
+      "live": {
+        "name": "Martial Arts Training"
+      },
+      "support": {
+        "name": "Collaborator in the Wall"
+      }
+    },
     "quote": {
       "n": "聞きたいことがあるんだ",
       "e": "僕はただ進むだけだよ"
@@ -4739,10 +4783,21 @@
     "releaseDate": "8/1/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2355,
-    "title": "Aesthetic-driven Creator",
+    "title": "Aesthetic Artist",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Precise Shooting"
+      },
+      "live": {
+        "name": "Embodiment of Image"
+      },
+      "support": {
+        "name": "Dress Re-arrangement"
+      }
+    },
     "quote": {
       "n": "勘違いしないでほしいね",
       "e": "常に完璧を求めなければね"
@@ -4750,17 +4805,39 @@
     "releaseDate": "8/1/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2356,
     "title": "Idol Radio",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Late-Night Radio Host"
+      },
+      "live": {
+        "name": "Questions from Audience"
+      },
+      "support": {
+        "name": "Messages from Underclassmen"
+      }
+    },
     "releaseDate": "8/1/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2357,
-    "title": "Living a New Life",
+    "title": "Embracing New Life",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Charismatic Appearance"
+      },
+      "live": {
+        "name": "Absorption of Knowledge"
+      },
+      "support": {
+        "name": "Fulfilling University Life"
+      }
+    },
     "releaseDate": "8/1/2022"
   },
   {
@@ -5194,7 +5271,7 @@
       }
     },
     "quote": {
-      "n": "ひいっ！た、たすけて〜っ！"
+      "n": "H...Help~!"
     },
     "releaseDate": "7/8/2022"
   },
@@ -5215,7 +5292,7 @@
       }
     },
     "quote": {
-      "n": "Enjoy my special dish〜☆"
+      "n": "Come and taste my special dish〜☆"
     },
     "releaseDate": "7/8/2022"
   },
@@ -5236,7 +5313,7 @@
       }
     },
     "quote": {
-      "n": "ポクたちも置いていかれないように後を追おウ。"
+      "n": "It'll be an excellent chance to learN."
     },
     "releaseDate": "7/8/2022"
   },
@@ -6112,46 +6189,130 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2469,
-    "title": "Succession Match",
-    "name": "Rei Sakuma"
+    "title": "Match of Succession",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Injurious Fingertips"
+      },
+      "live": {
+        "name": "Memories of Those Days"
+      },
+      "support": {
+        "name": "Notice of Cancellation"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2470,
-    "title": "Quarrel Match",
-    "name": "Kuro Kiryu"
+    "title": "Match of Brawl",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Stitches from Memory"
+      },
+      "live": {
+        "name": "Concentrated in Lessons"
+      },
+      "support": {
+        "name": "The Mature Friend"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2471,
-    "title": "Contest Match",
-    "name": "Adonis Otogari"
+    "title": "Match for Victory",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Gentle Soul"
+      },
+      "live": {
+        "name": "Love for People Around"
+      },
+      "support": {
+        "name": "Information on Special Zone"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2472,
-    "title": "Friendly Match",
-    "name": "Kaoru Hakaze"
+    "title": "Escorting Match",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Considerate Heart"
+      },
+      "live": {
+        "name": "Management Experience"
+      },
+      "support": {
+        "name": "Joke for Comeback"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2473,
-    "title": "Strength-measuring Match",
-    "name": "Koga Oogami"
+    "title": "Match of Strength",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Bold and Impulsive"
+      },
+      "live": {
+        "name": "Confidence in Freedom & Power"
+      },
+      "support": {
+        "name": "Circumstances and Position"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2474,
-    "title": "Sword-bearing Match",
-    "name": "Souma Kanzaki"
+    "title": "Match of Sword",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Tough and Innocent"
+      },
+      "live": {
+        "name": "Modern Files on the Bookshelf"
+      },
+      "support": {
+        "name": "Complaints from Juniors"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2475,
-    "title": "Requested Match",
-    "name": "Madara Mikejima"
+    "title": "Commissioned Match",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Broad-Minded Love"
+      },
+      "live": {
+        "name": "Job As the Successor"
+      },
+      "support": {
+        "name": "Expectations and Frankness"
+      }
+    },
+    "releaseDate": "2022-10-01"
   },
   {
     "compliant": "FALSE",
@@ -6273,56 +6434,114 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2489,
-    "title": "Violet-Eyed Executioner",
+    "title": "Purple-Eyed Punisher",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "The Helping Hand"
+      },
+      "live": {
+        "name": "Temporarily United"
+      },
+      "support": {
+        "name": "Technique from Dark Trade"
+      }
+    },
     "quote": {
       "n": "生きやすい世の中やったらな",
       "e": "ちょっとマシな悪党や"
-    }
+    },
+    "releaseDate": "2022-10-15"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2490,
-    "title": "Coincidental Contractor",
-    "name": "Souma Kanzaki"
+    "title": "Fortuitous Contractor",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Witness of Battlefield"
+      },
+      "live": {
+        "name": "Communicating Front and Back"
+      },
+      "support": {
+        "name": "Hasty Pursuit"
+      }
+    },
+    "releaseDate": "2022-10-15"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2491,
-    "title": "Targeted Artist",
+    "title": "Composer in Danger",
     "name": "Leo Tsukinaga",
     "skills": {
       "center": {
-        "name": "Ave Maria's Stage"
+        "name": "Stage of Ave Maria"
       },
       "live": {
         "name": "Solo Concert"
+      },
+      "support": {
+        "name": "Trustworthy Relationship"
       }
     },
     "quote": {
       "n": "おれたち以外に誰かいるのか？",
       "e": "ママは身内には優しいからな！"
-    }
+    },
+    "releaseDate": "2022-10-15"
   },
   {
     "compliant": "FALSE",
     "id": 2492,
-    "title": "ES' New Idol",
-    "name": "Madara Mikejima"
+    "title": "New ES Idol",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2493,
-    "title": "ES' New Idol",
-    "name": "Kohaku Oukawa"
+    "title": "New ES Idol",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Absorption in Concert"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2494,
-    "title": "Hidden Feelings",
+    "title": "Hidden in the Heart",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Aspiration and Expectation"
+      },
+      "support": {
+        "name": "Records of Past Activities"
+      }
+    },
     "quote": {
       "n": "HiMERUはこのステージに立つアイドル、なのです",
       "e": "見てください、HiMERUの姿を"
@@ -6331,26 +6550,70 @@
   {
     "compliant": "FALSE",
     "id": 2495,
-    "title": "Asking a Favor of Someone Younger",
-    "name": "Kaoru Hakaze"
+    "title": "Turning to Juniors",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Hero in Romantic Drama"
+      },
+      "live": {
+        "name": "Natural Acting Skills"
+      },
+      "support": {
+        "name": "Apply for Practice"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2496,
     "title": "Souvenir Tea Party",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Anecdote of Souvenirs"
+      },
+      "live": {
+        "name": "New Chat Mate"
+      },
+      "support": {
+        "name": "Safe Gift"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2497,
     "title": "Time Spent Apart",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Gift for Little Sister"
+      },
+      "live": {
+        "name": "Select and Discuss"
+      },
+      "support": {
+        "name": "For Little Sister"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2498,
-    "title": "Allied Summer",
+    "title": "Cooperation in \"Summer\"",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Snow of Warm Bonds"
+      },
+      "live": {
+        "name": "Sprite in the Garden"
+      },
+      "support": {
+        "name": "Exploration of the Blue"
+      }
+    },
     "quote": {
       "n": "『みず』のなかにつれていきます…",
       "e": "あついならすずみましょう♪"
@@ -6359,8 +6622,19 @@
   {
     "compliant": "FALSE",
     "id": 2499,
-    "title": "Profitable Summer",
+    "title": "Benefits of Summer",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Machination of Cold Snow"
+      },
+      "live": {
+        "name": "Fair Business"
+      },
+      "support": {
+        "name": "Business Consultant"
+      }
+    },
     "quote": {
       "n": "悪くないかもしれませんね",
       "e": "暑さなんて慣れですよ"
@@ -6369,8 +6643,19 @@
   {
     "compliant": "FALSE",
     "id": 2500,
-    "title": "Summer Studying",
+    "title": "Learning in Summer",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Lively Summer Snow"
+      },
+      "live": {
+        "name": "Business Lecture"
+      },
+      "support": {
+        "name": "Counting Visitors"
+      }
+    },
     "quote": {
       "n": "噂は本当だった！",
       "e": "冷たくて甘くて最高！"
@@ -6379,8 +6664,19 @@
   {
     "compliant": "FALSE",
     "id": 2501,
-    "title": "A Summer Spent With Friends",
+    "title": "Summer with Friends",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Unmeltable Snow in Shade"
+      },
+      "live": {
+        "name": "Know the Enemy"
+      },
+      "support": {
+        "name": "Confirm Rumors"
+      }
+    },
     "quote": {
       "n": "我輩も調べてみようか",
       "e": "熱はほどほどに冷まそうぞ"
