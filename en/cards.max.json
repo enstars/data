@@ -5718,10 +5718,21 @@
     "releaseDate": "8/15/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2432,
     "title": "Righteous Thief",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Before the Shining Door"
+      },
+      "live": {
+        "name": "Treasure Hunt"
+      },
+      "support": {
+        "name": "Reaction of Happiness"
+      }
+    },
     "quote": {
       "n": "ししょ〜の『魔法』 です !",
       "e": "探してるお宝はどこだ~?"
@@ -5729,10 +5740,21 @@
     "releaseDate": "9/2/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2433,
     "title": "Intellectual Thief",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "The Unlocking Spell"
+      },
+      "live": {
+        "name": "Office Information Network"
+      },
+      "support": {
+        "name": "Sketch in Memory"
+      }
+    },
     "quote": {
       "n": "見つけ出してみせます…！",
       "e": "お探しのものはありましたか？"
@@ -5744,13 +5766,35 @@
     "id": 2434,
     "title": "Thief with Device",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Deduction of the"
+      },
+      "live": {
+        "name": "Exchange Terms for Coffee"
+      },
+      "support": {
+        "name": "Exquisite Siphon Pot"
+      }
+    },
     "releaseDate": "9/2/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2435,
     "title": "Hidden Thief",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Territory of the Oddball"
+      },
+      "live": {
+        "name": "Secret Hidden Room"
+      },
+      "support": {
+        "name": "Key to the Room"
+      }
+    },
     "quote": {
       "n": "できれば秘密にしてくださいね",
       "e": "望むものをあなたに…♪"
@@ -5758,10 +5802,21 @@
     "releaseDate": "9/2/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2436,
-    "title": "Hesitation and Nightlife",
+    "title": "Night Out and Concern",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Confronting the Night"
+      },
+      "live": {
+        "name": "Confiding Club"
+      },
+      "support": {
+        "name": "Witness on Night Road"
+      }
+    },
     "releaseDate": "9/3/2022"
   },
   {
@@ -5785,7 +5840,7 @@
   {
     "compliant": "TRUE",
     "id": 2438,
-    "title": "NIght Out of Kids",
+    "title": "Night Out of Kids",
     "name": "Hinata Aoi",
     "skills": {
       "center": {
@@ -5895,10 +5950,21 @@
     "releaseDate": "9/3/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2444,
     "title": "Aspiring Sweet Prince",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Twinkling Eyes"
+      },
+      "live": {
+        "name": "Ideal Figure"
+      },
+      "support": {
+        "name": "Suitable Appearance"
+      }
+    },
     "quote": {
       "n": "…これでいいのかなぁ？",
       "e": "愛されるボクでありたいな…♪"
@@ -5906,10 +5972,21 @@
     "releaseDate": "8/26/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2445,
     "title": "After School Time",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "School Day"
+      },
+      "live": {
+        "name": "Ice-Cream Break"
+      },
+      "support": {
+        "name": "Popular Recommendation"
+      }
+    },
     "quote": {
       "n": "それは名案ですね",
       "e": "色んな姿をお見せしましょう"
@@ -5917,62 +5994,120 @@
     "releaseDate": "8/26/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2446,
     "title": "Leave it to Fate",
     "name": "Rinne Amagi",
     "skills": {
+      "center": {
+        "name": "Let Dice Decides"
+      },
       "live": {
-        "name": "Hobbies Over Food"
+        "name": "Food Over Hobbies"
       },
       "support": {
-        "name": "Encounter With Luck"
+        "name": "Luck of Encounter"
       }
     },
     "releaseDate": "8/26/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2447,
     "title": "Peaceful Library",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Daily Routine"
+      },
+      "live": {
+        "name": "Stock Homemade Tea"
+      },
+      "support": {
+        "name": "Snack Gifts"
+      }
+    },
     "releaseDate": "8/26/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2448,
-    "title": "Striped Hyena's Hunt",
+    "title": "Hunting Hyena",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Prince of Savanna"
+      },
+      "live": {
+        "name": "Survival by Nature"
+      },
+      "support": {
+        "name": "The Best Prey"
+      }
+    },
     "quote": {
       "n": "大物が期待できそうっす！",
       "e": "食らいついて離しませんから"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2449,
-    "title": "Serval's Nap",
+    "title": "Napping Serval",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Imaginary Savanna"
+      },
+      "live": {
+        "name": "Survival of Beginner"
+      },
+      "support": {
+        "name": "The Tender Fishing"
+      }
+    },
     "quote": {
       "n": "…壊れた傘？",
       "e": "何者にも縛られない自由♪"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2450,
-    "title": "Fennec Fox Encounter",
+    "title": "Encountering Fennec",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Delusive Savanna"
+      },
+      "live": {
+        "name": "Reckless Survival"
+      },
+      "support": {
+        "name": "Visitor to the Courtyard"
+      }
+    },
     "quote": {
       "n": "おまえ重たいなぁ",
       "e": "野生でも何とかなるだろ!"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2451,
-    "title": "African Wild Dog Companion",
+    "title": "Accompanying Lycaon",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Moderate Savanna"
+      },
+      "live": {
+        "name": "Modern Survival"
+      },
+      "support": {
+        "name": "Negotiation with Acquaintance"
+      }
+    },
     "quote": {
       "n": "恵みに感謝ですな",
       "e": "楽しては生きられません"
@@ -6083,10 +6218,21 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2459,
-    "title": "Bonds That Can Be Called Friendship",
+    "title": "Bonds Called Friendship",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Joyful Ambience"
+      },
+      "live": {
+        "name": "The Stage of Friendship"
+      },
+      "support": {
+        "name": "Difficult Question"
+      }
+    },
     "quote": {
       "n": "友達って言われても…",
       "e": "また遊ぼうって思えたな…♪"
@@ -6143,46 +6289,101 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2464,
-    "title": "Fantasy Dollhouse",
+    "title": "Delusional Dollhouse",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Disaster of the Doll"
+      },
+      "live": {
+        "name": "All-Out Piggyback"
+      },
+      "support": {
+        "name": "Assisting in Delivery"
+      }
+    },
     "quote": {
       "n": "無茶言わないでください…！",
       "e": "Everything around me is just really small, right!?"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2465,
     "title": "Fanciful Dollhouse",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Gaze from the Doll"
+      },
+      "live": {
+        "name": "Recapturing Entry Tickets"
+      },
+      "support": {
+        "name": "Escape SOS"
+      }
+    },
     "quote": {
       "n": "ドールハウスみたいやな♪",
       "e": "大きさひとつで世界が変わるんや"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2466,
-    "title": "Dollhouse Invasion",
+    "title": "Ranger of Dollhouse",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Location of the Doll"
+      },
+      "live": {
+        "name": "Message in Code"
+      },
+      "support": {
+        "name": "Summon Lessons"
+      }
+    },
     "quote": {
       "n": "どこへ行ってしまったんだ",
       "e": "目線ひとつで新体験だな！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2467,
-    "title": "Dollhouse Rescue",
-    "name": "Tsumugi Aoba"
+    "title": "Rescuer of Dollhouse",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Owner of the Doll"
+      },
+      "live": {
+        "name": "Picking Up Smartphone"
+      },
+      "support": {
+        "name": "Search for the Vanished"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2468,
-    "title": "Challenge Match",
+    "title": "Match for a Challenge",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Insistent Words"
+      },
+      "live": {
+        "name": "Dream Back Then "
+      },
+      "support": {
+        "name": "Workaholic"
+      }
+    },
     "quote": {
       "n": "……夢を見ておられるのか？",
       "e": "俺は全力で挑むからな"
@@ -6315,20 +6516,42 @@
     "releaseDate": "2022-10-01"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2476,
-    "title": "My One and Only Goal",
+    "title": "The Only Goal",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "The Passionate Bloom"
+      },
+      "live": {
+        "name": "Perform with Father"
+      },
+      "support": {
+        "name": "The Reference Nearby"
+      }
+    },
     "quote": {
       "n": "…こちらこそ",
       "e": "己自身で輝きを放ってみせる"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2477,
     "title": "Shopping with Roommates",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "SENSE for Decoration"
+      },
+      "live": {
+        "name": "SCHEDULE of Three"
+      },
+      "support": {
+        "name": "Select INTERIOR Ornaments"
+      }
+    }
   },
   {
     "compliant": "FALSE",
@@ -6392,42 +6615,97 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2484,
-    "title": "Coward's Dead End",
+    "title": "Dead End of Timid Soul",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Gloomy Mascot"
+      },
+      "live": {
+        "name": "Silent Butler"
+      },
+      "support": {
+        "name": "Kitchen Assistant"
+      }
+    },
     "quote": {
       "n": "Here you go, please enjoy your meal... ♪",
       "e": "Welcome to Dead End Land... ♪"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2485,
-    "title": "Entertainer's Dead End",
-    "name": "Wataru Hibiki"
+    "title": "Dead End of Hedonists ",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Jovial Mascot"
+      },
+      "live": {
+        "name": "Proactive Butler"
+      },
+      "support": {
+        "name": "Improvised Performance"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2486,
-    "title": "Collaboration and a Dead End",
-    "name": "Tomoya Mashiro"
+    "title": "Dead End and Cooperation",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Serious Mascot"
+      },
+      "live": {
+        "name": "Younger Butler"
+      },
+      "support": {
+        "name": "Solution to Dining Hall"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2487,
-    "title": "Protection and a Dead End",
+    "title": "Dead End and Protection",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Ninja Mascot"
+      },
+      "live": {
+        "name": "Ninja Butler"
+      },
+      "support": {
+        "name": "Roles and Duties"
+      }
+    },
     "quote": {
       "n": "無頓着だったでござるよ",
       "e": "隅々までご案内を…♪"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2488,
-    "title": "Green-Eyed Executioner",
+    "title": "Green-Eyed Punisher",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "The Reliable Back"
+      },
+      "live": {
+        "name": "Accidentally United"
+      },
+      "support": {
+        "name": "Hunting Skills"
+      }
+    },
     "quote": {
       "n": "君じゃ俺の相手にはならないなあ",
       "e": "俺たちは正義なんかじゃない"
@@ -6538,6 +6816,9 @@
       "center": {
         "name": "Aspiration and Expectation"
       },
+      "live": {
+        "name": "Costume for the Next"
+      },
       "support": {
         "name": "Records of Past Activities"
       }
@@ -6548,7 +6829,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2495,
     "title": "Turning to Juniors",
     "name": "Kaoru Hakaze",
@@ -6565,7 +6846,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2496,
     "title": "Souvenir Tea Party",
     "name": "Jun Sazanami",
@@ -6582,7 +6863,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2497,
     "title": "Time Spent Apart",
     "name": "Kuro Kiryu",
@@ -6599,7 +6880,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2498,
     "title": "Cooperation in \"Summer\"",
     "name": "Kanata Shinkai",
@@ -6611,7 +6892,7 @@
         "name": "Sprite in the Garden"
       },
       "support": {
-        "name": "Exploration of the Blue"
+        "name": "Exploration of the Blue Sea"
       }
     },
     "quote": {
@@ -6641,7 +6922,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2500,
     "title": "Learning in Summer",
     "name": "Hinata Aoi",
@@ -6683,30 +6964,63 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2502,
-    "title": "Heading to Our Destination, the Path to Happiness",
+    "title": "Toward Path to Happiness",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Before the Open Door"
+      },
+      "live": {
+        "name": "Flapping Wings of Bluebird"
+      },
+      "support": {
+        "name": "Extreme Tasks"
+      }
+    },
     "quote": {
       "n": "Mmm~, I feel refreshed!",
       "e": "進む先にはきっと幸せがありますね"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2503,
-    "title": "Beyond Our Destination, the World's Mysteries",
+    "title": "Toward the Unknown World",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Behind the Closed Door"
+      },
+      "live": {
+        "name": "Inspired Lion Heart"
+      },
+      "support": {
+        "name": "The Dark Past"
+      }
+    },
     "quote": {
       "n": "…………",
       "e": "明るい未来は自分で描かなきゃ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2504,
-    "title": "A Destination Where Mysteries Are Known",
+    "title": "To know the Unknown",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "World Unfolding Before"
+      },
+      "live": {
+        "name": "Sky to Fly Freely"
+      },
+      "support": {
+        "name": "Arm Dragged"
+      }
+    },
     "quote": {
       "n": "宙はどうしたらいいんでしょう",
       "e": "さぁ、みんなで次に行きましょう"

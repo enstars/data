@@ -69,15 +69,31 @@
   },
   {
     "compliant": "FALSE",
-    "event_id": 208
+    "event_id": 208,
+    "name": "Learning from the Past / Succession Match",
+    "event_gacha": "Dollhouse",
+    "intro_lines": "Rei and Keito were fond of watching Vampire General, an entertaining period drama in their childhood. Since Rhythm Link has also participated in its production, they decided to revive this period drama by performing one of its famous episodes on the stage of a renovated live house during a regional revitalization project.",
+    "story_name": "Learning from the Past",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",
-    "event_id": 209
+    "event_id": 209,
+    "name": "Debut! Awakened Night Patrollers",
+    "event_gacha": "Dead End Land",
+    "intro_lines": "Kohaku is carrying on an investigation for a certain reason. When he's following a clue, Madara senses his presence. After knowing Leo is related to the person Kohaku is after, Madara tries to join his investigation...",
+    "song_name": "\\=EYE\\=",
+    "story_name": "Walking in Darkness",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",
-    "event_id": 210
+    "event_id": 210,
+    "name": "A Step Forward / Next Door",
+    "event_gacha": "Summer Snow",
+    "intro_lines": "Tsumugi is overworked from the agency work, and Leo is concerned about him. Meanwhile, NEW DI's grim situation reminds Leo of the hardship he had gone through.",
+    "story_name": "Next Door",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",
