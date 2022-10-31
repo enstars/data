@@ -5552,10 +5552,21 @@
     "releaseDate": "8/19/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2423,
-    "title": "Tempting Sweets",
+    "title": "Temptation of Sweets",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Plan for Sweets"
+      },
+      "live": {
+        "name": "Sweet Time-Killing"
+      },
+      "support": {
+        "name": "Guest Attraction Plan"
+      }
+    },
     "releaseDate": "8/19/2022"
   },
   {
@@ -6554,16 +6565,38 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2478,
-    "title": "Meet and Greet Investigation",
-    "name": "Hiyori Tomoe"
+    "title": "Fan Meeting Research",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Beaming Handshake"
+      },
+      "live": {
+        "name": "Research Assistance"
+      },
+      "support": {
+        "name": "Solution to Standby"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2479,
-    "title": "Handmade Thank You Gift",
+    "title": "Handmade Wreath",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Range of Capability"
+      },
+      "live": {
+        "name": "Secret Place"
+      },
+      "support": {
+        "name": "Plenty of Gifts"
+      }
+    },
     "quote": {
       "n": "すこしついてきてほしい",
       "e": "感謝の気持ちだよ"
@@ -6774,7 +6807,7 @@
     "releaseDate": "2022-10-15"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2492,
     "title": "New ES Idol",
     "name": "Madara Mikejima",
@@ -6791,7 +6824,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2493,
     "title": "New ES Idol",
     "name": "Kohaku Oukawa",
@@ -7027,10 +7060,21 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2505,
-    "title": "A Path We Continue Down",
+    "title": "Keep Walking Down the Path",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Door Open to the World"
+      },
+      "live": {
+        "name": "Fortified Heart"
+      },
+      "support": {
+        "name": "Babysitting the Lost Child"
+      }
+    },
     "quote": {
       "n": "相変わらず俺って綺麗…",
       "e": "誰かは先で待ってるんだよ"
@@ -12098,19 +12142,164 @@
     "name": "Keito Hasumi"
   },
   {
-    "compliant": "FALSE"
+    "compliant": "FALSE",
+    "title": "Accompanying Shadow",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Radiant Smile"
+      },
+      "live": {
+        "name": "Creating Time"
+      },
+      "support": {
+        "name": "Prepare a Surprise"
+      }
+    }
   },
   {
-    "compliant": "FALSE"
+    "compliant": "FALSE",
+    "title": "Timely Perfection",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Relaxed Grin"
+      },
+      "live": {
+        "name": "Weaving Time"
+      },
+      "support": {
+        "name": "Design Suggestions"
+      }
+    }
   },
   {
-    "compliant": "FALSE"
+    "compliant": "FALSE",
+    "title": "Cheerful Sunshine",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Care in a Theme Park"
+      },
+      "live": {
+        "name": "Help and Advice"
+      },
+      "support": {
+        "name": "Soothing Time"
+      }
+    }
   },
   {
-    "compliant": "FALSE"
+    "compliant": "FALSE",
+    "title": "Glistening Ephemera",
+    "name": "Koga Ogami",
+    "skills": {
+      "center": {
+        "name": "Courage on a Roller"
+      },
+      "live": {
+        "name": "Past and Future"
+      },
+      "support": {
+        "name": "Challenging Time"
+      }
+    }
   },
   {
-    "compliant": "FALSE"
+    "compliant": "FALSE",
+    "title": "Brightening Sight",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Kindness in a Costume"
+      },
+      "live": {
+        "name": "Play and Work"
+      },
+      "support": {
+        "name": "Serious Time"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "title": "Surprising Satisfaction",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Contented Beam"
+      },
+      "live": {
+        "name": "Blending Time"
+      },
+      "support": {
+        "name": "Narucchan Blend"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "title": "Mesmerizing Fairytale",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Immersion in Happiness"
+      },
+      "live": {
+        "name": "Collect Cuties"
+      },
+      "support": {
+        "name": "Exchange Dolls"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "title": "Alluring Fairytale",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Dreamy Sweets House"
+      },
+      "live": {
+        "name": "Dinner Invitation"
+      },
+      "support": {
+        "name": "List of Ingredients"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "title": "Melodious Fairytale",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Sincere Gift"
+      },
+      "live": {
+        "name": "Dessert Tryout"
+      },
+      "support": {
+        "name": "Urgent Purchase"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "title": "Colorful Fairytale",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Handmade Joy"
+      },
+      "live": {
+        "name": "First Handicraft"
+      },
+      "support": {
+        "name": "Seeking for advice"
+      }
+    }
   },
   {
     "compliant": "FALSE"
