@@ -274,7 +274,8 @@
     "banner_id": 2541,
     "five_star": {
       "card_id": 2541
-    }
+    },
+    "unit_id": "1,2"
   },
   {
     "compliant": "TRUE",
@@ -293,7 +294,8 @@
     "banner_id": 2557,
     "five_star": {
       "card_id": 2557
-    }
+    },
+    "unit_id": 15
   },
   {
     "compliant": "FALSE",

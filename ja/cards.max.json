@@ -136572,7 +136572,10 @@
             8,
             30
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 15,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "理想とけものみち",
@@ -137016,12 +137019,805 @@
         "order_num": 60,
         "support_skill_type_name": "ステータスピース（青小）アップ"
       }
+    },
+    "spp": {
+      "name": "勇侠青春謳"
     }
   },
   {
     "compliant": "FALSE",
-    "spp": {
-      "name": "勇侠青春謳"
+    "id": 3279,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 4,
+    "substat_type": 2,
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 6860,
+        "vo": 6790,
+        "pf": 10370
+      },
+      "ir": {
+        "da": 25777,
+        "vo": 27525,
+        "pf": 42643
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "120"
+        ],
+        "description": "FlashタイプのPf {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            5,
+            50
+          ],
+          [
+            5,
+            60
+          ],
+          [
+            5,
+            70
+          ],
+          [
+            5,
+            80
+          ]
+        ]
+      }
     }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3280,
+    "rarity": 4,
+    "character_id": 23,
+    "type": 2,
+    "substat_type": 1,
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 2840,
+        "vo": 5460,
+        "pf": 2570
+      },
+      "ir": {
+        "da": 13678,
+        "vo": 29739,
+        "pf": 13631
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "80"
+        ],
+        "description": "BrilliantタイプのVo {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            12,
+            20
+          ],
+          [
+            12,
+            25
+          ],
+          [
+            12,
+            30
+          ],
+          [
+            12,
+            35
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3281,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 3,
+    "substat_type": 0,
+    "name": "深海 奏汰",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 3150,
+        "vo": 1570,
+        "pf": 1660
+      },
+      "ir": {
+        "da": 21694,
+        "vo": 10467,
+        "pf": 9737
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "80"
+        ],
+        "description": "GlitterタイプのDa {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            18
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            25
+          ],
+          [
+            8,
+            30
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3282,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 2,
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 5160,
+        "vo": 6320,
+        "pf": 11300
+      },
+      "ir": {
+        "da": 21522,
+        "vo": 25724,
+        "pf": 46548
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "120"
+        ],
+        "description": "BrilliantタイプのPf {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            12,
+            20
+          ],
+          [
+            12,
+            25
+          ],
+          [
+            12,
+            30
+          ],
+          [
+            12,
+            35
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3283,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 1,
+    "substat_type": 2,
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 2940,
+        "vo": 2820,
+        "pf": 5060
+      },
+      "ir": {
+        "da": 16759,
+        "vo": 12823,
+        "pf": 28075
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "35"
+        ],
+        "description": "Sparkleタイプの総合値{0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            23
+          ],
+          [
+            8,
+            26
+          ],
+          [
+            8,
+            30
+          ],
+          [
+            8,
+            35
+          ],
+          [
+            8,
+            40
+          ],
+          [
+            8,
+            45
+          ],
+          [
+            8,
+            50
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3284,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 4,
+    "substat_type": 0,
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 3160,
+        "vo": 1460,
+        "pf": 1630
+      },
+      "ir": {
+        "da": 21473,
+        "vo": 10599,
+        "pf": 9715
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "80"
+        ],
+        "description": "FlashタイプのDa {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            10
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            5,
+            15
+          ],
+          [
+            5,
+            17
+          ],
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            22
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            50
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3285,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 1,
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 1690,
+        "vo": 2920,
+        "pf": 1800
+      },
+      "ir": {
+        "da": 11421,
+        "vo": 18790,
+        "pf": 12482
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "80"
+        ],
+        "description": "GlitterタイプのVo {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            4
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            15
+          ],
+          [
+            12,
+            20
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3286,
+    "rarity": 5,
+    "character_id": 73,
+    "type": 4,
+    "substat_type": 1,
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2022-10-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "min": {
+        "da": 5750,
+        "vo": 11860,
+        "pf": 5480
+      },
+      "ir": {
+        "da": 25557,
+        "vo": 46246,
+        "pf": 20626
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "50"
+        ]
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            5,
+            50
+          ],
+          [
+            5,
+            60
+          ],
+          [
+            5,
+            70
+          ],
+          [
+            5,
+            80
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3287,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 1,
+    "substat_type": 2,
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2022-10-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "min": {
+        "da": 2830,
+        "vo": 3270,
+        "pf": 4910
+      },
+      "ir": {
+        "da": 14989,
+        "vo": 13945,
+        "pf": 28288
+      }
+    },
+    "skills": {
+      "center": {
+        "effect_value": [
+          "80"
+        ],
+        "description": "SparkleタイプのPf {0}％up"
+      },
+      "live": {
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            12,
+            20
+          ],
+          [
+            12,
+            25
+          ],
+          [
+            12,
+            30
+          ],
+          [
+            12,
+            35
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3288,
+    "rarity": 3,
+    "character_id": 72,
+    "type": 3,
+    "substat_type": 1,
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2022-10-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "min": {
+        "da": 2020,
+        "vo": 2930,
+        "pf": 1750
+      },
+      "ir": {
+        "da": 12822,
+        "vo": 18782,
+        "pf": 11556
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 3289,
+    "rarity": 3,
+    "character_id": 71,
+    "type": 2,
+    "substat_type": 0,
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2022-10-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "min": {
+        "da": 3270,
+        "vo": 1780,
+        "pf": 1610
+      },
+      "ir": {
+        "da": 21195,
+        "vo": 11970,
+        "pf": 7681
+      }
+    }
+  },
+  {
+    "compliant": "FALSE"
   }
 ]

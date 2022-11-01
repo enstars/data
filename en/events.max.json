@@ -68,7 +68,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 208,
     "name": "Learning from the Past / Succession Match",
     "event_gacha": "Dollhouse",
@@ -77,7 +77,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 209,
     "name": "Debut! Awakened Night Patrollers",
     "event_gacha": "Dead End Land",
@@ -87,7 +87,7 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 210,
     "name": "A Step Forward / Next Door",
     "event_gacha": "Summer Snow",
