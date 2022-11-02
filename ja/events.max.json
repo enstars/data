@@ -7,7 +7,21 @@
     "name": "Ensemble Stars!! ENG Anniversary",
     "banner_id": 2627,
     "five_star": {
-      "card_id": 2627
+      "card_id": [
+        2627
+      ]
+    },
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          2627
+        ]
+      ]
     }
   },
   {
@@ -26,13 +40,45 @@
     "story_season": "夏",
     "banner_id": 2201,
     "five_star": {
-      "card_id": 2201,
-      "chara_id": 11
+      "card_id": [
+        2201
+      ],
+      "chara_id": [
+        11
+      ]
     },
     "four_star": {
-      "card_id": 2202
+      "card_id": [
+        2202
+      ]
     },
-    "unit_id": 1
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2202
+        ],
+        [
+          2201
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          11
+        ]
+      ]
+    },
+    "unit_id": [
+      1
+    ]
   },
   {
     "compliant": "TRUE",
@@ -50,13 +96,47 @@
     "story_season": "夏",
     "banner_id": 2409,
     "five_star": {
-      "card_id": 2409,
-      "chara_id": 23
+      "card_id": [
+        2409
+      ],
+      "chara_id": [
+        23
+      ]
     },
     "four_star": {
-      "card_id": "2410,2411"
+      "card_id": [
+        2410,
+        2411
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2410,
+          2411
+        ],
+        [
+          2409
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          23
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
     "compliant": "TRUE",
@@ -73,13 +153,52 @@
     "story_season": "夏",
     "banner_id": 2213,
     "five_star": {
-      "card_id": "2213,2214",
-      "chara_id": "1,67"
+      "card_id": [
+        2213,
+        2214
+      ],
+      "chara_id": [
+        1,
+        67
+      ]
     },
     "four_star": {
-      "card_id": "2215,2216"
+      "card_id": [
+        2215,
+        2216
+      ]
     },
-    "unit_id": "5,15"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2215,
+          2216
+        ],
+        [
+          2213,
+          2214
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1,
+          67
+        ]
+      ]
+    },
+    "unit_id": [
+      5,
+      15
+    ]
   },
   {
     "compliant": "TRUE",
@@ -97,13 +216,45 @@
     "story_season": "春",
     "banner_id": 2416,
     "five_star": {
-      "card_id": 2416,
-      "chara_id": 27
+      "card_id": [
+        2416
+      ],
+      "chara_id": [
+        27
+      ]
     },
     "four_star": {
-      "card_id": 2417
+      "card_id": [
+        2417
+      ]
     },
-    "unit_id": 2
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2417
+        ],
+        [
+          2416
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          27
+        ]
+      ]
+    },
+    "unit_id": [
+      2
+    ]
   },
   {
     "compliant": "TRUE",
@@ -121,13 +272,45 @@
     "story_season": "春",
     "banner_id": 2424,
     "five_star": {
-      "card_id": 2424,
-      "chara_id": 41
+      "card_id": [
+        2424
+      ],
+      "chara_id": [
+        41
+      ]
     },
     "four_star": {
-      "card_id": 2425
+      "card_id": [
+        2425
+      ]
     },
-    "unit_id": 14
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2425
+        ],
+        [
+          2424
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          41
+        ]
+      ]
+    },
+    "unit_id": [
+      14
+    ]
   },
   {
     "compliant": "TRUE",
@@ -144,13 +327,52 @@
     "story_season": "夏",
     "banner_id": 2436,
     "five_star": {
-      "card_id": "2436,2437",
-      "chara_id": "8,71"
+      "card_id": [
+        2436,
+        2437
+      ],
+      "chara_id": [
+        8,
+        71
+      ]
     },
     "four_star": {
-      "card_id": "2438,2439"
+      "card_id": [
+        2438,
+        2439
+      ]
     },
-    "unit_id": "7,16"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2438,
+          2439
+        ],
+        [
+          2436,
+          2437
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          8,
+          71
+        ]
+      ]
+    },
+    "unit_id": [
+      7,
+      16
+    ]
   },
   {
     "compliant": "TRUE",
@@ -168,13 +390,45 @@
     "story_season": "夏",
     "banner_id": 2452,
     "five_star": {
-      "card_id": 2452,
-      "chara_id": 30
+      "card_id": [
+        2452
+      ],
+      "chara_id": [
+        30
+      ]
     },
     "four_star": {
-      "card_id": 2453
+      "card_id": [
+        2453
+      ]
     },
-    "unit_id": 6
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2453
+        ],
+        [
+          2452
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          30
+        ]
+      ]
+    },
+    "unit_id": [
+      6
+    ]
   },
   {
     "compliant": "TRUE",
@@ -191,13 +445,52 @@
     "story_season": "過去／春、春、夏、秋",
     "banner_id": 2469,
     "five_star": {
-      "card_id": "2458,2469",
-      "chara_id": "21,29"
+      "card_id": [
+        2458,
+        2469
+      ],
+      "chara_id": [
+        21,
+        29
+      ]
     },
     "four_star": {
-      "card_id": "2470,2471"
+      "card_id": [
+        2470,
+        2471
+      ]
     },
-    "unit_id": "3,8"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2470,
+          2471
+        ],
+        [
+          2458,
+          2469
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          21,
+          29
+        ]
+      ]
+    },
+    "unit_id": [
+      3,
+      8
+    ]
   },
   {
     "compliant": "TRUE",
@@ -215,13 +508,45 @@
     "story_season": "夏",
     "banner_id": 2488,
     "five_star": {
-      "card_id": 2488,
-      "chara_id": 40
+      "card_id": [
+        2488
+      ],
+      "chara_id": [
+        40
+      ]
     },
     "four_star": {
-      "card_id": 2489
+      "card_id": [
+        2489
+      ]
     },
-    "unit_id": 17
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2489
+        ],
+        [
+          2488
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          40
+        ]
+      ]
+    },
+    "unit_id": [
+      17
+    ]
   },
   {
     "compliant": "TRUE",
@@ -238,13 +563,52 @@
     "story_season": "過去／冬、夏",
     "banner_id": 2503,
     "five_star": {
-      "card_id": "2502,2503",
-      "chara_id": "33,39"
+      "card_id": [
+        2502,
+        2503
+      ],
+      "chara_id": [
+        33,
+        39
+      ]
     },
     "four_star": {
-      "card_id": "2504,2505"
+      "card_id": [
+        2504,
+        2505
+      ]
     },
-    "unit_id": "4,10"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2504,
+          2505
+        ],
+        [
+          2502,
+          2503
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          33,
+          39
+        ]
+      ]
+    },
+    "unit_id": [
+      4,
+      10
+    ]
   },
   {
     "compliant": "TRUE",
@@ -262,13 +626,45 @@
     "story_season": "夏",
     "banner_id": 2515,
     "five_star": {
-      "card_id": 2515,
-      "chara_id": 35
+      "card_id": [
+        2515
+      ],
+      "chara_id": [
+        35
+      ]
     },
     "four_star": {
-      "card_id": 2516
+      "card_id": [
+        2516
+      ]
     },
-    "unit_id": 9
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2516
+        ],
+        [
+          2515
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          35
+        ]
+      ]
+    },
+    "unit_id": [
+      9
+    ]
   },
   {
     "compliant": "TRUE",
@@ -286,18 +682,66 @@
     "story_season": "過去／夏、夏",
     "banner_id": 2529,
     "five_star": {
-      "card_id": 2529,
-      "chara_id": 74
+      "card_id": [
+        2529
+      ],
+      "chara_id": [
+        74
+      ]
     },
     "four_star": {
-      "card_id": 2530,
-      "chara_id": 71
+      "card_id": [
+        2530
+      ],
+      "chara_id": [
+        71
+      ]
     },
     "three_star": {
-      "card_id": "2531,2532",
-      "chara_id": "72,73"
+      "card_id": [
+        2531,
+        2532
+      ],
+      "chara_id": [
+        72,
+        73
+      ]
     },
-    "unit_id": 16
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        [
+          2531,
+          2532
+        ],
+        [
+          2530
+        ],
+        [
+          2529
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        [
+          72,
+          73
+        ],
+        [
+          71
+        ],
+        [
+          74
+        ]
+      ]
+    },
+    "unit_id": [
+      16
+    ]
   },
   {
     "compliant": "TRUE",
@@ -314,13 +758,52 @@
     "story_season": "春",
     "banner_id": 2541,
     "five_star": {
-      "card_id": "2541,2542",
-      "chara_id": "13,19"
+      "card_id": [
+        2541,
+        2542
+      ],
+      "chara_id": [
+        13,
+        19
+      ]
     },
     "four_star": {
-      "card_id": "2543,2544"
+      "card_id": [
+        2543,
+        2544
+      ]
     },
-    "unit_id": "1,2"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2543,
+          2544
+        ],
+        [
+          2541,
+          2542
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          13,
+          19
+        ]
+      ]
+    },
+    "unit_id": [
+      1,
+      2
+    ]
   },
   {
     "compliant": "TRUE",
@@ -338,13 +821,45 @@
     "story_season": "夏",
     "banner_id": 2557,
     "five_star": {
-      "card_id": 2557,
-      "chara_id": 68
+      "card_id": [
+        2557
+      ],
+      "chara_id": [
+        68
+      ]
     },
     "four_star": {
-      "card_id": 2558
+      "card_id": [
+        2558
+      ]
     },
-    "unit_id": 15
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2558
+        ],
+        [
+          2557
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          68
+        ]
+      ]
+    },
+    "unit_id": [
+      15
+    ]
   },
   {
     "compliant": "FALSE",
@@ -358,14 +873,47 @@
     "story_name": "不夜城ライブ",
     "story_author": "日日日",
     "story_season": "夏、秋",
+    "banner_id": 2569,
     "five_star": {
-      "card_id": 2569,
-      "chara_id": 16
+      "card_id": [
+        2569
+      ],
+      "chara_id": [
+        16
+      ]
     },
     "four_star": {
-      "card_id": 2570
+      "card_id": [
+        2570
+      ]
     },
-    "unit_id": 3
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2570
+        ],
+        [
+          2569
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          16
+        ]
+      ]
+    },
+    "unit_id": [
+      3
+    ]
   },
   {
     "compliant": "FALSE",
@@ -378,14 +926,54 @@
     "story_name": "ボギータイム",
     "story_author": "日日日",
     "story_season": "夏",
+    "banner_id": 2581,
     "five_star": {
-      "card_id": "2581,2582",
-      "chara_id": "2,51"
+      "card_id": [
+        2581,
+        2582
+      ],
+      "chara_id": [
+        2,
+        51
+      ]
     },
     "four_star": {
-      "card_id": "2583,2584"
+      "card_id": [
+        2583,
+        2584
+      ]
     },
-    "unit_id": "6,14"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2583,
+          2584
+        ],
+        [
+          2581,
+          2582
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          2,
+          51
+        ]
+      ]
+    },
+    "unit_id": [
+      6,
+      14
+    ]
   },
   {
     "compliant": "FALSE",
@@ -399,14 +987,49 @@
     "story_name": "バトラー",
     "story_author": "木野誠太郎",
     "story_season": "夏",
+    "banner_id": 2597,
     "five_star": {
-      "card_id": 2597,
-      "chara_id": 24
+      "card_id": [
+        2597
+      ],
+      "chara_id": [
+        24
+      ]
     },
     "four_star": {
-      "card_id": "2598,2599"
+      "card_id": [
+        2598,
+        2599
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2598,
+          2599
+        ],
+        [
+          2597
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          24
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
     "compliant": "FALSE",
@@ -420,14 +1043,47 @@
     "story_name": "Merry Xmas",
     "story_author": "西岡麻衣子",
     "story_season": "冬",
+    "banner_id": 2606,
     "five_star": {
-      "card_id": 2606,
-      "chara_id": 6
+      "card_id": [
+        2606
+      ],
+      "chara_id": [
+        6
+      ]
     },
     "four_star": {
-      "card_id": 2607
+      "card_id": [
+        2607
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2607
+        ],
+        [
+          2606
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          6
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
     "compliant": "FALSE",
@@ -441,14 +1097,49 @@
     "story_name": "コメットショウ",
     "story_author": "日日日",
     "story_season": "過去／夏、夏",
+    "banner_id": 2614,
     "five_star": {
-      "card_id": 2614,
-      "chara_id": 25
+      "card_id": [
+        2614
+      ],
+      "chara_id": [
+        25
+      ]
     },
     "four_star": {
-      "card_id": "2615,2616"
+      "card_id": [
+        2615,
+        2616
+      ]
     },
-    "unit_id": 4
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2615,
+          2616
+        ],
+        [
+          2614
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          25
+        ]
+      ]
+    },
+    "unit_id": [
+      4
+    ]
   },
   {
     "compliant": "FALSE",
@@ -462,14 +1153,47 @@
     "story_name": "ツインピークス",
     "story_author": "日日日",
     "story_season": "夏、秋",
+    "banner_id": 2628,
     "five_star": {
-      "card_id": 2628,
-      "chara_id": 4
+      "card_id": [
+        2628
+      ],
+      "chara_id": [
+        4
+      ]
     },
     "four_star": {
-      "card_id": 2629
+      "card_id": [
+        2629
+      ]
     },
-    "unit_id": 7
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2629
+        ],
+        [
+          2628
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          4
+        ]
+      ]
+    },
+    "unit_id": [
+      7
+    ]
   },
   {
     "compliant": "FALSE",
@@ -482,14 +1206,54 @@
     "story_name": "骨董綺譚",
     "story_author": "日日日",
     "story_season": "秋",
+    "banner_id": 2640,
     "five_star": {
-      "card_id": "2640,2641",
-      "chara_id": "34,73"
+      "card_id": [
+        2640,
+        2641
+      ],
+      "chara_id": [
+        34,
+        73
+      ]
     },
     "four_star": {
-      "card_id": "2642,2643"
+      "card_id": [
+        2642,
+        2643
+      ]
     },
-    "unit_id": "9,17"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2642,
+          2643
+        ],
+        [
+          2640,
+          2641
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          34,
+          73
+        ]
+      ]
+    },
+    "unit_id": [
+      9,
+      17
+    ]
   },
   {
     "compliant": "FALSE",
@@ -503,14 +1267,47 @@
     "story_name": "天下布武",
     "story_author": "日日日",
     "story_season": "秋",
+    "banner_id": 2656,
     "five_star": {
-      "card_id": 2656,
-      "chara_id": 26
+      "card_id": [
+        2656
+      ],
+      "chara_id": [
+        26
+      ]
     },
     "four_star": {
-      "card_id": 2657
+      "card_id": [
+        2657
+      ]
     },
-    "unit_id": 8
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2657
+        ],
+        [
+          2656
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          26
+        ]
+      ]
+    },
+    "unit_id": [
+      8
+    ]
   },
   {
     "compliant": "FALSE",
@@ -524,14 +1321,49 @@
     "story_name": "euthanasia",
     "story_author": "日日日",
     "story_season": "秋",
+    "banner_id": 2669,
     "five_star": {
-      "card_id": 2669,
-      "chara_id": 17
+      "card_id": [
+        2669
+      ],
+      "chara_id": [
+        17
+      ]
     },
     "four_star": {
-      "card_id": "2670,2671"
+      "card_id": [
+        2670,
+        2671
+      ]
     },
-    "unit_id": 4
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2670,
+          2671
+        ],
+        [
+          2669
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          17
+        ]
+      ]
+    },
+    "unit_id": [
+      4
+    ]
   },
   {
     "compliant": "FALSE",
@@ -545,14 +1377,47 @@
     "story_name": "幻灯機",
     "story_author": "日日日",
     "story_season": "秋",
+    "banner_id": 2682,
     "five_star": {
-      "card_id": 2682,
-      "chara_id": 37
+      "card_id": [
+        2682
+      ],
+      "chara_id": [
+        37
+      ]
     },
     "four_star": {
-      "card_id": 2683
+      "card_id": [
+        2683
+      ]
     },
-    "unit_id": 10
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2683
+        ],
+        [
+          2682
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          37
+        ]
+      ]
+    },
+    "unit_id": [
+      10
+    ]
   },
   {
     "compliant": "FALSE",
@@ -566,14 +1431,47 @@
     "story_name": "プリマヴェーラ",
     "story_author": "木野誠太郎",
     "story_season": "春、秋、冬",
+    "banner_id": 2745,
     "five_star": {
-      "card_id": 2745,
-      "chara_id": 22
+      "card_id": [
+        2745
+      ],
+      "chara_id": [
+        22
+      ]
     },
     "four_star": {
-      "card_id": 2746
+      "card_id": [
+        2746
+      ]
     },
-    "unit_id": 2
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2746
+        ],
+        [
+          2745
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          22
+        ]
+      ]
+    },
+    "unit_id": [
+      2
+    ]
   },
   {
     "compliant": "FALSE",
@@ -586,14 +1484,54 @@
     "story_name": "サテライト",
     "story_author": "日日日",
     "story_season": "秋、冬",
+    "banner_id": 2757,
     "five_star": {
-      "card_id": "2757,2758",
-      "chara_id": "12,70"
+      "card_id": [
+        2757,
+        2758
+      ],
+      "chara_id": [
+        12,
+        70
+      ]
     },
     "four_star": {
-      "card_id": "2759,2760"
+      "card_id": [
+        2759,
+        2760
+      ]
     },
-    "unit_id": "1,15"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2759,
+          2760
+        ],
+        [
+          2757,
+          2758
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          12,
+          70
+        ]
+      ]
+    },
+    "unit_id": [
+      1,
+      15
+    ]
   },
   {
     "compliant": "FALSE",
@@ -607,14 +1545,47 @@
     "story_name": "ブラックバニー",
     "story_author": "西岡麻衣子",
     "story_season": "秋",
+    "banner_id": 2773,
     "five_star": {
-      "card_id": 2773,
-      "chara_id": 9
+      "card_id": [
+        2773
+      ],
+      "chara_id": [
+        9
+      ]
     },
     "four_star": {
-      "card_id": 2774
+      "card_id": [
+        2774
+      ]
     },
-    "unit_id": 6
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2774
+        ],
+        [
+          2773
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          9
+        ]
+      ]
+    },
+    "unit_id": [
+      6
+    ]
   },
   {
     "compliant": "FALSE",
@@ -628,16 +1599,50 @@
     "story_name": "アリアドネ",
     "story_author": "木野誠太郎",
     "story_season": "秋",
+    "banner_id": 2785,
     "five_star": {
-      "card_id": 2785,
-      "chara_id": 72
+      "card_id": [
+        2785
+      ],
+      "chara_id": [
+        72
+      ]
     },
     "four_star": {
-      "card_id": 2786
+      "card_id": [
+        2786
+      ]
     },
-    "unit_id": 16
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2786
+        ],
+        [
+          2785
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          72
+        ]
+      ]
+    },
+    "unit_id": [
+      16
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 229,
     "type": "tour",
     "name": "『SS』編／2nd Stageサブマリン",
@@ -647,16 +1652,57 @@
     "story_name": "サブマリン",
     "story_author": "日日日",
     "story_season": "冬",
+    "banner_id": 2797,
     "five_star": {
-      "card_id": "2797,2798",
-      "chara_id": "14,28"
+      "card_id": [
+        2797,
+        2798
+      ],
+      "chara_id": [
+        14,
+        28
+      ]
     },
     "four_star": {
-      "card_id": "2799,2800"
+      "card_id": [
+        2799,
+        2800
+      ]
     },
-    "unit_id": "5,8"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2799,
+          2800
+        ],
+        [
+          2797,
+          2798
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          14,
+          28
+        ]
+      ]
+    },
+    "unit_id": [
+      5,
+      8
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 230,
     "type": "shuffle",
     "name": "SHUFFLE×Ringが誘う鐘の音",
@@ -668,15 +1714,50 @@
     "story_author": "西岡麻衣子",
     "story_season": "秋",
     "five_star": {
-      "card_id": 2813,
-      "chara_id": 5
+      "card_id": [
+        2813
+      ],
+      "chara_id": [
+        5
+      ]
     },
     "four_star": {
-      "card_id": "2814,2815"
+      "card_id": [
+        2814,
+        2815
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2814,
+          2815
+        ],
+        [
+          2813
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          5
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 231,
     "type": "tour",
     "name": "『SS』編／3rd Stageシークレットサービス",
@@ -687,15 +1768,55 @@
     "story_author": "日日日",
     "story_season": "冬",
     "five_star": {
-      "card_id": "2822,2823",
-      "chara_id": "40,51"
+      "card_id": [
+        2822,
+        2823
+      ],
+      "chara_id": [
+        40,
+        51
+      ]
     },
     "four_star": {
-      "card_id": "2824,2825"
+      "card_id": [
+        2824,
+        2825
+      ]
     },
-    "unit_id": "14,17"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2824,
+          2825
+        ],
+        [
+          2822,
+          2823
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          40,
+          51
+        ]
+      ]
+    },
+    "unit_id": [
+      14,
+      17
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 232,
     "type": "song",
     "name": "芳香＊忍ばせたフレグランス",
@@ -707,15 +1828,50 @@
     "story_author": "木野誠太郎",
     "story_season": "秋",
     "five_star": {
-      "card_id": 2836,
-      "chara_id": 20
+      "card_id": [
+        2836
+      ],
+      "chara_id": [
+        20
+      ]
     },
     "four_star": {
-      "card_id": "2837,2838"
+      "card_id": [
+        2837,
+        2838
+      ]
     },
-    "unit_id": 4
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2837,
+          2838
+        ],
+        [
+          2836
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          20
+        ]
+      ]
+    },
+    "unit_id": [
+      4
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 233,
     "type": "tour",
     "name": "『SS』編／4th Stageシンセカイ",
@@ -726,15 +1882,55 @@
     "story_author": "日日日",
     "story_season": "冬",
     "five_star": {
-      "card_id": "2849,2850",
-      "chara_id": "35,38"
+      "card_id": [
+        2849,
+        2850
+      ],
+      "chara_id": [
+        35,
+        38
+      ]
     },
     "four_star": {
-      "card_id": "2851,2852"
+      "card_id": [
+        2851,
+        2852
+      ]
     },
-    "unit_id": "9,10"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2851,
+          2852
+        ],
+        [
+          2849,
+          2850
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          35,
+          38
+        ]
+      ]
+    },
+    "unit_id": [
+      9,
+      10
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 234,
     "type": "tour",
     "name": "『SS』編／5th Stageサンドストーム",
@@ -745,15 +1941,55 @@
     "story_author": "日日日",
     "story_season": "冬",
     "five_star": {
-      "card_id": "2864,2865",
-      "chara_id": "4,23"
+      "card_id": [
+        2864,
+        2865
+      ],
+      "chara_id": [
+        4,
+        23
+      ]
     },
     "four_star": {
-      "card_id": "2866,2867"
+      "card_id": [
+        2866,
+        2867
+      ]
     },
-    "unit_id": "3,7"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2866,
+          2867
+        ],
+        [
+          2864,
+          2865
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          4,
+          23
+        ]
+      ]
+    },
+    "unit_id": [
+      3,
+      7
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 235,
     "type": "shuffle",
     "name": "SHUFFLE×月光ミラーボール",
@@ -765,15 +2001,50 @@
     "story_author": "木野誠太郎",
     "story_season": "冬",
     "five_star": {
-      "card_id": 2878,
-      "chara_id": 41
+      "card_id": [
+        2878
+      ],
+      "chara_id": [
+        41
+      ]
     },
     "four_star": {
-      "card_id": "2879,2880"
+      "card_id": [
+        2879,
+        2880
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2879,
+          2880
+        ],
+        [
+          2878
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          41
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 236,
     "type": "tour",
     "name": "『SS』編／6th Stageサンクチュアリ",
@@ -784,15 +2055,55 @@
     "story_author": "日日日",
     "story_season": "冬",
     "five_star": {
-      "card_id": "2887,2888",
-      "chara_id": "3,27"
+      "card_id": [
+        2887,
+        2888
+      ],
+      "chara_id": [
+        3,
+        27
+      ]
     },
     "four_star": {
-      "card_id": "2889,2890"
+      "card_id": [
+        2889,
+        2890
+      ]
     },
-    "unit_id": "2,6"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2889,
+          2890
+        ],
+        [
+          2887,
+          2888
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          3,
+          27
+        ]
+      ]
+    },
+    "unit_id": [
+      2,
+      6
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 237,
     "type": "song",
     "name": "羽撃き◆雲散らすソリッドステージ",
@@ -804,15 +2115,48 @@
     "story_author": "西岡麻衣子",
     "story_season": "秋",
     "five_star": {
-      "card_id": 2902,
-      "chara_id": 42
+      "card_id": [
+        2902
+      ],
+      "chara_id": [
+        42
+      ]
     },
     "four_star": {
-      "card_id": 2903
+      "card_id": [
+        2903
+      ]
     },
-    "unit_id": 14
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2903
+        ],
+        [
+          2902
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          42
+        ]
+      ]
+    },
+    "unit_id": [
+      14
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 238,
     "type": "tour",
     "name": "『SS』編／7th Stageサドンデス",
@@ -823,15 +2167,55 @@
     "story_author": "日日日",
     "story_season": "過去/秋、冬",
     "five_star": {
-      "card_id": "2913,2914",
-      "chara_id": "10,73"
+      "card_id": [
+        2913,
+        2914
+      ],
+      "chara_id": [
+        10,
+        73
+      ]
     },
     "four_star": {
-      "card_id": "2915,2916"
+      "card_id": [
+        2915,
+        2916
+      ]
     },
-    "unit_id": "4,16"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2915,
+          2916
+        ],
+        [
+          2913,
+          2914
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          10,
+          73
+        ]
+      ]
+    },
+    "unit_id": [
+      4,
+      16
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 239,
     "type": "song",
     "name": "悠久の鬼◆スカーレットハロウィン",
@@ -843,15 +2227,48 @@
     "story_author": "木野誠太郎",
     "story_season": "秋",
     "five_star": {
-      "card_id": 2926,
-      "chara_id": 21
+      "card_id": [
+        2926
+      ],
+      "chara_id": [
+        21
+      ]
     },
     "four_star": {
-      "card_id": 2927
+      "card_id": [
+        2927
+      ]
     },
-    "unit_id": 8
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2927
+        ],
+        [
+          2926
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          21
+        ]
+      ]
+    },
+    "unit_id": [
+      8
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 240,
     "type": "song",
     "name": "深層＊裏腹に潜んだBeast",
@@ -863,15 +2280,48 @@
     "story_author": "木野誠太郎",
     "story_season": "秋",
     "five_star": {
-      "card_id": 2937,
-      "chara_id": 15
+      "card_id": [
+        2937
+      ],
+      "chara_id": [
+        15
+      ]
     },
     "four_star": {
-      "card_id": 2938
+      "card_id": [
+        2938
+      ]
     },
-    "unit_id": 3
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2938
+        ],
+        [
+          2937
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          15
+        ]
+      ]
+    },
+    "unit_id": [
+      3
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 241,
     "type": "song",
     "name": "ピンチ!?ズバッと両断！忍者団",
@@ -883,15 +2333,50 @@
     "story_author": "西岡麻衣子",
     "story_season": "夏",
     "five_star": {
-      "card_id": 2948,
-      "chara_id": 7
+      "card_id": [
+        2948
+      ],
+      "chara_id": [
+        7
+      ]
     },
     "four_star": {
-      "card_id": "2949,2950"
+      "card_id": [
+        2949,
+        2950
+      ]
     },
-    "unit_id": 5
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2949,
+          2950
+        ],
+        [
+          2948
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          7
+        ]
+      ]
+    },
+    "unit_id": [
+      5
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 242,
     "type": "shuffle",
     "name": "SHUFFLE×静寂の黒雪",
@@ -903,15 +2388,50 @@
     "story_author": "木野誠太郎",
     "story_season": "冬",
     "five_star": {
-      "card_id": 2957,
-      "chara_id": 17
+      "card_id": [
+        2957
+      ],
+      "chara_id": [
+        17
+      ]
     },
     "four_star": {
-      "card_id": "2958,2959"
+      "card_id": [
+        2958,
+        2959
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2958,
+          2959
+        ],
+        [
+          2957
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          17
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 243,
     "type": "special",
     "name": "『SS』編／Final Stage 『SS』",
@@ -923,15 +2443,67 @@
     "story_author": "日日日",
     "story_season": "冬",
     "five_star": {
-      "card_id": "2965,2966,2967,2968",
-      "chara_id": "6,22,41,50"
+      "card_id": [
+        2965,
+        2966,
+        2967,
+        2968
+      ],
+      "chara_id": [
+        6,
+        22,
+        41,
+        50
+      ]
     },
     "four_star": {
-      "card_id": "2969,2970,2971,2972"
+      "card_id": [
+        2969,
+        2970,
+        2971,
+        2972
+      ]
     },
-    "unit_id": "2,14"
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2969,
+          2970,
+          2971,
+          2972
+        ],
+        [
+          2965,
+          2966,
+          2967,
+          2968
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          6,
+          22,
+          41,
+          50
+        ]
+      ]
+    },
+    "unit_id": [
+      2,
+      14
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 244,
     "type": "song",
     "name": "Focus＊ファイソダー越しの四季",
@@ -943,15 +2515,48 @@
     "story_author": "西岡麻衣子",
     "story_season": "冬",
     "five_star": {
-      "card_id": 2980,
-      "chara_id": 18
+      "card_id": [
+        2980
+      ],
+      "chara_id": [
+        18
+      ]
     },
     "four_star": {
-      "card_id": 2981
+      "card_id": [
+        2981
+      ]
     },
-    "unit_id": 1
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2981
+        ],
+        [
+          2980
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          18
+        ]
+      ]
+    },
+    "unit_id": [
+      1
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 245,
     "type": "song",
     "name": "航海◆心を渡る幻影飛行船",
@@ -963,15 +2568,48 @@
     "story_author": "木野誠太郎",
     "story_season": "冬",
     "five_star": {
-      "card_id": 2991,
-      "chara_id": 69
+      "card_id": [
+        2991
+      ],
+      "chara_id": [
+        69
+      ]
     },
     "four_star": {
-      "card_id": 2992
+      "card_id": [
+        2992
+      ]
     },
-    "unit_id": 15
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          2992
+        ],
+        [
+          2991
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          69
+        ]
+      ]
+    },
+    "unit_id": [
+      15
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 246,
     "type": "song",
     "name": "ショコラ❤ハートで彩るLove Letter",
@@ -983,15 +2621,48 @@
     "story_author": "梅田千歳",
     "story_season": "秋、冬",
     "five_star": {
-      "card_id": 3002,
-      "chara_id": 8
+      "card_id": [
+        3002
+      ],
+      "chara_id": [
+        8
+      ]
     },
     "four_star": {
-      "card_id": 3003
+      "card_id": [
+        3003
+      ]
     },
-    "unit_id": 7
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3003
+        ],
+        [
+          3002
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          8
+        ]
+      ]
+    },
+    "unit_id": [
+      7
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 247,
     "type": "song",
     "name": "Shine▲多面体のトライライツ",
@@ -1003,15 +2674,48 @@
     "story_author": "木野誠太郎",
     "story_season": "冬",
     "five_star": {
-      "card_id": 3013,
-      "chara_id": 39
+      "card_id": [
+        3013
+      ],
+      "chara_id": [
+        39
+      ]
     },
     "four_star": {
-      "card_id": 3014
+      "card_id": [
+        3014
+      ]
     },
-    "unit_id": 10
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3014
+        ],
+        [
+          3013
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          39
+        ]
+      ]
+    },
+    "unit_id": [
+      10
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 248,
     "type": "song",
     "name": "萌芽＊うつろいゆくエルミタージュ",
@@ -1023,15 +2727,48 @@
     "story_author": "西岡麻衣子",
     "story_season": "冬",
     "five_star": {
-      "card_id": 3024,
-      "chara_id": 34
+      "card_id": [
+        3024
+      ],
+      "chara_id": [
+        34
+      ]
     },
     "four_star": {
-      "card_id": 3025
+      "card_id": [
+        3025
+      ]
     },
-    "unit_id": 9
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3025
+        ],
+        [
+          3024
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          34
+        ]
+      ]
+    },
+    "unit_id": [
+      9
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 249,
     "type": "song",
     "name": "咲き初め＊つかの間の春宵一刻",
@@ -1043,15 +2780,48 @@
     "story_author": "木野誠太郎",
     "story_season": "夏、冬",
     "five_star": {
-      "card_id": 3035,
-      "chara_id": 73
+      "card_id": [
+        3035
+      ],
+      "chara_id": [
+        73
+      ]
     },
     "four_star": {
-      "card_id": 3036
+      "card_id": [
+        3036
+      ]
     },
-    "unit_id": 17
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3036
+        ],
+        [
+          3035
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          73
+        ]
+      ]
+    },
+    "unit_id": [
+      17
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 250,
     "type": "shuffle",
     "name": "SHUFFLE×Easter to you☆",
@@ -1063,15 +2833,50 @@
     "story_author": "梅田千歳",
     "story_season": "冬",
     "five_star": {
-      "card_id": 3046,
-      "chara_id": 27
+      "card_id": [
+        3046
+      ],
+      "chara_id": [
+        27
+      ]
     },
     "four_star": {
-      "card_id": "3047,3048"
+      "card_id": [
+        3047,
+        3048
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3047,
+          3048
+        ],
+        [
+          3046
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          27
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 251,
     "type": "tour",
     "name": "追憶＊遊色が奏でるオブリガート",
@@ -1082,14 +2887,51 @@
     "story_author": "日日日",
     "story_season": "過去/春、冬",
     "five_star": {
-      "card_id": "3054,3055",
-      "chara_id": "70,72"
+      "card_id": [
+        3054,
+        3055
+      ],
+      "chara_id": [
+        70,
+        72
+      ]
     },
     "four_star": {
-      "card_id": "3056,3057"
+      "card_id": [
+        3056,
+        3057
+      ]
+    },
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3056,
+          3057
+        ],
+        [
+          3054,
+          3055
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          70,
+          72
+        ]
+      ]
     }
   },
   {
+    "compliant": "FALSE",
     "event_id": 252,
     "type": "song",
     "name": "Attack！孤軍奮闘のVS GAME",
@@ -1101,15 +2943,48 @@
     "story_author": "木野誠太郎",
     "story_season": "秋",
     "five_star": {
-      "card_id": 3117,
-      "chara_id": 13
+      "card_id": [
+        3117
+      ],
+      "chara_id": [
+        13
+      ]
     },
     "four_star": {
-      "card_id": 3118
+      "card_id": [
+        3118
+      ]
     },
-    "unit_id": 1
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3118
+        ],
+        [
+          3117
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          13
+        ]
+      ]
+    },
+    "unit_id": [
+      1
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 253,
     "type": "song",
     "name": "祝辞＊爪弾くブライドライト",
@@ -1121,15 +2996,48 @@
     "story_author": "ゆーます",
     "story_season": "夏",
     "five_star": {
-      "card_id": 3128,
-      "chara_id": 23
+      "card_id": [
+        3128
+      ],
+      "chara_id": [
+        23
+      ]
     },
     "four_star": {
-      "card_id": 3129
+      "card_id": [
+        3129
+      ]
     },
-    "unit_id": 3
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3129
+        ],
+        [
+          3128
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          23
+        ]
+      ]
+    },
+    "unit_id": [
+      3
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 254,
     "type": "song",
     "name": "光明◆大空を仰ぐ三光鳥",
@@ -1141,15 +3049,48 @@
     "story_author": "木野誠太郎",
     "story_season": "夏",
     "five_star": {
-      "card_id": 3152,
-      "chara_id": 14
+      "card_id": [
+        3152
+      ],
+      "chara_id": [
+        14
+      ]
     },
     "four_star": {
-      "card_id": 3153
+      "card_id": [
+        3153
+      ]
     },
-    "unit_id": 8
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3153
+        ],
+        [
+          3152
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          14
+        ]
+      ]
+    },
+    "unit_id": [
+      8
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 255,
     "type": "tour",
     "name": "分断夢ノ咲／希望を架ける七夕祭",
@@ -1160,14 +3101,51 @@
     "story_author": "日日日",
     "story_season": "春、夏",
     "five_star": {
-      "card_id": "3163,3164",
-      "chara_id": "15,20"
+      "card_id": [
+        3163,
+        3164
+      ],
+      "chara_id": [
+        15,
+        20
+      ]
     },
     "four_star": {
-      "card_id": "3165,3166"
+      "card_id": [
+        3165,
+        3166
+      ]
+    },
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3165,
+          3166
+        ],
+        [
+          3163,
+          3164
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          15,
+          20
+        ]
+      ]
     }
   },
   {
+    "compliant": "FALSE",
     "event_id": 256,
     "type": "song",
     "name": "船旅！海と出会うクルーズ",
@@ -1179,15 +3157,48 @@
     "story_author": "西岡麻衣子",
     "story_season": "夏",
     "five_star": {
-      "card_id": 3179,
-      "chara_id": 38
+      "card_id": [
+        3179
+      ],
+      "chara_id": [
+        38
+      ]
     },
     "four_star": {
-      "card_id": 3180
+      "card_id": [
+        3180
+      ]
     },
-    "unit_id": 10
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3180
+        ],
+        [
+          3179
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          38
+        ]
+      ]
+    },
+    "unit_id": [
+      10
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 257,
     "type": "song",
     "name": "夏風！異国で煌めくサンシャイン",
@@ -1199,15 +3210,50 @@
     "story_author": "ゆーます",
     "story_season": "夏",
     "five_star": {
-      "card_id": 3199,
-      "chara_id": 33
+      "card_id": [
+        3199
+      ],
+      "chara_id": [
+        33
+      ]
     },
     "four_star": {
-      "card_id": "3200,3201"
+      "card_id": [
+        3200,
+        3201
+      ]
     },
-    "unit_id": 4
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3200,
+          3201
+        ],
+        [
+          3199
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          33
+        ]
+      ]
+    },
+    "unit_id": [
+      4
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 258,
     "type": "tour",
     "name": "激闘夢ノ咲／存在示す体育祭！",
@@ -1218,14 +3264,51 @@
     "story_author": "日日日",
     "story_season": "夏",
     "five_star": {
-      "card_id": "3212,3213",
-      "chara_id": "3,68"
+      "card_id": [
+        3212,
+        3213
+      ],
+      "chara_id": [
+        3,
+        68
+      ]
     },
     "four_star": {
-      "card_id": "3214,3215"
+      "card_id": [
+        3214,
+        3215
+      ]
+    },
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3214,
+          3215
+        ],
+        [
+          3212,
+          3213
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          3,
+          68
+        ]
+      ]
     }
   },
   {
+    "compliant": "FALSE",
     "event_id": 259,
     "type": "shuffle",
     "name": "SHUFFLE×烈火の舞闘祭",
@@ -1237,15 +3320,50 @@
     "story_author": "木野誠太郎",
     "story_season": "過去／春、夏",
     "five_star": {
-      "card_id": 3227,
-      "chara_id": 26
+      "card_id": [
+        3227
+      ],
+      "chara_id": [
+        26
+      ]
     },
     "four_star": {
-      "card_id": "3228,3229"
+      "card_id": [
+        3228,
+        3229
+      ]
     },
-    "unit_id": 0
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3228,
+          3229
+        ],
+        [
+          3227
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          26
+        ]
+      ]
+    },
+    "unit_id": [
+      100
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 260,
     "type": "tour",
     "name": "Fantasy♠トランプ in UNDERLAND",
@@ -1257,15 +3375,48 @@
     "story_author": "梅田千歳",
     "story_season": "秋",
     "five_star": {
-      "card_id": 3240,
-      "chara_id": 67
+      "card_id": [
+        3240
+      ],
+      "chara_id": [
+        67
+      ]
     },
     "four_star": {
-      "card_id": 3241
+      "card_id": [
+        3241
+      ]
     },
-    "unit_id": 15
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3241
+        ],
+        [
+          3240
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          67
+        ]
+      ]
+    },
+    "unit_id": [
+      15
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 261,
     "type": "tour",
     "name": "放浪夢ノ咲／大陸へ修学旅行！",
@@ -1276,14 +3427,51 @@
     "story_author": "日日日",
     "story_season": "秋",
     "five_star": {
-      "card_id": "3251,3252",
-      "chara_id": "5,9"
+      "card_id": [
+        3251,
+        3252
+      ],
+      "chara_id": [
+        5,
+        9
+      ]
     },
     "four_star": {
-      "card_id": "3253,3254"
+      "card_id": [
+        3253,
+        3254
+      ]
+    },
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3253,
+          3254
+        ],
+        [
+          3251,
+          3252
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          5,
+          9
+        ]
+      ]
     }
   },
   {
+    "compliant": "FALSE",
     "event_id": 262,
     "type": "song",
     "name": "朧な影＊ゴースティックハロウィン",
@@ -1295,15 +3483,48 @@
     "story_author": "木野誠太郎",
     "story_season": "秋",
     "five_star": {
-      "card_id": 3266,
-      "chara_id": 19
+      "card_id": [
+        3266
+      ],
+      "chara_id": [
+        19
+      ]
     },
     "four_star": {
-      "card_id": 3267
+      "card_id": [
+        3267
+      ]
     },
-    "unit_id": 2
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3267
+        ],
+        [
+          3266
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          19
+        ]
+      ]
+    },
+    "unit_id": [
+      2
+    ]
   },
   {
+    "compliant": "FALSE",
     "event_id": 263,
     "type": "song",
     "name": "悪戯心◆スパイダーハロウィン",
@@ -1315,945 +3536,44 @@
     "story_author": "西岡麻衣子",
     "story_season": "秋",
     "five_star": {
-      "card_id": 3282,
-      "chara_id": 73
+      "card_id": [
+        3282
+      ],
+      "chara_id": [
+        73
+      ]
     },
     "four_star": {
-      "card_id": 3283
+      "card_id": [
+        3283
+      ]
     },
-    "unit_id": 16
-  },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {}
+    "cards": {
+      "ids": [
+        null,
+        null,
+        null,
+        null,
+        [
+          3283
+        ],
+        [
+          3282
+        ]
+      ],
+      "characters": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          73
+        ]
+      ]
+    },
+    "unit_id": [
+      16
+    ]
+  }
 ]

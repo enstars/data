@@ -12143,6 +12143,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90040,
     "title": "Accompanying Shadow",
     "name": "Mika Kagehira",
     "skills": {
@@ -12159,6 +12160,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90043,
     "title": "Timely Perfection",
     "name": "Tsumugi Aoba",
     "skills": {
@@ -12175,6 +12177,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90046,
     "title": "Cheerful Sunshine",
     "name": "Nazuna Nito",
     "skills": {
@@ -12191,6 +12194,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90041,
     "title": "Glistening Ephemera",
     "name": "Koga Ogami",
     "skills": {
@@ -12207,6 +12211,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90045,
     "title": "Brightening Sight",
     "name": "Kuro Kiryu",
     "skills": {
@@ -12223,6 +12228,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90046,
     "title": "Surprising Satisfaction",
     "name": "Arashi Narukami",
     "skills": {
@@ -12239,6 +12245,24 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90042,
+    "title": "Splendid Snapshot",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Capture Your Smile"
+      },
+      "live": {
+        "name": "Guest Behind-the-scene"
+      },
+      "support": {
+        "name": "Perfect Picture"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 90051,
     "title": "Mesmerizing Fairytale",
     "name": "Mayoi Ayase",
     "skills": {
@@ -12255,6 +12279,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90052,
     "title": "Alluring Fairytale",
     "name": "Niki Shiina",
     "skills": {
@@ -12271,6 +12296,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90053,
     "title": "Melodious Fairytale",
     "name": "Kohaku Oukawa",
     "skills": {
@@ -12287,6 +12313,7 @@
   },
   {
     "compliant": "FALSE",
+    "id": 90054,
     "title": "Colorful Fairytale",
     "name": "Hiiro Amagi",
     "skills": {
@@ -12298,6 +12325,23 @@
       },
       "support": {
         "name": "Seeking for advice"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE",
+    "id": 90055,
+    "title": "Innocent Heart",
+    "name": "Takamine Midori",
+    "skills": {
+      "center": {
+        "name": "Embrace Cuteness"
+      },
+      "live": {
+        "name": "Soul Soothing Softness"
+      },
+      "support": {
+        "name": "Pleasant Stage"
       }
     }
   },

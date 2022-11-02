@@ -75320,7 +75320,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 12
+        "type_id": 12,
+        "description": "Glitterタイプの総合値{0}％up",
+        "order_num": 242
       },
       "live": {
         "name": "ヒーロー魂",
@@ -75367,7 +75369,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌に情熱注いで",
@@ -75388,7 +75393,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（青小）アップ"
       }
     },
     "spp": {
@@ -75435,7 +75443,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 16
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 342
       },
       "live": {
         "name": "うみのたましい",
@@ -75482,7 +75492,10 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "うたでつながるおもい",
@@ -75503,7 +75516,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -75550,7 +75566,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 4
+        "type_id": 4,
+        "description": "Sparkleタイプの総合値{0}％up",
+        "order_num": 42
       },
       "live": {
         "name": "闘魂と研磨",
@@ -75597,7 +75615,10 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌はエネルギー",
@@ -75618,7 +75639,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -75670,7 +75694,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 8
+        "type_id": 8,
+        "description": "Brilliantタイプの総合値{0}％up",
+        "order_num": 142
       },
       "live": {
         "name": "曲げない魂",
@@ -75717,7 +75743,10 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で伝える気持ち",
@@ -75738,7 +75767,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（青小）アップ"
       }
     },
     "spp": {
@@ -75785,7 +75817,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 8
+        "type_id": 8,
+        "description": "Brilliantタイプの総合値{0}％up",
+        "order_num": 142
       },
       "live": {
         "name": "柔軟な魂",
@@ -75832,7 +75866,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で語る熱意",
@@ -75853,7 +75890,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（黄小）アップ"
       }
     },
     "spp": {
@@ -77155,7 +77195,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 16
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 324
       },
       "live": {
         "name": "型破り魂",
@@ -77202,7 +77244,10 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌は笑顔の仕掛け",
@@ -77223,7 +77268,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77270,7 +77318,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 12
+        "type_id": 12,
+        "description": "Glitterタイプの総合値{0}％up",
+        "order_num": 242
       },
       "live": {
         "name": "荒削り魂",
@@ -77317,7 +77367,10 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌は笑顔のきっかけ",
@@ -77338,7 +77391,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77385,7 +77441,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 8
+        "type_id": 8,
+        "description": "Brilliantタイプの総合値{0}％up",
+        "order_num": 142
       },
       "live": {
         "name": "魂の救済者",
@@ -77432,7 +77490,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で引き寄せて",
@@ -77453,7 +77514,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77505,7 +77569,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 4
+        "type_id": 4,
+        "description": "Sparkleタイプの総合値{0}％up",
+        "order_num": 42
       },
       "live": {
         "name": "魂の繋がり",
@@ -77552,7 +77618,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌う存在証明",
@@ -77573,7 +77642,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77620,7 +77692,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 16
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 342
       },
       "live": {
         "name": "桜が結ぶ魂",
@@ -77667,7 +77741,10 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で開けた世界",
@@ -77688,7 +77765,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77735,7 +77815,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 12
+        "type_id": 12,
+        "description": "Glitterタイプの総合値{0}％up",
+        "order_num": 242
       },
       "live": {
         "name": "食で繋ぐ魂",
@@ -77782,7 +77864,10 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で伝わる喜び",
@@ -77803,7 +77888,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77850,7 +77938,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 8
+        "type_id": 8,
+        "description": "Brilliantタイプの総合値{0}％up",
+        "order_num": 142
       },
       "live": {
         "name": "支配する魂",
@@ -77897,7 +77987,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌に宿る魔力",
@@ -77918,7 +78011,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 51,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -77965,7 +78061,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 4
+        "type_id": 4,
+        "description": "Sparkleタイプの総合値{0}％up",
+        "order_num": 42
       },
       "live": {
         "name": "魂のバランス",
@@ -78012,7 +78110,10 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌で惑わして",
@@ -78033,7 +78134,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -78080,7 +78184,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 16
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 342
       },
       "live": {
         "name": "魂を震わせて",
@@ -78127,7 +78233,10 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌こそ喜び",
@@ -78148,7 +78257,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 61,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -78195,7 +78307,9 @@
         "effect_value": [
           "35"
         ],
-        "type_id": 12
+        "type_id": 12,
+        "description": "Glitterタイプの総合値{0}％up",
+        "order_num": 242
       },
       "live": {
         "name": "魂で通じ合う",
@@ -78242,7 +78356,10 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "歌は世界を繋ぐ",
@@ -78263,7 +78380,10 @@
           [
             75
           ]
-        ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -136578,8 +136698,8 @@
         "live_skill_type_name": "スコアアップ"
       },
       "support": {
-        "name": "理想とけものみち",
-        "type_id": 9,
+        "name": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "type_id": 13,
         "effect_values": [
           [
             10
@@ -136597,9 +136717,9 @@
             50
           ]
         ],
-        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
-        "order_num": 60,
-        "support_skill_type_name": "ステータスピース（青小）アップ"
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 70,
+        "support_skill_type_name": "ステータスピース（黄小）アップ"
       }
     },
     "spp": {
@@ -136633,7 +136753,10 @@
         "name": "優美な蝶の舞台",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo {0}％up",
+        "order_num": 212
       },
       "live": {
         "name": "ほの淡き青春\r",
@@ -136680,7 +136803,10 @@
             5,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 12,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "新たなけものみち",
@@ -136738,7 +136864,10 @@
         "name": "夢と生きる士の舞台",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa {0}％up",
+        "order_num": 322
       },
       "live": {
         "name": "果敢な青春",
@@ -136785,11 +136914,14 @@
             12,
             20
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 18,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "改革のけものみち",
-        "type_id": 9,
+        "type_id": 5,
         "effect_values": [
           [
             10
@@ -136807,9 +136939,9 @@
             50
           ]
         ],
-        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
-        "order_num": 60,
-        "support_skill_type_name": "ステータスピース（青小）アップ"
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 50,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -136841,7 +136973,10 @@
     "skills": {
       "center": {
         "name": "猛し虎駆ける舞台",
-        "effect_value": "[\"35]"
+        "effect_value": "[\"35]",
+        "type_id": 8,
+        "description": "Brilliantタイプの総合値{0}％up",
+        "order_num": 142
       },
       "live": {
         "name": "雄々しき青春",
@@ -136888,11 +137023,14 @@
             8,
             30
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 15,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "抗いのけものみち",
-        "type_id": 9,
+        "type_id": 5,
         "effect_values": [
           [
             10
@@ -136910,9 +137048,9 @@
             50
           ]
         ],
-        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
-        "order_num": 60,
-        "support_skill_type_name": "ステータスピース（青小）アップ"
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 50,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     },
     "spp": {
@@ -136946,7 +137084,10 @@
         "name": "獅子跳示舞台",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo {0}％up",
+        "order_num": 212
       },
       "live": {
         "name": "希望輝く青春",
@@ -136993,7 +137134,10 @@
             5,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 12,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "捧ぐけものみち",
@@ -137031,6 +137175,7 @@
     "character_id": 37,
     "type": 4,
     "substat_type": 2,
+    "title": "そっと触れあい",
     "name": "春川宙",
     "releaseDate": {
       "jp": "2022-10-25"
@@ -137053,12 +137198,16 @@
     },
     "skills": {
       "center": {
+        "name": "もれなく全部!",
         "effect_value": [
           "120"
         ],
-        "description": "FlashタイプのPf {0}％up"
+        "type_id": 15,
+        "description": "FlashタイプのPf {0}％up",
+        "order_num": 332
       },
       "live": {
+        "name": "色々な体験",
         "type_id": 1,
         "duration": 5,
         "effect_values": [
@@ -137102,8 +137251,39 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "温かな鼓動",
+        "type_id": 14,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（黄中）のドロップ率を{0}倍にする",
+        "order_num": 75,
+        "support_skill_type_name": "ステータスピース（黄中）アップ"
       }
+    },
+    "spp": {
+      "name": "Romancing Cruise",
+      "song_id": 166
     }
   },
   {
@@ -137113,6 +137293,7 @@
     "character_id": 23,
     "type": 2,
     "substat_type": 1,
+    "title": "スイングな一日",
     "name": "羽風薫",
     "releaseDate": {
       "jp": "2022-10-25"
@@ -137135,12 +137316,16 @@
     },
     "skills": {
       "center": {
+        "name": "気持ちスイッチング",
         "effect_value": [
           "80"
         ],
-        "description": "BrilliantタイプのVo {0}％up"
+        "type_id": 5,
+        "description": "BrilliantタイプのVo {0}％up",
+        "order_num": 112
       },
       "live": {
+        "name": "手探り温度感",
         "type_id": 1,
         "duration": 12,
         "effect_values": [
@@ -137184,8 +137369,39 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "周りの関係観察",
+        "type_id": 10,
+        "effect_values": [
+          [
+            25
+          ],
+          [
+            35
+          ],
+          [
+            50
+          ],
+          [
+            65
+          ],
+          [
+            75
+          ]
+        ],
+        "description": "ステータスピース（青中）のドロップ率を{0}倍にする",
+        "order_num": 64,
+        "support_skill_type_name": "ステータスピース（青中）アップ"
       }
+    },
+    "spp": {
+      "name": "IMMORAL WORLD",
+      "song_id": 104
     }
   },
   {
@@ -137195,6 +137411,7 @@
     "character_id": 28,
     "type": 3,
     "substat_type": 0,
+    "title": "おいしゃさん",
     "name": "深海 奏汰",
     "releaseDate": {
       "jp": "2022-10-25"
@@ -137217,12 +137434,16 @@
     },
     "skills": {
       "center": {
+        "name": "きんきゅうしゅじゅつ",
         "effect_value": [
           "80"
         ],
-        "description": "GlitterタイプのDa {0}％up"
+        "type_id": 10,
+        "description": "GlitterタイプのDa {0}％up",
+        "order_num": 222
       },
       "live": {
+        "name": "べてらんへるぷ",
         "type_id": 1,
         "duration": 8,
         "effect_values": [
@@ -137266,7 +137487,34 @@
             8,
             30
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 15,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "じりきのちりょう",
+        "type_id": 5,
+        "effect_values": [
+          [
+            10
+          ],
+          [
+            20
+          ],
+          [
+            30
+          ],
+          [
+            40
+          ],
+          [
+            50
+          ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 50,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     }
   },
@@ -137277,6 +137525,7 @@
     "character_id": 15,
     "type": 2,
     "substat_type": 2,
+    "title": "ドールと思い出",
     "name": "乙狩アドニス",
     "releaseDate": {
       "jp": "2022-10-30"
@@ -137299,12 +137548,16 @@
     },
     "skills": {
       "center": {
+        "name": "アニミズムへの理解",
         "effect_value": [
           "120"
         ],
-        "description": "BrilliantタイプのPf {0}％up"
+        "type_id": 7,
+        "description": "BrilliantタイプのPf {0}％up",
+        "order_num": 132
       },
       "live": {
+        "name": "思いの籠もった人形",
         "type_id": 1,
         "duration": 12,
         "effect_values": [
@@ -137348,8 +137601,39 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "幼少のときの贈り物",
+        "type_id": 15,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（黄大）のドロップ率を{0}倍にする",
+        "order_num": 78,
+        "support_skill_type_name": "ステータスピース（黄大）アップ"
       }
+    },
+    "spp": {
+      "name": "IMMORAL WORLD",
+      "song_id": 104
     }
   },
   {
@@ -137359,6 +137643,7 @@
     "character_id": 2,
     "type": 1,
     "substat_type": 2,
+    "title": "ドールと愛着",
     "name": "紫之創",
     "releaseDate": {
       "jp": "2022-10-30"
@@ -137381,12 +137666,16 @@
     },
     "skills": {
       "center": {
+        "name": "道具と新しい行き先",
         "effect_value": [
           "35"
         ],
-        "description": "Sparkleタイプの総合値{0}％up"
+        "type_id": 4,
+        "description": "Sparkleタイプの総合値{0}％up",
+        "order_num": 42
       },
       "live": {
+        "name": "ままごとと人形",
         "type_id": 1,
         "duration": 8,
         "effect_values": [
@@ -137430,8 +137719,39 @@
             8,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "馴染んだ生活用品",
+        "type_id": 13,
+        "effect_values": [
+          [
+            25
+          ],
+          [
+            35
+          ],
+          [
+            50
+          ],
+          [
+            65
+          ],
+          [
+            75
+          ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（黄小）アップ"
       }
+    },
+    "spp": {
+      "name": "メルティ♡キッチン",
+      "song_id": 19
     }
   },
   {
@@ -137441,6 +137761,7 @@
     "character_id": 68,
     "type": 4,
     "substat_type": 0,
+    "title": "宣伝ドール",
     "name": "白鳥藍良",
     "releaseDate": {
       "jp": "2022-10-30"
@@ -137463,12 +137784,16 @@
     },
     "skills": {
       "center": {
+        "name": "蚤の市巡り",
         "effect_value": [
           "80"
         ],
-        "description": "FlashタイプのDa {0}％up"
+        "type_id": 14,
+        "description": "FlashタイプのDa {0}％up",
+        "order_num": 322
       },
       "live": {
+        "name": "記憶と人形",
         "type_id": 1,
         "duration": 5,
         "effect_values": [
@@ -137512,7 +137837,34 @@
             5,
             50
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "あんさんぶるタイムゲージの上昇量が少しアッ プ",
+        "type_id": 4,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ",
+        "order_num": 41,
+        "support_skill_type_name": "あんさんぶるタイムサポート"
       }
     }
   },
@@ -137523,6 +137875,7 @@
     "character_id": 9,
     "type": 3,
     "substat_type": 1,
+    "title": "継承ドール",
     "name": "天満光",
     "releaseDate": {
       "jp": "2022-10-30"
@@ -137545,12 +137898,16 @@
     },
     "skills": {
       "center": {
+        "name": "新しい古着",
         "effect_value": [
           "80"
         ],
-        "description": "GlitterタイプのVo {0}％up"
+        "type_id": 9,
+        "description": "GlitterタイプのVo {0}％up",
+        "order_num": 212
       },
       "live": {
+        "name": "伝わる人形",
         "type_id": 1,
         "duration": 12,
         "effect_values": [
@@ -137594,7 +137951,34 @@
             12,
             20
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 18,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "共に走った靴",
+        "type_id": 9,
+        "effect_values": [
+          [
+            10
+          ],
+          [
+            20
+          ],
+          [
+            30
+          ],
+          [
+            40
+          ],
+          [
+            50
+          ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 60,
+        "support_skill_type_name": "ステータスピース（青小）アップ"
       }
     }
   },
@@ -137605,6 +137989,7 @@
     "character_id": 73,
     "type": 4,
     "substat_type": 1,
+    "title": "恐慌スパイダー",
     "name": "桜河こはく",
     "releaseDate": {
       "jp": "2022-10-31"
@@ -137627,11 +138012,16 @@
     },
     "skills": {
       "center": {
+        "name": "恐ろしき蜘蛛の罠",
         "effect_value": [
           "50"
-        ]
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 342
       },
       "live": {
+        "name": "ファーストハロウィン",
         "type_id": 1,
         "duration": 5,
         "effect_values": [
@@ -137675,7 +138065,43 @@
             5,
             80
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "本物ホラー体験",
+        "type_id": 11,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（青大）のドロップ率を{0}倍にする",
+        "order_num": 68,
+        "support_skill_type_name": "ステータスピース（青大）アップ"
+      }
+    },
+    "spp": {
+      "name": "Helter-Spider"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スパイダー衣装",
+        "3d": "スパイダー衣装"
       }
     }
   },
@@ -137686,6 +138112,7 @@
     "character_id": 74,
     "type": 1,
     "substat_type": 2,
+    "title": "甘露スパイダー",
     "name": "椎名ニキ",
     "releaseDate": {
       "jp": "2022-10-31"
@@ -137708,12 +138135,16 @@
     },
     "skills": {
       "center": {
+        "name": "満たされる蜘蛛の毒",
         "effect_value": [
           "80"
         ],
-        "description": "SparkleタイプのPf {0}％up"
+        "type_id": 3,
+        "description": "SparkleタイプのPf {0}％up",
+        "order_num": 32
       },
       "live": {
+        "name": "食のお祭り騒ぎ",
         "type_id": 1,
         "duration": 12,
         "effect_values": [
@@ -137757,7 +138188,43 @@
             12,
             35
           ]
-        ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "スイーツ後のスイーツ",
+        "type_id": 14,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（黄中）のドロップ率を{0}倍にする",
+        "order_num": 75,
+        "support_skill_type_name": "ステータスピース（黄中）アップ"
+      }
+    },
+    "spp": {
+      "name": "Helter-Spider"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スパイダー衣装",
+        "3d": "スパイダー衣装"
       }
     }
   },
@@ -137768,6 +138235,7 @@
     "character_id": 72,
     "type": 3,
     "substat_type": 1,
+    "title": "交遊スパイダー",
     "name": "HiMERU",
     "releaseDate": {
       "jp": "2022-10-31"
@@ -137787,6 +138255,97 @@
         "vo": 18782,
         "pf": 11556
       }
+    },
+    "skills": {
+      "center": {
+        "name": "悪夢を贈る蜘蛛",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo {0}％up",
+        "order_num": 212
+      },
+      "live": {
+        "name": "不気味な付き合い",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            18
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            25
+          ],
+          [
+            8,
+            30
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 15,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "お礼用のクッキー",
+        "type_id": 1,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "VOLTAGEの下降量が少しダウン",
+        "order_num": 11,
+        "support_skill_type_name": "ボルテージサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スパイダー衣装",
+        "3d": "スパイダー衣装"
+      }
     }
   },
   {
@@ -137796,6 +138355,7 @@
     "character_id": 71,
     "type": 2,
     "substat_type": 0,
+    "title": "悪戯スパイダー",
     "name": "天城燐音",
     "releaseDate": {
       "jp": "2022-10-31"
@@ -137814,6 +138374,97 @@
         "da": 21195,
         "vo": 11970,
         "pf": 7681
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "楽しむ愉快な蜘蛛",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa {0}％up",
+        "order_num": 122
+      },
+      "live": {
+        "name": "化かし遊ぶ夜",
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            4
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            15
+          ],
+          [
+            12,
+            20
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 18,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "夜の怪談合宿",
+        "type_id": 5,
+        "effect_values": [
+          [
+            10
+          ],
+          [
+            20
+          ],
+          [
+            30
+          ],
+          [
+            40
+          ],
+          [
+            50
+          ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 50,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スパイダー衣装",
+        "3d": "スパイダー衣装"
       }
     }
   },

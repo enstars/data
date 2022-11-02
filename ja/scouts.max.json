@@ -11,16 +11,30 @@
     "story_season": "summer",
     "banner_id": 2205,
     "five_star": {
-      "chara_id": 34,
-      "card_id": 2205
+      "chara_id": [
+        34
+      ],
+      "card_id": [
+        2205
+      ]
     },
     "four_star": {
-      "chara_id": 28,
-      "card_id": 2206
+      "chara_id": [
+        28
+      ],
+      "card_id": [
+        2206
+      ]
     },
     "three_star": {
-      "chara_id": "3,2",
-      "card_id": "2207,2208"
+      "chara_id": [
+        3,
+        2
+      ],
+      "card_id": [
+        2207,
+        2208
+      ]
     }
   },
   {
@@ -32,16 +46,30 @@
     "type": "scout",
     "banner_id": 2197,
     "five_star": {
-      "chara_id": 17,
-      "card_id": 2197
+      "chara_id": [
+        17
+      ],
+      "card_id": [
+        2197
+      ]
     },
     "four_star": {
-      "chara_id": 10,
-      "card_id": 2198
+      "chara_id": [
+        10
+      ],
+      "card_id": [
+        2198
+      ]
     },
     "three_star": {
-      "chara_id": "24,20",
-      "card_id": "2199,2200"
+      "chara_id": [
+        24,
+        20
+      ],
+      "card_id": [
+        2199,
+        2200
+      ]
     }
   },
   {
@@ -53,16 +81,30 @@
     "type": "feature scout",
     "banner_id": 2412,
     "five_star": {
-      "chara_id": 70,
-      "card_id": 2412
+      "chara_id": [
+        70
+      ],
+      "card_id": [
+        2412
+      ]
     },
     "four_star": {
-      "chara_id": 40,
-      "card_id": 2413
+      "chara_id": [
+        40
+      ],
+      "card_id": [
+        2413
+      ]
     },
     "three_star": {
-      "chara_id": "8,37",
-      "card_id": "2414,2415"
+      "chara_id": [
+        8,
+        37
+      ],
+      "card_id": [
+        2414,
+        2415
+      ]
     }
   },
   {
@@ -74,12 +116,20 @@
     "type": "scout",
     "banner_id": 2407,
     "five_star": {
-      "chara_id": 25,
-      "card_id": 2407
+      "chara_id": [
+        25
+      ],
+      "card_id": [
+        2407
+      ]
     },
     "four_star": {
-      "chara_id": 9,
-      "card_id": 2408
+      "chara_id": [
+        9
+      ],
+      "card_id": [
+        2408
+      ]
     }
   },
   {
@@ -91,16 +141,30 @@
     "type": "feature scout",
     "banner_id": 2222,
     "five_star": {
-      "chara_id": 51,
-      "card_id": 2222
+      "chara_id": [
+        51
+      ],
+      "card_id": [
+        2222
+      ]
     },
     "four_star": {
-      "chara_id": 12,
-      "card_id": 2223
+      "chara_id": [
+        12
+      ],
+      "card_id": [
+        2223
+      ]
     },
     "three_star": {
-      "chara_id": "15,4",
-      "card_id": "2224,2225"
+      "chara_id": [
+        15,
+        4
+      ],
+      "card_id": [
+        2224,
+        2225
+      ]
     }
   },
   {
@@ -113,16 +177,30 @@
     "story_name": "Honeybee",
     "banner_id": 2209,
     "five_star": {
-      "chara_id": 73,
-      "card_id": 2209
+      "chara_id": [
+        73
+      ],
+      "card_id": [
+        2209
+      ]
     },
     "four_star": {
-      "chara_id": 71,
-      "card_id": 2210
+      "chara_id": [
+        71
+      ],
+      "card_id": [
+        2210
+      ]
     },
     "three_star": {
-      "chara_id": "74,72",
-      "card_id": "2211,2212"
+      "chara_id": [
+        74,
+        72
+      ],
+      "card_id": [
+        2211,
+        2212
+      ]
     }
   },
   {
@@ -134,16 +212,30 @@
     "type": "feature scout",
     "banner_id": 2354,
     "five_star": {
-      "chara_id": 16,
-      "card_id": 2354
+      "chara_id": [
+        16
+      ],
+      "card_id": [
+        2354
+      ]
     },
     "four_star": {
-      "chara_id": 35,
-      "card_id": 2355
+      "chara_id": [
+        35
+      ],
+      "card_id": [
+        2355
+      ]
     },
     "three_star": {
-      "chara_id": "29,30",
-      "card_id": "2356,2357"
+      "chara_id": [
+        29,
+        30
+      ],
+      "card_id": [
+        2356,
+        2357
+      ]
     }
   },
   {
@@ -155,16 +247,30 @@
     "type": "scout",
     "banner_id": 2226,
     "five_star": {
-      "chara_id": 26,
-      "card_id": 2226
+      "chara_id": [
+        26
+      ],
+      "card_id": [
+        2226
+      ]
     },
     "four_star": {
-      "chara_id": 14,
-      "card_id": 2227
+      "chara_id": [
+        14
+      ],
+      "card_id": [
+        2227
+      ]
     },
     "three_star": {
-      "chara_id": "21,67",
-      "card_id": "2228,2229"
+      "chara_id": [
+        21,
+        67
+      ],
+      "card_id": [
+        2228,
+        2229
+      ]
     }
   },
   {
@@ -176,16 +282,30 @@
     "type": "feature scout",
     "banner_id": 2428,
     "five_star": {
-      "chara_id": 24,
-      "card_id": 2428
+      "chara_id": [
+        24
+      ],
+      "card_id": [
+        2428
+      ]
     },
     "four_star": {
-      "chara_id": 33,
-      "card_id": 2429
+      "chara_id": [
+        33
+      ],
+      "card_id": [
+        2429
+      ]
     },
     "three_star": {
-      "chara_id": "1,7",
-      "card_id": "2430,2431"
+      "chara_id": [
+        1,
+        7
+      ],
+      "card_id": [
+        2430,
+        2431
+      ]
     }
   },
   {
@@ -197,16 +317,30 @@
     "type": "scout",
     "banner_id": 2420,
     "five_star": {
-      "chara_id": 2,
-      "card_id": 2420
+      "chara_id": [
+        2
+      ],
+      "card_id": [
+        2420
+      ]
     },
     "four_star": {
-      "chara_id": 20,
-      "card_id": 2421
+      "chara_id": [
+        20
+      ],
+      "card_id": [
+        2421
+      ]
     },
     "three_star": {
-      "chara_id": "11,17",
-      "card_id": "2422,2423"
+      "chara_id": [
+        11,
+        17
+      ],
+      "card_id": [
+        2422,
+        2423
+      ]
     }
   },
   {
@@ -218,16 +352,30 @@
     "type": "feature scout",
     "banner_id": 2444,
     "five_star": {
-      "chara_id": 6,
-      "card_id": 2444
+      "chara_id": [
+        6
+      ],
+      "card_id": [
+        2444
+      ]
     },
     "four_star": {
-      "chara_id": 19,
-      "card_id": 2445
+      "chara_id": [
+        19
+      ],
+      "card_id": [
+        2445
+      ]
     },
     "three_star": {
-      "chara_id": "71,50",
-      "card_id": "2446,2447"
+      "chara_id": [
+        71,
+        50
+      ],
+      "card_id": [
+        2446,
+        2447
+      ]
     }
   },
   {
@@ -239,16 +387,30 @@
     "type": "scout",
     "banner_id": 2432,
     "five_star": {
-      "chara_id": 37,
-      "card_id": 2432
+      "chara_id": [
+        37
+      ],
+      "card_id": [
+        2432
+      ]
     },
     "four_star": {
-      "chara_id": 39,
-      "card_id": 2433
+      "chara_id": [
+        39
+      ],
+      "card_id": [
+        2433
+      ]
     },
     "three_star": {
-      "chara_id": "38,69",
-      "card_id": "2434,2435"
+      "chara_id": [
+        38,
+        69
+      ],
+      "card_id": [
+        2434,
+        2435
+      ]
     }
   },
   {
@@ -260,16 +422,30 @@
     "type": "feature scout",
     "banner_id": 2456,
     "five_star": {
-      "chara_id": 18,
-      "card_id": 2456
+      "chara_id": [
+        18
+      ],
+      "card_id": [
+        2456
+      ]
     },
     "four_star": {
-      "chara_id": 13,
-      "card_id": 2457
+      "chara_id": [
+        13
+      ],
+      "card_id": [
+        2457
+      ]
     },
     "three_star": {
-      "chara_id": "22,5",
-      "card_id": "2458,2459"
+      "chara_id": [
+        22,
+        5
+      ],
+      "card_id": [
+        2458,
+        2459
+      ]
     }
   },
   {
@@ -281,16 +457,30 @@
     "type": "scout",
     "banner_id": 2448,
     "five_star": {
-      "chara_id": 42,
-      "card_id": 2448
+      "chara_id": [
+        42
+      ],
+      "card_id": [
+        2448
+      ]
     },
     "four_star": {
-      "chara_id": 68,
-      "card_id": 2449
+      "chara_id": [
+        68
+      ],
+      "card_id": [
+        2449
+      ]
     },
     "three_star": {
-      "chara_id": "33,70",
-      "card_id": "2450,2451"
+      "chara_id": [
+        33,
+        70
+      ],
+      "card_id": [
+        2450,
+        2451
+      ]
     }
   },
   {
@@ -302,16 +492,30 @@
     "type": "feature scout",
     "banner_id": 2476,
     "five_star": {
-      "chara_id": 12,
-      "card_id": 2476
+      "chara_id": [
+        12
+      ],
+      "card_id": [
+        2476
+      ]
     },
     "four_star": {
-      "chara_id": 10,
-      "card_id": 2477
+      "chara_id": [
+        10
+      ],
+      "card_id": [
+        2477
+      ]
     },
     "three_star": {
-      "chara_id": "41,67",
-      "card_id": "2478,2479"
+      "chara_id": [
+        41,
+        67
+      ],
+      "card_id": [
+        2478,
+        2479
+      ]
     }
   },
   {
@@ -323,16 +527,30 @@
     "type": "scout",
     "banner_id": 2464,
     "five_star": {
-      "chara_id": 5,
-      "card_id": 2464
+      "chara_id": [
+        5
+      ],
+      "card_id": [
+        2464
+      ]
     },
     "four_star": {
-      "chara_id": 34,
-      "card_id": 2465
+      "chara_id": [
+        34
+      ],
+      "card_id": [
+        2465
+      ]
     },
     "three_star": {
-      "chara_id": "25,39",
-      "card_id": "2466,2467"
+      "chara_id": [
+        25,
+        39
+      ],
+      "card_id": [
+        2466,
+        2467
+      ]
     }
   },
   {
@@ -344,16 +562,30 @@
     "type": "feature scout",
     "banner_id": 2480,
     "five_star": {
-      "chara_id": 9,
-      "card_id": 2480
+      "chara_id": [
+        9
+      ],
+      "card_id": [
+        2480
+      ]
     },
     "four_star": {
-      "chara_id": 1,
-      "card_id": 2481
+      "chara_id": [
+        1
+      ],
+      "card_id": [
+        2481
+      ]
     },
     "three_star": {
-      "chara_id": "11,35",
-      "card_id": "2482,2483"
+      "chara_id": [
+        11,
+        35
+      ],
+      "card_id": [
+        2482,
+        2483
+      ]
     }
   },
   {
@@ -365,16 +597,30 @@
     "type": "scout",
     "banner_id": 2484,
     "five_star": {
-      "chara_id": 69,
-      "card_id": 2484
+      "chara_id": [
+        69
+      ],
+      "card_id": [
+        2484
+      ]
     },
     "four_star": {
-      "chara_id": 27,
-      "card_id": 2485
+      "chara_id": [
+        27
+      ],
+      "card_id": [
+        2485
+      ]
     },
     "three_star": {
-      "chara_id": "3,7",
-      "card_id": "2486,2487"
+      "chara_id": [
+        3,
+        7
+      ],
+      "card_id": [
+        2486,
+        2487
+      ]
     }
   },
   {
@@ -386,16 +632,30 @@
     "type": "feature scout",
     "banner_id": 2494,
     "five_star": {
-      "chara_id": 72,
-      "card_id": 2494
+      "chara_id": [
+        72
+      ],
+      "card_id": [
+        2494
+      ]
     },
     "four_star": {
-      "chara_id": 23,
-      "card_id": 2496
+      "chara_id": [
+        23
+      ],
+      "card_id": [
+        2496
+      ]
     },
     "three_star": {
-      "chara_id": "42,26",
-      "card_id": "2496,2497"
+      "chara_id": [
+        42,
+        26
+      ],
+      "card_id": [
+        2496,
+        2497
+      ]
     }
   },
   {
@@ -407,16 +667,30 @@
     "type": "scout",
     "banner_id": 2498,
     "five_star": {
-      "chara_id": 28,
-      "card_id": 2498
+      "chara_id": [
+        28
+      ],
+      "card_id": [
+        2498
+      ]
     },
     "four_star": {
-      "chara_id": 51,
-      "card_id": 2499
+      "chara_id": [
+        51
+      ],
+      "card_id": [
+        2499
+      ]
     },
     "three_star": {
-      "chara_id": "4,29",
-      "card_id": "2500,2501"
+      "chara_id": [
+        4,
+        29
+      ],
+      "card_id": [
+        2500,
+        2501
+      ]
     }
   },
   {
@@ -428,16 +702,30 @@
     "type": "feature scout",
     "banner_id": 2510,
     "five_star": {
-      "chara_id": 14,
-      "card_id": 2510
+      "chara_id": [
+        14
+      ],
+      "card_id": [
+        2510
+      ]
     },
     "four_star": {
-      "chara_id": 24,
-      "card_id": 2511
+      "chara_id": [
+        24
+      ],
+      "card_id": [
+        2511
+      ]
     },
     "three_star": {
-      "chara_id": "38,17",
-      "card_id": "2512,2513"
+      "chara_id": [
+        38,
+        17
+      ],
+      "card_id": [
+        2512,
+        2513
+      ]
     }
   },
   {
@@ -449,16 +737,30 @@
     "type": "scout",
     "banner_id": 2519,
     "five_star": {
-      "chara_id": 50,
-      "card_id": 2519
+      "chara_id": [
+        50
+      ],
+      "card_id": [
+        2519
+      ]
     },
     "four_star": {
-      "chara_id": 11,
-      "card_id": 2520
+      "chara_id": [
+        11
+      ],
+      "card_id": [
+        2520
+      ]
     },
     "three_star": {
-      "chara_id": "18,5",
-      "card_id": "2521,2522"
+      "chara_id": [
+        18,
+        5
+      ],
+      "card_id": [
+        2521,
+        2522
+      ]
     }
   },
   {
@@ -470,16 +772,30 @@
     "type": "feature scout",
     "banner_id": 2523,
     "five_star": {
-      "chara_id": 7,
-      "card_id": 2523
+      "chara_id": [
+        7
+      ],
+      "card_id": [
+        2523
+      ]
     },
     "four_star": {
-      "chara_id": 25,
-      "card_id": 2524
+      "chara_id": [
+        25
+      ],
+      "card_id": [
+        2524
+      ]
     },
     "three_star": {
-      "chara_id": "19,74",
-      "card_id": "2525,2526"
+      "chara_id": [
+        19,
+        74
+      ],
+      "card_id": [
+        2525,
+        2526
+      ]
     }
   },
   {
@@ -491,16 +807,30 @@
     "type": "scout",
     "banner_id": 2533,
     "five_star": {
-      "chara_id": 15,
-      "card_id": 2533
+      "chara_id": [
+        15
+      ],
+      "card_id": [
+        2533
+      ]
     },
     "four_star": {
-      "chara_id": 30,
-      "card_id": 2534
+      "chara_id": [
+        30
+      ],
+      "card_id": [
+        2534
+      ]
     },
     "three_star": {
-      "chara_id": "13,16",
-      "card_id": "2535,2536"
+      "chara_id": [
+        13,
+        16
+      ],
+      "card_id": [
+        2535,
+        2536
+      ]
     }
   },
   {
@@ -512,16 +842,30 @@
     "type": "feature scout",
     "banner_id": 2537,
     "five_star": {
-      "chara_id": 20,
-      "card_id": 2537
+      "chara_id": [
+        20
+      ],
+      "card_id": [
+        2537
+      ]
     },
     "four_star": {
-      "chara_id": 21,
-      "card_id": 2538
+      "chara_id": [
+        21
+      ],
+      "card_id": [
+        2538
+      ]
     },
     "three_star": {
-      "chara_id": "24,39",
-      "card_id": "2539,2540"
+      "chara_id": [
+        24,
+        39
+      ],
+      "card_id": [
+        2539,
+        2540
+      ]
     }
   },
   {
@@ -533,16 +877,30 @@
     "type": "scout",
     "banner_id": 2549,
     "five_star": {
-      "chara_id": 38,
-      "card_id": 2549
+      "chara_id": [
+        38
+      ],
+      "card_id": [
+        2549
+      ]
     },
     "four_star": {
-      "chara_id": 41,
-      "card_id": 2550
+      "chara_id": [
+        41
+      ],
+      "card_id": [
+        2550
+      ]
     },
     "three_star": {
-      "chara_id": "37,42",
-      "card_id": "2551,2552"
+      "chara_id": [
+        37,
+        42
+      ],
+      "card_id": [
+        2551,
+        2552
+      ]
     }
   },
   {
@@ -554,16 +912,30 @@
     "type": "feature scout",
     "banner_id": 2553,
     "five_star": {
-      "chara_id": 3,
-      "card_id": 2553
+      "chara_id": [
+        3
+      ],
+      "card_id": [
+        2553
+      ]
     },
     "four_star": {
-      "chara_id": 8,
-      "card_id": 2554
+      "chara_id": [
+        8
+      ],
+      "card_id": [
+        2554
+      ]
     },
     "three_star": {
-      "chara_id": "9,33",
-      "card_id": "2555,2556"
+      "chara_id": [
+        9,
+        33
+      ],
+      "card_id": [
+        2555,
+        2556
+      ]
     }
   },
   {
@@ -575,16 +947,30 @@
     "type": "scout",
     "banner_id": 2561,
     "five_star": {
-      "chara_id": 22,
-      "card_id": 2561
+      "chara_id": [
+        22
+      ],
+      "card_id": [
+        2561
+      ]
     },
     "four_star": {
-      "chara_id": 26,
-      "card_id": 2562
+      "chara_id": [
+        26
+      ],
+      "card_id": [
+        2562
+      ]
     },
     "three_star": {
-      "chara_id": "40,21",
-      "card_id": "2563,2564"
+      "chara_id": [
+        40,
+        21
+      ],
+      "card_id": [
+        2563,
+        2564
+      ]
     }
   },
   {
