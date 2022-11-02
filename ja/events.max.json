@@ -26,7 +26,11 @@
     "story_season": "夏",
     "banner_id": 2201,
     "five_star": {
-      "card_id": 2201
+      "card_id": 2201,
+      "chara_id": 11
+    },
+    "four_star": {
+      "card_id": 2202
     },
     "unit_id": 1
   },
@@ -46,7 +50,11 @@
     "story_season": "夏",
     "banner_id": 2409,
     "five_star": {
-      "card_id": 2409
+      "card_id": 2409,
+      "chara_id": 23
+    },
+    "four_star": {
+      "card_id": "2410,2411"
     },
     "unit_id": 0
   },
@@ -65,7 +73,11 @@
     "story_season": "夏",
     "banner_id": 2213,
     "five_star": {
-      "card_id": 2213
+      "card_id": "2213,2214",
+      "chara_id": "1,67"
+    },
+    "four_star": {
+      "card_id": "2215,2216"
     },
     "unit_id": "5,15"
   },
@@ -85,7 +97,11 @@
     "story_season": "春",
     "banner_id": 2416,
     "five_star": {
-      "card_id": 2416
+      "card_id": 2416,
+      "chara_id": 27
+    },
+    "four_star": {
+      "card_id": 2417
     },
     "unit_id": 2
   },
@@ -105,7 +121,11 @@
     "story_season": "春",
     "banner_id": 2424,
     "five_star": {
-      "card_id": 2424
+      "card_id": 2424,
+      "chara_id": 41
+    },
+    "four_star": {
+      "card_id": 2425
     },
     "unit_id": 14
   },
@@ -124,7 +144,11 @@
     "story_season": "夏",
     "banner_id": 2436,
     "five_star": {
-      "card_id": 2436
+      "card_id": "2436,2437",
+      "chara_id": "8,71"
+    },
+    "four_star": {
+      "card_id": "2438,2439"
     },
     "unit_id": "7,16"
   },
@@ -144,7 +168,11 @@
     "story_season": "夏",
     "banner_id": 2452,
     "five_star": {
-      "card_id": 2452
+      "card_id": 2452,
+      "chara_id": 30
+    },
+    "four_star": {
+      "card_id": 2453
     },
     "unit_id": 6
   },
@@ -160,10 +188,14 @@
     "intro_lines": "零と敬人が幼いころに観ていた痛快娯楽番組『ばんぱいあ将軍』。リズリンが製作に関わっていたことからライブハウスのリニューアル公演で演じてみようという話になり、時を経て蘇ることになる。",
     "story_name": "温故知新",
     "story_author": "日日日",
-    "story_season": "过去／春、春、夏、秋",
+    "story_season": "過去／春、春、夏、秋",
     "banner_id": 2469,
     "five_star": {
-      "card_id": 2469
+      "card_id": "2458,2469",
+      "chara_id": "21,29"
+    },
+    "four_star": {
+      "card_id": "2470,2471"
     },
     "unit_id": "3,8"
   },
@@ -183,7 +215,11 @@
     "story_season": "夏",
     "banner_id": 2488,
     "five_star": {
-      "card_id": 2488
+      "card_id": 2488,
+      "chara_id": 40
+    },
+    "four_star": {
+      "card_id": 2489
     },
     "unit_id": 17
   },
@@ -199,10 +235,14 @@
     "intro_lines": "事務所の仕事で過労気味のつむぎ。その様子をレオは心配するが、ニューディの置かれた状況は厳しく、かつて身を削った自分の境遇を思い出す。",
     "story_name": "ネクストドア",
     "story_author": "日日日",
-    "story_season": "过去／冬、夏",
+    "story_season": "過去／冬、夏",
     "banner_id": 2503,
     "five_star": {
-      "card_id": 2503
+      "card_id": "2502,2503",
+      "chara_id": "33,39"
+    },
+    "four_star": {
+      "card_id": "2504,2505"
     },
     "unit_id": "4,10"
   },
@@ -222,7 +262,8 @@
     "story_season": "夏",
     "banner_id": 2515,
     "five_star": {
-      "card_id": 2515
+      "card_id": 2515,
+      "chara_id": 35
     },
     "four_star": {
       "card_id": 2516
@@ -242,7 +283,7 @@
     "song_name": "Honeycomb Summer",
     "story_name": "ホットリミット",
     "story_author": "日日日",
-    "story_season": "过去／夏、夏",
+    "story_season": "過去／夏、夏",
     "banner_id": 2529,
     "five_star": {
       "card_id": 2529,
@@ -273,7 +314,11 @@
     "story_season": "春",
     "banner_id": 2541,
     "five_star": {
-      "card_id": 2541
+      "card_id": "2541,2542",
+      "chara_id": "13,19"
+    },
+    "four_star": {
+      "card_id": "2543,2544"
     },
     "unit_id": "1,2"
   },
@@ -293,7 +338,11 @@
     "story_season": "夏",
     "banner_id": 2557,
     "five_star": {
-      "card_id": 2557
+      "card_id": 2557,
+      "chara_id": 68
+    },
+    "four_star": {
+      "card_id": 2558
     },
     "unit_id": 15
   },
@@ -308,7 +357,15 @@
     "song_name": "Nightless World",
     "story_name": "不夜城ライブ",
     "story_author": "日日日",
-    "story_season": "夏、秋"
+    "story_season": "夏、秋",
+    "five_star": {
+      "card_id": 2569,
+      "chara_id": 16
+    },
+    "four_star": {
+      "card_id": 2570
+    },
+    "unit_id": 3
   },
   {
     "compliant": "FALSE",
@@ -320,7 +377,15 @@
     "intro_lines": "バラエティ番組に凪砂の一存で『Eden』の出演を決められ、予定が狂った茨。その上日和と凪砂によって台本も変えられてしまう。",
     "story_name": "ボギータイム",
     "story_author": "日日日",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": "2581,2582",
+      "chara_id": "2,51"
+    },
+    "four_star": {
+      "card_id": "2583,2584"
+    },
+    "unit_id": "6,14"
   },
   {
     "compliant": "FALSE",
@@ -333,7 +398,15 @@
     "song_name": "Midnight Butlers",
     "story_name": "バトラー",
     "story_author": "木野誠太郎",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 2597,
+      "chara_id": 24
+    },
+    "four_star": {
+      "card_id": "2598,2599"
+    },
+    "unit_id": 0
   },
   {
     "compliant": "FALSE",
@@ -346,7 +419,15 @@
     "song_name": "Sweet Sweet White Song",
     "story_name": "Merry Xmas",
     "story_author": "西岡麻衣子",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 2606,
+      "chara_id": 6
+    },
+    "four_star": {
+      "card_id": 2607
+    },
+    "unit_id": 0
   },
   {
     "compliant": "FALSE",
@@ -359,7 +440,15 @@
     "song_name": "彗星Halation",
     "story_name": "コメットショウ",
     "story_author": "日日日",
-    "story_season": "过去／夏、夏"
+    "story_season": "過去／夏、夏",
+    "five_star": {
+      "card_id": 2614,
+      "chara_id": 25
+    },
+    "four_star": {
+      "card_id": "2615,2616"
+    },
+    "unit_id": 4
   },
   {
     "compliant": "FALSE",
@@ -372,7 +461,15 @@
     "song_name": "Fighting Dreamers",
     "story_name": "ツインピークス",
     "story_author": "日日日",
-    "story_season": "夏、秋"
+    "story_season": "夏、秋",
+    "five_star": {
+      "card_id": 2628,
+      "chara_id": 4
+    },
+    "four_star": {
+      "card_id": 2629
+    },
+    "unit_id": 7
   },
   {
     "compliant": "FALSE",
@@ -384,7 +481,15 @@
     "intro_lines": "ESの近くで行われた【骨董市】。しかし、そこにキナ臭さを感じ取った『Double Face』は情報を吐き出させようと『Valkyrie』に一方的に勝負を仕掛ける…",
     "story_name": "骨董綺譚",
     "story_author": "日日日",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": "2640,2641",
+      "chara_id": "34,73"
+    },
+    "four_star": {
+      "card_id": "2642,2643"
+    },
+    "unit_id": "9,17"
   },
   {
     "compliant": "FALSE",
@@ -397,7 +502,15 @@
     "song_name": "紅月いろは唄",
     "story_name": "天下布武",
     "story_author": "日日日",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2656,
+      "chara_id": 26
+    },
+    "four_star": {
+      "card_id": 2657
+    },
+    "unit_id": 8
   },
   {
     "compliant": "FALSE",
@@ -410,7 +523,15 @@
     "song_name": "Little Romance",
     "story_name": "euthanasia",
     "story_author": "日日日",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2669,
+      "chara_id": 17
+    },
+    "four_star": {
+      "card_id": "2670,2671"
+    },
+    "unit_id": 4
   },
   {
     "compliant": "FALSE",
@@ -423,7 +544,15 @@
     "song_name": "オモイノカケラ",
     "story_name": "幻灯機",
     "story_author": "日日日",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2682,
+      "chara_id": 37
+    },
+    "four_star": {
+      "card_id": 2683
+    },
+    "unit_id": 10
   },
   {
     "compliant": "FALSE",
@@ -436,7 +565,15 @@
     "song_name": "恋はプリマヴェーラ！",
     "story_name": "プリマヴェーラ",
     "story_author": "木野誠太郎",
-    "story_season": "春、秋、冬"
+    "story_season": "春、秋、冬",
+    "five_star": {
+      "card_id": 2745,
+      "chara_id": 22
+    },
+    "four_star": {
+      "card_id": 2746
+    },
+    "unit_id": 2
   },
   {
     "compliant": "FALSE",
@@ -448,7 +585,15 @@
     "intro_lines": "『SS』の予選会が始まり、『Trickstar』と『ALKALOID』はそれぞれ北海道の会場に向かっていた。しかし、『Trickstar』は何故かジャングルを彷徨っており……",
     "story_name": "サテライト",
     "story_author": "日日日",
-    "story_season": "秋、冬"
+    "story_season": "秋、冬",
+    "five_star": {
+      "card_id": "2757,2758",
+      "chara_id": "12,70"
+    },
+    "four_star": {
+      "card_id": "2759,2760"
+    },
+    "unit_id": "1,15"
   },
   {
     "compliant": "FALSE",
@@ -461,7 +606,15 @@
     "song_name": "FALLIN’LOVE=IT’S WONDERLAND",
     "story_name": "ブラックバニー",
     "story_author": "西岡麻衣子",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2773,
+      "chara_id": 9
+    },
+    "four_star": {
+      "card_id": 2774
+    },
+    "unit_id": 6
   },
   {
     "compliant": "FALSE",
@@ -474,7 +627,15 @@
     "song_name": "指先のアリアドネ",
     "story_name": "アリアドネ",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2785,
+      "chara_id": 72
+    },
+    "four_star": {
+      "card_id": 2786
+    },
+    "unit_id": 16
   },
   {
     "event_id": 229,
@@ -485,7 +646,15 @@
     "intro_lines": "『紅月』と『流星隊』は沖縄に上陸すると現地のアイドルに囲まれてしまう。争いが活発な中、『指令』も重くのし掛かってくるのだった。",
     "story_name": "サブマリン",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2797,2798",
+      "chara_id": "14,28"
+    },
+    "four_star": {
+      "card_id": "2799,2800"
+    },
+    "unit_id": "5,8"
   },
   {
     "event_id": 230,
@@ -497,7 +666,15 @@
     "song_name": "Aisle, be with you",
     "story_name": "Ring",
     "story_author": "西岡麻衣子",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2813,
+      "chara_id": 5
+    },
+    "four_star": {
+      "card_id": "2814,2815"
+    },
+    "unit_id": 0
   },
   {
     "event_id": 231,
@@ -508,7 +685,15 @@
     "intro_lines": "九州で気ままに過ごしていた『Eden』。斑から送られた暗号を察知した茨は単身四国に乗り込むが、その先では予想外の人物が待っていた。",
     "story_name": "シークレットサービス",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2822,2823",
+      "chara_id": "40,51"
+    },
+    "four_star": {
+      "card_id": "2824,2825"
+    },
+    "unit_id": "14,17"
   },
   {
     "event_id": 232,
@@ -520,7 +705,15 @@
     "song_name": "Mystic Fragrance",
     "story_name": "フレグランス",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2836,
+      "chara_id": 20
+    },
+    "four_star": {
+      "card_id": "2837,2838"
+    },
+    "unit_id": 4
   },
   {
     "event_id": 233,
@@ -531,7 +724,15 @@
     "intro_lines": "東北地方では『Switch』の提案により〝優勝者決定戦〟が行われ、『Valkyrie』が勝利したが、翌日外に出ると目の前にはジャングルが広がっていた…",
     "story_name": "シンセカイ",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2849,2850",
+      "chara_id": "35,38"
+    },
+    "four_star": {
+      "card_id": "2851,2852"
+    },
+    "unit_id": "9,10"
   },
   {
     "event_id": 234,
@@ -542,7 +743,15 @@
     "intro_lines": "中国地方の予選会には『UNDEAD』と『2wink』が参加することになっていた…のだが、ひなたと薫は朝起きたら砂漠に放り出されていたのだった。",
     "story_name": "サンドストーム",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2864,2865",
+      "chara_id": "4,23"
+    },
+    "four_star": {
+      "card_id": "2866,2867"
+    },
+    "unit_id": "3,7"
   },
   {
     "event_id": 235,
@@ -554,7 +763,15 @@
     "song_name": "ムーンライトディスコ",
     "story_name": "かぐや姫",
     "story_author": "木野誠太郎",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 2878,
+      "chara_id": 41
+    },
+    "four_star": {
+      "card_id": "2879,2880"
+    },
+    "unit_id": 0
   },
   {
     "event_id": 236,
@@ -565,7 +782,15 @@
     "intro_lines": "悪夢にうなされていた友也が目覚めると旅館ではなく、どこかの路地裏だった。困惑しながらも辺りを歩いていると、倒れている渉を発見し…",
     "story_name": "サンクチュアリ",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2887,2888",
+      "chara_id": "3,27"
+    },
+    "four_star": {
+      "card_id": "2889,2890"
+    },
+    "unit_id": "2,6"
   },
   {
     "event_id": 237,
@@ -577,7 +802,15 @@
     "song_name": "EXCEED",
     "story_name": "ソリッド",
     "story_author": "西岡麻衣子",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2902,
+      "chara_id": 42
+    },
+    "four_star": {
+      "card_id": 2903
+    },
+    "unit_id": 14
   },
   {
     "event_id": 238,
@@ -588,7 +821,15 @@
     "intro_lines": "関西の予選会に参加する『Knights』と『Crazy:B』、ある日それぞれの『指令』の内容が公開されてしまい、ESのアイドルたちは窮地に立たされるのだった",
     "story_name": "サドンデス",
     "story_author": "日日日",
-    "story_season": "过去/秋、冬"
+    "story_season": "過去/秋、冬",
+    "five_star": {
+      "card_id": "2913,2914",
+      "chara_id": "10,73"
+    },
+    "four_star": {
+      "card_id": "2915,2916"
+    },
+    "unit_id": "4,16"
   },
   {
     "event_id": 239,
@@ -600,7 +841,15 @@
     "song_name": "月光奇譚",
     "story_name": "スカーレットハロウィソ",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2926,
+      "chara_id": 21
+    },
+    "four_star": {
+      "card_id": 2927
+    },
+    "unit_id": 8
   },
   {
     "event_id": 240,
@@ -612,7 +861,15 @@
     "song_name": "FORBIDDEN RAIN",
     "story_name": "ビースト",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 2937,
+      "chara_id": 15
+    },
+    "four_star": {
+      "card_id": 2938
+    },
+    "unit_id": 3
   },
   {
     "event_id": 241,
@@ -624,7 +881,15 @@
     "song_name": "熱血☆流星忍法帖",
     "story_name": "忍者団",
     "story_author": "西岡麻衣子",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 2948,
+      "chara_id": 7
+    },
+    "four_star": {
+      "card_id": "2949,2950"
+    },
+    "unit_id": 5
   },
   {
     "event_id": 242,
@@ -636,7 +901,15 @@
     "song_name": "Noir Neige",
     "story_name": "黑雪",
     "story_author": "木野誠太郎",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 2957,
+      "chara_id": 17
+    },
+    "four_star": {
+      "card_id": "2958,2959"
+    },
+    "unit_id": 0
   },
   {
     "event_id": 243,
@@ -648,7 +921,15 @@
     "song_name": "Feathers of Ark;Deep of Eclipse",
     "story_name": "SS",
     "story_author": "日日日",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": "2965,2966,2967,2968",
+      "chara_id": "6,22,41,50"
+    },
+    "four_star": {
+      "card_id": "2969,2970,2971,2972"
+    },
+    "unit_id": "2,14"
   },
   {
     "event_id": 244,
@@ -660,7 +941,15 @@
     "song_name": "Finder Girl",
     "story_name": "恋色四季",
     "story_author": "西岡麻衣子",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 2980,
+      "chara_id": 18
+    },
+    "four_star": {
+      "card_id": 2981
+    },
+    "unit_id": 1
   },
   {
     "event_id": 245,
@@ -672,7 +961,15 @@
     "song_name": "Believe 4 leaves",
     "story_name": "幻影飛行船",
     "story_author": "木野誠太郎",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 2991,
+      "chara_id": 69
+    },
+    "four_star": {
+      "card_id": 2992
+    },
+    "unit_id": 15
   },
   {
     "event_id": 246,
@@ -684,7 +981,15 @@
     "song_name": "Swee2wink Love Letter",
     "story_name": "ラブレター",
     "story_author": "梅田千歳",
-    "story_season": "秋、冬"
+    "story_season": "秋、冬",
+    "five_star": {
+      "card_id": 3002,
+      "chara_id": 8
+    },
+    "four_star": {
+      "card_id": 3003
+    },
+    "unit_id": 7
   },
   {
     "event_id": 247,
@@ -696,7 +1001,15 @@
     "song_name": "Brilliant Smile",
     "story_name": "トライライツ",
     "story_author": "木野誠太郎",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 3013,
+      "chara_id": 39
+    },
+    "four_star": {
+      "card_id": 3014
+    },
+    "unit_id": 10
   },
   {
     "event_id": 248,
@@ -708,7 +1021,15 @@
     "song_name": "Acanthe",
     "story_name": "エルミタージュ",
     "story_author": "西岡麻衣子",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 3024,
+      "chara_id": 34
+    },
+    "four_star": {
+      "card_id": 3025
+    },
+    "unit_id": 9
   },
   {
     "event_id": 249,
@@ -720,7 +1041,15 @@
     "song_name": "No name yet",
     "story_name": "春宵一刻",
     "story_author": "木野誠太郎",
-    "story_season": "夏、冬"
+    "story_season": "夏、冬",
+    "five_star": {
+      "card_id": 3035,
+      "chara_id": 73
+    },
+    "four_star": {
+      "card_id": 3036
+    },
+    "unit_id": 17
   },
   {
     "event_id": 250,
@@ -732,7 +1061,15 @@
     "song_name": "パラダイム・リバーシ！",
     "story_name": "イースター",
     "story_author": "梅田千歳",
-    "story_season": "冬"
+    "story_season": "冬",
+    "five_star": {
+      "card_id": 3046,
+      "chara_id": 27
+    },
+    "four_star": {
+      "card_id": "3047,3048"
+    },
+    "unit_id": 0
   },
   {
     "event_id": 251,
@@ -743,7 +1080,14 @@
     "intro_lines": "コズプロ系列校の盛り上げを図った企画『COMP』によって集まったメンバー。話題は彼らの学園生活の思い出となり、過去の扉が開いていく…",
     "story_name": "オブリガート",
     "story_author": "日日日",
-    "story_season": "过去/春、冬"
+    "story_season": "過去/春、冬",
+    "five_star": {
+      "card_id": "3054,3055",
+      "chara_id": "70,72"
+    },
+    "four_star": {
+      "card_id": "3056,3057"
+    }
   },
   {
     "event_id": 252,
@@ -755,7 +1099,15 @@
     "song_name": "Daydream×Reality",
     "story_name": "VS GAME",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 3117,
+      "chara_id": 13
+    },
+    "four_star": {
+      "card_id": 3118
+    },
+    "unit_id": 1
   },
   {
     "event_id": 253,
@@ -767,7 +1119,15 @@
     "song_name": "Sustain Memories",
     "story_name": "ブライドライト",
     "story_author": "ゆーます",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 3128,
+      "chara_id": 23
+    },
+    "four_star": {
+      "card_id": 3129
+    },
+    "unit_id": 3
   },
   {
     "event_id": 254,
@@ -779,7 +1139,15 @@
     "song_name": "夏鳥の詩 -サマーバード-",
     "story_name": "サマーバード",
     "story_author": "木野誠太郎",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 3152,
+      "chara_id": 14
+    },
+    "four_star": {
+      "card_id": 3153
+    },
+    "unit_id": 8
   },
   {
     "event_id": 255,
@@ -790,7 +1158,14 @@
     "intro_lines": "【七夕祭】の企画を今年も出した『プロデューサー』は、真緒から問題があると呼び出される。ひつぎは『平和党』に脅されたのだと説明し…",
     "story_name": "セブンブリッジ",
     "story_author": "日日日",
-    "story_season": "春、夏"
+    "story_season": "春、夏",
+    "five_star": {
+      "card_id": "3163,3164",
+      "chara_id": "15,20"
+    },
+    "four_star": {
+      "card_id": "3165,3166"
+    }
   },
   {
     "event_id": 256,
@@ -802,7 +1177,15 @@
     "song_name": "Romancing Cruise",
     "story_name": "クルーズ",
     "story_author": "西岡麻衣子",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 3179,
+      "chara_id": 38
+    },
+    "four_star": {
+      "card_id": 3180
+    },
+    "unit_id": 10
   },
   {
     "event_id": 257,
@@ -814,7 +1197,15 @@
     "song_name": "Coruscate Breeze",
     "story_name": "サンシャイン",
     "story_author": "ゆーます",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": 3199,
+      "chara_id": 33
+    },
+    "four_star": {
+      "card_id": "3200,3201"
+    },
+    "unit_id": 4
   },
   {
     "event_id": 258,
@@ -825,7 +1216,14 @@
     "intro_lines": "事務所での対抗戦となった夢ノ咲学院の【古式体育祭】。藍良は\"スタプロ組”の大将となるが、プレッシャーに押しつぶされそうになり――",
     "story_name": "グランドスラム",
     "story_author": "日日日",
-    "story_season": "夏"
+    "story_season": "夏",
+    "five_star": {
+      "card_id": "3212,3213",
+      "chara_id": "3,68"
+    },
+    "four_star": {
+      "card_id": "3214,3215"
+    }
   },
   {
     "event_id": 259,
@@ -837,7 +1235,15 @@
     "song_name": "FIST OF SOUL",
     "story_name": "CROSS FIRE",
     "story_author": "木野誠太郎",
-    "story_season": "过去／春、夏"
+    "story_season": "過去／春、夏",
+    "five_star": {
+      "card_id": 3227,
+      "chara_id": 26
+    },
+    "four_star": {
+      "card_id": "3228,3229"
+    },
+    "unit_id": 0
   },
   {
     "event_id": 260,
@@ -849,7 +1255,15 @@
     "song_name": "VERMILION",
     "story_name": "トランプ",
     "story_author": "梅田千歳",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 3240,
+      "chara_id": 67
+    },
+    "four_star": {
+      "card_id": 3241
+    },
+    "unit_id": 15
   },
   {
     "event_id": 261,
@@ -860,7 +1274,14 @@
     "intro_lines": "修学旅行でオーストラリアを訪れることになった光たち。“先発組”が豪華旅行を楽しむなか、“後発組”は名も知らぬ町に運ばれてしまう。",
     "story_name": "ハイアンドロー",
     "story_author": "日日日",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": "3251,3252",
+      "chara_id": "5,9"
+    },
+    "four_star": {
+      "card_id": "3253,3254"
+    }
   },
   {
     "event_id": 262,
@@ -872,7 +1293,15 @@
     "song_name": "Ghostic Treat House",
     "story_name": "ゴースティック",
     "story_author": "木野誠太郎",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 3266,
+      "chara_id": 19
+    },
+    "four_star": {
+      "card_id": 3267
+    },
+    "unit_id": 2
   },
   {
     "event_id": 263,
@@ -884,7 +1313,15 @@
     "song_name": "Helter-Spider",
     "story_name": "スパイダー",
     "story_author": "西岡麻衣子",
-    "story_season": "秋"
+    "story_season": "秋",
+    "five_star": {
+      "card_id": 3282,
+      "chara_id": 73
+    },
+    "four_star": {
+      "card_id": 3283
+    },
+    "unit_id": 16
   },
   {},
   {},
