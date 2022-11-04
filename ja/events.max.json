@@ -1794,7 +1794,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 231,
     "start_date": "2023-08-19T17:00:00Z",
     "end_date": "2023-08-28T03:00:00Z",
@@ -1856,7 +1856,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 232,
     "start_date": "2023-09-02T17:00:00Z",
     "end_date": "2023-09-11T03:00:00Z",
@@ -1914,7 +1914,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 233,
     "start_date": "2023-09-16T17:00:00Z",
     "end_date": "2023-09-25T03:00:00Z",
@@ -1976,7 +1976,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 234,
     "start_date": "2023-09-30T17:00:00Z",
     "end_date": "2023-10-09T03:00:00Z",
@@ -2038,7 +2038,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 235,
     "start_date": "2023-10-14T17:00:00Z",
     "end_date": "2023-10-23T03:00:00Z",
@@ -2096,7 +2096,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 236,
     "start_date": "2023-10-28T17:00:00Z",
     "end_date": "2023-11-06T03:00:00Z",
@@ -2158,7 +2158,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 237,
     "start_date": "2023-11-11T17:00:00Z",
     "end_date": "2023-11-20T03:00:00Z",
@@ -2214,7 +2214,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 238,
     "start_date": "2023-11-25T17:00:00Z",
     "end_date": "2023-12-04T03:00:00Z",
@@ -2276,7 +2276,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 239,
     "start_date": "2023-12-09T17:00:00Z",
     "end_date": "2023-12-18T03:00:00Z",
@@ -2332,7 +2332,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 240,
     "start_date": "2023-12-23T17:00:00Z",
     "end_date": "2024-01-01T03:00:00Z",
@@ -2388,7 +2388,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 241,
     "start_date": "2024-01-06T17:00:00Z",
     "end_date": "2024-01-15T03:00:00Z",
@@ -2446,7 +2446,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 242,
     "start_date": "2024-01-20T17:00:00Z",
     "end_date": "2024-01-29T03:00:00Z",
@@ -2504,7 +2504,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 243,
     "start_date": "2024-02-03T17:00:00Z",
     "end_date": "2024-02-12T03:00:00Z",
@@ -2579,7 +2579,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 244,
     "start_date": "2024-02-17T17:00:00Z",
     "end_date": "2024-02-26T03:00:00Z",
@@ -2635,7 +2635,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 245,
     "start_date": "2024-03-02T17:00:00Z",
     "end_date": "2024-03-11T03:00:00Z",
@@ -2691,7 +2691,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 246,
     "start_date": "2024-03-16T17:00:00Z",
     "end_date": "2024-03-25T03:00:00Z",
@@ -2747,7 +2747,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 247,
     "start_date": "2024-03-30T17:00:00Z",
     "end_date": "2024-04-08T03:00:00Z",
@@ -2803,7 +2803,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 248,
     "start_date": "2024-04-13T17:00:00Z",
     "end_date": "2024-04-22T03:00:00Z",
@@ -2859,7 +2859,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 249,
     "start_date": "2024-04-27T17:00:00Z",
     "end_date": "2024-05-06T03:00:00Z",
@@ -2915,7 +2915,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 250,
     "start_date": "2024-05-11T17:00:00Z",
     "end_date": "2024-05-20T03:00:00Z",
@@ -2973,7 +2973,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 251,
     "start_date": "2024-05-25T17:00:00Z",
     "end_date": "2024-06-03T03:00:00Z",
@@ -3031,7 +3031,7 @@
     }
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 252,
     "start_date": "2024-06-08T17:00:00Z",
     "end_date": "2024-06-17T03:00:00Z",
@@ -3087,7 +3087,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 253,
     "start_date": "2024-06-22T17:00:00Z",
     "end_date": "2024-07-01T03:00:00Z",
@@ -3143,7 +3143,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 254,
     "start_date": "2024-07-06T17:00:00Z",
     "end_date": "2024-07-15T03:00:00Z",
@@ -3199,7 +3199,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 255,
     "start_date": "2024-07-20T17:00:00Z",
     "end_date": "2024-07-29T03:00:00Z",
@@ -3257,7 +3257,7 @@
     }
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 256,
     "start_date": "2024-08-03T17:00:00Z",
     "end_date": "2024-08-12T03:00:00Z",
@@ -3313,7 +3313,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 257,
     "start_date": "2024-08-17T17:00:00Z",
     "end_date": "2024-08-26T03:00:00Z",
@@ -3371,7 +3371,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 258,
     "start_date": "2024-08-31T17:00:00Z",
     "end_date": "2024-09-09T03:00:00Z",
@@ -3429,7 +3429,7 @@
     }
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 259,
     "start_date": "2024-09-14T17:00:00Z",
     "end_date": "2024-09-23T03:00:00Z",
@@ -3487,7 +3487,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 260,
     "start_date": "2024-09-28T17:00:00Z",
     "end_date": "2024-10-07T03:00:00Z",
@@ -3543,7 +3543,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 261,
     "start_date": "2024-10-12T17:00:00Z",
     "end_date": "2024-10-21T03:00:00Z",
@@ -3601,7 +3601,7 @@
     }
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 262,
     "start_date": "2024-10-26T17:00:00Z",
     "end_date": "2024-11-04T03:00:00Z",
@@ -3657,7 +3657,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "event_id": 263,
     "start_date": "2024-11-09T17:00:00Z",
     "end_date": "2024-11-18T03:00:00Z",
