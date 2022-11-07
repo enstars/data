@@ -138569,481 +138569,6 @@
     "compliant": "TRUE",
     "id": 3282,
     "rarity": 5,
-    "character_id": 15,
-    "type": 2,
-    "substat_type": 2,
-    "title": "ドールと思い出",
-    "name": "乙狩アドニス",
-    "releaseDate": {
-      "jp": "2022-10-30"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "event"
-    },
-    "stats": {
-      "min": {
-        "da": 5160,
-        "vo": 6320,
-        "pf": 11300
-      },
-      "ir": {
-        "da": 21522,
-        "vo": 25724,
-        "pf": 46548
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "アニミズムへの理解",
-        "effect_value": [
-          "120"
-        ],
-        "type_id": 7,
-        "description": "BrilliantタイプのPf {0}％up",
-        "order_num": 132
-      },
-      "live": {
-        "name": "思いの籠もった人形",
-        "type_id": 1,
-        "duration": 12,
-        "effect_values": [
-          [
-            12,
-            8
-          ],
-          [
-            12,
-            10
-          ],
-          [
-            12,
-            12
-          ],
-          [
-            12,
-            14
-          ],
-          [
-            12,
-            16
-          ],
-          [
-            12,
-            18
-          ],
-          [
-            12,
-            20
-          ],
-          [
-            12,
-            25
-          ],
-          [
-            12,
-            30
-          ],
-          [
-            12,
-            35
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 19,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "幼少のときの贈り物",
-        "type_id": 15,
-        "effect_values": [
-          [
-            50
-          ],
-          [
-            60
-          ],
-          [
-            70
-          ],
-          [
-            80
-          ],
-          [
-            100
-          ]
-        ],
-        "description": "ステータスピース（黄大）のドロップ率を{0}倍にする",
-        "order_num": 78,
-        "support_skill_type_name": "ステータスピース（黄大）アップ"
-      }
-    },
-    "spp": {
-      "name": "IMMORAL WORLD",
-      "song_id": 104
-    },
-    "items": {
-      "outfit": {
-        "l2d": "ドーリーナイト衣装",
-        "3d": "ドーリーナイト衣装"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3283,
-    "rarity": 4,
-    "character_id": 2,
-    "type": 1,
-    "substat_type": 2,
-    "title": "ドールと愛着",
-    "name": "紫之創",
-    "releaseDate": {
-      "jp": "2022-10-30"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "event"
-    },
-    "stats": {
-      "min": {
-        "da": 2940,
-        "vo": 2820,
-        "pf": 5060
-      },
-      "ir": {
-        "da": 16759,
-        "vo": 12823,
-        "pf": 28075
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "道具と新しい行き先",
-        "effect_value": [
-          "35"
-        ],
-        "type_id": 4,
-        "description": "Sparkleタイプの総合値{0}％up",
-        "order_num": 42
-      },
-      "live": {
-        "name": "ままごとと人形",
-        "type_id": 1,
-        "duration": 8,
-        "effect_values": [
-          [
-            8,
-            13
-          ],
-          [
-            8,
-            16
-          ],
-          [
-            8,
-            20
-          ],
-          [
-            8,
-            23
-          ],
-          [
-            8,
-            26
-          ],
-          [
-            8,
-            30
-          ],
-          [
-            8,
-            35
-          ],
-          [
-            8,
-            40
-          ],
-          [
-            8,
-            45
-          ],
-          [
-            8,
-            50
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 16,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "馴染んだ生活用品",
-        "type_id": 13,
-        "effect_values": [
-          [
-            25
-          ],
-          [
-            35
-          ],
-          [
-            50
-          ],
-          [
-            65
-          ],
-          [
-            75
-          ]
-        ],
-        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
-        "order_num": 71,
-        "support_skill_type_name": "ステータスピース（黄小）アップ"
-      }
-    },
-    "spp": {
-      "name": "メルティ♡キッチン",
-      "song_id": 19
-    },
-    "items": {
-      "outfit": {
-        "l2d": "ドーリーナイト衣装"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3284,
-    "rarity": 3,
-    "character_id": 68,
-    "type": 4,
-    "substat_type": 0,
-    "title": "宣伝ドール",
-    "name": "白鳥藍良",
-    "releaseDate": {
-      "jp": "2022-10-30"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "event"
-    },
-    "stats": {
-      "min": {
-        "da": 3160,
-        "vo": 1460,
-        "pf": 1630
-      },
-      "ir": {
-        "da": 21473,
-        "vo": 10599,
-        "pf": 9715
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "蚤の市巡り",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 14,
-        "description": "FlashタイプのDa {0}％up",
-        "order_num": 322
-      },
-      "live": {
-        "name": "記憶と人形",
-        "type_id": 1,
-        "duration": 5,
-        "effect_values": [
-          [
-            5,
-            10
-          ],
-          [
-            5,
-            12
-          ],
-          [
-            5,
-            15
-          ],
-          [
-            5,
-            17
-          ],
-          [
-            5,
-            20
-          ],
-          [
-            5,
-            22
-          ],
-          [
-            5,
-            25
-          ],
-          [
-            5,
-            30
-          ],
-          [
-            5,
-            40
-          ],
-          [
-            5,
-            50
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 12,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "掘り出し物探し",
-        "type_id": 4,
-        "effect_values": [
-          [
-            2
-          ],
-          [
-            3
-          ],
-          [
-            5
-          ],
-          [
-            8
-          ],
-          [
-            10
-          ]
-        ],
-        "description": "あんさんぶるタイムゲージの上昇量が少しアップ",
-        "order_num": 41,
-        "support_skill_type_name": "あんさんぶるタイムサポート"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3285,
-    "rarity": 3,
-    "character_id": 9,
-    "type": 3,
-    "substat_type": 1,
-    "title": "継承ドール",
-    "name": "天満光",
-    "releaseDate": {
-      "jp": "2022-10-30"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "event"
-    },
-    "stats": {
-      "min": {
-        "da": 1690,
-        "vo": 2920,
-        "pf": 1800
-      },
-      "ir": {
-        "da": 11421,
-        "vo": 18790,
-        "pf": 12482
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "新しい古着",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 9,
-        "description": "GlitterタイプのVo {0}％up",
-        "order_num": 212
-      },
-      "live": {
-        "name": "伝わる人形",
-        "type_id": 1,
-        "duration": 12,
-        "effect_values": [
-          [
-            12,
-            4
-          ],
-          [
-            12,
-            5
-          ],
-          [
-            12,
-            6
-          ],
-          [
-            12,
-            7
-          ],
-          [
-            12,
-            8
-          ],
-          [
-            12,
-            9
-          ],
-          [
-            12,
-            10
-          ],
-          [
-            12,
-            12
-          ],
-          [
-            12,
-            15
-          ],
-          [
-            12,
-            20
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 18,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "共に走った靴",
-        "type_id": 9,
-        "effect_values": [
-          [
-            10
-          ],
-          [
-            20
-          ],
-          [
-            30
-          ],
-          [
-            40
-          ],
-          [
-            50
-          ]
-        ],
-        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
-        "order_num": 60,
-        "support_skill_type_name": "ステータスピース（青小）アップ"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3286,
-    "rarity": 5,
     "character_id": 73,
     "type": 4,
     "substat_type": 1,
@@ -139165,7 +138690,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3287,
+    "id": 3283,
     "rarity": 4,
     "character_id": 74,
     "type": 1,
@@ -139288,7 +138813,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3288,
+    "id": 3284,
     "rarity": 3,
     "character_id": 72,
     "type": 3,
@@ -139408,7 +138933,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3289,
+    "id": 3285,
     "rarity": 3,
     "character_id": 71,
     "type": 2,
@@ -139525,6 +139050,493 @@
         "3d": "スパイダー衣装"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3286,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ドールと思い出",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 5160,
+        "vo": 6320,
+        "pf": 11300
+      },
+      "ir": {
+        "da": 21522,
+        "vo": 25724,
+        "pf": 46548
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "アニミズムへの理解",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf {0}％up",
+        "order_num": 132
+      },
+      "live": {
+        "name": "思いの籠もった人形",
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            12,
+            20
+          ],
+          [
+            12,
+            25
+          ],
+          [
+            12,
+            30
+          ],
+          [
+            12,
+            35
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "幼少のときの贈り物",
+        "type_id": 15,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（黄大）のドロップ率を{0}倍にする",
+        "order_num": 78,
+        "support_skill_type_name": "ステータスピース（黄大）アップ"
+      }
+    },
+    "spp": {
+      "name": "IMMORAL WORLD",
+      "song_id": 104
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ドーリーナイト衣装",
+        "3d": "ドーリーナイト衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3287,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ドールと愛着",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 2940,
+        "vo": 2820,
+        "pf": 5060
+      },
+      "ir": {
+        "da": 16759,
+        "vo": 12823,
+        "pf": 28075
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "道具と新しい行き先",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの総合値{0}％up",
+        "order_num": 42
+      },
+      "live": {
+        "name": "ままごとと人形",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            23
+          ],
+          [
+            8,
+            26
+          ],
+          [
+            8,
+            30
+          ],
+          [
+            8,
+            35
+          ],
+          [
+            8,
+            40
+          ],
+          [
+            8,
+            45
+          ],
+          [
+            8,
+            50
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "馴染んだ生活用品",
+        "type_id": 13,
+        "effect_values": [
+          [
+            25
+          ],
+          [
+            35
+          ],
+          [
+            50
+          ],
+          [
+            65
+          ],
+          [
+            75
+          ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（黄小）アップ"
+      }
+    },
+    "spp": {
+      "name": "メルティ♡キッチン",
+      "song_id": 19
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ドーリーナイト衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3288,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 4,
+    "substat_type": 0,
+    "title": "宣伝ドール",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 3160,
+        "vo": 1460,
+        "pf": 1630
+      },
+      "ir": {
+        "da": 21473,
+        "vo": 10599,
+        "pf": 9715
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "蚤の市巡り",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa {0}％up",
+        "order_num": 322
+      },
+      "live": {
+        "name": "記憶と人形",
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            10
+          ],
+          [
+            5,
+            12
+          ],
+          [
+            5,
+            15
+          ],
+          [
+            5,
+            17
+          ],
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            22
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            50
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "掘り出し物探し",
+        "type_id": 4,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ",
+        "order_num": 41,
+        "support_skill_type_name": "あんさんぶるタイムサポート"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3289,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 1,
+    "title": "継承ドール",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2022-10-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "min": {
+        "da": 1690,
+        "vo": 2920,
+        "pf": 1800
+      },
+      "ir": {
+        "da": 11421,
+        "vo": 18790,
+        "pf": 12482
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "新しい古着",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo {0}％up",
+        "order_num": 212
+      },
+      "live": {
+        "name": "伝わる人形",
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            4
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            15
+          ],
+          [
+            12,
+            20
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 18,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "共に走った靴",
+        "type_id": 9,
+        "effect_values": [
+          [
+            10
+          ],
+          [
+            20
+          ],
+          [
+            30
+          ],
+          [
+            40
+          ],
+          [
+            50
+          ]
+        ],
+        "description": "ステータスピース（青小）のドロップ率を{0}倍にする",
+        "order_num": 60,
+        "support_skill_type_name": "ステータスピース（青小）アップ"
+      }
+    }
+  },
+  {
+    "compliant": "FALSE"
+  },
+  {
+    "compliant": "FALSE"
+  },
+  {
+    "compliant": "FALSE"
+  },
+  {
+    "compliant": "FALSE"
   },
   {
     "compliant": "FALSE"
