@@ -1889,6 +1889,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 334,
     "name": "スカウト！ハロウィンBOX",
     "start_date": {
@@ -1899,6 +1900,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 335,
     "name": "フィーチャースカウト 渉編",
     "start_date": {
@@ -1909,6 +1911,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 336,
     "name": "スカウト！世紀末ウォーズ",
     "start_date": {
@@ -1919,6 +1922,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 337,
     "name": "フィーチャースカウト 宗編",
     "start_date": {
@@ -1929,6 +1933,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 338,
     "name": "スカウト！XXVeil",
     "start_date": {
@@ -1939,6 +1944,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 339,
     "name": "フィーチャースカウト 燐音編",
     "start_date": {
@@ -1949,6 +1955,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 340,
     "name": "スカウト！Branco",
     "start_date": {
@@ -1959,6 +1966,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 341,
     "name": "フィーチャースカウト つむぎ編",
     "start_date": {
@@ -1969,6 +1977,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 342,
     "name": "スカウト！丑参り（前編）",
     "start_date": {
@@ -1979,6 +1988,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 343,
     "name": "フィーチャースカウト レオ編",
     "start_date": {
@@ -1989,6 +1999,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 344,
     "name": "スカウト！丑参り（後編）",
     "start_date": {
@@ -1999,6 +2010,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 345,
     "name": "フィーチャースカウト なずな編",
     "start_date": {
@@ -2009,6 +2021,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 346,
     "name": "スカウト！ホワイトリリー",
     "start_date": {
@@ -2019,6 +2032,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 347,
     "name": "フィーチャースカウト 日和編",
     "start_date": {
@@ -2029,6 +2043,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 348,
     "name": "スカウト！スイートハント",
     "start_date": {
@@ -2039,6 +2054,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 349,
     "name": "フィーチャースカウト ゆうた編",
     "start_date": {
@@ -2049,6 +2065,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 350,
     "name": "スカウト！怪盗フェイク",
     "start_date": {
@@ -2059,6 +2076,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 351,
     "name": "フィーチャースカウト 斑編",
     "start_date": {
@@ -2069,6 +2087,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 352,
     "name": "スカウト！スプリングベッド",
     "start_date": {
@@ -2079,6 +2098,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 353,
     "name": "フィーチャースカウト 零編",
     "start_date": {
@@ -2089,6 +2109,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 354,
     "name": "スカウト！RELOADED",
     "start_date": {
@@ -2099,6 +2120,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 355,
     "name": "フィーチャースカウト ジュン編",
     "start_date": {
@@ -2109,6 +2131,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 356,
     "name": "スカウト！あそび部",
     "start_date": {
@@ -2119,6 +2142,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 357,
     "name": "フィーチャースカウト アドニス編",
     "start_date": {
@@ -2129,6 +2153,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 358,
     "name": "スカウト！プリティ5",
     "start_date": {
@@ -2139,6 +2164,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 359,
     "name": "フィーチャースカウト 夏目編",
     "start_date": {
@@ -2149,6 +2175,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 360,
     "name": "スカウト！ハルサキRide→ON！",
     "start_date": {
@@ -2159,6 +2186,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 361,
     "name": "フィーチャースカウト マヨイ編",
     "start_date": {
@@ -2169,6 +2197,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 362,
     "name": "スカウト！ツツジ燃ゆる",
     "start_date": {
@@ -2179,6 +2208,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 363,
     "name": "フィーチャースカウト 藍良編",
     "start_date": {
@@ -2189,6 +2219,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 364,
     "name": "スカウト！Ring.A.Bell",
     "start_date": {
@@ -2199,6 +2230,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 365,
     "name": "フィーチャースカウト 真編",
     "start_date": {
@@ -2209,6 +2241,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 366,
     "name": "スカウト！ジェムスフィア",
     "start_date": {
@@ -2219,6 +2252,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 367,
     "name": "フィーチャースカウト 宙編",
     "start_date": {
@@ -2229,6 +2263,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 368,
     "name": "スカウト！プリズンブレイカーズ",
     "start_date": {
@@ -2239,6 +2274,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 369,
     "name": "フィーチャースカウト 千秋編",
     "start_date": {
@@ -2249,6 +2285,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 370,
     "name": "スカウト！前線の番犬",
     "start_date": {
@@ -2259,6 +2296,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 371,
     "name": "フィーチャースカウト 一彩編",
     "start_date": {
@@ -2269,6 +2307,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 372,
     "name": "スカウト！潮騒マリーナ",
     "start_date": {
@@ -2279,6 +2318,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 373,
     "name": "フィーチャースカウト こはく編",
     "start_date": {
@@ -2289,6 +2329,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 374,
     "name": "スカウト！月都スペクタクル",
     "start_date": {
@@ -2299,6 +2340,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 375,
     "name": "フィーチャースカウト スバル編",
     "start_date": {
@@ -2309,6 +2351,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 376,
     "name": "スカウト！一騎当千",
     "start_date": {
@@ -2319,6 +2362,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 377,
     "name": "フィーチャースカウト 鉄虎編",
     "start_date": {
@@ -2329,6 +2373,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 378,
     "name": "スカウト！実りのOCTOBER",
     "start_date": {
@@ -2339,6 +2384,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 379,
     "name": "フィーチャースカウト 翠編",
     "start_date": {
@@ -2349,6 +2395,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 380,
     "name": "スカウト！ドラマティカ",
     "start_date": {
@@ -2359,6 +2406,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 382,
     "name": "スカウト！ソレイユ",
     "start_date": {
@@ -2369,6 +2417,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 383,
     "name": "フィーチャースカウト 奏汰編",
     "start_date": {
@@ -2379,6 +2428,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 384,
     "name": "スカウト！刑事DANCE",
     "start_date": {
@@ -2389,6 +2439,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 385,
     "name": "フィーチャースカウト 弓弦編",
     "start_date": {
@@ -2399,6 +2450,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 386,
     "name": "スカウト！ホットウィンター",
     "start_date": {
@@ -2409,6 +2461,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 388,
     "name": "スカウト！La Mort",
     "start_date": {
@@ -2419,6 +2472,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 389,
     "name": "フィーチャースカウト ニキ編",
     "start_date": {
@@ -2429,6 +2483,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 390,
     "name": "スカウト！五黄の寅",
     "start_date": {
@@ -2439,6 +2494,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 391,
     "name": "フィーチャースカウト ひなた編",
     "start_date": {
@@ -2449,6 +2505,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 392,
     "name": "スカウト！白虎舞",
     "start_date": {
@@ -2459,6 +2516,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 393,
     "name": "フィーチャースカウト 創編",
     "start_date": {
@@ -2469,6 +2527,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 394,
     "name": "スカウト！アストレアの工房",
     "start_date": {
@@ -2479,6 +2538,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 395,
     "name": "フィーチャースカウト 紅郎編",
     "start_date": {
@@ -2489,6 +2549,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 396,
     "name": "スカウト！ロマンチック？デイト",
     "start_date": {
@@ -2499,6 +2560,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 397,
     "name": "フィーチャースカウト 薫編",
     "start_date": {
@@ -2509,6 +2571,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 398,
     "name": "スカウト！色彩百花",
     "start_date": {
@@ -2519,6 +2582,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 399,
     "name": "フィーチャースカウト 敬人編",
     "start_date": {
@@ -2529,6 +2593,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 400,
     "name": "スカウト！ホワイトブリム",
     "start_date": {
@@ -2539,6 +2604,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 401,
     "name": "フィーチャースカウト 凛月編",
     "start_date": {
@@ -2549,6 +2615,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 402,
     "name": "スカウト！きまぐれシティライダー",
     "start_date": {
@@ -2559,6 +2626,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 403,
     "name": "フィーチャースカウト 英智編",
     "start_date": {
@@ -2569,6 +2637,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 404,
     "name": "スカウト！Puffy☆Bunny",
     "start_date": {
@@ -2579,6 +2648,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 405,
     "name": "フィーチャースカウト 凪砂編",
     "start_date": {
@@ -2589,6 +2659,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 406,
     "name": "スカウト！バンド『BB』",
     "start_date": {
@@ -2599,6 +2670,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 407,
     "name": "フィーチャースカウト 泉編2",
     "start_date": {
@@ -2609,6 +2681,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 408,
     "name": "スカウト！Orient",
     "start_date": {
@@ -2619,6 +2692,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 409,
     "name": "フィーチャースカウト なずな編2",
     "start_date": {
@@ -2629,6 +2703,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 410,
     "name": "スカウト！甜々ハングリー",
     "start_date": {
@@ -2639,6 +2714,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 411,
     "name": "フィーチャースカウト 司編2",
     "start_date": {
@@ -2649,6 +2725,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 412,
     "name": "スカウト！バンカラグラフィティ",
     "start_date": {
@@ -2659,6 +2736,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 413,
     "name": "フィーチャースカウト 奏汰編2",
     "start_date": {
@@ -2669,6 +2747,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 414,
     "name": "スカウト！敬人塾",
     "start_date": {
@@ -2679,6 +2758,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 415,
     "name": "フィーチャースカウト 創編2",
     "start_date": {
@@ -2689,6 +2769,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 416,
     "name": "スカウト！みずたま模様",
     "start_date": {
@@ -2699,6 +2780,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 417,
     "name": "フィーチャースカウト マヨイ編2",
     "start_date": {
@@ -2709,6 +2791,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 418,
     "name": "スカウト！アニマルズ",
     "start_date": {
@@ -2719,6 +2802,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 419,
     "name": "フィーチャースカウト 茨編2",
     "start_date": {
@@ -2729,6 +2813,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 420,
     "name": "スカウト！レッドホットアイランド",
     "start_date": {
@@ -2739,6 +2824,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 421,
     "name": "フィーチャースカウト 真緒編2",
     "start_date": {
@@ -2749,6 +2835,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 422,
     "name": "スカウト！舞闘会",
     "start_date": {
@@ -2759,6 +2846,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 423,
     "name": "フィーチャースカウト 桃李編2",
     "start_date": {
@@ -2769,6 +2857,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 424,
     "name": "スカウト！MIRAGE",
     "start_date": {
@@ -2779,6 +2868,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 425,
     "name": "フィーチャースカウト 零編2",
     "start_date": {
@@ -2789,6 +2879,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 426,
     "name": "スカウト！Chill Yellow",
     "start_date": {
@@ -2799,6 +2890,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 427,
     "name": "フィーチャースカウト 燐音編2",
     "start_date": {
@@ -2809,6 +2901,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 428,
     "name": "スカウト！PORTRAIT - Look back -",
     "start_date": {
@@ -2819,6 +2912,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 429,
     "name": "フィーチャースカウト 宙編2",
     "start_date": {
@@ -2829,6 +2923,7 @@
     }
   },
   {
+    "compliant": "FALSE",
     "gacha_id": 430,
     "name": "スカウト！ドーリーナイト",
     "start_date": {
