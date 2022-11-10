@@ -7159,8 +7159,9 @@
     "name": "Shu Itsuki",
     "quote": {
       "n": "……ふん。相変わらずごみごみとした町だね",
-      "e": "美を掲げて見せよう"
-    }
+      "e": "Hmph. This city is as disorganized as usual."
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "FALSE",
@@ -7169,8 +7170,9 @@
     "name": "Mika Kagehira",
     "quote": {
       "n": "はあああ、どないしょおおおーー",
-      "e": "後悔しない芸術を披露したるわ"
-    }
+      "e": "Arrrrrgh, what should I do—"
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "FALSE",
@@ -7184,8 +7186,9 @@
     },
     "quote": {
       "n": "交渉や勧誘が下手なんですよね〜",
-      "e": "愉しげに飛んでいますねぇ！"
-    }
+      "e": "It's only proper to lend him a hand now."
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "FALSE",
@@ -7196,7 +7199,11 @@
       "center": {
         "name": "アルテッシモの相棒"
       }
-    }
+    },
+    "quote": {
+      "e": "—Yaho. I was wondering what you're doing. Are you shopping for dinner?"
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "FALSE",
