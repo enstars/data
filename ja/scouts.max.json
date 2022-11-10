@@ -1878,28 +1878,28 @@
     }
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 333,
     "name": "フィーチャースカウト 司編",
     "start_date": "2023-01-02T17:00:00Z",
     "end_date": "2023-01-16T16:59:59Z"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 334,
     "name": "スカウト！ハロウィンBOX",
     "start_date": "2023-01-06T17:00:00Z",
     "end_date": "2023-01-20T16:59:59Z"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 335,
     "name": "フィーチャースカウト 渉編",
     "start_date": "2023-01-16T17:00:00Z",
     "end_date": "2023-01-30T16:59:59Z"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 336,
     "name": "スカウト！世紀末ウォーズ",
     "start_date": "2023-01-20T17:00:00Z",
