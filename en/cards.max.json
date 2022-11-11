@@ -7294,10 +7294,21 @@
     "releaseDate": "2022-11-12"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2519,
     "title": "Dream of the Wasteland",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "The Tranquil Bloom"
+      },
+      "live": {
+        "name": "The First Field Goal"
+      },
+      "support": {
+        "name": "First Basketball Playing"
+      }
+    },
     "quote": {
       "n": "…ダンクシュート♪",
       "e": "…荒れ地もきっといつかは"
@@ -7309,6 +7320,14 @@
     "id": 2520,
     "title": "Blooming in the Wasteland",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "The Cheerful Bloom"
+      },
+      "live": {
+        "name": "Topic on Father"
+      }
+    },
     "quote": {
       "n": "遅〜い。待ったんだよ？",
       "e": "ずっと苦しいわけじゃない"

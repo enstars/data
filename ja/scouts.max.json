@@ -2233,7 +2233,11 @@
     },
     "type": "feature scout"
   },
-  {},
+  {
+    "compliant": "FALSE",
+    "gacha_id": 432,
+    "type": "scout"
+  },
   {},
   {},
   {},
