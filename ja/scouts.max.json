@@ -36,42 +36,12 @@
         2208
       ]
     },
-    "cards": {
-      "0": 2205,
-      "1": 2206,
-      "2": 2207,
-      "3": 2208,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          3,
-          2
-        ],
-        [
-          28
-        ],
-        [
-          34
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2207,
-          2208
-        ],
-        [
-          2206
-        ],
-        [
-          2205
-        ]
-      ]
-    }
+    "cards": [
+      2205,
+      2206,
+      2207,
+      2208
+    ]
   },
   {
     "compliant": "TRUE",
@@ -108,42 +78,12 @@
         2200
       ]
     },
-    "cards": {
-      "0": 2197,
-      "1": 2198,
-      "2": 2199,
-      "3": 2200,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          24,
-          20
-        ],
-        [
-          10
-        ],
-        [
-          17
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2199,
-          2200
-        ],
-        [
-          2198
-        ],
-        [
-          2197
-        ]
-      ]
-    }
+    "cards": [
+      2197,
+      2198,
+      2199,
+      2200
+    ]
   },
   {
     "compliant": "TRUE",
@@ -179,42 +119,12 @@
         2415
       ]
     },
-    "cards": {
-      "0": 2412,
-      "1": 2413,
-      "2": 2414,
-      "3": 2415,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          8,
-          37
-        ],
-        [
-          40
-        ],
-        [
-          70
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2414,
-          2415
-        ],
-        [
-          2413
-        ],
-        [
-          2412
-        ]
-      ]
-    }
+    "cards": [
+      2412,
+      2413,
+      2414,
+      2415
+    ]
   },
   {
     "compliant": "TRUE",
@@ -241,34 +151,10 @@
         2408
       ]
     },
-    "cards": {
-      "0": 2407,
-      "1": 2408,
-      "characters": [
-        null,
-        null,
-        null,
-        null,
-        [
-          9
-        ],
-        [
-          25
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        null,
-        [
-          2408
-        ],
-        [
-          2407
-        ]
-      ]
-    }
+    "cards": [
+      2407,
+      2408
+    ]
   },
   {
     "compliant": "TRUE",
@@ -304,42 +190,12 @@
         2225
       ]
     },
-    "cards": {
-      "0": 2222,
-      "1": 2223,
-      "2": 2224,
-      "3": 2225,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          15,
-          4
-        ],
-        [
-          12
-        ],
-        [
-          51
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2224,
-          2225
-        ],
-        [
-          2223
-        ],
-        [
-          2222
-        ]
-      ]
-    }
+    "cards": [
+      2222,
+      2223,
+      2224,
+      2225
+    ]
   },
   {
     "compliant": "TRUE",
@@ -377,42 +233,12 @@
         2212
       ]
     },
-    "cards": {
-      "0": 2209,
-      "1": 2210,
-      "2": 2211,
-      "3": 2212,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          74,
-          72
-        ],
-        [
-          71
-        ],
-        [
-          73
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2211,
-          2212
-        ],
-        [
-          2210
-        ],
-        [
-          2209
-        ]
-      ]
-    }
+    "cards": [
+      2209,
+      2210,
+      2211,
+      2212
+    ]
   },
   {
     "compliant": "TRUE",
@@ -448,42 +274,12 @@
         2357
       ]
     },
-    "cards": {
-      "0": 2354,
-      "1": 2355,
-      "2": 2356,
-      "3": 2357,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          29,
-          30
-        ],
-        [
-          35
-        ],
-        [
-          16
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2356,
-          2357
-        ],
-        [
-          2355
-        ],
-        [
-          2354
-        ]
-      ]
-    }
+    "cards": [
+      2354,
+      2355,
+      2356,
+      2357
+    ]
   },
   {
     "compliant": "TRUE",
@@ -520,42 +316,12 @@
         2229
       ]
     },
-    "cards": {
-      "0": 2226,
-      "1": 2227,
-      "2": 2228,
-      "3": 2229,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          21,
-          67
-        ],
-        [
-          14
-        ],
-        [
-          26
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2228,
-          2229
-        ],
-        [
-          2227
-        ],
-        [
-          2226
-        ]
-      ]
-    }
+    "cards": [
+      2226,
+      2227,
+      2228,
+      2229
+    ]
   },
   {
     "compliant": "TRUE",
@@ -591,42 +357,12 @@
         2431
       ]
     },
-    "cards": {
-      "0": 2428,
-      "1": 2429,
-      "2": 2430,
-      "3": 2431,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          1,
-          7
-        ],
-        [
-          33
-        ],
-        [
-          24
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2430,
-          2431
-        ],
-        [
-          2429
-        ],
-        [
-          2428
-        ]
-      ]
-    }
+    "cards": [
+      2428,
+      2429,
+      2430,
+      2431
+    ]
   },
   {
     "compliant": "TRUE",
@@ -663,42 +399,12 @@
         2423
       ]
     },
-    "cards": {
-      "0": 2420,
-      "1": 2421,
-      "2": 2422,
-      "3": 2423,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          11,
-          17
-        ],
-        [
-          20
-        ],
-        [
-          2
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2422,
-          2423
-        ],
-        [
-          2421
-        ],
-        [
-          2420
-        ]
-      ]
-    }
+    "cards": [
+      2420,
+      2421,
+      2422,
+      2423
+    ]
   },
   {
     "compliant": "TRUE",
@@ -734,42 +440,12 @@
         2447
       ]
     },
-    "cards": {
-      "0": 2444,
-      "1": 2445,
-      "2": 2446,
-      "3": 2447,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          71,
-          50
-        ],
-        [
-          19
-        ],
-        [
-          6
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2446,
-          2447
-        ],
-        [
-          2445
-        ],
-        [
-          2444
-        ]
-      ]
-    }
+    "cards": [
+      2444,
+      2445,
+      2446,
+      2447
+    ]
   },
   {
     "compliant": "TRUE",
@@ -806,42 +482,12 @@
         2435
       ]
     },
-    "cards": {
-      "0": 2432,
-      "1": 2433,
-      "2": 2434,
-      "3": 2435,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          38,
-          69
-        ],
-        [
-          39
-        ],
-        [
-          37
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2434,
-          2435
-        ],
-        [
-          2433
-        ],
-        [
-          2432
-        ]
-      ]
-    }
+    "cards": [
+      2432,
+      2433,
+      2434,
+      2435
+    ]
   },
   {
     "compliant": "TRUE",
@@ -877,42 +523,12 @@
         2459
       ]
     },
-    "cards": {
-      "0": 2456,
-      "1": 2457,
-      "2": 2458,
-      "3": 2459,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          22,
-          5
-        ],
-        [
-          13
-        ],
-        [
-          18
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2458,
-          2459
-        ],
-        [
-          2457
-        ],
-        [
-          2456
-        ]
-      ]
-    }
+    "cards": [
+      2456,
+      2457,
+      2458,
+      2459
+    ]
   },
   {
     "compliant": "TRUE",
@@ -949,42 +565,12 @@
         2451
       ]
     },
-    "cards": {
-      "0": 2448,
-      "1": 2449,
-      "2": 2450,
-      "3": 2451,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          33,
-          70
-        ],
-        [
-          68
-        ],
-        [
-          42
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2450,
-          2451
-        ],
-        [
-          2449
-        ],
-        [
-          2448
-        ]
-      ]
-    }
+    "cards": [
+      2448,
+      2449,
+      2450,
+      2451
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1020,42 +606,12 @@
         2479
       ]
     },
-    "cards": {
-      "0": 2476,
-      "1": 2477,
-      "2": 2478,
-      "3": 2479,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          41,
-          67
-        ],
-        [
-          10
-        ],
-        [
-          12
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2478,
-          2479
-        ],
-        [
-          2477
-        ],
-        [
-          2476
-        ]
-      ]
-    }
+    "cards": [
+      2476,
+      2477,
+      2478,
+      2479
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1092,42 +648,12 @@
         2467
       ]
     },
-    "cards": {
-      "0": 2464,
-      "1": 2465,
-      "2": 2466,
-      "3": 2467,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          25,
-          39
-        ],
-        [
-          34
-        ],
-        [
-          5
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2466,
-          2467
-        ],
-        [
-          2465
-        ],
-        [
-          2464
-        ]
-      ]
-    }
+    "cards": [
+      2464,
+      2465,
+      2466,
+      2467
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1163,42 +689,12 @@
         2483
       ]
     },
-    "cards": {
-      "0": 2480,
-      "1": 2481,
-      "2": 2482,
-      "3": 2483,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          11,
-          35
-        ],
-        [
-          1
-        ],
-        [
-          9
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2482,
-          2483
-        ],
-        [
-          2481
-        ],
-        [
-          2480
-        ]
-      ]
-    }
+    "cards": [
+      2480,
+      2481,
+      2482,
+      2483
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1235,42 +731,12 @@
         2487
       ]
     },
-    "cards": {
-      "0": 2484,
-      "1": 2485,
-      "2": 2486,
-      "3": 2487,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          3,
-          7
-        ],
-        [
-          27
-        ],
-        [
-          69
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2486,
-          2487
-        ],
-        [
-          2485
-        ],
-        [
-          2484
-        ]
-      ]
-    }
+    "cards": [
+      2484,
+      2485,
+      2486,
+      2487
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1306,42 +772,12 @@
         2497
       ]
     },
-    "cards": {
-      "0": 2494,
-      "1": 2496,
-      "2": 2496,
-      "3": 2497,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          42,
-          26
-        ],
-        [
-          23
-        ],
-        [
-          72
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2496,
-          2497
-        ],
-        [
-          2496
-        ],
-        [
-          2494
-        ]
-      ]
-    }
+    "cards": [
+      2494,
+      2496,
+      2496,
+      2497
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1378,42 +814,12 @@
         2501
       ]
     },
-    "cards": {
-      "0": 2498,
-      "1": 2499,
-      "2": 2500,
-      "3": 2501,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          4,
-          29
-        ],
-        [
-          51
-        ],
-        [
-          28
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2500,
-          2501
-        ],
-        [
-          2499
-        ],
-        [
-          2498
-        ]
-      ]
-    }
+    "cards": [
+      2498,
+      2499,
+      2500,
+      2501
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1449,42 +855,12 @@
         2513
       ]
     },
-    "cards": {
-      "0": 2510,
-      "1": 2511,
-      "2": 2512,
-      "3": 2513,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          38,
-          17
-        ],
-        [
-          24
-        ],
-        [
-          14
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2512,
-          2513
-        ],
-        [
-          2511
-        ],
-        [
-          2510
-        ]
-      ]
-    }
+    "cards": [
+      2510,
+      2511,
+      2512,
+      2513
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1521,42 +897,12 @@
         2522
       ]
     },
-    "cards": {
-      "0": 2519,
-      "1": 2520,
-      "2": 2521,
-      "3": 2522,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          18,
-          5
-        ],
-        [
-          11
-        ],
-        [
-          50
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2521,
-          2522
-        ],
-        [
-          2520
-        ],
-        [
-          2519
-        ]
-      ]
-    }
+    "cards": [
+      2519,
+      2520,
+      2521,
+      2522
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1592,42 +938,12 @@
         2526
       ]
     },
-    "cards": {
-      "0": 2523,
-      "1": 2524,
-      "2": 2525,
-      "3": 2526,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          19,
-          74
-        ],
-        [
-          25
-        ],
-        [
-          7
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2525,
-          2526
-        ],
-        [
-          2524
-        ],
-        [
-          2523
-        ]
-      ]
-    }
+    "cards": [
+      2523,
+      2524,
+      2525,
+      2526
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1664,42 +980,12 @@
         2536
       ]
     },
-    "cards": {
-      "0": 2533,
-      "1": 2534,
-      "2": 2535,
-      "3": 2536,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          13,
-          16
-        ],
-        [
-          30
-        ],
-        [
-          15
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2535,
-          2536
-        ],
-        [
-          2534
-        ],
-        [
-          2533
-        ]
-      ]
-    }
+    "cards": [
+      2533,
+      2534,
+      2535,
+      2536
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1735,42 +1021,12 @@
         2540
       ]
     },
-    "cards": {
-      "0": 2537,
-      "1": 2538,
-      "2": 2539,
-      "3": 2540,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          24,
-          39
-        ],
-        [
-          21
-        ],
-        [
-          20
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2539,
-          2540
-        ],
-        [
-          2538
-        ],
-        [
-          2537
-        ]
-      ]
-    }
+    "cards": [
+      2537,
+      2538,
+      2539,
+      2540
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1807,42 +1063,12 @@
         2552
       ]
     },
-    "cards": {
-      "0": 2549,
-      "1": 2550,
-      "2": 2551,
-      "3": 2552,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          37,
-          42
-        ],
-        [
-          41
-        ],
-        [
-          38
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2551,
-          2552
-        ],
-        [
-          2550
-        ],
-        [
-          2549
-        ]
-      ]
-    }
+    "cards": [
+      2549,
+      2550,
+      2551,
+      2552
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1878,42 +1104,12 @@
         2556
       ]
     },
-    "cards": {
-      "0": 2553,
-      "1": 2554,
-      "2": 2555,
-      "3": 2556,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          9,
-          33
-        ],
-        [
-          8
-        ],
-        [
-          3
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2555,
-          2556
-        ],
-        [
-          2554
-        ],
-        [
-          2553
-        ]
-      ]
-    }
+    "cards": [
+      2553,
+      2554,
+      2555,
+      2556
+    ]
   },
   {
     "compliant": "TRUE",
@@ -1950,257 +1146,180 @@
         2564
       ]
     },
-    "cards": {
-      "0": 2561,
-      "1": 2562,
-      "2": 2563,
-      "3": 2564,
-      "characters": [
-        null,
-        null,
-        null,
-        [
-          40,
-          21
-        ],
-        [
-          26
-        ],
-        [
-          22
-        ]
-      ],
-      "ids": [
-        null,
-        null,
-        null,
-        [
-          2563,
-          2564
-        ],
-        [
-          2562
-        ],
-        [
-          2561
-        ]
-      ]
-    }
+    "cards": [
+      2561,
+      2562,
+      2563,
+      2564
+    ]
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 333,
     "name": "フィーチャースカウト 司編",
     "start_date": "2023-01-02T17:00:00Z",
-    "end_date": "2023-01-16T16:59:59Z"
+    "end_date": "2023-01-16T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 334,
     "name": "スカウト！ハロウィンBOX",
     "start_date": "2023-01-06T17:00:00Z",
-    "end_date": "2023-01-20T16:59:59Z"
+    "end_date": "2023-01-20T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 335,
     "name": "フィーチャースカウト 渉編",
     "start_date": "2023-01-16T17:00:00Z",
-    "end_date": "2023-01-30T16:59:59Z"
+    "end_date": "2023-01-30T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 336,
     "name": "スカウト！世紀末ウォーズ",
     "start_date": "2023-01-20T17:00:00Z",
-    "end_date": "2023-02-03T16:59:59Z"
+    "end_date": "2023-02-03T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 337,
     "name": "フィーチャースカウト 宗編",
-    "start_date": {
-      "ja": "2020-11-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2020-12-10T06:00:00Z"
-    }
+    "start_date": "2023-01-30T17:00:00Z",
+    "end_date": "2023-02-13T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 338,
     "name": "スカウト！XXVeil",
-    "start_date": {
-      "ja": "2020-11-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2020-12-14T06:00:00Z"
-    }
+    "start_date": "2023-02-03T17:00:00Z",
+    "end_date": "2023-02-17T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 339,
     "name": "フィーチャースカウト 燐音編",
-    "start_date": {
-      "ja": "2020-12-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2020-12-25T06:00:00Z"
-    }
+    "start_date": "2023-02-13T17:00:00Z",
+    "end_date": "2023-02-27T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 340,
     "name": "スカウト！Branco",
-    "start_date": {
-      "ja": "2020-12-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2020-12-30T06:00:00Z"
-    }
+    "start_date": "2023-02-17T17:00:00Z",
+    "end_date": "2023-03-03T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 341,
     "name": "フィーチャースカウト つむぎ編",
-    "start_date": {
-      "ja": "2020-12-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-01-10T06:00:00Z"
-    }
+    "start_date": "2023-02-27T17:00:00Z",
+    "end_date": "2023-03-13T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 342,
     "name": "スカウト！丑参り（前編）",
-    "start_date": {
-      "ja": "2020-12-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-01-14T06:00:00Z"
-    }
+    "start_date": "2023-03-03T17:00:00Z",
+    "end_date": "2023-03-17T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 343,
     "name": "フィーチャースカウト レオ編",
-    "start_date": {
-      "ja": "2021-01-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-01-25T06:00:00Z"
-    }
+    "start_date": "2023-03-13T17:00:00Z",
+    "end_date": "2023-03-27T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 344,
     "name": "スカウト！丑参り（後編）",
-    "start_date": {
-      "ja": "2021-01-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-01-30T06:00:00Z"
-    }
+    "start_date": "2023-03-17T17:00:00Z",
+    "end_date": "2023-03-31T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 345,
     "name": "フィーチャースカウト なずな編",
-    "start_date": {
-      "ja": "2021-01-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-02-10T06:00:00Z"
-    }
+    "start_date": "2023-03-27T17:00:00Z",
+    "end_date": "2023-04-10T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 346,
     "name": "スカウト！ホワイトリリー",
-    "start_date": {
-      "ja": "2021-01-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-02-14T06:00:00Z"
-    }
+    "start_date": "2023-03-31T17:00:00Z",
+    "end_date": "2023-04-14T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 347,
     "name": "フィーチャースカウト 日和編",
-    "start_date": {
-      "ja": "2021-02-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-02-25T06:00:00Z"
-    }
+    "start_date": "2023-04-10T17:00:00Z",
+    "end_date": "2023-04-24T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 348,
     "name": "スカウト！スイートハント",
-    "start_date": {
-      "ja": "2021-02-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-02-27T06:00:00Z"
-    }
+    "start_date": "2023-04-14T17:00:00Z",
+    "end_date": "2023-04-28T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 349,
     "name": "フィーチャースカウト ゆうた編",
-    "start_date": {
-      "ja": "2021-02-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-03-10T06:00:00Z"
-    }
+    "start_date": "2023-04-24T17:00:00Z",
+    "end_date": "2023-05-08T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 350,
     "name": "スカウト！怪盗フェイク",
-    "start_date": {
-      "ja": "2021-02-27T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-03-14T06:00:00Z"
-    }
+    "start_date": "2023-04-28T17:00:00Z",
+    "end_date": "2023-05-12T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 351,
     "name": "フィーチャースカウト 斑編",
-    "start_date": {
-      "ja": "2021-03-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-03-25T06:00:00Z"
-    }
+    "start_date": "2023-05-08T17:00:00Z",
+    "end_date": "2023-05-22T16:59:59Z",
+    "type": "feature scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 352,
     "name": "スカウト！スプリングベッド",
-    "start_date": {
-      "ja": "2021-03-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-03-30T06:00:00Z"
-    }
+    "start_date": "2023-05-12T17:00:00Z",
+    "end_date": "2023-05-26T16:59:59Z",
+    "type": "scout"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "gacha_id": 353,
     "name": "フィーチャースカウト 零編",
-    "start_date": {
-      "ja": "2021-03-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-04-10T06:00:00Z"
-    }
+    "start_date": "2023-05-22T17:00:00Z",
+    "end_date": "2023-06-05T16:59:59Z",
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2211,7 +1330,8 @@
     },
     "end_date": {
       "ja": "2021-04-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2222,7 +1342,8 @@
     },
     "end_date": {
       "ja": "2021-04-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2233,7 +1354,8 @@
     },
     "end_date": {
       "ja": "2021-04-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2244,7 +1366,8 @@
     },
     "end_date": {
       "ja": "2021-05-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2255,7 +1378,8 @@
     },
     "end_date": {
       "ja": "2021-05-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2266,7 +1390,8 @@
     },
     "end_date": {
       "ja": "2021-05-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2277,7 +1402,8 @@
     },
     "end_date": {
       "ja": "2021-05-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2288,7 +1414,8 @@
     },
     "end_date": {
       "ja": "2021-06-14T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2299,7 +1426,8 @@
     },
     "end_date": {
       "ja": "2021-06-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2310,7 +1438,8 @@
     },
     "end_date": {
       "ja": "2021-06-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2321,7 +1450,8 @@
     },
     "end_date": {
       "ja": "2021-06-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2332,7 +1462,8 @@
     },
     "end_date": {
       "ja": "2021-07-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2343,7 +1474,8 @@
     },
     "end_date": {
       "ja": "2021-07-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2354,7 +1486,8 @@
     },
     "end_date": {
       "ja": "2021-07-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2365,7 +1498,8 @@
     },
     "end_date": {
       "ja": "2021-07-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2376,7 +1510,8 @@
     },
     "end_date": {
       "ja": "2021-08-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2387,7 +1522,8 @@
     },
     "end_date": {
       "ja": "2021-08-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2398,7 +1534,8 @@
     },
     "end_date": {
       "ja": "2021-08-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2409,7 +1546,8 @@
     },
     "end_date": {
       "ja": "2021-08-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2420,7 +1558,8 @@
     },
     "end_date": {
       "ja": "2021-09-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2431,7 +1570,8 @@
     },
     "end_date": {
       "ja": "2021-09-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2442,7 +1582,8 @@
     },
     "end_date": {
       "ja": "2021-09-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2453,7 +1594,8 @@
     },
     "end_date": {
       "ja": "2021-09-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2464,7 +1606,8 @@
     },
     "end_date": {
       "ja": "2021-10-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2475,7 +1618,8 @@
     },
     "end_date": {
       "ja": "2021-10-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2486,7 +1630,8 @@
     },
     "end_date": {
       "ja": "2021-10-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2497,7 +1642,8 @@
     },
     "end_date": {
       "ja": "2021-10-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2508,7 +1654,8 @@
     },
     "end_date": {
       "ja": "2021-11-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2519,7 +1666,8 @@
     },
     "end_date": {
       "ja": "2021-11-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2530,7 +1678,8 @@
     },
     "end_date": {
       "ja": "2021-11-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2541,7 +1690,8 @@
     },
     "end_date": {
       "ja": "2021-12-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2552,7 +1702,8 @@
     },
     "end_date": {
       "ja": "2021-12-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2563,7 +1714,8 @@
     },
     "end_date": {
       "ja": "2021-12-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2574,7 +1726,8 @@
     },
     "end_date": {
       "ja": "2022-01-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2585,7 +1738,8 @@
     },
     "end_date": {
       "ja": "2022-01-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2596,7 +1750,8 @@
     },
     "end_date": {
       "ja": "2022-01-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2607,7 +1762,8 @@
     },
     "end_date": {
       "ja": "2022-01-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2618,7 +1774,8 @@
     },
     "end_date": {
       "ja": "2022-02-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2629,7 +1786,8 @@
     },
     "end_date": {
       "ja": "2022-02-10T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2640,7 +1798,8 @@
     },
     "end_date": {
       "ja": "2022-02-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2651,7 +1810,8 @@
     },
     "end_date": {
       "ja": "2022-02-27T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2662,7 +1822,8 @@
     },
     "end_date": {
       "ja": "2022-03-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2673,7 +1834,8 @@
     },
     "end_date": {
       "ja": "2022-03-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2684,7 +1846,8 @@
     },
     "end_date": {
       "ja": "2022-03-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2695,7 +1858,8 @@
     },
     "end_date": {
       "ja": "2022-03-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2706,7 +1870,8 @@
     },
     "end_date": {
       "ja": "2022-04-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2717,7 +1882,8 @@
     },
     "end_date": {
       "ja": "2022-04-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2728,7 +1894,8 @@
     },
     "end_date": {
       "ja": "2022-04-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2739,7 +1906,8 @@
     },
     "end_date": {
       "ja": "2022-04-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2750,7 +1918,8 @@
     },
     "end_date": {
       "ja": "2022-05-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2761,7 +1930,8 @@
     },
     "end_date": {
       "ja": "2022-05-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2772,7 +1942,8 @@
     },
     "end_date": {
       "ja": "2022-05-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2783,7 +1954,8 @@
     },
     "end_date": {
       "ja": "2022-05-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2794,7 +1966,8 @@
     },
     "end_date": {
       "ja": "2022-06-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2805,7 +1978,8 @@
     },
     "end_date": {
       "ja": "2022-06-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2816,7 +1990,8 @@
     },
     "end_date": {
       "ja": "2022-06-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2827,7 +2002,8 @@
     },
     "end_date": {
       "ja": "2022-06-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2838,7 +2014,8 @@
     },
     "end_date": {
       "ja": "2022-07-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2849,7 +2026,8 @@
     },
     "end_date": {
       "ja": "2022-07-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2860,7 +2038,8 @@
     },
     "end_date": {
       "ja": "2022-07-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2871,7 +2050,8 @@
     },
     "end_date": {
       "ja": "2022-07-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2882,7 +2062,8 @@
     },
     "end_date": {
       "ja": "2022-08-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2893,7 +2074,8 @@
     },
     "end_date": {
       "ja": "2022-07-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2904,7 +2086,8 @@
     },
     "end_date": {
       "ja": "2022-08-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2915,7 +2098,8 @@
     },
     "end_date": {
       "ja": "2022-08-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2926,7 +2110,8 @@
     },
     "end_date": {
       "ja": "2022-09-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2937,7 +2122,8 @@
     },
     "end_date": {
       "ja": "2022-09-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2948,7 +2134,8 @@
     },
     "end_date": {
       "ja": "2022-09-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2959,7 +2146,8 @@
     },
     "end_date": {
       "ja": "2022-09-29T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2970,7 +2158,8 @@
     },
     "end_date": {
       "ja": "2022-10-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -2981,7 +2170,8 @@
     },
     "end_date": {
       "ja": "2022-10-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -2992,7 +2182,8 @@
     },
     "end_date": {
       "ja": "2022-10-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -3003,7 +2194,8 @@
     },
     "end_date": {
       "ja": "2022-10-30T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
@@ -3014,7 +2206,8 @@
     },
     "end_date": {
       "ja": "2022-11-10T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {
     "compliant": "FALSE",
@@ -3025,18 +2218,20 @@
     },
     "end_date": {
       "ja": "2022-11-14T06:00:00Z"
-    }
+    },
+    "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 431,
-    "name": "フィーチャースカウト　凪砂編2",
+    "name": "フィーチャースカウト 凪砂編2",
     "start_date": {
       "ja": "2022-11-10T06:00:00Z"
     },
     "end_date": {
       "ja": "2022-11-25T06:00:00Z"
-    }
+    },
+    "type": "feature scout"
   },
   {},
   {},

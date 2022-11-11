@@ -7081,36 +7081,80 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2506,
-    "title": "Sign Marking the Path",
-    "name": "Natsume Sakasaki"
+    "title": "Road Marking of the Path",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Prediction for the World"
+      },
+      "live": {
+        "name": "Investment for the Future"
+      },
+      "support": {
+        "name": "Medicine Handed Down"
+      }
+    }
   },
   {
     "compliant": "FALSE",
     "id": 2507,
-    "title": "Double-Checking the Path",
+    "title": "Reinterpreting the Path",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Door Opened with"
+      },
+      "live": {
+        "name": "Plan of Tactician"
+      },
+      "support": {
+        "name": "Wandering Childishness"
+      }
+    },
     "quote": {
       "n": "お隣さんは物騒なやり方だねぇ",
       "e": "舞台じゃ勝負だからね"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2508,
     "title": "Steady Path",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Door in Constant"
+      },
+      "live": {
+        "name": "Rumor about Acquaintance"
+      },
+      "support": {
+        "name": "The Attentive Ones"
+      }
+    },
     "quote": {
       "n": "アタシに突っ込みさせないでね",
       "e": "立ち止まっていられないわ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2509,
-    "title": "Chosen Path",
+    "title": "The Chosen Path",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Door to New Challenges"
+      },
+      "live": {
+        "name": "Respect and Management"
+      },
+      "support": {
+        "name": "Ideal & Reality of Round-Table"
+      }
+    },
     "quote": {
       "n": "打てる手はあるはずです",
       "e": "ひとつずつ選び取りましょう"
@@ -7119,24 +7163,57 @@
   {
     "compliant": "FALSE",
     "id": 2510,
-    "title": "An Oath to the Gods of Heaven and Earth",
+    "title": "The Oath of Gods",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Proof of Determination"
+      },
+      "live": {
+        "name": "Familiar Shop and"
+      },
+      "support": {
+        "name": "Candidate Plans"
+      }
+    },
     "quote": {
       "n": "選ぶにも、迷ってしまうな…",
       "e": "刀に、紋に恥じぬ舞台を見せよう"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2511,
-    "title": "The Price for Fortune Telling",
-    "name": "Natsume Sakasaki"
+    "title": "Payment for Divination",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Unimaginable Results"
+      },
+      "live": {
+        "name": "One Oracle"
+      },
+      "support": {
+        "name": "Proxy Delivery"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2512,
-    "title": "Basketball Connections",
+    "title": "Connections of Basketball",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Observing Club Activities"
+      },
+      "live": {
+        "name": "Rumors about Seniors"
+      },
+      "support": {
+        "name": "Ambush After School"
+      }
+    },
     "quote": {
       "n": "何してもかっこいいです！",
       "e": "行く行く、行きま〜す♪"
@@ -7145,8 +7222,19 @@
   {
     "compliant": "FALSE",
     "id": 2513,
-    "title": "Advice and Confession",
+    "title": "Consultation and Confession",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Words Confided in"
+      },
+      "live": {
+        "name": "Chat on Worries"
+      },
+      "support": {
+        "name": "Freshly Brewed Coffee"
+      }
+    },
     "quote": {
       "n": "幽霊なんて、気のせいでしょう",
       "e": "ゆっくり珈琲でも飲みましょう"

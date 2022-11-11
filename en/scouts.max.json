@@ -103,10 +103,12 @@
     "name": "Summer Snow"
   },
   {
+    "compliant": "TRUE",
     "gacha_id": 325,
     "name": "Souma Kanzaki"
   },
   {
+    "compliant": "TRUE",
     "gacha_id": 326,
     "name": "Flowers in the Wasteland"
   }
