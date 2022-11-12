@@ -7316,7 +7316,7 @@
     "releaseDate": "2022-11-11"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2520,
     "title": "Blooming in the Wasteland",
     "name": "Subaru Akehoshi",
@@ -7326,6 +7326,9 @@
       },
       "live": {
         "name": "Topic on Father"
+      },
+      "support": {
+        "name": "Basketball Lesson"
       }
     },
     "quote": {
@@ -7335,10 +7338,21 @@
     "releaseDate": "2022-11-12"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2521,
     "title": "Wasteland and Work",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "The Tenacious Bloom"
+      },
+      "live": {
+        "name": "Caption of Basketball"
+      },
+      "support": {
+        "name": "Organizing Club Activities"
+      }
+    },
     "quote": {
       "n": "話も通じるだろうし任せたよ",
       "e": "最後には何とかなるよな"
@@ -7346,10 +7360,21 @@
     "releaseDate": "2022-11-13"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2522,
     "title": "Wasteland and Trial",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "The Quite Bloom"
+      },
+      "live": {
+        "name": "All-Out Basketball"
+      },
+      "support": {
+        "name": "Harsh Defense"
+      }
+    },
     "quote": {
       "n": "お、俺もですか…？",
       "e": "I wanna get this done with so I can go home already..."
