@@ -1154,7 +1154,7 @@
     ]
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 333,
     "name": "フィーチャースカウト 司編",
     "start_date": "2023-01-02T17:00:00Z",
@@ -1162,7 +1162,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 334,
     "name": "スカウト！ハロウィンBOX",
     "start_date": "2023-01-06T17:00:00Z",
@@ -1170,7 +1170,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 335,
     "name": "フィーチャースカウト 渉編",
     "start_date": "2023-01-16T17:00:00Z",
@@ -1178,7 +1178,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 336,
     "name": "スカウト！世紀末ウォーズ",
     "start_date": "2023-01-20T17:00:00Z",
@@ -1186,7 +1186,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 337,
     "name": "フィーチャースカウト 宗編",
     "start_date": "2023-01-30T17:00:00Z",
@@ -1194,7 +1194,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 338,
     "name": "スカウト！XXVeil",
     "start_date": "2023-02-03T17:00:00Z",
@@ -1202,7 +1202,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 339,
     "name": "フィーチャースカウト 燐音編",
     "start_date": "2023-02-13T17:00:00Z",
@@ -1210,7 +1210,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 340,
     "name": "スカウト！Branco",
     "start_date": "2023-02-17T17:00:00Z",
@@ -1218,7 +1218,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 341,
     "name": "フィーチャースカウト つむぎ編",
     "start_date": "2023-02-27T17:00:00Z",
@@ -1226,7 +1226,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 342,
     "name": "スカウト！丑参り（前編）",
     "start_date": "2023-03-03T17:00:00Z",
@@ -1234,7 +1234,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 343,
     "name": "フィーチャースカウト レオ編",
     "start_date": "2023-03-13T17:00:00Z",
@@ -1242,7 +1242,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 344,
     "name": "スカウト！丑参り（後編）",
     "start_date": "2023-03-17T17:00:00Z",
@@ -1250,7 +1250,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 345,
     "name": "フィーチャースカウト なずな編",
     "start_date": "2023-03-27T17:00:00Z",
@@ -1258,7 +1258,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 346,
     "name": "スカウト！ホワイトリリー",
     "start_date": "2023-03-31T17:00:00Z",
@@ -1266,7 +1266,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 347,
     "name": "フィーチャースカウト 日和編",
     "start_date": "2023-04-10T17:00:00Z",
@@ -1274,7 +1274,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 348,
     "name": "スカウト！スイートハント",
     "start_date": "2023-04-14T17:00:00Z",
@@ -1282,7 +1282,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 349,
     "name": "フィーチャースカウト ゆうた編",
     "start_date": "2023-04-24T17:00:00Z",
@@ -1290,7 +1290,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 350,
     "name": "スカウト！怪盗フェイク",
     "start_date": "2023-04-28T17:00:00Z",
@@ -1298,7 +1298,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 351,
     "name": "フィーチャースカウト 斑編",
     "start_date": "2023-05-08T17:00:00Z",
@@ -1306,7 +1306,7 @@
     "type": "feature scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 352,
     "name": "スカウト！スプリングベッド",
     "start_date": "2023-05-12T17:00:00Z",
@@ -1314,7 +1314,7 @@
     "type": "scout"
   },
   {
-    "compliant": "TRUE",
+    "compliant": "FALSE",
     "gacha_id": 353,
     "name": "フィーチャースカウト 零編",
     "start_date": "2023-05-22T17:00:00Z",
@@ -1325,900 +1325,600 @@
     "compliant": "FALSE",
     "gacha_id": 354,
     "name": "スカウト！RELOADED",
-    "start_date": {
-      "ja": "2021-03-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-04-14T06:00:00Z"
-    },
+    "start_date": "2023-05-26T17:00:00Z",
+    "end_date": "2023-06-09T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 355,
     "name": "フィーチャースカウト ジュン編",
-    "start_date": {
-      "ja": "2021-04-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-04-25T06:00:00Z"
-    },
+    "start_date": "2023-06-05T17:00:00Z",
+    "end_date": "2023-06-19T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 356,
     "name": "スカウト！あそび部",
-    "start_date": {
-      "ja": "2021-04-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-04-29T06:00:00Z"
-    },
+    "start_date": "2023-06-09T17:00:00Z",
+    "end_date": "2023-06-23T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 357,
     "name": "フィーチャースカウト アドニス編",
-    "start_date": {
-      "ja": "2021-04-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-05-10T06:00:00Z"
-    },
+    "start_date": "2023-06-19T17:00:00Z",
+    "end_date": "2023-07-03T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 358,
     "name": "スカウト！プリティ5",
-    "start_date": {
-      "ja": "2021-04-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-05-14T06:00:00Z"
-    },
+    "start_date": "2023-06-23T17:00:00Z",
+    "end_date": "2023-07-07T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 359,
     "name": "フィーチャースカウト 夏目編",
-    "start_date": {
-      "ja": "2021-05-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-05-25T06:00:00Z"
-    },
+    "start_date": "2023-07-03T17:00:00Z",
+    "end_date": "2023-07-17T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 360,
     "name": "スカウト！ハルサキRide→ON！",
-    "start_date": {
-      "ja": "2021-05-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-05-30T06:00:00Z"
-    },
+    "start_date": "2023-07-07T17:00:00Z",
+    "end_date": "2023-07-21T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 361,
     "name": "フィーチャースカウト マヨイ編",
-    "start_date": {
-      "ja": "2021-05-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-06-14T06:00:00Z"
-    },
+    "start_date": "2023-07-17T17:00:00Z",
+    "end_date": "2023-07-31T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 362,
     "name": "スカウト！ツツジ燃ゆる",
-    "start_date": {
-      "ja": "2021-05-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-06-14T06:00:00Z"
-    },
+    "start_date": "2023-07-21T17:00:00Z",
+    "end_date": "2023-08-04T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 363,
     "name": "フィーチャースカウト 藍良編",
-    "start_date": {
-      "ja": "2021-06-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-06-25T06:00:00Z"
-    },
+    "start_date": "2023-07-31T17:00:00Z",
+    "end_date": "2023-08-14T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 364,
     "name": "スカウト！Ring.A.Bell",
-    "start_date": {
-      "ja": "2021-06-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-06-29T06:00:00Z"
-    },
+    "start_date": "2023-08-04T17:00:00Z",
+    "end_date": "2023-08-18T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 365,
     "name": "フィーチャースカウト 真編",
-    "start_date": {
-      "ja": "2021-06-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-07-10T06:00:00Z"
-    },
+    "start_date": "2023-08-14T17:00:00Z",
+    "end_date": "2023-08-28T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 366,
     "name": "スカウト！ジェムスフィア",
-    "start_date": {
-      "ja": "2021-06-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-07-14T06:00:00Z"
-    },
+    "start_date": "2023-08-18T17:00:00Z",
+    "end_date": "2023-09-01T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 367,
     "name": "フィーチャースカウト 宙編",
-    "start_date": {
-      "ja": "2021-07-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-07-25T06:00:00Z"
-    },
+    "start_date": "2023-08-28T17:00:00Z",
+    "end_date": "2023-09-11T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 368,
     "name": "スカウト！プリズンブレイカーズ",
-    "start_date": {
-      "ja": "2021-07-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-07-30T06:00:00Z"
-    },
+    "start_date": "2023-09-01T17:00:00Z",
+    "end_date": "2023-09-15T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 369,
     "name": "フィーチャースカウト 千秋編",
-    "start_date": {
-      "ja": "2021-07-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-08-10T06:00:00Z"
-    },
+    "start_date": "2023-09-11T17:00:00Z",
+    "end_date": "2023-09-25T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 370,
     "name": "スカウト！前線の番犬",
-    "start_date": {
-      "ja": "2021-07-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-08-14T06:00:00Z"
-    },
+    "start_date": "2023-09-15T17:00:00Z",
+    "end_date": "2023-09-29T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 371,
     "name": "フィーチャースカウト 一彩編",
-    "start_date": {
-      "ja": "2021-08-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-08-25T06:00:00Z"
-    },
+    "start_date": "2023-09-25T17:00:00Z",
+    "end_date": "2023-10-09T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 372,
     "name": "スカウト！潮騒マリーナ",
-    "start_date": {
-      "ja": "2021-08-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-08-30T06:00:00Z"
-    },
+    "start_date": "2023-09-29T17:00:00Z",
+    "end_date": "2023-10-13T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 373,
     "name": "フィーチャースカウト こはく編",
-    "start_date": {
-      "ja": "2021-08-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-09-10T06:00:00Z"
-    },
+    "start_date": "2023-10-09T17:00:00Z",
+    "end_date": "2023-10-23T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 374,
     "name": "スカウト！月都スペクタクル",
-    "start_date": {
-      "ja": "2021-08-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-09-14T06:00:00Z"
-    },
+    "start_date": "2023-10-13T17:00:00Z",
+    "end_date": "2023-10-27T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 375,
     "name": "フィーチャースカウト スバル編",
-    "start_date": {
-      "ja": "2021-09-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-09-25T06:00:00Z"
-    },
+    "start_date": "2023-10-23T17:00:00Z",
+    "end_date": "2023-11-06T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 376,
     "name": "スカウト！一騎当千",
-    "start_date": {
-      "ja": "2021-09-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-09-29T06:00:00Z"
-    },
+    "start_date": "2023-10-27T17:00:00Z",
+    "end_date": "2023-11-10T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 377,
     "name": "フィーチャースカウト 鉄虎編",
-    "start_date": {
-      "ja": "2021-09-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-10-10T06:00:00Z"
-    },
+    "start_date": "2023-11-06T17:00:00Z",
+    "end_date": "2023-11-20T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 378,
     "name": "スカウト！実りのOCTOBER",
-    "start_date": {
-      "ja": "2021-09-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-10-14T06:00:00Z"
-    },
+    "start_date": "2023-11-10T17:00:00Z",
+    "end_date": "2023-11-24T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 379,
     "name": "フィーチャースカウト 翠編",
-    "start_date": {
-      "ja": "2021-10-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-10-25T06:00:00Z"
-    },
+    "start_date": "2023-11-20T17:00:00Z",
+    "end_date": "2023-12-04T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 380,
     "name": "スカウト！ドラマティカ",
-    "start_date": {
-      "ja": "2021-10-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-10-30T06:00:00Z"
-    },
+    "start_date": "2023-11-24T17:00:00Z",
+    "end_date": "2023-12-08T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 382,
     "name": "スカウト！ソレイユ",
-    "start_date": {
-      "ja": "2021-10-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-11-14T06:00:00Z"
-    },
+    "start_date": "2023-12-08T17:00:00Z",
+    "end_date": "2023-12-22T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 383,
     "name": "フィーチャースカウト 奏汰編",
-    "start_date": {
-      "ja": "2021-11-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-11-25T06:00:00Z"
-    },
+    "start_date": "2023-12-04T17:00:00Z",
+    "end_date": "2023-12-18T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 384,
     "name": "スカウト！刑事DANCE",
-    "start_date": {
-      "ja": "2021-11-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-11-29T06:00:00Z"
-    },
+    "start_date": "2023-12-22T16:59:59Z",
+    "end_date": "2024-01-05T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 385,
     "name": "フィーチャースカウト 弓弦編",
-    "start_date": {
-      "ja": "2021-11-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-12-10T06:00:00Z"
-    },
+    "start_date": "2023-12-18T16:59:59Z",
+    "end_date": "2024-01-15T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 386,
     "name": "スカウト！ホットウィンター",
-    "start_date": {
-      "ja": "2021-11-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-12-14T06:00:00Z"
-    },
+    "start_date": "2024-01-05T16:59:59Z",
+    "end_date": "2024-01-19T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 388,
     "name": "スカウト！La Mort",
-    "start_date": {
-      "ja": "2021-12-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2021-12-30T06:00:00Z"
-    },
+    "start_date": "2024-01-19T16:59:59Z",
+    "end_date": "2024-02-02T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 389,
     "name": "フィーチャースカウト ニキ編",
-    "start_date": {
-      "ja": "2021-12-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-01-10T06:00:00Z"
-    },
+    "start_date": "2024-01-29T16:59:59Z",
+    "end_date": "2024-02-12T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 390,
     "name": "スカウト！五黄の寅",
-    "start_date": {
-      "ja": "2021-12-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-01-14T06:00:00Z"
-    },
+    "start_date": "2024-02-02T16:59:59Z",
+    "end_date": "2024-02-16T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 391,
     "name": "フィーチャースカウト ひなた編",
-    "start_date": {
-      "ja": "2022-01-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-01-25T06:00:00Z"
-    },
+    "start_date": "2024-02-12T16:59:59Z",
+    "end_date": "2024-02-26T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 392,
     "name": "スカウト！白虎舞",
-    "start_date": {
-      "ja": "2022-01-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-01-30T06:00:00Z"
-    },
+    "start_date": "2024-02-16T16:59:59Z",
+    "end_date": "2024-03-01T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 393,
     "name": "フィーチャースカウト 創編",
-    "start_date": {
-      "ja": "2022-01-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-02-10T06:00:00Z"
-    },
+    "start_date": "2024-02-26T16:59:59Z",
+    "end_date": "2024-03-11T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 394,
     "name": "スカウト！アストレアの工房",
-    "start_date": {
-      "ja": "2022-01-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-02-10T06:00:00Z"
-    },
+    "start_date": "2024-03-01T16:59:59Z",
+    "end_date": "2024-03-15T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 395,
     "name": "フィーチャースカウト 紅郎編",
-    "start_date": {
-      "ja": "2022-02-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-02-25T06:00:00Z"
-    },
+    "start_date": "2024-03-11T16:59:59Z",
+    "end_date": "2024-03-25T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 396,
     "name": "スカウト！ロマンチック？デイト",
-    "start_date": {
-      "ja": "2022-02-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-02-27T06:00:00Z"
-    },
+    "start_date": "2024-03-15T16:59:59Z",
+    "end_date": "2024-03-29T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 397,
     "name": "フィーチャースカウト 薫編",
-    "start_date": {
-      "ja": "2022-02-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-03-10T06:00:00Z"
-    },
+    "start_date": "2024-03-25T16:59:59Z",
+    "end_date": "2024-04-08T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 398,
     "name": "スカウト！色彩百花",
-    "start_date": {
-      "ja": "2022-02-27T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-03-14T06:00:00Z"
-    },
+    "start_date": "2024-03-29T16:59:59Z",
+    "end_date": "2024-04-12T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 399,
     "name": "フィーチャースカウト 敬人編",
-    "start_date": {
-      "ja": "2022-03-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-03-25T06:00:00Z"
-    },
+    "start_date": "2024-04-08T16:59:59Z",
+    "end_date": "2024-04-22T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 400,
     "name": "スカウト！ホワイトブリム",
-    "start_date": {
-      "ja": "2022-03-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-03-30T06:00:00Z"
-    },
+    "start_date": "2024-04-12T16:59:59Z",
+    "end_date": "2024-04-26T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 401,
     "name": "フィーチャースカウト 凛月編",
-    "start_date": {
-      "ja": "2022-03-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-04-10T06:00:00Z"
-    },
+    "start_date": "2024-04-22T16:59:59Z",
+    "end_date": "2024-05-06T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 402,
     "name": "スカウト！きまぐれシティライダー",
-    "start_date": {
-      "ja": "2022-03-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-04-14T06:00:00Z"
-    },
+    "start_date": "2024-04-26T16:59:59Z",
+    "end_date": "2024-05-10T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 403,
     "name": "フィーチャースカウト 英智編",
-    "start_date": {
-      "ja": "2022-04-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-04-25T06:00:00Z"
-    },
+    "start_date": "2024-05-06T16:59:59Z",
+    "end_date": "2024-05-20T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 404,
     "name": "スカウト！Puffy☆Bunny",
-    "start_date": {
-      "ja": "2022-04-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-04-29T06:00:00Z"
-    },
+    "start_date": "2024-05-10T16:59:59Z",
+    "end_date": "2024-05-24T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 405,
     "name": "フィーチャースカウト 凪砂編",
-    "start_date": {
-      "ja": "2022-04-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-05-10T06:00:00Z"
-    },
+    "start_date": "2024-05-20T16:59:59Z",
+    "end_date": "2024-06-03T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 406,
     "name": "スカウト！バンド『BB』",
-    "start_date": {
-      "ja": "2022-04-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-05-14T06:00:00Z"
-    },
+    "start_date": "2024-05-24T16:59:59Z",
+    "end_date": "2024-06-07T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 407,
     "name": "フィーチャースカウト 泉編2",
-    "start_date": {
-      "ja": "2022-05-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-05-25T06:00:00Z"
-    },
+    "start_date": "2024-06-03T16:59:59Z",
+    "end_date": "2024-06-17T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 408,
     "name": "スカウト！Orient",
-    "start_date": {
-      "ja": "2022-05-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-05-30T06:00:00Z"
-    },
+    "start_date": "2024-06-07T16:59:59Z",
+    "end_date": "2024-06-21T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 409,
     "name": "フィーチャースカウト なずな編2",
-    "start_date": {
-      "ja": "2022-05-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-06-10T06:00:00Z"
-    },
+    "start_date": "2024-06-17T16:59:59Z",
+    "end_date": "2024-07-01T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 410,
     "name": "スカウト！甜々ハングリー",
-    "start_date": {
-      "ja": "2022-05-31T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-06-14T06:00:00Z"
-    },
+    "start_date": "2024-06-21T16:59:59Z",
+    "end_date": "2024-07-05T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 411,
     "name": "フィーチャースカウト 司編2",
-    "start_date": {
-      "ja": "2022-06-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-06-25T06:00:00Z"
-    },
+    "start_date": "2024-07-01T16:59:59Z",
+    "end_date": "2024-07-15T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 412,
     "name": "スカウト！バンカラグラフィティ",
-    "start_date": {
-      "ja": "2022-06-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-06-29T06:00:00Z"
-    },
+    "start_date": "2024-07-05T16:59:59Z",
+    "end_date": "2024-07-19T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 413,
     "name": "フィーチャースカウト 奏汰編2",
-    "start_date": {
-      "ja": "2022-06-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-07-10T06:00:00Z"
-    },
+    "start_date": "2024-07-15T16:59:59Z",
+    "end_date": "2024-07-29T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 414,
     "name": "スカウト！敬人塾",
-    "start_date": {
-      "ja": "2022-06-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-07-14T06:00:00Z"
-    },
+    "start_date": "2024-07-19T16:59:59Z",
+    "end_date": "2024-08-02T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 415,
     "name": "フィーチャースカウト 創編2",
-    "start_date": {
-      "ja": "2022-07-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-07-25T06:00:00Z"
-    },
+    "start_date": "2024-07-29T16:59:59Z",
+    "end_date": "2024-08-12T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 416,
     "name": "スカウト！みずたま模様",
-    "start_date": {
-      "ja": "2022-07-15T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-07-30T06:00:00Z"
-    },
+    "start_date": "2024-08-02T16:59:59Z",
+    "end_date": "2024-08-16T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 417,
     "name": "フィーチャースカウト マヨイ編2",
-    "start_date": {
-      "ja": "2022-07-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-08-10T06:00:00Z"
-    },
+    "start_date": "2024-08-12T16:59:59Z",
+    "end_date": "2024-08-26T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 418,
     "name": "スカウト！アニマルズ",
-    "start_date": {
-      "ja": "2022-06-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-07-14T06:00:00Z"
-    },
+    "start_date": "2024-08-16T16:59:59Z",
+    "end_date": "2024-08-30T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 419,
     "name": "フィーチャースカウト 茨編2",
-    "start_date": {
-      "ja": "2022-08-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-08-25T06:00:00Z"
-    },
+    "start_date": "2024-08-26T16:59:59Z",
+    "end_date": "2024-09-09T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 420,
     "name": "スカウト！レッドホットアイランド",
-    "start_date": {
-      "ja": "2022-08-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-08-30T06:00:00Z"
-    },
+    "start_date": "2024-08-30T16:59:59Z",
+    "end_date": "2024-09-13T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 421,
     "name": "フィーチャースカウト 真緒編2",
-    "start_date": {
-      "ja": "2022-08-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-09-10T06:00:00Z"
-    },
+    "start_date": "2024-09-09T16:59:59Z",
+    "end_date": "2024-09-23T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 422,
     "name": "スカウト！舞闘会",
-    "start_date": {
-      "ja": "2022-08-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-09-14T06:00:00Z"
-    },
+    "start_date": "2024-09-13T16:59:59Z",
+    "end_date": "2024-09-27T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 423,
     "name": "フィーチャースカウト 桃李編2",
-    "start_date": {
-      "ja": "2022-09-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-09-25T06:00:00Z"
-    },
+    "start_date": "2024-09-23T16:59:59Z",
+    "end_date": "2024-10-07T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 424,
     "name": "スカウト！MIRAGE",
-    "start_date": {
-      "ja": "2022-09-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-09-29T06:00:00Z"
-    },
+    "start_date": "2024-09-27T16:59:59Z",
+    "end_date": "2024-10-11T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 425,
     "name": "フィーチャースカウト 零編2",
-    "start_date": {
-      "ja": "2022-09-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-10-10T06:00:00Z"
-    },
+    "start_date": "2024-10-07T16:59:59Z",
+    "end_date": "2024-10-21T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 426,
     "name": "スカウト！Chill Yellow",
-    "start_date": {
-      "ja": "2022-09-29T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-10-14T06:00:00Z"
-    },
+    "start_date": "2024-10-11T16:59:59Z",
+    "end_date": "2024-10-25T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 427,
     "name": "フィーチャースカウト 燐音編2",
-    "start_date": {
-      "ja": "2022-10-10T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-10-25T06:00:00Z"
-    },
+    "start_date": "2024-10-21T16:59:59Z",
+    "end_date": "2024-11-04T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 428,
     "name": "スカウト！PORTRAIT - Look back -",
-    "start_date": {
-      "ja": "2022-10-14T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-10-30T06:00:00Z"
-    },
+    "start_date": "2024-10-25T16:59:59Z",
+    "end_date": "2024-11-08T16:59:59Z",
     "type": "scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 429,
     "name": "フィーチャースカウト 宙編2",
-    "start_date": {
-      "ja": "2022-10-25T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-11-10T06:00:00Z"
-    },
+    "start_date": "2024-11-04T16:59:59Z",
+    "end_date": "2024-11-08T16:59:59Z",
     "type": "feature scout"
   },
   {
     "compliant": "FALSE",
     "gacha_id": 430,
     "name": "スカウト！ドーリーナイト",
-    "start_date": {
-      "ja": "2022-10-30T06:00:00Z"
-    },
-    "end_date": {
-      "ja": "2022-11-14T06:00:00Z"
-    },
+    "start_date": "2024-11-08T16:59:59Z",
+    "end_date": "2024-11-22T16:59:59Z",
     "type": "scout"
   },
   {
@@ -2237,6 +1937,8 @@
     "compliant": "FALSE",
     "gacha_id": 432,
     "name": "スカウト！BLEND+",
+    "start_date": "2024-11-22T16:59:59Z",
+    "end_date": "2024-12-06T16:59:59Z",
     "type": "scout"
   },
   {},
