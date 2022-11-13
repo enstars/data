@@ -96,12 +96,14 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 211,
     "name": "Descend! Weaving Neverland",
     "event_gacha": "Flowers in the Wasteland",
     "intro_lines": "Shu returns to Japan to prepare for the Japan Neverland Cup, an artistic music festival. Mika has been preparing for Shu's return and the upcoming music event, but his project proposal hits a bottleneck, and he gets lost on the street...",
-    "song_name": "Eternal Weaving"
+    "song_name": "Eternal Weaving",
+    "story_name": "Neverland",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",
