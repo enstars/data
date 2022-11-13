@@ -7241,10 +7241,21 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2515,
-    "title": "Eternal Art",
+    "title": "Art Toward Eternity",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Stage Worth Love"
+      },
+      "live": {
+        "name": "Naive Expectations"
+      },
+      "support": {
+        "name": "Organizing Junk"
+      }
+    },
     "quote": {
       "n": "……ふん。相変わらずごみごみとした町だね",
       "e": "Hmph. This city is as disorganized as usual."
@@ -7252,10 +7263,21 @@
     "releaseDate": "2022-11-12"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2516,
-    "title": "Distant Art",
+    "title": "Far-Flung Art",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Stage of Repeated"
+      },
+      "live": {
+        "name": "Worries of Human"
+      },
+      "support": {
+        "name": "Struggling for Ideas"
+      }
+    },
     "quote": {
       "n": "はあああ、どないしょおおおーー",
       "e": "Arrrrrgh, what should I do—"
@@ -7263,13 +7285,19 @@
     "releaseDate": "2022-11-12"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2517,
-    "title": "Entertaining Art",
+    "title": "Art of Entertainment",
     "name": "Wataru Hibiki",
     "skills": {
       "center": {
-        "name": "アルテッシモのリーダー"
+        "name": "Leader of Ultissimo"
+      },
+      "live": {
+        "name": "Arts Against Goals"
+      },
+      "support": {
+        "name": "Clumsy Invitation"
       }
     },
     "quote": {
@@ -7279,13 +7307,19 @@
     "releaseDate": "2022-11-12"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2518,
-    "title": "Free-Spirited Art",
+    "title": "Art of Freedom",
     "name": "Nagisa Ran",
     "skills": {
       "center": {
-        "name": "アルテッシモの相棒"
+        "name": "Partner of Ultissimo"
+      },
+      "live": {
+        "name": "Expression without Guide"
+      },
+      "support": {
+        "name": "Participating for Fun"
       }
     },
     "quote": {
