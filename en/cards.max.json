@@ -6638,10 +6638,21 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2483,
-    "title": "Time-Limited",
+    "title": "Daily Special",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Bread Lovers"
+      },
+      "live": {
+        "name": "Tea for Gratitude"
+      },
+      "support": {
+        "name": "Operation over Time Zone"
+      }
+    },
     "quote": {
       "n": "今日は水曜日だったと思うが…",
       "e": "お茶をご馳走させてくれるかね"
@@ -6841,7 +6852,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2494,
     "title": "Hidden in the Heart",
     "name": "HiMERU",
@@ -6934,7 +6945,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2499,
     "title": "Benefits of Summer",
     "name": "Ibara Saegusa",
@@ -6976,7 +6987,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2501,
     "title": "Summer with Friends",
     "name": "Rei Sakuma",
@@ -7041,7 +7052,7 @@
   {
     "compliant": "TRUE",
     "id": 2504,
-    "title": "To know the Unknown",
+    "title": "To Know the Unknown",
     "name": "Sora Harukawa",
     "skills": {
       "center": {

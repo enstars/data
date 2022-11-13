@@ -136329,7 +136329,7 @@
     "associated_story": "ハイアンドロー"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 3252,
     "rarity": 5,
     "character_id": 9,
@@ -136390,7 +136390,8 @@
         "duration": 8
       },
       "support": {
-        "name": "堂々巡りの背後"
+        "name": "堂々巡りの背後",
+        "type_id": 28
       }
     },
     "spp": {
@@ -137610,6 +137611,356 @@
   {
     "compliant": "TRUE",
     "id": 3274,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 4,
+    "substat_type": 2,
+    "title": "そっと触れあい",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 6860,
+        "vo": 6790,
+        "pf": 10370
+      },
+      "ir": {
+        "da": 25777,
+        "vo": 27525,
+        "pf": 42643
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "もれなく全部!",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf {0}％up",
+        "order_num": 332
+      },
+      "live": {
+        "name": "色々な体験",
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            5,
+            50
+          ],
+          [
+            5,
+            60
+          ],
+          [
+            5,
+            70
+          ],
+          [
+            5,
+            80
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 13,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "温かな鼓動",
+        "type_id": 14,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（黄中）のドロップ率を{0}倍にする",
+        "order_num": 75,
+        "support_skill_type_name": "ステータスピース（黄中）アップ"
+      }
+    },
+    "spp": {
+      "name": "Romancing Cruise",
+      "song_id": 166
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3275,
+    "rarity": 4,
+    "character_id": 23,
+    "type": 2,
+    "substat_type": 1,
+    "title": "スイングな一日",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 2840,
+        "vo": 5460,
+        "pf": 2570
+      },
+      "ir": {
+        "da": 13678,
+        "vo": 29739,
+        "pf": 13631
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "気持ちスイッチング",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo {0}％up",
+        "order_num": 112
+      },
+      "live": {
+        "name": "手探り温度感",
+        "type_id": 1,
+        "duration": 12,
+        "effect_values": [
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            10
+          ],
+          [
+            12,
+            12
+          ],
+          [
+            12,
+            14
+          ],
+          [
+            12,
+            16
+          ],
+          [
+            12,
+            18
+          ],
+          [
+            12,
+            20
+          ],
+          [
+            12,
+            25
+          ],
+          [
+            12,
+            30
+          ],
+          [
+            12,
+            35
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 19,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "周りの関係観察",
+        "type_id": 10,
+        "effect_values": [
+          [
+            25
+          ],
+          [
+            35
+          ],
+          [
+            50
+          ],
+          [
+            65
+          ],
+          [
+            75
+          ]
+        ],
+        "description": "ステータスピース（青中）のドロップ率を{0}倍にする",
+        "order_num": 64,
+        "support_skill_type_name": "ステータスピース（青中）アップ"
+      }
+    },
+    "spp": {
+      "name": "IMMORAL WORLD",
+      "song_id": 104
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3276,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 3,
+    "substat_type": 0,
+    "title": "おいしゃさん",
+    "name": "深海 奏汰",
+    "releaseDate": {
+      "jp": "2022-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "min": {
+        "da": 3150,
+        "vo": 1570,
+        "pf": 1660
+      },
+      "ir": {
+        "da": 21694,
+        "vo": 10467,
+        "pf": 9737
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "きんきゅうしゅじゅつ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa {0}％up",
+        "order_num": 222
+      },
+      "live": {
+        "name": "べてらんへるぷ",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            14
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            18
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            25
+          ],
+          [
+            8,
+            30
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 15,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "じりきのちりょう",
+        "type_id": 5,
+        "effect_values": [
+          [
+            10
+          ],
+          [
+            20
+          ],
+          [
+            30
+          ],
+          [
+            40
+          ],
+          [
+            50
+          ]
+        ],
+        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
+        "order_num": 50,
+        "support_skill_type_name": "ステータスピース（赤小）アップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3277,
     "rarity": 3,
     "character_id": 35,
     "type": 1,
@@ -137731,7 +138082,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3275,
+    "id": 3278,
     "rarity": 3,
     "character_id": 34,
     "type": 3,
@@ -137853,7 +138204,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3276,
+    "id": 3279,
     "rarity": 3,
     "character_id": 21,
     "type": 4,
@@ -137975,7 +138326,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3277,
+    "id": 3280,
     "rarity": 3,
     "character_id": 26,
     "type": 2,
@@ -138095,7 +138446,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 3278,
+    "id": 3281,
     "rarity": 3,
     "character_id": 14,
     "type": 3,
@@ -138212,356 +138563,6 @@
       "outfit": {
         "l2d": "勇侠青春謳衣装",
         "3d": "勇侠青春謳衣装"
-      }
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3279,
-    "rarity": 5,
-    "character_id": 37,
-    "type": 4,
-    "substat_type": 2,
-    "title": "そっと触れあい",
-    "name": "春川宙",
-    "releaseDate": {
-      "jp": "2022-10-25"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "feature"
-    },
-    "stats": {
-      "min": {
-        "da": 6860,
-        "vo": 6790,
-        "pf": 10370
-      },
-      "ir": {
-        "da": 25777,
-        "vo": 27525,
-        "pf": 42643
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "もれなく全部!",
-        "effect_value": [
-          "120"
-        ],
-        "type_id": 15,
-        "description": "FlashタイプのPf {0}％up",
-        "order_num": 332
-      },
-      "live": {
-        "name": "色々な体験",
-        "type_id": 1,
-        "duration": 5,
-        "effect_values": [
-          [
-            5,
-            20
-          ],
-          [
-            5,
-            25
-          ],
-          [
-            5,
-            30
-          ],
-          [
-            5,
-            35
-          ],
-          [
-            5,
-            40
-          ],
-          [
-            5,
-            45
-          ],
-          [
-            5,
-            50
-          ],
-          [
-            5,
-            60
-          ],
-          [
-            5,
-            70
-          ],
-          [
-            5,
-            80
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 13,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "温かな鼓動",
-        "type_id": 14,
-        "effect_values": [
-          [
-            50
-          ],
-          [
-            60
-          ],
-          [
-            70
-          ],
-          [
-            80
-          ],
-          [
-            100
-          ]
-        ],
-        "description": "ステータスピース（黄中）のドロップ率を{0}倍にする",
-        "order_num": 75,
-        "support_skill_type_name": "ステータスピース（黄中）アップ"
-      }
-    },
-    "spp": {
-      "name": "Romancing Cruise",
-      "song_id": 166
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3280,
-    "rarity": 4,
-    "character_id": 23,
-    "type": 2,
-    "substat_type": 1,
-    "title": "スイングな一日",
-    "name": "羽風薫",
-    "releaseDate": {
-      "jp": "2022-10-25"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "feature"
-    },
-    "stats": {
-      "min": {
-        "da": 2840,
-        "vo": 5460,
-        "pf": 2570
-      },
-      "ir": {
-        "da": 13678,
-        "vo": 29739,
-        "pf": 13631
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "気持ちスイッチング",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 5,
-        "description": "BrilliantタイプのVo {0}％up",
-        "order_num": 112
-      },
-      "live": {
-        "name": "手探り温度感",
-        "type_id": 1,
-        "duration": 12,
-        "effect_values": [
-          [
-            12,
-            8
-          ],
-          [
-            12,
-            10
-          ],
-          [
-            12,
-            12
-          ],
-          [
-            12,
-            14
-          ],
-          [
-            12,
-            16
-          ],
-          [
-            12,
-            18
-          ],
-          [
-            12,
-            20
-          ],
-          [
-            12,
-            25
-          ],
-          [
-            12,
-            30
-          ],
-          [
-            12,
-            35
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 19,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "周りの関係観察",
-        "type_id": 10,
-        "effect_values": [
-          [
-            25
-          ],
-          [
-            35
-          ],
-          [
-            50
-          ],
-          [
-            65
-          ],
-          [
-            75
-          ]
-        ],
-        "description": "ステータスピース（青中）のドロップ率を{0}倍にする",
-        "order_num": 64,
-        "support_skill_type_name": "ステータスピース（青中）アップ"
-      }
-    },
-    "spp": {
-      "name": "IMMORAL WORLD",
-      "song_id": 104
-    }
-  },
-  {
-    "compliant": "TRUE",
-    "id": 3281,
-    "rarity": 3,
-    "character_id": 28,
-    "type": 3,
-    "substat_type": 0,
-    "title": "おいしゃさん",
-    "name": "深海 奏汰",
-    "releaseDate": {
-      "jp": "2022-10-25"
-    },
-    "obtain": {
-      "type": "gacha",
-      "subType": "feature"
-    },
-    "stats": {
-      "min": {
-        "da": 3150,
-        "vo": 1570,
-        "pf": 1660
-      },
-      "ir": {
-        "da": 21694,
-        "vo": 10467,
-        "pf": 9737
-      }
-    },
-    "skills": {
-      "center": {
-        "name": "きんきゅうしゅじゅつ",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 10,
-        "description": "GlitterタイプのDa {0}％up",
-        "order_num": 222
-      },
-      "live": {
-        "name": "べてらんへるぷ",
-        "type_id": 1,
-        "duration": 8,
-        "effect_values": [
-          [
-            8,
-            6
-          ],
-          [
-            8,
-            8
-          ],
-          [
-            8,
-            10
-          ],
-          [
-            8,
-            12
-          ],
-          [
-            8,
-            14
-          ],
-          [
-            8,
-            16
-          ],
-          [
-            8,
-            18
-          ],
-          [
-            8,
-            20
-          ],
-          [
-            8,
-            25
-          ],
-          [
-            8,
-            30
-          ]
-        ],
-        "description": "{0}秒間{1}％スコアアップ",
-        "order_num": 15,
-        "live_skill_type_name": "スコアアップ"
-      },
-      "support": {
-        "name": "じりきのちりょう",
-        "type_id": 5,
-        "effect_values": [
-          [
-            10
-          ],
-          [
-            20
-          ],
-          [
-            30
-          ],
-          [
-            40
-          ],
-          [
-            50
-          ]
-        ],
-        "description": "ステータスピース（赤小）のドロップ率を{0}倍にする",
-        "order_num": 50,
-        "support_skill_type_name": "ステータスピース（赤小）アップ"
       }
     }
   },
