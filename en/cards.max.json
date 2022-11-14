@@ -6194,13 +6194,19 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2456,
-    "title": "Mundane Specialty",
+    "title": "Everyday but Special",
     "name": "Mao Isara",
     "skills": {
+      "center": {
+        "name": "Friendship Nearby"
+      },
       "live": {
         "name": "Design Idea"
+      },
+      "support": {
+        "name": "Intimate Days"
       }
     },
     "quote": {
@@ -6209,20 +6215,42 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2457,
-    "title": "The Start of Fondness",
+    "title": "Start of Fondness",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Game Coaching"
+      },
+      "live": {
+        "name": "Expected Latest Release"
+      },
+      "support": {
+        "name": "Playing Game Demo"
+      }
+    },
     "quote": {
       "n": "実際にやってみようよ！",
       "e": "ゲームならエスコートするよ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2458,
-    "title": "Adults' Afternoon",
+    "title": "Afternoon of Grown-ups",
     "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Day vs. Night"
+      },
+      "live": {
+        "name": "Perfect Tea Partner"
+      },
+      "support": {
+        "name": "Headache of Roommates"
+      }
+    },
     "quote": {
       "n": "おじいちゃんはどちらだろうね？",
       "e": "部屋は僕が使うからね"
@@ -6603,23 +6631,40 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2480,
-    "title": "Delivered at the Speed of Light",
+    "title": "The Fastest Light",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Timing for a Dash"
+      },
+      "live": {
+        "name": "Private Homework"
+      },
+      "support": {
+        "name": "Short Trip with CIRCLE"
+      }
+    },
     "quote": {
       "n": "ね~ちゃんに頼んで良かった!",
       "e": "歌をみんなに届けるんだぜ☆"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2481,
-    "title": "Midnight Companion",
+    "title": "Late Night Companion",
     "name": "Tetora Nagumo",
     "skills": {
       "center": {
         "name": "Midnight Snack"
+      },
+      "live": {
+        "name": "Former and Current Club President"
+      },
+      "support": {
+        "name": "Operating Kettle"
       }
     },
     "quote": {
@@ -6628,10 +6673,21 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2482,
-    "title": "Friendship with the Guest Star",
+    "title": "Special Friend Guest",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Off Day Only You & Me"
+      },
+      "live": {
+        "name": "Physical Contact"
+      },
+      "support": {
+        "name": "Guest Talk"
+      }
+    },
     "quote": {
       "n": "あの話ってどれのことだろ？",
       "e": "行きたい場所についてくよ！"
