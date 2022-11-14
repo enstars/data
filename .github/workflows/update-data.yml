@@ -21,6 +21,7 @@ jobs:
         with:
           sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
           repo: ${{ github.repository }}
+          search_key: ${{ secrets.SEARCH_KEY }}
 
       - name: Commit to current branch
         id: commit
