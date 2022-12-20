@@ -152,5 +152,40 @@
     "name": "Flowers in the Wasteland",
     "story_name": "Flowers in the Wasteland",
     "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 327,
+    "name": "Shinobu Sengoku",
+    "story_name": "To \"Me\" in the Past",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 328,
+    "name": "Tales of the Moon",
+    "story_name": "Tales of the Moon",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 329,
+    "name": "Arashi Narukami",
+    "story_name": "My Style",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 330,
+    "name": "Werewolf",
+    "story_name": "Werewolf",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 331,
+    "name": "Tomoya Mashiro",
+    "story_name": "To You, The Pure White",
+    "story_author": "Yuumasu"
   }
 ]

@@ -106,12 +106,23 @@
     "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 212
+    "compliant": "TRUE",
+    "event_id": 212,
+    "name": "Heat Haze ♦ Lingering Summer & Hot Limit",
+    "event_gacha": "Tales of the Moon",
+    "intro_lines": "Rinne triumphantly tells Crazy:B members, who are killing time at \"Cinnamon\", that he has obtained a decent job for all of them. However, this job conflicts with Niki's part-time schedule. Meanwhile, Niki recalls when he first met Rinne.",
+    "song_name": "Honeycomb Summer",
+    "story_name": "Hot Limit",
+    "story_author": "Akira"
   },
   {
-    "compliant": "FALSE",
-    "event_id": 213
+    "compliant": "TRUE",
+    "event_id": 213,
+    "name": "Action! Fist of Idol: Togenkyo",
+    "event_gacha": "Werewolf",
+    "intro_lines": "All members of Trickstar are to participate in an audition held to determine the main cast of a kung-fu movie. At the audition site, they have a hard time when they're asked to improvise their performance by the judges—members of fine...",
+    "story_name": "Fist of Idol: Togenkyo",
+    "story_author": "Akira"
   },
   {
     "compliant": "FALSE",

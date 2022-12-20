@@ -780,7 +780,7 @@
       ]
     },
     "unit_id": [
-      4
+      5
     ],
     "cards": [
       2614,
@@ -2557,7 +2557,7 @@
     ]
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "event_id": 264,
     "start_date": "2024-11-23T17:00:00Z",
     "end_date": "2024-12-02T03:00:00Z",
@@ -2565,9 +2565,71 @@
     "name": "SHUFFLE×憩う一杯とカフェテリア",
     "event_gacha": "スカウト！BLEND+",
     "gacha_id": 432,
+    "intro_lines": "つむぎからお気に入りのカフェが閉店の危機にあると知らされた宗。安らげる場所を守るため、カフェ存続の道を探ることになるが……",
     "song_name": "Heart aid Cafeteria",
+    "story_name": "オータムカフェテリア",
+    "story_author": "ゆーます",
+    "story_season": "秋",
+    "banner_id": 3293,
     "unit_id": [
       100
+    ],
+    "cards": [
+      3293,
+      3294,
+      3295
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 265,
+    "start_date": "2024-12-07T03:00:00Z",
+    "end_date": "2024-12-16T03:00:00Z",
+    "type": "tour",
+    "name": "誓願夢ノ咲／最後の七不思議とスタフェス",
+    "event_gacha": "スカウト！秘密の宝石商",
+    "gacha_id": 434,
+    "intro_lines": "夢ノ咲学園 ・一年を締めくくる最後のイベントとして【スターライトフェスティバル】の準備が始まる。平和なクリスマスイベントとなりそうだったが、忍はマヨイの姿が見えないことが気がかりで…",
+    "story_name": "ブラックジャック",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3301,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3301,
+      3302,
+      3303,
+      3304,
+      3305,
+      3306,
+      3307,
+      3308
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 266,
+    "start_date": "2024-12-20T03:00:00Z",
+    "end_date": "2024-12-30T03:00:00Z",
+    "type": "shuffle",
+    "name": "SHUFFLE×未知の聖夜とナイトヘッド！",
+    "event_gacha": "スカウト！Flambé！",
+    "gacha_id": 436,
+    "intro_lines": "馴染みのメンバーでの『シャッフルユニット』企画の連絡を受け喜ぶ友也。しかし、本当の『ユニット』は曲者揃いなことが発覚し……!?",
+    "song_name": "Have you been naughty or nice?",
+    "story_name": "ナイトヘッド",
+    "story_author": "西岡麻衣子",
+    "story_season": "秋、冬",
+    "banner_id": 3324,
+    "unit_id": [
+      100
+    ],
+    "cards": [
+      3324,
+      3325,
+      3326
     ]
   }
 ]

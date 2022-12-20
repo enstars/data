@@ -5773,7 +5773,7 @@
     "releaseDate": "9/2/2022"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2434,
     "title": "Thief with Device",
     "name": "Natsume Sakasaki",
@@ -7165,7 +7165,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2507,
     "title": "Reinterpreting the Path",
     "name": "Ritsu Sakuma",
@@ -7228,7 +7228,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2510,
     "title": "The Oath of Gods",
     "name": "Souma Kanzaki",
@@ -7287,7 +7287,7 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2513,
     "title": "Consultation and Confession",
     "name": "Tatsumi Kazehaya",
@@ -7483,65 +7483,121 @@
     "releaseDate": "2022-11-14"
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2523,
-    "title": "Light Beaming from the Darkness",
+    "title": "Light Born in Darkness",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Cherished Ninja Star"
+      },
+      "live": {
+        "name": "Proof of the First Step"
+      },
+      "support": {
+        "name": "Heartfelt Favorite"
+      }
+    },
     "quote": {
       "n": "お小遣いで買った宝物でござる",
       "e": "忍者ワールド全開でござるよ！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2524,
-    "title": "What a Hero is",
+    "title": "What Makes a Hero",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Seedling of Care"
+      },
+      "live": {
+        "name": "Secret Base on Beach"
+      },
+      "support": {
+        "name": "Joy in the Morning"
+      }
+    },
     "quote": {
       "n": "痛くも痒くもないぞ！",
       "e": "海のように広い心で！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2525,
-    "title": "A New Lifestyle",
+    "title": "The New Life",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Mastered Chores"
+      },
+      "live": {
+        "name": "Welcome Party for Two"
+      },
+      "support": {
+        "name": "Packing Progress"
+      }
+    },
     "quote": {
       "n": "日が暮れてしまいますよ",
       "e": "これからがんばりましょうね"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2526,
-    "title": "A Battle with Hunger",
-    "name": "Niki Shiina"
+    "title": "Struggle Against Hunger",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Nourishing Meal"
+      },
+      "live": {
+        "name": "Important Emergency"
+      },
+      "support": {
+        "name": "Kitchen Pantry"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2527,
-    "title": "Practicing Together",
+    "title": "Joint Practice",
     "name": "Madara Mikejima",
     "skills": {
       "center": {
-        "name": "Brilliant Singing Voice"
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Vocal Training"
+      },
+      "support": {
+        "name": "Courage of Unit"
       }
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2528,
-    "title": "Practicing Together",
+    "title": "Joint Practice",
     "name": "Kohaku Oukawa",
     "skills": {
       "center": {
-        "name": "Expressive Sparkle"
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Movement Training"
+      },
+      "support": {
+        "name": "Acquisition from Unit"
       }
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2529,
     "title": "Hot Summer and Memories",
     "name": "Niki Shiina",
@@ -7550,67 +7606,111 @@
         "name": "Honeycomb Smile"
       },
       "live": {
-        "name": "Summer Festival and Cooking"
+        "name": "Summer Festival & Cooking"
       },
       "support": {
-        "name": "Cooking for Someone's Sake"
+        "name": "Dishes for Someone"
       }
+    },
+    "quote": {
+      "e": "Here, say \"ah\"~..."
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2530,
-    "title": "Hot Summer and Expectations",
+    "title": "Hot Summer and Speculation",
     "name": "Rinne Amagi",
     "skills": {
       "center": {
         "name": "Honeycomb Memory"
+      },
+      "live": {
+        "name": "Summer Festival & Competition"
+      },
+      "support": {
+        "name": "A Corner in City"
       }
+    },
+    "quote": {
+      "e": "Stay away from me, kid. I hate kids cuz they're stupid."
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2531,
-    "title": "Hot Investigation",
+    "title": "Investigation in Hot Summer",
     "name": "HiMERU",
     "skills": {
       "center": {
         "name": "Honeycomb Wink"
+      },
+      "live": {
+        "name": "Summer Festival & Views"
+      },
+      "support": {
+        "name": "Sorting Friends' Info"
       }
+    },
+    "quote": {
+      "e": "At least, HiMERU needs to keep a cool head over the big picture."
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2532,
-    "title": "Hot Banter",
+    "title": "Banter of Hot Summer",
     "name": "Kohaku Oukawa",
     "skills": {
       "center": {
         "name": "Honeycomb Pose"
       },
       "live": {
-        "name": "Summer Festival and Request"
+        "name": "Summer Festival & Wishes"
+      },
+      "support": {
+        "name": "Work at Frontstage"
       }
+    },
+    "quote": {
+      "e": "Stop it. Don't make a fuss in public like this. "
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2533,
-    "title": "Moon Viewing and Memories",
+    "title": "Moon and Memory",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Moon in Hometown Sky"
+      },
+      "live": {
+        "name": "Treat with Tea"
+      },
+      "support": {
+        "name": "Tea Ceremony Training"
+      }
+    },
     "quote": {
       "n": "大丈夫か、仁兎先輩?",
       "e": "月はどこで見ても美しいな"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2534,
-    "title": "Moon Viewing and Stories",
+    "title": "Moon and Tales",
     "name": "Nazuna Nito",
     "skills": {
+      "center": {
+        "name": "Moon and White Lies"
+      },
       "live": {
         "name": "Summer Report"
+      },
+      "support": {
+        "name": "College Student Style"
       }
     },
     "quote": {
@@ -7619,11 +7719,17 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2535,
-    "title": "Moon Rabbit",
+    "title": "Rabbit of the Moon",
     "name": "Makoto Yuuki",
     "skills": {
+      "center": {
+        "name": "Enjoy Long Night Moon"
+      },
+      "live": {
+        "name": "All-Out Bungee"
+      },
       "support": {
         "name": "Games and Culture"
       }
@@ -7634,165 +7740,352 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2536,
-    "title": "Moon and Staging",
-    "name": "Koga Oogami"
+    "title": "Moon and Direction",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Adore Autumn and Moon"
+      },
+      "live": {
+        "name": "Memory of Special"
+      },
+      "support": {
+        "name": "Outdoor Guest"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2537,
-    "title": "The Best Self I Can Be",
-    "name": "Arashi Narukami"
+    "title": "My Best Self",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "The Admired One"
+      },
+      "live": {
+        "name": "Simple Ornaments"
+      },
+      "support": {
+        "name": "Handmade Costume"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2538,
-    "title": "Irreplaceable Glasses",
+    "title": "Unique Glasses",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Heartfelt Anxiety"
+      },
+      "live": {
+        "name": "Note from Kidnapper"
+      },
+      "support": {
+        "name": "Search for Glasses"
+      }
+    },
     "quote": {
       "n": "無い無い、どこにも無い…!",
       "e": "さぁ、どこからでも撮ってくれ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2539,
-    "title": "The Essence of Beauty",
+    "title": "To The Essence of Beauty",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Foothold in the World"
+      },
+      "live": {
+        "name": "City of Performers"
+      },
+      "support": {
+        "name": "Connection of a Friend"
+      }
+    },
     "quote": {
       "n": "ちょっとやそっとじゃ埋もれるの",
       "e": "互いに上を目指す者同士でしょ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2540,
-    "title": "Brothers' Suggestion",
-    "name": "Tsumugi Aoba"
+    "title": "Suggestions from Brothers",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Advising to Relax"
+      },
+      "live": {
+        "name": "Invitation with Excuses"
+      },
+      "support": {
+        "name": "Mysterious Activities"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2541,
-    "title": "Shangri-la Experience",
+    "title": "Experiences in Togenkyo",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Lead in Movie"
+      },
+      "live": {
+        "name": "Qualified Performance"
+      },
+      "support": {
+        "name": "Selection from Files"
+      }
+    },
     "quote": {
       "n": "他のみんなより出遅れちゃう",
       "e": "最高に『僕』そのものだ…！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2542,
-    "title": "Passion Burning Within the Idol",
+    "title": "Passion Within an Idol",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Rival in Movie"
+      },
+      "live": {
+        "name": "Experience Unknown"
+      },
+      "support": {
+        "name": "Unrestrained Belligerence"
+      }
+    },
     "quote": {
       "n": "もう逃げ場はありませんよ",
       "e": "心から良かったと思いますよ…！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2543,
-    "title": "Underdog's Feelings",
+    "title": "Feelings of the Underdog",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Villain in Movie"
+      },
+      "live": {
+        "name": "Target of Envy"
+      },
+      "support": {
+        "name": "Audition of the Prince"
+      }
+    },
     "quote": {
       "n": "俺が来たからにはもう安心だぞ",
       "e": "なぜだっ、なぜ勝てないんだ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2544,
-    "title": "Being the Heroine",
+    "title": "Being the \"Heroine\"",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Heroine in Movie"
+      },
+      "live": {
+        "name": "Turmoil of Fear"
+      },
+      "support": {
+        "name": "Gifts and Consideration"
+      }
+    },
     "quote": {
       "n": "じゃ〜ん、桃まんじゅう！",
       "e": "助けて！助けてお願いっ"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2545,
-    "title": "Sage's Expectations",
+    "title": "Expectation from the Master",
     "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Director of Movie"
+      },
+      "live": {
+        "name": "Performance Guide"
+      },
+      "support": {
+        "name": "Solution to Filming"
+      }
+    },
     "quote": {
       "n": "柔軟性が必要なんですよ？",
       "e": "感情を武器にして披露しなさい！"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2546,
-    "title": "Mastermind's Plan",
+    "title": "Scheme of the Mastermind",
     "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Investor of Movie"
+      },
+      "live": {
+        "name": "New Attempt"
+      },
+      "support": {
+        "name": "Unexpected Compatibility"
+      }
+    },
     "quote": {
       "n": "思っていたより前途多難だね…",
       "e": "最強のアイドルになってもらおう♪"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2547,
-    "title": "A Job Done with Confidence",
+    "title": "Work of the Master Hand",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Bit-Part in Movie"
+      },
+      "live": {
+        "name": "Switch When Filming"
+      },
+      "support": {
+        "name": "Improvisation"
+      }
+    },
     "quote": {
       "n": "オーディションの結果を教えてっ",
       "e": "撮影ちゅうは集中…"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2548,
-    "title": "Childhood Friend Troubles",
+    "title": "Entanglement of Childhood",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Supporter in Movie"
+      },
+      "live": {
+        "name": "Elevation of Experience"
+      },
+      "support": {
+        "name": "Analysis on Character"
+      }
+    },
     "quote": {
       "n": "それっぽく見えるように練習だな",
       "e": "時間をかけてものにしなきゃな"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2549,
-    "title": "Liar Game",
+    "title": "The Liar Game",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Hidden Words in Words"
+      },
+      "live": {
+        "name": "Words of Fortune Teller"
+      },
+      "support": {
+        "name": "Action of Disciple"
+      }
+    },
     "quote": {
       "n": "心配しなくてもボクも行くってバ",
       "e": "常に勝者はボクのほうダ♪"
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2550,
-    "title": "Deduction Game",
-    "name": "Hiyori Tomoe"
+    "title": "The Detective Game",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "True Intention of Words"
+      },
+      "live": {
+        "name": "Experience of Socialite"
+      },
+      "support": {
+        "name": "Influence of Comics"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2551,
     "title": "Game Master",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Frank Words"
+      },
+      "live": {
+        "name": "Detection of Lies"
+      },
+      "support": {
+        "name": "Concerning for Kitten"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2552,
     "title": "Game Player",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Accompanying Words"
+      },
+      "live": {
+        "name": "Hints in Actions"
+      },
+      "support": {
+        "name": "Participating in Game"
+      }
+    }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2553,
-    "title": "The Epitome of Standard",
+    "title": "Epitome of Paradigm",
     "name": "Tomoya Mashiro",
     "skills": {
       "center": {
-        "name": "The Starting Point to the Future"
+        "name": "Point Connecting the"
       },
       "live": {
-        "name": "What Others See in Me"
+        "name": "Me in the Others' Eyes"
       },
       "support": {
-        "name": "My Own Fashion Show"
+        "name": "Sole Fashion Show"
       }
     },
     "quote": {
@@ -7801,27 +8094,55 @@
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
     "id": 2554,
-    "title": "Prank Corner",
-    "name": "Yuta Aoi"
-  },
-  {
-    "compliant": "FALSE",
-    "id": 2555,
-    "title": "At the Pace of Bread",
-    "name": "Mitsuru Tenma",
+    "title": "Prank Program",
+    "name": "Yuta Aoi",
     "skills": {
+      "center": {
+        "name": "Talent for Mischief"
+      },
       "live": {
-        "name": "Senpai's Lecture"
+        "name": "Naughty Junior"
+      },
+      "support": {
+        "name": "Spicy Revenge"
       }
     }
   },
   {
-    "compliant": "FALSE",
+    "compliant": "TRUE",
+    "id": 2555,
+    "title": "At the Pace of Bread",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "A Share of Growth"
+      },
+      "live": {
+        "name": "Guide from the Senior"
+      },
+      "support": {
+        "name": "Trap of Bread"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2556,
     "title": "New Roommate",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Incarnation of Nazu"
+      },
+      "live": {
+        "name": "Cleaning and Composing"
+      },
+      "support": {
+        "name": "Sweet Words of Forteller"
+      }
+    },
     "quote": {
       "n": "起こされて忘れちゃったな…",
       "e": "ずっとついててやるからな!"
