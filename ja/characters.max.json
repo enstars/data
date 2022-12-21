@@ -1866,33 +1866,5 @@
     "quote": "傍観者を気取ってないで、私もサポートに動いたほうが良いですかね",
     "tagline": "スパルタ指導の元アイドル",
     "introduction": "ESの事業部でアイドルたちのサポートをしている。 真面目で厳格な性格だが、後輩たちの成長のために厳しくしているところが多い。 夢ノ咲学院の教師でもあり、生徒たちの生活指導や授業も持っている。 元モデル出身のアイドルで、OBとしてのアドバイスもしている。"
-  },
-  {
-    "compliant": "FALSE",
-    "character_id": 61,
-    "sort_id": 52,
-    "last_name": "氷鷹",
-    "first_name": "誠矢",
-    "last_nameRuby": "ひだか",
-    "first_nameRuby": "せいや",
-    "unit": [],
-    "character_voice": "眞一郎三木",
-    "height": 179,
-    "weight": 63,
-    "birthday": "2000-05-27",
-    "horoscope": 2,
-    "blood_type": "A",
-    "hobby": "仕事",
-    "speciality": "自分のペースに巻き込む",
-    "quote": "皆さんも僕に倣って、『アイドル刑務所の模範囚』になれるようにがんばりましょう♪",
-    "tagline": "閃光のホークアイ",
-    "introduction": "北斗の父親で、今もなお人気の衰えない現役アイドル。仕事に対して真面目で真摯な一方で、冗談好きという一面も持っている。",
-    "like": "北斗の写真",
-    "dislike": "妻と息子の悲しい顔",
-    "family": "妻、息子"
-  },
-  {
-    "compliant": "FALSE",
-    "character_id": 75
   }
 ]
