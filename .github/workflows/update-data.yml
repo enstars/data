@@ -17,9 +17,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Fetch Sheets info
-        uses: enstars/googlesheet-actions@master
+        uses: enstars/makotools-data-sync@main
         with:
-          sheet-id: 1NdrCTFzbeqN-nvlLzy8YbeBbNwPnHruIe95Q1eE4Iyk
+          sheet-ids: ${{ secrets.SHEET_IDS }}
           repo: ${{ github.repository }}
           search_key: ${{ secrets.SEARCH_KEY }}
 
