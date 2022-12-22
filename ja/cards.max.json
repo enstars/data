@@ -140231,5 +140231,307 @@
       }
     },
     "associated_story": "オータムカフェテリア"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3324,
+    "rarity": 5,
+    "character_id": 71,
+    "type": 4,
+    "substat_type": 0,
+    "title": "やる気に火を付けて",
+    "name": "天城 燐音",
+    "releaseDate": {
+      "jp": "2022-12-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 46866,
+        "vo": 24823,
+        "pf": 20712
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "行事を楽しむ聖夜",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの総合値{0}％up",
+        "order_num": 342
+      },
+      "live": {
+        "name": "ライブの熱狂度",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "クリスマスの実感",
+        "type_id": 7,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（赤大）のドロップ率を{0}倍にする",
+        "order_num": 58,
+        "support_skill_type_name": "ステータスピース（赤大）アップ"
+      }
+    },
+    "spp": {
+      "name": "Flambé！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Flambé！衣装/Flambé！衣装 (SCR)",
+        "3d": "Flambé！衣装/Flambé！衣装 (SCR)"
+      }
+    },
+    "associated_story": "ナイトヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3325,
+    "rarity": 4,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 2,
+    "title": "感性に付く火",
+    "name": "伏見 弓弦",
+    "releaseDate": {
+      "jp": "2022-12-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 15639,
+        "vo": 13449,
+        "pf": 28363
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "若者と集う聖夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "ライブの温かさ",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "手作り提案品",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Flambé！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Flambé！衣装",
+        "3d": "Flambé！衣装"
+      }
+    },
+    "associated_story": "ナイトヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3326,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 2,
+    "substat_type": 1,
+    "title": "高揚に付く火",
+    "name": "明星 スバル",
+    "releaseDate": {
+      "jp": "2022-12-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 14995,
+        "vo": 26748,
+        "pf": 16479
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "燃えて輝く聖夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "ライブで投げ込み",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "先輩モードな意見",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Flambé！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Flambé！衣装",
+        "3d": "Flambé！衣装"
+      }
+    },
+    "associated_story": "ナイトヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3327,
+    "rarity": 5,
+    "character_id": 3,
+    "type": 1,
+    "substat_type": 1,
+    "title": "情熱に火を付けて",
+    "name": "真白 友也",
+    "releaseDate": {
+      "jp": "2022-12-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 25863,
+        "vo": 46340,
+        "pf": 21701
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "共に楽しむ聖夜",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "ライブの贈り物",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "モヤモヤの理由",
+        "type_id": 11,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（青大）のドロップ率を{0}倍にする",
+        "order_num": 68,
+        "support_skill_type_name": "ステータスピース（青大）アップ"
+      }
+    },
+    "spp": {
+      "name": "Flambé！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Flambé！衣装/Flambé！衣装 (SCR)",
+        "3d": "Flambé！衣装/Flambé！衣装 (SCR)"
+      }
+    },
+    "associated_story": "ナイトヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3328,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 2,
+    "substat_type": 2,
+    "title": "気概に付く火",
+    "name": "七種 茨",
+    "releaseDate": {
+      "jp": "2022-12-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 17990,
+        "vo": 12848,
+        "pf": 27102
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "まんざらでもない聖夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "ライブの仕掛け",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "クリスマスライブ計画",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Flambé！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Flambé！衣装",
+        "3d": "Flambé！衣装"
+      }
+    },
+    "associated_story": "ナイトヘッド"
   }
 ]
