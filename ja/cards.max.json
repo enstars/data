@@ -140234,6 +140234,1598 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3296,
+    "rarity": 5,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 1,
+    "title": "こだわりブレンド",
+    "name": "斎宮 宗",
+    "releaseDate": {
+      "jp": "2022-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 23068,
+        "vo": 47463,
+        "pf": 20825
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "創作意欲擽る香り",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo {0}％up"
+      },
+      "live": {
+        "name": "かけがえのない一杯",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            23
+          ],
+          [
+            8,
+            26
+          ],
+          [
+            8,
+            30
+          ],
+          [
+            8,
+            35
+          ],
+          [
+            8,
+            40
+          ],
+          [
+            8,
+            45
+          ],
+          [
+            8,
+            50
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "心安らぐ空間",
+        "type_id": 11,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ],
+        "description": "ステータスピース（青大）のドロップ率を{0}倍にする",
+        "order_num": 68,
+        "support_skill_type_name": "ステータスピース（青大）アップ"
+      }
+    },
+    "spp": {
+      "name": "Heart aid Cafeteria"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "BLEND+衣装/BLEND+衣装 (SCR)",
+        "3d": "BLEND+衣装/BLEND+衣装 (SCR)"
+      }
+    },
+    "associated_story": "オータムカフェテリア"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3297,
+    "rarity": 4,
+    "character_id": 8,
+    "type": 3,
+    "substat_type": 2,
+    "title": "気軽なブレンド",
+    "name": "葵 ゆうた",
+    "releaseDate": {
+      "jp": "2022-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 16676,
+        "vo": 15099,
+        "pf": 26428
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "開放感もたらす香り",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf {0}％up"
+      },
+      "live": {
+        "name": "残したい一杯",
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            5,
+            50
+          ],
+          [
+            5,
+            60
+          ],
+          [
+            5,
+            70
+          ],
+          [
+            5,
+            80
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "落ち着く場所",
+        "type_id": 13,
+        "effect_values": [
+          [
+            25
+          ],
+          [
+            35
+          ],
+          [
+            50
+          ],
+          [
+            65
+          ],
+          [
+            75
+          ]
+        ],
+        "description": "ステータスピース（黄小）のドロップ率を{0}倍にする",
+        "order_num": 71,
+        "support_skill_type_name": "ステータスピース（黄小）アップ"
+      }
+    },
+    "spp": {
+      "name": "Heart aid Cafeteria"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "BLEND+衣装",
+        "3d": "BLEND+衣装"
+      }
+    },
+    "associated_story": "オータムカフェテリア"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3298,
+    "rarity": 5,
+    "character_id": 20,
+    "type": 3,
+    "substat_type": 2,
+    "title": "魅力香る花",
+    "name": "鳴上 嵐",
+    "releaseDate": {
+      "jp": "2022-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 25294,
+        "vo": 27465,
+        "pf": 42834
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "わくわくする時間",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "パーフェクトな角度",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            13
+          ],
+          [
+            8,
+            16
+          ],
+          [
+            8,
+            20
+          ],
+          [
+            8,
+            23
+          ],
+          [
+            8,
+            26
+          ],
+          [
+            8,
+            30
+          ],
+          [
+            8,
+            35
+          ],
+          [
+            8,
+            40
+          ],
+          [
+            8,
+            45
+          ],
+          [
+            8,
+            50
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 16,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "目移りする色",
+        "type_id": 15,
+        "effect_values": [
+          [
+            50
+          ],
+          [
+            60
+          ],
+          [
+            70
+          ],
+          [
+            80
+          ],
+          [
+            100
+          ]
+        ]
+      }
+    },
+    "spp": {
+      "name": "Coruscate Breeze"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "黒豹香/黒豹香 (SCR)",
+        "3d": "黒豹香/黒豹香 (SCR)"
+      }
+    },
+    "associated_story": "花めくアトラクティブ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3299,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 4,
+    "substat_type": 2,
+    "title": "ゲームフレンド",
+    "name": "仁兎 なずな",
+    "releaseDate": {
+      "jp": "2022-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 30434,
+        "vo": 11756,
+        "pf": 14224
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "コーデレクチャー",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "おすすめゲーム",
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            5,
+            20
+          ],
+          [
+            5,
+            25
+          ],
+          [
+            5,
+            30
+          ],
+          [
+            5,
+            35
+          ],
+          [
+            5,
+            40
+          ],
+          [
+            5,
+            45
+          ],
+          [
+            5,
+            50
+          ],
+          [
+            5,
+            60
+          ],
+          [
+            5,
+            70
+          ],
+          [
+            5,
+            80
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "のんびりソファ",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "野うさぎマーチ♪"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "ゲームの向こうに友人あり"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3300,
+    "rarity": 3,
+    "character_id": 18,
+    "type": 2,
+    "substat_type": 1,
+    "title": "楽器の音色",
+    "name": "衣更 真緒",
+    "releaseDate": {
+      "jp": "2022-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 10182,
+        "vo": 21278,
+        "pf": 10454
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "見様見真似の演奏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "ピアノチャレンジ",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "突然の着信",
+        "type_id": 9
+      }
+    },
+    "associated_story": "セッションはめいめいに"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3301,
+    "rarity": 5,
+    "character_id": 7,
+    "type": 4,
+    "substat_type": 0,
+    "title": "絆のスタフェス",
+    "name": "仙石 忍",
+    "releaseDate": {
+      "jp": "2022-11-25"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 43975,
+        "vo": 27995,
+        "pf": 22381
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "成長する忍者",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "友とクリスマス",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "プレゼント作戦",
+        "type_id": 24
+      }
+    },
+    "spp": {
+      "name": "青春Emergency"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装/スタフェス衣装 (SCR)"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3303,
+    "rarity": 4,
+    "character_id": 14,
+    "type": 1,
+    "substat_type": 2,
+    "title": "共感とスタフェス",
+    "name": "神崎 颯馬",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 14349,
+        "vo": 13737,
+        "pf": 29079
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "異文化ミックス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "和風クリスマス",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "武士の兄貴肌",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "剣戟の舞"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3304,
+    "rarity": 4,
+    "character_id": 38,
+    "type": 3,
+    "substat_type": 0,
+    "title": "魔術とスタフェス",
+    "name": "逆先 夏目",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 30817,
+        "vo": 13087,
+        "pf": 11937
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "魔法の言葉と交渉",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "スイートクリスマス",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "甘いケーキの労い",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Brilliant Smile"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "制服（冬、エプロン、三年生）/スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3305,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 1,
+    "substat_type": 0,
+    "title": "対等なスタフェス",
+    "name": "伏見 弓弦",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 21687,
+        "vo": 9928,
+        "pf": 10483
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "主と楽しむ余裕",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "振り返りクリスマス",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "去年と今年の比較",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3306,
+    "rarity": 3,
+    "character_id": 1,
+    "type": 3,
+    "substat_type": 1,
+    "title": "鼓舞のスタフェス",
+    "name": "南雲 鉄虎",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 9628,
+        "vo": 19655,
+        "pf": 13409
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "牽引者としての自覚",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "仲間とクリスマス",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "相談の電話",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3307,
+    "rarity": 3,
+    "character_id": 34,
+    "type": 4,
+    "substat_type": 1,
+    "title": "華やかスタフェス",
+    "name": "影片 みか",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 9619,
+        "vo": 22284,
+        "pf": 9397
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "思い出の行事",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "子供とクリスマス",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "熱心な飾り付け",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3308,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 2,
+    "substat_type": 2,
+    "title": "応援スタフェス",
+    "name": "鳴上 嵐",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 11145,
+        "vo": 13804,
+        "pf": 18448
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "みんなと過ごす冬",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "楽しみクリスマス",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "団欒の学院",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3309,
+    "rarity": 5,
+    "character_id": 26,
+    "type": 3,
+    "substat_type": 1,
+    "title": "欲望の宝石商",
+    "name": "鬼龍 紅郎",
+    "releaseDate": {
+      "jp": "2022-11-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 22254,
+        "vo": 46966,
+        "pf": 22501
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "心の中で輝くもの",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "宝石の贈り物",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "妹の本音",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "剣戟の舞"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "秘密の宝石商衣装/秘密の宝石商衣装 (SCR)",
+        "3d": "秘密の宝石商衣装/秘密の宝石商衣装 (SCR)"
+      }
+    },
+    "associated_story": "秘密の宝石商"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3310,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 2,
+    "title": "誘惑の宝石商",
+    "name": "朔間 凛月",
+    "releaseDate": {
+      "jp": "2022-11-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 16865,
+        "vo": 12472,
+        "pf": 28141
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "目に見えぬ輝き",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "宝石の価値",
+        "type_id": 1,
+        "duration": 40,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "凛月さまアドバイス",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "Coruscate Breeze"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "秘密の宝石商衣装"
+      }
+    },
+    "associated_story": "秘密の宝石商"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3311,
+    "rarity": 3,
+    "character_id": 1,
+    "type": 1,
+    "substat_type": 1,
+    "title": "一雫の宝石",
+    "name": "南雲 鉄虎",
+    "releaseDate": {
+      "jp": "2022-11-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 9462,
+        "vo": 22441,
+        "pf": 9316
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "不思議な輝き",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "宝石と贈り主",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "先輩の調査",
+        "type_id": 9
+      }
+    },
+    "associated_story": "秘密の宝石商"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3312,
+    "rarity": 3,
+    "character_id": 29,
+    "type": 4,
+    "substat_type": 0,
+    "title": "大粒の宝石",
+    "name": "朔間 零",
+    "releaseDate": {
+      "jp": "2022-11-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 18767,
+        "vo": 11916,
+        "pf": 12560
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "惑わす輝き",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "宝石と助言者",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "真相の中心",
+        "type_id": 1
+      }
+    },
+    "associated_story": "秘密の宝石商"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3313,
+    "rarity": 5,
+    "character_id": 27,
+    "type": 4,
+    "substat_type": 0,
+    "title": "縛られない存在",
+    "name": "日々樹 渉",
+    "releaseDate": {
+      "jp": "2022-12-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 42393,
+        "vo": 24125,
+        "pf": 29114
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "違う世界への案内",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "日常的アプローチ",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "Amazingな仕掛け",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Miracle Dream Traveler"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Migratory Bird/Migratory Bird (SCR)",
+        "3d": "Migratory Bird/Migratory Bird (SCR)"
+      },
+      "backgrounds": "空中庭園（冬_枯れ木）"
+    },
+    "associated_story": "渡り鳥と止まり木"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3314,
+    "rarity": 4,
+    "character_id": 22,
+    "type": 1,
+    "substat_type": 2,
+    "title": "深夜の作業",
+    "name": "天祥院 英智",
+    "releaseDate": {
+      "jp": "2022-12-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 13980,
+        "vo": 11514,
+        "pf": 30686
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "手作業クリエイティブ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "見真似の手伝い",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "全消しホワイト",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Ghostic Treat House"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "皇帝の手も借りたい"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3315,
+    "rarity": 3,
+    "character_id": 37,
+    "type": 3,
+    "substat_type": 1,
+    "title": "創造する遊び",
+    "name": "春川 宙",
+    "releaseDate": {
+      "jp": "2022-12-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 12094,
+        "vo": 19476,
+        "pf": 11686
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "浮き足立つ発売日",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "嵐の日の遊び方",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "すごろく提案",
+        "type_id": 9
+      }
+    },
+    "associated_story": "あそびのかたち"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3316,
+    "rarity": 3,
+    "character_id": 50,
+    "type": 1,
+    "substat_type": 2,
+    "title": "(RE)ALISE",
+    "name": "乱 凪砂",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 10308,
+        "vo": 10448,
+        "pf": 21441
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "白紙のシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "知り尽くすルール",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な変化",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3317,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 2,
+    "substat_type": 1,
+    "title": "(RE)FINE",
+    "name": "巴 日和",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 13434,
+        "vo": 18854,
+        "pf": 10786
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "華やかなシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "輝かせるルール",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な楽しみ方",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3318,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 3,
+    "substat_type": 2,
+    "title": "(RE)SIST",
+    "name": "七種 茨",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 9080,
+        "vo": 9876,
+        "pf": 22422
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "塗り替えるシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "仕掛けるルール",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由なアプローチ",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3319,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 4,
+    "substat_type": 0,
+    "title": "(RE)SPECT",
+    "name": "漣 ジュン",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 18929,
+        "vo": 11612,
+        "pf": 12605
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "手書きのシナリオ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "食らいつくルール",
+        "type_id": 1,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な成長法",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3320,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 2,
+    "substat_type": 0,
+    "title": "(RE)ACT",
+    "name": "氷鷹 北斗",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 21631,
+        "vo": 11610,
+        "pf": 8534
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "我流のシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "曲げないルール",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な思考力",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3321,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 2,
+    "title": "(RE)CREATE",
+    "name": "明星 スバル",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 13300,
+        "vo": 12066,
+        "pf": 18462
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "夢見たシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "信じるルール",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な吸収力",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3322,
+    "rarity": 3,
+    "character_id": 18,
+    "type": 4,
+    "substat_type": 1,
+    "title": "(RE)MIND",
+    "name": "遊木 真",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 10567,
+        "vo": 22068,
+        "pf": 8757
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "手探りのシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "やってみるルール",
+        "type_id": 1,
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由な分析力",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3323,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 3,
+    "substat_type": 0,
+    "title": "(RE)BOUND",
+    "name": "衣更 真緒",
+    "releaseDate": {
+      "jp": "2022-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 18976,
+        "vo": 12093,
+        "pf": 11972
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ありふれたシナリオ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "諦めないルール",
+        "type_id": 1,
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "自由なカバー力",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "(RE)PLAY"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "(RE)PLAY衣装",
+        "3d": "(RE)PLAY衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3324,
     "rarity": 5,
     "character_id": 71,
@@ -140268,7 +141860,8 @@
       "live": {
         "name": "ライブの熱狂度",
         "type_id": 1,
-        "duration": 5
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "クリスマスの実感",
@@ -140340,7 +141933,8 @@
       "live": {
         "name": "ライブの温かさ",
         "type_id": 1,
-        "duration": 8
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "手作り提案品",
@@ -140392,7 +141986,8 @@
       "live": {
         "name": "ライブで投げ込み",
         "type_id": 1,
-        "duration": 12
+        "duration": 12,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "先輩モードな意見",
@@ -140444,7 +142039,8 @@
       "live": {
         "name": "ライブの贈り物",
         "type_id": 1,
-        "duration": 8
+        "duration": 8,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "モヤモヤの理由",
@@ -140516,7 +142112,8 @@
       "live": {
         "name": "ライブの仕掛け",
         "type_id": 1,
-        "duration": 5
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
       },
       "support": {
         "name": "クリスマスライブ計画",

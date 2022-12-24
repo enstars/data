@@ -7723,5 +7723,77 @@
       "n": "起こされて忘れちゃったな…",
       "e": "ずっとついててやるからな!"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2561,
+    "title": "The Daring Spy",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Invasion at Dusk"
+      },
+      "live": {
+        "name": "Unexpected Trap"
+      },
+      "support": {
+        "name": "Anticipated [D]"
+      }
+    },
+    "quote": {
+      "n": "ＢＡＮＧ！",
+      "e": "プロの仕事を教えてあげよう"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2562,
+    "title": "The Deceitful Spy",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Break of Dawn"
+      },
+      "live": {
+        "name": "Arrest in the Courtyard"
+      },
+      "support": {
+        "name": "Hide-and-Seek of [D]"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2563,
+    "title": "Commission from the Spy",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Position and"
+      },
+      "live": {
+        "name": "Personal Commission"
+      },
+      "support": {
+        "name": "Hostage [D]"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2564,
+    "title": "Operation of the Spy",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Secret Plan"
+      },
+      "live": {
+        "name": "Scheme of Mr. K"
+      },
+      "support": {
+        "name": "Hideout of [D]"
+      }
+    }
   }
 ]
