@@ -4136,5 +4136,32 @@
       3330,
       3331
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 438,
+    "name": "スカウト！強運SCRAMBLE",
+    "start_date": "2024-01-03T17:00:00Z",
+    "end_date": "2025-01-17T16:59:59Z",
+    "start": {
+      "en": "2024-01-03T17:00:00Z",
+      "jp": "2022-12-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-01-17T16:59:59Z",
+      "jp": "2023-01-15T06:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "強運SCRAMBLE",
+    "story_author": "梅田千歳",
+    "story_season": "冬",
+    "event_id": 267,
+    "banner_id": 3336,
+    "cards": [
+      3336,
+      3337,
+      3338,
+      3339
+    ]
   }
 ]
