@@ -194,5 +194,12 @@
     "name": "Mission of the Spy",
     "story_name": "Mission of the Spy",
     "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 333,
+    "name": "Tsukasa Suou",
+    "story_name": "As A Knight, As A King",
+    "story_author": "Yuumasu"
   }
 ]
