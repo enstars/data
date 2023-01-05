@@ -7726,6 +7726,90 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2557,
+    "title": "Within Touching Distance",
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Dream of the White Bird"
+      },
+      "live": {
+        "name": "Project Filled with Hopes"
+      },
+      "support": {
+        "name": "Extra Lessons"
+      }
+    },
+    "quote": {
+      "n": "い、イタいよねこういうの",
+      "e": "I'm grateful for your comfort, but don't spoil me too much..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2558,
+    "title": "Responsibilities on the Wings",
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "The Bird Riding the Wind"
+      },
+      "live": {
+        "name": "Lessons Learned from Past"
+      },
+      "support": {
+        "name": "Unexpected Remark"
+      }
+    },
+    "quote": {
+      "n": "神は世界を変えるPowerでしょう",
+      "e": "There are no shortcuts in life, and hard work always pays off."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2559,
+    "title": "Self-Growth",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Bird Flying Together"
+      },
+      "live": {
+        "name": "Studying in the City"
+      },
+      "support": {
+        "name": "Encouraging Ketchup"
+      }
+    },
+    "quote": {
+      "n": "藍良が駄目でも僕はそれ以上だ！",
+      "e": "Yep! I get it! That must be what you call Amen!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2560,
+    "title": "Challenges Beyond Me",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Hesitant Bird"
+      },
+      "live": {
+        "name": "Advanced Instructions"
+      },
+      "support": {
+        "name": "Couch for Free Practice"
+      }
+    },
+    "quote": {
+      "n": "成長したい気持ちは否定できません",
+      "e": "But you are still a new idol who has just debuted."
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2561,
     "title": "The Daring Spy",
     "name": "Eichi Tenshouin",
@@ -7794,6 +7878,90 @@
       "support": {
         "name": "Hideout of [D]"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2565,
+    "title": "The Road to King",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Pride and Chivalry"
+      },
+      "live": {
+        "name": "Request for Ideal"
+      },
+      "support": {
+        "name": "Incomplete Design"
+      }
+    },
+    "quote": {
+      "n": "さっぱり思い浮かびません",
+      "e": "期待に応え誓いましょう"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2566,
+    "title": "Before The Training",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Partner of Black & White"
+      },
+      "live": {
+        "name": "Music Playing Plan"
+      },
+      "support": {
+        "name": "Piano Coaching"
+      }
+    },
+    "quote": {
+      "n": "前より上手になってるねぇ",
+      "e": "撮影は動かないからいいよね♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2567,
+    "title": "The Nameless Book",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "A Sleep-aid Book"
+      },
+      "live": {
+        "name": "Cover of Magic Circle"
+      },
+      "support": {
+        "name": "A Book Mixed on Shelf"
+      }
+    },
+    "quote": {
+      "n": "悪魔の書だったらどうする！",
+      "e": "てっきり呪いの本だとばかり…"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2568,
+    "title": "Fishing by the Sea",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Gift from the Sea"
+      },
+      "live": {
+        "name": "Seafood Dish"
+      },
+      "support": {
+        "name": "Tide Pool"
+      }
+    },
+    "quote": {
+      "n": "たくさんつれてきました〜",
+      "e": "おいしくたべましょう…☆"
     }
   }
 ]
