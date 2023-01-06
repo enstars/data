@@ -7963,5 +7963,81 @@
       "n": "たくさんつれてきました〜",
       "e": "おいしくたべましょう…☆"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2573,
+    "title": "Spicy Sweets",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "BOX Packed with"
+      },
+      "live": {
+        "name": "Relationship Built-up Snacks"
+      },
+      "support": {
+        "name": "Oversleeping Holiday"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2574,
+    "title": "Captivating Sweets",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "BOX of Anticipation"
+      },
+      "live": {
+        "name": "Enthusiastic Cooking"
+      },
+      "support": {
+        "name": "Unusual Ingredient "
+      }
+    },
+    "quote": {
+      "n": "知らないものばかりだ",
+      "e": "複雑で色とりどりの世界だね"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2575,
+    "title": "Making Sweets",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "BOX Showing Strength"
+      },
+      "live": {
+        "name": "Before the Admired One"
+      },
+      "support": {
+        "name": "Extension of Kumite"
+      }
+    },
+    "quote": {
+      "n": "役割分担ってことッスね",
+      "e": "甘いものは元気が出るッス！"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2576,
+    "title": "Sweets Classroom",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "BOX of the Chef"
+      },
+      "live": {
+        "name": "Kitchen Supervisor"
+      },
+      "support": {
+        "name": "Request for Purchase"
+      }
+    }
   }
 ]
