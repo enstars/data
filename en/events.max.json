@@ -133,5 +133,15 @@
     "song_name": "Living on the edge",
     "story_name": "Touch of Feather",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 215,
+    "name": "Howl! Burning Souls in the Nightless City",
+    "event_gacha": "Halloween Box",
+    "intro_lines": "Koga has been unstable lately. Kaoru tries to talk to him but gets brushed off. At their two seniors' request, Adonis casually asks Koga why he looks upset, then Koga confides to him that he was bothered by some issues of the Live House...",
+    "song_name": "Nightless World",
+    "story_name": "Nightless City Live",
+    "story_author": "Akira"
   }
 ]
