@@ -3146,5 +3146,38 @@
       3325,
       3326
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 267,
+    "start_date": "2025-01-04T17:00:00Z",
+    "end_date": "2025-01-13T03:00:00Z",
+    "start": {
+      "en": "2025-01-04T17:00:00Z",
+      "jp": "2022-12-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-01-13T03:00:00Z",
+      "jp": "2023-01-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "Vision＊新たな景色を描くNEW COLOR",
+    "event_gacha": "スカウト！強運SCRAMBLE",
+    "gacha_id": 438,
+    "intro_lines": "所長から『どんな願いでも叶えてやろう』と言われ、『MaM』の仕事をしたいと申し出た斑。何をするかわからぬまま、山奥に向かうが……",
+    "song_name": "HELLO, NEW YEAR!",
+    "story_name": "ポルターガイスト",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3332,
+    "unit_id": [
+      11
+    ],
+    "cards": [
+      3332,
+      3333,
+      3334,
+      3335
+    ]
   }
 ]
