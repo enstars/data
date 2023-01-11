@@ -7966,6 +7966,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2570,
+    "title": "Stormy Rock",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Wave-Riding"
+      },
+      "live": {
+        "name": "Rock Course"
+      },
+      "support": {
+        "name": "Caring Juniors"
+      }
+    },
+    "releaseDate": "2023-1-7"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2571,
     "title": "Veteran Rock",
     "name": "Rei Sakuma",
