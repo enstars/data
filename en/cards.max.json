@@ -7966,6 +7966,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2569,
+    "title": "Rock of Wolf",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Roar of the Pioneer"
+      },
+      "live": {
+        "name": "Essence of Rock"
+      },
+      "support": {
+        "name": "Caring the Band"
+      }
+    },
+    "releaseDate": "2023-1-7"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2570,
     "title": "Stormy Rock",
     "name": "Kaoru Hakaze",
