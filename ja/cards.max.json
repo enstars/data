@@ -133550,7 +133550,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "勝負のサンシャイン",
-    "name": "濑名泉",
+    "name": "瀬名泉",
     "releaseDate": {
       "jp": "2022-07-31"
     },
@@ -133608,7 +133608,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "抵抗サンシャイン",
-    "name": "朔间凛月",
+    "name": "朔間凛月",
     "releaseDate": {
       "jp": "2022-07-31"
     },
@@ -133995,7 +133995,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "誘い試す一手",
-    "name": "七种茨",
+    "name": "七種茨",
     "releaseDate": {
       "jp": "2022-08-10"
     },
@@ -134318,7 +134318,7 @@
     "type": 3,
     "substat_type": 0,
     "title": "計画の体育祭",
-    "name": "游木真",
+    "name": "遊木真",
     "releaseDate": {
       "jp": "2022-08-15"
     },
@@ -134779,7 +134779,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "遊びレッドホット",
-    "name": "羽風薰",
+    "name": "羽風薫",
     "releaseDate": {
       "jp": "2022-08-14"
     },
@@ -134885,7 +134885,7 @@
     "type": 1,
     "substat_type": 0,
     "title": "自然と視線クロス",
-    "name": "衣更真绪",
+    "name": "衣更真緒",
     "releaseDate": {
       "jp": "2022-08-25"
     },
@@ -135233,7 +135233,7 @@
     "type": 4,
     "substat_type": 1,
     "title": "楽しげに舞う炎",
-    "name": "三毛缟斑",
+    "name": "三毛縞斑",
     "releaseDate": {
       "jp": "2022-08-30"
     },
@@ -135364,7 +135364,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "誰かの目標点",
-    "name": "姬宫桃李",
+    "name": "姫宮桃李",
     "releaseDate": {
       "jp": "2022-09-10"
     },
@@ -135422,7 +135422,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "美味サイクル",
-    "name": "椎名丹希",
+    "name": "椎名ニキ",
     "releaseDate": {
       "jp": "2022-09-10"
     },
@@ -136238,7 +136238,7 @@
     "type": 4,
     "substat_type": 2,
     "title": "夜空に近い場所",
-    "name": "朔间零",
+    "name": "朔間零",
     "releaseDate": {
       "jp": "2022-09-25"
     },
@@ -136297,7 +136297,7 @@
     "compliant": "TRUE",
     "id": 3249,
     "rarity": 4,
-    "character_id": 38,
+    "character_id": 28,
     "type": 3,
     "substat_type": 0,
     "title": "しんさくのあじ",
@@ -136484,7 +136484,7 @@
     "type": 1,
     "substat_type": 1,
     "title": "大地と太陽",
-    "name": "天满光",
+    "name": "天満光",
     "releaseDate": {
       "jp": "2022-09-30"
     },
@@ -136675,7 +136675,7 @@
     "type": 1,
     "substat_type": 1,
     "title": "過酷な大地",
-    "name": "姬宫桃李",
+    "name": "姫宮桃李",
     "releaseDate": {
       "jp": "2022-09-30"
     },
@@ -137364,7 +137364,7 @@
     "type": 2,
     "substat_type": 0,
     "title": "ゴースティックな体験",
-    "name": "姬宫桃李",
+    "name": "姫宮桃李",
     "releaseDate": {
       "jp": "2022-10-15"
     },
@@ -137529,7 +137529,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "幼いPORTRAIT",
-    "name": "游木真",
+    "name": "遊木真",
     "releaseDate": {
       "jp": "2022-10-14"
     },
@@ -137597,7 +137597,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "潔いPORTRAIT",
-    "name": "濑名泉",
+    "name": "瀬名泉",
     "releaseDate": {
       "jp": "2022-10-14"
     },
@@ -138000,7 +138000,7 @@
     "type": 3,
     "substat_type": 0,
     "title": "おいしゃさん",
-    "name": "深海 奏汰",
+    "name": "深海奏汰",
     "releaseDate": {
       "jp": "2022-10-25"
     },
@@ -139683,7 +139683,7 @@
     "type": 1,
     "substat_type": 0,
     "title": "未体験と新発見",
-    "name": "乱 凪砂",
+    "name": "乱凪砂",
     "releaseDate": {
       "jp": "2022-11-10"
     },
@@ -139803,7 +139803,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "代理お世話係",
-    "name": "守沢 千秋",
+    "name": "守沢千秋",
     "releaseDate": {
       "jp": "2022-11-10"
     },
@@ -139923,7 +139923,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "勉強遊戯",
-    "name": "鬼龍 紅郎",
+    "name": "鬼龍紅郎",
     "releaseDate": {
       "jp": "2022-11-10"
     },
@@ -140033,7 +140033,7 @@
     "type": 1,
     "substat_type": 0,
     "title": "親しみブレンド",
-    "name": "青葉 つむぎ",
+    "name": "青葉つむぎ",
     "releaseDate": {
       "jp": "2022-11-15"
     },
@@ -140151,7 +140151,7 @@
     "type": 4,
     "substat_type": 2,
     "title": "憩いのブレンド",
-    "name": "大神 晃牙",
+    "name": "大神晃牙",
     "releaseDate": {
       "jp": "2022-11-15"
     },
@@ -140269,7 +140269,7 @@
     "type": 3,
     "substat_type": 1,
     "title": "新鮮ブレンド",
-    "name": "朱桜 司",
+    "name": "朱桜司",
     "releaseDate": {
       "jp": "2022-11-15"
     },
@@ -140388,7 +140388,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "こだわりブレンド",
-    "name": "斎宮 宗",
+    "name": "斎宮宗",
     "releaseDate": {
       "jp": "2022-11-14"
     },
@@ -140505,7 +140505,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "気軽なブレンド",
-    "name": "葵 ゆうた",
+    "name": "葵ゆうた",
     "releaseDate": {
       "jp": "2022-11-14"
     },
@@ -140622,7 +140622,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "魅力香る花",
-    "name": "鳴上 嵐",
+    "name": "鳴上嵐",
     "releaseDate": {
       "jp": "2022-11-25"
     },
@@ -140736,7 +140736,7 @@
     "type": 4,
     "substat_type": 2,
     "title": "ゲームフレンド",
-    "name": "仁兎 なずな",
+    "name": "仁兎なずな",
     "releaseDate": {
       "jp": "2022-11-25"
     },
@@ -140832,7 +140832,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "楽器の音色",
-    "name": "衣更 真緒",
+    "name": "衣更真緒",
     "releaseDate": {
       "jp": "2022-11-25"
     },
@@ -140876,7 +140876,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "絆のスタフェス",
-    "name": "仙石 忍",
+    "name": "仙石忍",
     "releaseDate": {
       "jp": "2022-11-25"
     },
@@ -140928,7 +140928,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "共感とスタフェス",
-    "name": "神崎 颯馬",
+    "name": "神崎颯馬",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -140980,7 +140980,7 @@
     "type": 3,
     "substat_type": 0,
     "title": "魔術とスタフェス",
-    "name": "逆先 夏目",
+    "name": "逆先夏目",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -141032,7 +141032,7 @@
     "type": 1,
     "substat_type": 0,
     "title": "対等なスタフェス",
-    "name": "伏見 弓弦",
+    "name": "伏見弓弦",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -141081,7 +141081,7 @@
     "type": 3,
     "substat_type": 1,
     "title": "鼓舞のスタフェス",
-    "name": "南雲 鉄虎",
+    "name": "南雲鉄虎",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -141130,7 +141130,7 @@
     "type": 4,
     "substat_type": 1,
     "title": "華やかスタフェス",
-    "name": "影片 みか",
+    "name": "影片みか",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -141179,7 +141179,7 @@
     "type": 2,
     "substat_type": 2,
     "title": "応援スタフェス",
-    "name": "鳴上 嵐",
+    "name": "鳴上嵐",
     "releaseDate": {
       "jp": "2022-11-30"
     },
@@ -141228,7 +141228,7 @@
     "type": 3,
     "substat_type": 1,
     "title": "欲望の宝石商",
-    "name": "鬼龍 紅郎",
+    "name": "鬼龍紅郎",
     "releaseDate": {
       "jp": "2022-11-29"
     },
@@ -141281,7 +141281,7 @@
     "type": 2,
     "substat_type": 2,
     "title": "誘惑の宝石商",
-    "name": "朔間 凛月",
+    "name": "朔間凛月",
     "releaseDate": {
       "jp": "2022-11-29"
     },
@@ -141333,7 +141333,7 @@
     "type": 1,
     "substat_type": 1,
     "title": "一雫の宝石",
-    "name": "南雲 鉄虎",
+    "name": "南雲鉄虎",
     "releaseDate": {
       "jp": "2022-11-29"
     },
@@ -141377,7 +141377,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "大粒の宝石",
-    "name": "朔間 零",
+    "name": "朔間零",
     "releaseDate": {
       "jp": "2022-11-29"
     },
@@ -141421,7 +141421,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "縛られない存在",
-    "name": "日々樹 渉",
+    "name": "日々樹渉",
     "releaseDate": {
       "jp": "2022-12-10"
     },
@@ -141475,7 +141475,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "深夜の作業",
-    "name": "天祥院 英智",
+    "name": "天祥院英智",
     "releaseDate": {
       "jp": "2022-12-10"
     },
@@ -141528,7 +141528,7 @@
     "type": 3,
     "substat_type": 1,
     "title": "創造する遊び",
-    "name": "春川 宙",
+    "name": "春川宙",
     "releaseDate": {
       "jp": "2022-12-10"
     },
@@ -141572,7 +141572,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "(RE)ALISE",
-    "name": "乱 凪砂",
+    "name": "乱凪砂",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141623,7 +141623,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "(RE)FINE",
-    "name": "巴 日和",
+    "name": "巴日和",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141674,7 +141674,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "(RE)SIST",
-    "name": "七種 茨",
+    "name": "七種茨",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141725,7 +141725,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "(RE)SPECT",
-    "name": "漣 ジュン",
+    "name": "漣ジュン",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141776,7 +141776,7 @@
     "type": 2,
     "substat_type": 0,
     "title": "(RE)ACT",
-    "name": "氷鷹 北斗",
+    "name": "氷鷹北斗",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141827,7 +141827,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "(RE)CREATE",
-    "name": "明星 スバル",
+    "name": "明星スバル",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141878,7 +141878,7 @@
     "type": 4,
     "substat_type": 1,
     "title": "(RE)MIND",
-    "name": "遊木 真",
+    "name": "遊木真",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141929,7 +141929,7 @@
     "type": 3,
     "substat_type": 0,
     "title": "(RE)BOUND",
-    "name": "衣更 真緒",
+    "name": "衣更真緒",
     "releaseDate": {
       "jp": "2022-12-09"
     },
@@ -141980,7 +141980,7 @@
     "type": 4,
     "substat_type": 0,
     "title": "やる気に火を付けて",
-    "name": "天城 燐音",
+    "name": "天城燐音",
     "releaseDate": {
       "jp": "2022-12-15"
     },
@@ -142055,7 +142055,7 @@
     "type": 3,
     "substat_type": 2,
     "title": "感性に付く火",
-    "name": "伏見 弓弦",
+    "name": "伏見弓弦",
     "releaseDate": {
       "jp": "2022-12-15"
     },
@@ -142108,7 +142108,7 @@
     "type": 2,
     "substat_type": 1,
     "title": "高揚に付く火",
-    "name": "明星 スバル",
+    "name": "明星スバル",
     "releaseDate": {
       "jp": "2022-12-15"
     },
@@ -142161,7 +142161,7 @@
     "type": 1,
     "substat_type": 1,
     "title": "情熱に火を付けて",
-    "name": "真白 友也",
+    "name": "真白友也",
     "releaseDate": {
       "jp": "2022-12-14"
     },
@@ -142234,7 +142234,7 @@
     "type": 2,
     "substat_type": 2,
     "title": "気概に付く火",
-    "name": "七種 茨",
+    "name": "七種茨",
     "releaseDate": {
       "jp": "2022-12-14"
     },
