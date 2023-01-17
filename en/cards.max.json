@@ -8115,5 +8115,85 @@
       }
     },
     "releaseDate": "2023-1-6"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2577,
+    "title": "Reflection in Your Eyes",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Ever-Pursuing"
+      },
+      "live": {
+        "name": "Tricks & Lie & Truth"
+      },
+      "support": {
+        "name": "Coping with Close Coverage"
+      }
+    },
+    "quote": {
+      "n": "英智とのツーショットですよ？",
+      "e": "楽しみましょう、ショウタイムを！"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2578,
+    "title": "Nostalgic Club Room",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Vampire in Daytime"
+      },
+      "live": {
+        "name": "Coffin Full of Memories"
+      },
+      "support": {
+        "name": "Foe of Vampire Character"
+      }
+    },
+    "quote": {
+      "n": "こういうのは駄目じゃったな",
+      "e": "好きなだけ撮るとよい♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2579,
+    "title": "Housewarming",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Home with Friends"
+      },
+      "live": {
+        "name": "Training to be Human"
+      },
+      "support": {
+        "name": "Self-Care Products"
+      }
+    },
+    "quote": {
+      "n": "一緒に生活できるんは嬉しいなぁ",
+      "e": "なるちゃんがおって幸せや…♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2580,
+    "title": "Pride in Sweets",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Full-Strength Battle"
+      },
+      "live": {
+        "name": "Eastern vs. Western"
+      },
+      "support": {
+        "name": "The Best Souvenir"
+      }
+    }
   }
 ]
