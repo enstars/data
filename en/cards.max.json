@@ -4184,7 +4184,7 @@
     },
     "quote": {
       "n": "同じ舞台に立てるって信じてるから",
-      "e": "みんなもどんどん飛び込んできて！"
+      "e": "…Even if he is alone, his glamor still stuns."
     },
     "releaseDate": "2022-6-23"
   },
@@ -8193,6 +8193,78 @@
       },
       "support": {
         "name": "The Best Souvenir"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2589,
+    "title": "Survival and Bravery",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Survivor in Century End"
+      },
+      "live": {
+        "name": "War of Frankness"
+      },
+      "support": {
+        "name": "Duty of Club President"
+      }
+    },
+    "quote": {
+      "n": "これからも負けないッス！",
+      "e": "俺の勝ちは譲らないッスよ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2590,
+    "title": "Survival and Combat",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Challenge in Century End"
+      },
+      "live": {
+        "name": "War of Incitement"
+      },
+      "support": {
+        "name": "Trigger for Outburst"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2591,
+    "title": "Survival and Spectating",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Watcher for Century End"
+      },
+      "live": {
+        "name": "War of Feint"
+      },
+      "support": {
+        "name": "Student Council"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2592,
+    "title": "Survival and Cheering",
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Supporter in Century End"
+      },
+      "live": {
+        "name": "War of Innocence"
+      },
+      "support": {
+        "name": "Scandal-Detecting Agent"
       }
     }
   }
