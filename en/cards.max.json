@@ -8198,6 +8198,78 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2585,
+    "title": "Analysis Time",
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Clever Response"
+      },
+      "live": {
+        "name": "The Genius in Team God"
+      },
+      "support": {
+        "name": "Perfect Duo"
+      }
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2586,
+    "title": "Individualistic Time",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Sense for Variety Shows"
+      },
+      "live": {
+        "name": "The Noble in Team Rabbit"
+      },
+      "support": {
+        "name": "Usual Order"
+      }
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2587,
+    "title": "Progressing Time",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Adaptability to Standard Gears"
+      },
+      "live": {
+        "name": "The Talent in Team Hyena"
+      },
+      "support": {
+        "name": "Role as Mediator"
+      }
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2588,
+    "title": "Fated Time",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Compromise and Tolerance"
+      },
+      "live": {
+        "name": "The Civilian in Team Rabbit"
+      },
+      "support": {
+        "name": "Incompatible Duo"
+      }
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2589,
     "title": "Survival and Bravery",
     "name": "Tetora Nagumo",
