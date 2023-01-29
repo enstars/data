@@ -8198,6 +8198,90 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2581,
+    "title": "Extra Undurable Time",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Unexpected Progress"
+      },
+      "live": {
+        "name": "The Stiff in Team Snake"
+      },
+      "support": {
+        "name": "Ibanyan's Rule"
+      }
+    },
+    "quote": {
+      "e": "…What a disaster."
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2582,
+    "title": "Clumsy Struggling Time",
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Efforts of the Slow"
+      },
+      "live": {
+        "name": "The Slow in Team Snake"
+      },
+      "support": {
+        "name": "Jimenyan's Mode"
+      }
+    },
+    "quote": {
+      "e": "Haha. Here are my special toast crusts ♪"
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2583,
+    "title": "Tough Quiz Time",
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Timing for Relaxation"
+      },
+      "live": {
+        "name": "The Muscle in Team Hyena"
+      },
+      "support": {
+        "name": "Collaboration of Mary"
+      }
+    },
+    "quote": {
+      "e": "All right~ There, there. I love you, so rest assured —Mary ♪"
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2584,
+    "title": "My-Style Happy Time",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Walk in My Pace"
+      },
+      "live": {
+        "name": "Free-Spirit in Team God"
+      },
+      "support": {
+        "name": "Drawing World Map"
+      }
+    },
+    "quote": {
+      "e": "Ni~chan! Over here!"
+    },
+    "releaseDate": "2023-1-21"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2585,
     "title": "Analysis Time",
     "name": "Nagisa Ran",
@@ -8319,7 +8403,7 @@
         "name": "War of Feint"
       },
       "support": {
-        "name": "Student Council"
+        "name": "Student Council Campaign"
       }
     }
   },
