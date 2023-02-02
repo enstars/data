@@ -8423,5 +8423,89 @@
         "name": "Scandal-Detecting Agent"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2593,
+    "title": "Unyielding Perfection",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Work of the Artist "
+      },
+      "live": {
+        "name": "Return in Advance"
+      },
+      "support": {
+        "name": "Remote Instructions"
+      }
+    },
+    "quote": {
+      "n": "袖に柄はないのかね",
+      "e": "心に残る姿を見せよう"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2594,
+    "title": "The Dreamy Diorama",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Paradise of Dream"
+      },
+      "live": {
+        "name": "Assignment from"
+      },
+      "support": {
+        "name": "Working Overnight"
+      }
+    },
+    "quote": {
+      "n": "すみません、これには事情が…",
+      "e": "撮る側のほうが気楽ですけど…"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2595,
+    "title": "Duty of the Student",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Academic Record"
+      },
+      "live": {
+        "name": "Portrait of Daikichi"
+      },
+      "support": {
+        "name": "Coin got Courtesy"
+      }
+    },
+    "quote": {
+      "n": "じっとしてられんのか…",
+      "e": "上手く描けた気がするな"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2596,
+    "title": "Self-Improvement",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Motivated by Praises"
+      },
+      "live": {
+        "name": "Efforts in Beauty"
+      },
+      "support": {
+        "name": "Cosmetics Introduction"
+      }
+    },
+    "quote": {
+      "n": "元がいいって羨ましいわァ",
+      "e": "お手入れすれば綺麗になるわよ♪"
+    }
   }
 ]

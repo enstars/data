@@ -143,5 +143,14 @@
     "song_name": "Nightless World",
     "story_name": "Nightless City Live",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 216,
+    "name": "Variety Show & Tags / BOGIE TIME!",
+    "event_gacha": "War at the End of Century",
+    "intro_lines": "Nagisa decides on his own to let Eden appear on a variety show that has been avoided since their debut. His arbitrary decision totally disrupts Ibara's original plan. Meanwhile, Hiyori and Nagisa secretly change the script of the variety show, making all Eden members and their co-stars, Ra*bits, form one-to-one duos…",
+    "story_name": "BOGIE TIME",
+    "story_author": "Akira"
   }
 ]
