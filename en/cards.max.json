@@ -8507,5 +8507,102 @@
       "n": "元がいいって羨ましいわァ",
       "e": "お手入れすれば綺麗になるわよ♪"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2597,
+    "title": "Matin at Six O'clock",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Confident Senior"
+      },
+      "live": {
+        "name": "Butler Assistant"
+      },
+      "support": {
+        "name": "Unyiellding Insistence"
+      }
+    },
+    "quote": {
+      "n": "…逃げましょう、私と",
+      "e": "すべては大事なお嬢さまのために"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2598,
+    "title": "Midi at Three O'clock",
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Freedom and Seduction"
+      },
+      "live": {
+        "name": "Subordinate of Matin"
+      },
+      "support": {
+        "name": "Experience in Performance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2599,
+    "title": "Horloge",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Butler Leader"
+      },
+      "live": {
+        "name": "Head Butler"
+      },
+      "support": {
+        "name": "Leading a Toast"
+      }
+    },
+    "quote": {
+      "n": "それじゃあ乾杯！",
+      "e": "みんなで守り抜くんだ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2600,
+    "title": "Nuit at Midnight",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Diligent Junior"
+      },
+      "live": {
+        "name": "Operation Commander"
+      },
+      "support": {
+        "name": "The Paranormal in"
+      }
+    },
+    "quote": {
+      "n": "ひぃいっ、幽霊…!?",
+      "e": "大事な言葉は伝えますよ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2601,
+    "title": "Soiree at Nine O'clock",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Calm Supporter"
+      },
+      "live": {
+        "name": "Subordinate of Nuit"
+      },
+      "support": {
+        "name": "Pronunciation of Practice"
+      }
+    }
   }
 ]
