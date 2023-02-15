@@ -8447,27 +8447,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": 2594,
-    "title": "The Dreamy Diorama",
-    "name": "Mayoi Ayase",
-    "skills": {
-      "center": {
-        "name": "Paradise of Dream"
-      },
-      "live": {
-        "name": "Assignment from"
-      },
-      "support": {
-        "name": "Working Overnight"
-      }
-    },
-    "quote": {
-      "n": "すみません、これには事情が…",
-      "e": "撮る側のほうが気楽ですけど…"
-    }
-  },
-  {
-    "compliant": "TRUE",
     "id": 2595,
     "title": "Duty of the Student",
     "name": "Hokuto Hidaka",
@@ -8569,27 +8548,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": 2600,
-    "title": "Nuit at Midnight",
-    "name": "Makoto Yuuki",
-    "skills": {
-      "center": {
-        "name": "Diligent Junior"
-      },
-      "live": {
-        "name": "Operation Commander"
-      },
-      "support": {
-        "name": "The Paranormal in"
-      }
-    },
-    "quote": {
-      "n": "ひぃいっ、幽霊…!?",
-      "e": "大事な言葉は伝えますよ"
-    }
-  },
-  {
-    "compliant": "TRUE",
     "id": 2601,
     "title": "Soiree at Nine O'clock",
     "name": "Souma Kanzaki",
@@ -8602,6 +8560,57 @@
       },
       "support": {
         "name": "Pronunciation of Practice"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2602,
+    "title": "The Value of Outsiders",
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Battle with the World"
+      },
+      "live": {
+        "name": "Lucky Doll Machine"
+      },
+      "support": {
+        "name": "Hanging Out with Friends"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2603,
+    "title": "The gentleness of Strength",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Sincere Etiquette"
+      },
+      "live": {
+        "name": "Never Cut Corners"
+      },
+      "support": {
+        "name": "Arm Wrestling Contest"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2605,
+    "title": "A Later Follow-Up",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Visiting the Aquarium"
+      },
+      "live": {
+        "name": "Rely and Being Relied on"
+      },
+      "support": {
+        "name": "Fee for Rascal Ticket"
       }
     }
   }
