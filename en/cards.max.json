@@ -8599,6 +8599,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2604,
+    "title": "An Ordinary Day",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Absurd Request"
+      },
+      "live": {
+        "name": "Prepared for Involvement"
+      },
+      "support": {
+        "name": "Late Waking"
+      }
+    },
+    "quote": {
+      "n": "何となくTVはつけちゃうよな",
+      "e": "やるしかないだろ白鳥…"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2605,
     "title": "A Later Follow-Up",
     "name": "Madara Mikejima",
