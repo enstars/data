@@ -4243,10 +4243,10 @@
     "compliant": "TRUE",
     "gacha_id": 438,
     "name": "スカウト！強運SCRAMBLE",
-    "start_date": "2024-01-03T17:00:00Z",
+    "start_date": "2025-01-03T17:00:00Z",
     "end_date": "2025-01-17T16:59:59Z",
     "start": {
-      "en": "2024-01-03T17:00:00Z",
+      "en": "2025-01-03T17:00:00Z",
       "jp": "2022-12-30T06:00:00Z"
     },
     "end": {
@@ -4264,6 +4264,163 @@
       3337,
       3338,
       3339
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 439,
+    "name": "フィーチャースカウト　敬人編2",
+    "start_date": "2025-01-13T17:00:00Z",
+    "end_date": "2025-01-27T16:59:59Z",
+    "start": {
+      "en": "2025-01-13T17:00:00Z",
+      "jp": "2023-01-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-01-27T16:59:59Z",
+      "jp": "2023-01-25T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "シャッターチャンス",
+    "story_author": "ゆーます",
+    "story_season": "冬",
+    "banner_id": 3340,
+    "cards": [
+      3340,
+      3341,
+      3342
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 440,
+    "name": "スカウト！乱雲FUMBLE",
+    "start_date": "2025-01-17T17:00:00Z",
+    "end_date": "2025-01-31T16:59:59Z",
+    "start": {
+      "en": "2025-01-17T17:00:00Z",
+      "jp": "2023-01-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-01-31T16:59:59Z",
+      "jp": "2023-01-30T06:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "乱雲FUMBLE",
+    "story_author": "西岡麻衣子",
+    "story_season": "冬",
+    "event_id": 268,
+    "banner_id": 3347,
+    "cards": [
+      3347,
+      3348,
+      3349,
+      3350
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 441,
+    "name": "フィーチャースカウト 日和2",
+    "start_date": "2025-01-27T17:00:00Z",
+    "end_date": "2025-02-10T16:59:59Z",
+    "start": {
+      "en": "2025-01-27T17:00:00Z",
+      "jp": "2023-01-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-10T16:59:59Z",
+      "jp": "2023-02-10T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "愛のギフト",
+    "story_author": "梅田千歳",
+    "story_season": "冬",
+    "banner_id": 3351,
+    "cards": [
+      3351,
+      3352,
+      3353
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 442,
+    "name": "スカウト！フェアなワルツ",
+    "start_date": "2025-01-31T17:00:00Z",
+    "end_date": "2025-02-14T16:59:59Z",
+    "start": {
+      "en": "2025-01-31T17:00:00Z",
+      "jp": "2023-01-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-14T16:59:59Z",
+      "jp": "2023-02-14T06:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "フェアなワルツ",
+    "story_author": "ゆーます",
+    "story_season": "秋",
+    "event_id": 269,
+    "banner_id": 3368,
+    "cards": [
+      3368,
+      3369,
+      3370,
+      3371
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 443,
+    "name": "フィーチャースカウト　巽編2",
+    "start_date": "2025-02-10T17:00:00Z",
+    "end_date": "2025-02-24T16:59:59Z",
+    "start": {
+      "en": "2025-02-10T17:00:00Z",
+      "jp": "2023-02-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-24T16:59:59Z",
+      "jp": "2023-02-25T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "Godspeed",
+    "story_author": "ゆーます",
+    "story_season": "冬",
+    "banner_id": 3372,
+    "cards": [
+      3372,
+      3373,
+      3374
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 444,
+    "name": "スカウト！クラフトモンスター",
+    "start_date": "2025-02-14T17:00:00Z",
+    "end_date": "2025-02-28T16:59:59Z",
+    "start": {
+      "en": "2025-02-14T17:00:00Z",
+      "jp": "2023-02-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-28T16:59:59Z",
+      "jp": "2023-02-27T06:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "クラフトモンスター",
+    "story_author": "西岡麻衣子",
+    "story_season": "冬",
+    "event_id": 270,
+    "banner_id": 3379,
+    "cards": [
+      3379,
+      3380,
+      3381,
+      3382,
+      3383
     ]
   }
 ]

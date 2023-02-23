@@ -3179,5 +3179,105 @@
       3334,
       3335
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 268,
+    "start_date": "2025-01-17T17:00:00Z",
+    "end_date": "2025-01-27T03:00:00Z",
+    "start": {
+      "en": "2025-01-17T17:00:00Z",
+      "jp": "2023-01-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-01-27T03:00:00Z",
+      "jp": "2023-01-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "社会人☆門出を出発新GO！",
+    "event_gacha": "スカウト！乱雲FUMBLE",
+    "gacha_id": 440,
+    "intro_lines": "『社会人体験』の番組企画に参加する『Ra*bits』。不慣れな仕事に四苦八苦するなか、創は勤め先の新人の様子が気になるようで……",
+    "song_name": "ハレノヒSugar Wave",
+    "story_name": "出発新GO！",
+    "story_author": "木野誠太郎",
+    "story_season": "冬",
+    "banner_id": 3343,
+    "unit_id": [
+      6
+    ],
+    "cards": [
+      3343,
+      3344,
+      3345,
+      3346
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 269,
+    "start_date": "2025-02-01T17:00:00Z",
+    "end_date": "2025-02-10T03:00:00Z",
+    "start": {
+      "en": "2025-02-01T17:00:00Z",
+      "jp": "2023-01-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-10T03:00:00Z",
+      "jp": "2023-02-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "彩星！全てを包むthe Universe",
+    "event_gacha": "スカウト！フェアなワルツ",
+    "gacha_id": 442,
+    "intro_lines": "稽古中のアクシデントで亀裂が生じてしまった『流星隊』 。それから半年、鉄虎が脱退し新しい団体のリーダーになるニュースが流れて…!?",
+    "song_name": "Colors Arise",
+    "story_name": "スーパーヴィラン",
+    "story_author": "日日日",
+    "story_season": "夏、冬",
+    "banner_id": 3363,
+    "unit_id": [
+      5
+    ],
+    "cards": [
+      3363,
+      3364,
+      3365,
+      3366,
+      3367
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 270,
+    "start_date": "2025-02-15T17:00:00Z",
+    "end_date": "2025-02-24T03:00:00Z",
+    "start": {
+      "en": "2025-02-15T17:00:00Z",
+      "jp": "2023-02-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-02-24T03:00:00Z",
+      "jp": "2023-02-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ショコラ◆格別な一粒Rouge&Ruby",
+    "event_gacha": "スカウト！クラフトモンスター",
+    "gacha_id": 444,
+    "intro_lines": "今年からＥＳでも開催されることになった【ショコラフェス】。茨は『Adam』・『Eve』としてのステージも披露することを発表する。",
+    "song_name": "Melting Rouge Soul, Ruby Love",
+    "story_name": "Rouge&Ruby",
+    "story_author": "梅田千歳",
+    "story_season": "冬",
+    "banner_id": 3375,
+    "unit_id": [
+      14
+    ],
+    "cards": [
+      3375,
+      3376,
+      3377,
+      3378
+    ]
   }
 ]
