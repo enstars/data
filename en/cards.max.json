@@ -8634,5 +8634,64 @@
         "name": "Fee for Rascal Ticket"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2607,
+    "title": "Sky-Color Cystal",
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Dream of White Snow"
+      },
+      "live": {
+        "name": "Encouraging Words"
+      },
+      "support": {
+        "name": "Magic Tea"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2608,
+    "title": "Azure Crystal",
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Love from White Snow"
+      },
+      "live": {
+        "name": "Bond with White Snow"
+      },
+      "support": {
+        "name": "Expected Excitement"
+      }
+    },
+    "quote": {
+      "n": "白雪たちの絆",
+      "e": "憧れの興奮"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2609,
+    "title": "Violet Crystal",
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Promise with White Snow"
+      },
+      "live": {
+        "name": "Hope of White Snow"
+      },
+      "support": {
+        "name": "Summarize Opinions"
+      }
+    },
+    "quote": {
+      "n": "えぇっ?全部って…..?",
+      "e": "もっと好きになれますよね"
+    }
   }
 ]

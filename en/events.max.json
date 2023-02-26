@@ -162,5 +162,15 @@
     "song_name": "Midnight Butlers",
     "story_name": "Butlers",
     "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 218,
+    "name": "SHUFFLE×Snow Fairies' MerryXmas",
+    "event_gacha": "Branco",
+    "intro_lines": "Tori and his fellows gather together for the Shuffle Unit project. However, the original producer in charge discarded this project and left. Thus, Tori and others have to devise a plan for this project all by themselves. During work, some trifles make Tori start to worry about Aira...",
+    "song_name": "Sweet Sweet White Song",
+    "story_name": "MerryXmas",
+    "story_author": "Nishioka Maiko"
   }
 ]
