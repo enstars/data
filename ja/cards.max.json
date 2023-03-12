@@ -139682,7 +139682,7 @@
     "compliant": "TRUE",
     "id": 3290,
     "rarity": 5,
-    "character_id": 5,
+    "character_id": 50,
     "type": 1,
     "substat_type": 0,
     "title": "未体験と新発見",
@@ -142281,5 +142281,974 @@
       }
     },
     "associated_story": "ナイトヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3329,
+    "rarity": 5,
+    "character_id": 34,
+    "type": 1,
+    "substat_type": 2,
+    "title": "縫い留めた心",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2022-12-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 25845,
+        "vo": 25032,
+        "pf": 43881
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "期待へのお返し",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "ステージのミニキャスト",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "周りからの応援",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "礼賛歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "シャルム/シャルム (SCR)",
+        "3d": "シャルム/シャルム (SCR)"
+      },
+      "backgrounds": "大道具部屋（ランプ有）"
+    },
+    "associated_story": "おれだけの物語"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3330,
+    "rarity": 4,
+    "character_id": 33,
+    "type": 4,
+    "substat_type": 1,
+    "title": "偽りのない歌",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2022-12-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 11920,
+        "vo": 30571,
+        "pf": 14401
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "湧き上がる歌声",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "作曲者のアドバイス",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "聞こえてくる歌",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Little Romance"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "月永流音楽指導☆"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3331,
+    "rarity": 3,
+    "character_id": 70,
+    "type": 2,
+    "substat_type": 0,
+    "title": "登校の朝",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2022-12-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 21886,
+        "vo": 10141,
+        "pf": 9561
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "新しい登校ルート",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "慣らしの学校生活",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "久しぶりの制服",
+        "type_id": 1
+      }
+    },
+    "associated_story": "送り、送られる朝に"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3332,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 3,
+    "substat_type": 2,
+    "title": "新しい色の景色",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2022-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "min": {
+        "da": 5460,
+        "vo": 5900,
+        "pf": 11630
+      },
+      "ir": {
+        "da": 23496,
+        "vo": 22682,
+        "pf": 46382
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ママ流教育方針",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "怪獣組担当",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "トラップ回避",
+        "type_id": 16
+      }
+    },
+    "spp": {
+      "name": "HELLO, NEW YEAR!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、保育士エプロン）/NEW COLOR衣装/NEW COLOR衣装 (SCR)",
+        "3d": "NEW COLOR衣装/NEW COLOR衣装 (SCR)"
+      }
+    },
+    "associated_story": "ポルターガイスト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3333,
+    "rarity": 4,
+    "character_id": 20,
+    "type": 4,
+    "substat_type": 0,
+    "title": "思い出彩る景色",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2022-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "嵐流おとぎ話",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "ラフレシア組担当",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "アレンジ読み聞かせ",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "HELLO, NEW YEAR!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、保育士エプロン）/NEW COLOR衣装",
+        "3d": "NEW COLOR衣装"
+      }
+    },
+    "associated_story": "ポルターガイスト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3334,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 1,
+    "substat_type": 2,
+    "title": "魔法かかる景色",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2022-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "仕事の方針計画",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "うさぎ組担当",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "占いサポート",
+        "type_id": 13
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、保育士エプロン）/NEW COLOR衣装",
+        "3d": "NEW COLOR衣装"
+      }
+    },
+    "associated_story": "ポルターガイスト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3335,
+    "rarity": 3,
+    "character_id": 39,
+    "type": 2,
+    "substat_type": 1,
+    "title": "奇跡起こす景色",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2022-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "経験者の見解",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "ライオン組担当",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "危険度判断",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、保育士エプロン）/NEW COLOR衣装",
+        "3d": "NEW COLOR衣装"
+      }
+    },
+    "associated_story": "ポルターガイスト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3336,
+    "rarity": 5,
+    "character_id": 72,
+    "type": 1,
+    "substat_type": 0,
+    "title": "ラッキーバニー",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2022-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スクランブル・デイズ",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "飛躍の幸運",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "疑いの運命",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Helter-Spider"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "強運SCRAMBLE衣装/強運SCRAMBLE衣装 (SCR)",
+        "3d": "強運SCRAMBLE衣装/強運SCRAMBLE衣装 (SCR)"
+      },
+      "backgrounds": "セゾンアヴェニュー（コンビニ前_冬）"
+    },
+    "associated_story": "強運SCRAMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3337,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 2,
+    "substat_type": 1,
+    "title": "問いかけバニー",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2022-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "占いショウTV",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "幸運と好奇心",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "運命の追跡",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "Sustain Memories"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "強運SCRAMBLE衣装"
+      },
+      "backgrounds": "占い番組セット"
+    },
+    "associated_story": "強運SCRAMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3338,
+    "rarity": 3,
+    "character_id": 74,
+    "type": 4,
+    "substat_type": 0,
+    "title": "付き添いバニー",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2022-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "食の巡り会い",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "あやかり食事",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "運命の希望",
+        "type_id": 1
+      }
+    },
+    "associated_story": "強運SCRAMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3339,
+    "rarity": 3,
+    "character_id": 23,
+    "type": 3,
+    "substat_type": 2,
+    "title": "お零れバニー",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2022-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "居合わせたツキ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "幸運の分け前",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "運命と期待",
+        "type_id": 13
+      }
+    },
+    "associated_story": "強運SCRAMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3340,
+    "rarity": 5,
+    "character_id": 21,
+    "type": 2,
+    "substat_type": 2,
+    "title": "生真面目な優しさ",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2022-01-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "リクエストサービス",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "喜ばすための一枚",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "自然体のショット",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "剣戟の舞"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "デリジェント・グレイ/デリジェント・グレイ (SCR)",
+        "3d": "デリジェント・グレイ/デリジェント・グレイ (SCR)"
+      }
+    },
+    "associated_story": "シャッターチャンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3341,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 3,
+    "substat_type": 0,
+    "title": "移ろう店の姿",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2022-01-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "お仕事目線チェック",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "再視察の訪問",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "年賀状で届く声",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "Knockin' Fantasy"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      },
+      "backgrounds": "ニューディ事務所（談話スペース）（冬_枯れ木）"
+    },
+    "associated_story": "想いやりと年賀状"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3342,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 1,
+    "substat_type": 1,
+    "title": "伝わる料理",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2022-01-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "手料理の上達",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "囲んで餅つき",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "それぞれの味",
+        "type_id": 4
+      }
+    },
+    "associated_story": "思い出の味は"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3343,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 1,
+    "substat_type": 2,
+    "title": "未来の自分へ出発！",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2022-01-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "あの日の自分と今",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "ハレの日を共に",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "お茶出しエキスパート",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "ハレノヒSugar Wave"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "出発新GO衣装/リクルートスーツ/Ra*bits衣装（過去）/出発新GO衣装 (SCR)",
+        "3d": "出発新GO衣装/出発新GO衣装 (SCR)"
+      }
+    },
+    "associated_story": "出発新GO！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3344,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 4,
+    "substat_type": 1,
+    "title": "可能性探しに出発",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2022-01-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "いろんなひとの絆",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "ハレて一人前",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "社会人のランチ",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "ハレノヒSugar Wave"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "出発新GO衣装/リクルートスーツ",
+        "3d": "出発新GO衣装"
+      }
+    },
+    "associated_story": "出発新GO！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3345,
+    "rarity": 3,
+    "character_id": 3,
+    "type": 3,
+    "substat_type": 2,
+    "title": "社会へ出発",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2022-01-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "続けることの意味",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "ハレやかな気分",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "名刺交換練習",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "出発新GO衣装/リクルートスーツ",
+        "3d": "出発新GO衣装"
+      }
+    },
+    "associated_story": "出発新GO！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3346,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 2,
+    "substat_type": 0,
+    "title": "職場へ出発",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2022-01-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "待ってるひとに向けて",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "ハレ舞台！",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "社員の証し",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "出発新GO衣装/リクルートスーツ",
+        "3d": "出発新GO衣装"
+      }
+    },
+    "associated_story": "出発新GO！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3347,
+    "rarity": 5,
+    "character_id": 68,
+    "type": 4,
+    "substat_type": 2,
+    "title": "アンラッキーバニー",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2022-01-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "兎ダンスチャレンジ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "眠気の不運",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "お薦めの感動",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "VERMILION"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、兎の仮装）/乱雲FUMBLE衣装/乱雲FUMBLE衣装 (SCR)",
+        "3d": "乱雲FUMBLE衣装/乱雲FUMBLE衣装 (SCR)"
+      },
+      "backgrounds": "ES外観（冬_枯れ木）"
+    },
+    "associated_story": "乱雲FUMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3348,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 1,
+    "substat_type": 0,
+    "title": "暇つぶしバニー",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2022-01-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "流行る動画の理由",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "有識者に聞き込み",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "話題づくりの提案",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "羽ばたきのフォルティシモ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、兎の仮装）/乱雲FUMBLE衣装"
+      },
+      "backgrounds": "スタプロ事務所（談話スペース）（冬_枯れ木）"
+    },
+    "associated_story": "乱雲FUMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3349,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 4,
+    "substat_type": 2,
+    "title": "前向きバニー",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2022-01-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "SNSバトン",
+        "effect_value": "['35\"]",
+        "type_id": 16
+      },
+      "live": {
+        "name": "後輩のメンション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "お手本依頼",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、兎の仮装）"
+      }
+    },
+    "associated_story": "乱雲FUMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3350,
+    "rarity": 3,
+    "character_id": 74,
+    "type": 2,
+    "substat_type": 1,
+    "title": "巻き込まれバニー",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2022-01-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "羞恥心との葛藤",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "代償ダンス",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "不慮の撮影",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、兎の仮装）"
+      }
+    },
+    "associated_story": "乱雲FUMBLE"
   }
 ]
