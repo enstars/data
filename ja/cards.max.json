@@ -143250,5 +143250,1394 @@
       }
     },
     "associated_story": "乱雲FUMBLE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3351,
+    "rarity": 5,
+    "character_id": 41,
+    "type": 2,
+    "substat_type": 2,
+    "title": "陽だまりの眼差し",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2022-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "アフタヌーンの相談",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "大切にしている時間",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "お気に入りの香り",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Trap For You"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Blessed Rose/Blessed Rose (SCR)",
+        "3d": "Blessed Rose/Blessed Rose (SCR)"
+      }
+    },
+    "associated_story": "愛のギフト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3352,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 4,
+    "substat_type": 1,
+    "title": "意気投合の熱",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2022-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "ライブハウスの体感",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "バンドのパッション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "生演奏の興奮",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Trap For You"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "彼等のシンパシー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3353,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 1,
+    "substat_type": 0,
+    "title": "旅の思い出話",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2022-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "落ち着く一杯",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "新店情報",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "帰国の後日談",
+        "type_id": 4
+      }
+    },
+    "associated_story": "距離感の味わい"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3354,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 2,
+    "substat_type": 1,
+    "title": "天使のパレード",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "眠れない夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "理想の世界",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "星空を見上げて",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3355,
+    "rarity": 3,
+    "character_id": 27,
+    "type": 1,
+    "substat_type": 2,
+    "title": "愉快なパレード",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "連れて行く夜",
+        "effect_value": "['35\"]",
+        "type_id": 4
+      },
+      "live": {
+        "name": "歓声の世界",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "星空と旅して",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3356,
+    "rarity": 3,
+    "character_id": 6,
+    "type": 4,
+    "substat_type": 2,
+    "title": "希望のパレード",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "星に願う夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "夢見る世界",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "星空に憧れて",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3357,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 0,
+    "title": "誘いのパレード",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "聖なる夜",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "誰かの世界",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "星空を背にして",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3358,
+    "rarity": 3,
+    "character_id": 10,
+    "type": 3,
+    "substat_type": 2,
+    "title": "騎士のパレード",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "星が降る夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "夢描く世界",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "夜空を掴もうとして",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3359,
+    "rarity": 3,
+    "character_id": 33,
+    "type": 4,
+    "substat_type": 1,
+    "title": "奏でるパレード",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "レクイエムの夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "音楽の世界",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "夜空に描いて",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3360,
+    "rarity": 3,
+    "character_id": 24,
+    "type": 4,
+    "substat_type": 2,
+    "title": "魅せるパレード",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "探しに行く夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "名声の世界",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "夜空と勝負して",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3361,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 0,
+    "title": "夜空のパレード",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "太陽が沈んだ夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "眠りの世界",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "夜空を仰ぎ見て",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3362,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 1,
+    "substat_type": 0,
+    "title": "優美なパレード",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2022-01-24"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "skills": {
+      "center": {
+        "name": "時間が止まる夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "美貌と世界",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "夜空と話して",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "スターライトパレード"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スターライトパレード衣装",
+        "3d": "スターライトパレード衣装"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3363,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 4,
+    "substat_type": 2,
+    "title": "闘争アンリミテッド",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "未来の掴み方",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "正義と悪の宇宙",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "自身で出す答え",
+        "type_id": 16
+      }
+    },
+    "spp": {
+      "name": "Colors Arise"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "私服（秋〜冬、ピアス）/流星隊練習着（ピアス）/スーパーヴィランズ衣装/スーパーヴィランズ衣装 (SCR)",
+        "3d": "スーパーヴィランズ衣装/スーパーヴィランズ衣装 (SCR)"
+      }
+    },
+    "associated_story": "スーパーヴィラン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3364,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 3,
+    "substat_type": 0,
+    "title": "奔走アンリミテッド",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2023-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "危機の乗り切り方",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "純真と信頼の宇宙",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "調査先の罠",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Colors Arise"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スーパーヴィランズ衣装",
+        "3d": "スーパーヴィランズ衣装"
+      }
+    },
+    "associated_story": "スーパーヴィラン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3365,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 2,
+    "substat_type": 1,
+    "title": "共闘アンリミテッド",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "夢見た在り方",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "理想と現実の宇宙",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "迫真のやり取り",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Colors Arise"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スーパーヴィランズ衣装",
+        "3d": "スーパーヴィランズ衣装"
+      }
+    },
+    "associated_story": "スーパーヴィラン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3366,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 1,
+    "substat_type": 1,
+    "title": "翻弄アンリミテッド",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実の生き方",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "逃避、向き合う宇宙",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "厄介な展開",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スーパーヴィランズ衣装",
+        "3d": "スーパーヴィランズ衣装"
+      }
+    },
+    "associated_story": "スーパーヴィラン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3367,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 4,
+    "substat_type": 0,
+    "title": "かいそうあんりみてっど",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "りかいのしかた",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "かこといまのうちゅう",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "さくせんこうどう",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スーパーヴィランズ衣装",
+        "3d": "スーパーヴィランズ衣装"
+      }
+    },
+    "associated_story": "スーパーヴィラン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3368,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 1,
+    "substat_type": 0,
+    "title": "ワルツの思惑",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "吸収する目と身体",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "フェアな取り引き",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "キャスト審査",
+        "type_id": 8
+      }
+    },
+    "spp": {
+      "name": "Crossing×Heart"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "フェアなワルツ衣装/フェアなワルツ衣装 (SCR)",
+        "3d": "フェアなワルツ衣装/フェアなワルツ衣装 (SCR)"
+      }
+    },
+    "associated_story": "フェアなワルツ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3369,
+    "rarity": 4,
+    "character_id": 67,
+    "type": 4,
+    "substat_type": 2,
+    "title": "ワルツの依頼",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2023-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "飲み込みの早さと感覚",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "フェアな仕事",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "マナー講習会",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "Believe 4 leaves"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "フェアなワルツ衣装"
+      }
+    },
+    "associated_story": "フェアなワルツ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3370,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ワルツの補助",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "オーディションと段取り",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "フェアな目線",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "審査の進行",
+        "type_id": 9
+      }
+    },
+    "associated_story": "フェアなワルツ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3371,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ワルツの参加",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2023-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "テーブルマナーの心得",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "フェアな指南",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "反復の作法",
+        "type_id": 5
+      }
+    },
+    "associated_story": "フェアなワルツ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3372,
+    "rarity": 5,
+    "character_id": 70,
+    "type": 2,
+    "substat_type": 1,
+    "title": "爽やかな風の温もり",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2023-02-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "目的地へのルート",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "海沿いドライブ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "野菜のおもてなし",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Hysteric Humanoid"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "Chaleur:T/Chaleur:T (SCR)",
+        "3d": "Chaleur:T/Chaleur:T (SCR)"
+      }
+    },
+    "associated_story": "Godspeed"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3373,
+    "rarity": 4,
+    "character_id": 38,
+    "type": 3,
+    "substat_type": 2,
+    "title": "妥協も友情",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2023-02-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "似てる似てない基準",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "フレンドゲスト",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "偶然の助っ人",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Galaxy Destiny"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "水と油も"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3374,
+    "rarity": 3,
+    "character_id": 33,
+    "type": 1,
+    "substat_type": 0,
+    "title": "どこでも演奏会",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2023-02-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "音で楽しむ挨拶",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "街角ピアノ演奏",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "パリの町観光",
+        "type_id": 1
+      }
+    },
+    "associated_story": "リズム・ツーリズム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3375,
+    "rarity": 5,
+    "character_id": 51,
+    "type": 1,
+    "substat_type": 1,
+    "title": "狙い定めた一粒",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "愛を利用して",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "頂目指す計画",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "独り言の夜",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Melting Rouge Soul"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "制服（冬）/ショコラフェス衣装/ショコラフェス衣装 (SCR)",
+        "3d": "ショコラフェス衣装/ショコラフェス衣装 (SCR)"
+      }
+    },
+    "associated_story": "Rouge&Ruby"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3376,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 2,
+    "substat_type": 2,
+    "title": "伝え合う一粒",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2023-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "愛に悩んで",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "情熱的な台詞",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "甘酸っぱい漫画",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Ruby Love"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ショコラフェス衣装",
+        "3d": "ショコラフェス衣装"
+      }
+    },
+    "associated_story": "Rouge&Ruby"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3377,
+    "rarity": 3,
+    "character_id": 50,
+    "type": 3,
+    "substat_type": 1,
+    "title": "望み秘めた一粒",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "愛のイベント",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "チョコに込めた思い",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "サンプル気分転換",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ショコラフェス衣装",
+        "3d": "ショコラフェス衣装"
+      }
+    },
+    "associated_story": "Rouge&Ruby"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3378,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 4,
+    "substat_type": 0,
+    "title": "愛を抱く一粒",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2023-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "愛の語らい",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "バレンタインの記憶",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "電話の個人依頼",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ショコラフェス衣装",
+        "3d": "ショコラフェス衣装"
+      }
+    },
+    "associated_story": "Rouge&Ruby"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3379,
+    "rarity": 5,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 0,
+    "title": "巧妙なモンスター",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "意外なデザインセンス",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "創作的クラフター",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "ニーズと交渉",
+        "type_id": 8
+      }
+    },
+    "spp": {
+      "name": "Fight for Judge"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "クラフトモンスター衣装/クラフトモンスター衣装 (SCR)",
+        "3d": "クラフトモンスター衣装/クラフトモンスター衣装 (SCR)"
+      },
+      "backgrounds": "星奏館外観（冬_枯れ木）"
+    },
+    "associated_story": "クラフトモンスター"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3380,
+    "rarity": 4,
+    "character_id": 12,
+    "type": 1,
+    "substat_type": 0,
+    "title": "自信家モンスター",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "普遍的スタンス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "真面目クラフター",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "売り込み訪問",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "CHERRY HAPPY STREAM (ALBUM Mix)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "クラフトモンスター衣装"
+      }
+    },
+    "associated_story": "クラフトモンスター"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3381,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 2,
+    "substat_type": 2,
+    "title": "繊細モンスター",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "予算のバランス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "機能的クラフター",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "サークル報告",
+        "type_id": 13
+      }
+    },
+    "associated_story": "クラフトモンスター"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3382,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 4,
+    "substat_type": 1,
+    "title": "芸術的モンスター",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "手間暇プロセス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "美的クラフター",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "創作スペース",
+        "type_id": 1
+      }
+    },
+    "associated_story": "クラフトモンスター"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3383,
+    "rarity": 3,
+    "character_id": 71,
+    "type": 3,
+    "substat_type": 2,
+    "title": "運試しモンスター",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "面白スタイル",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "意外性クラフター",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "チーム営業",
+        "type_id": 13
+      }
+    },
+    "associated_story": "クラフトモンスター"
   }
 ]
