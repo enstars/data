@@ -132205,10 +132205,12 @@
       },
       "live": {
         "name": "撮られる意識",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "自然体の瞬間"
+        "name": "自然体の瞬間",
+        "type_id": 7
       }
     },
     "spp": {
@@ -132269,10 +132271,12 @@
       },
       "live": {
         "name": "振り回される日常",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "差し入れケーキ"
+        "name": "差し入れケーキ",
+        "type_id": 13
       }
     },
     "spp": {
@@ -132333,10 +132337,12 @@
       },
       "live": {
         "name": "ニューチャレンジ",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "新文化の視察"
+        "name": "新文化の視察",
+        "type_id": 9
       }
     },
     "associated_story": "Together"
@@ -132386,10 +132392,12 @@
       },
       "live": {
         "name": "海中の世界",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "孤島の再会"
+        "name": "孤島の再会",
+        "type_id": 10
       }
     },
     "spp": {
@@ -132441,13 +132449,36 @@
       }
     },
     "skills": {
+      "center": {
+        "name": "幻の島とバカンス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
       "live": {
-        "type_id": 1
+        "name": "夏と海の景色",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "息抜きの計画",
+        "type_id": 14
       }
     },
     "spp": {
       "name": "Romancing Cruise",
       "song_id": 166
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "クルーズ衣装"
+        ],
+        "3d": [
+          "クルーズ衣装"
+        ]
+      }
     },
     "associated_story": "陽だまりの歌"
   },
@@ -132491,10 +132522,12 @@
       },
       "live": {
         "name": "秘密の仕掛け",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "三人で向かう島"
+        "name": "三人で向かう島",
+        "type_id": 4
       }
     },
     "items": {
@@ -132549,10 +132582,12 @@
       },
       "live": {
         "name": "異なる視点",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "創作意欲の蝶"
+        "name": "創作意欲の蝶",
+        "type_id": 1
       }
     },
     "associated_story": "陽だまりの歌"
@@ -132597,10 +132632,12 @@
       },
       "live": {
         "name": "点と転と天",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "会場の道案内"
+        "name": "会場の道案内",
+        "type_id": 7
       }
     },
     "spp": {
@@ -132653,12 +132690,30 @@
     },
     "skills": {
       "center": {
+        "name": "緑の風と揺れる鈴",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 15
       },
       "live": {
-        "type_id": 1
+        "name": "風船キャッチ",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "満喫の屋台",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "LEMON SQUASH CHEERS!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "みずたま模様衣装"
+        ]
       }
     },
     "associated_story": "みずたま模様"
@@ -132703,10 +132758,12 @@
       },
       "live": {
         "name": "見回る出店",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "到着の報告"
+        "name": "到着の報告",
+        "type_id": 5
       }
     },
     "associated_story": "みずたま模様"
@@ -132751,10 +132808,12 @@
       },
       "live": {
         "name": "付き合いの屋台",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "射的の準備"
+        "name": "射的の準備",
+        "type_id": 1
       }
     },
     "associated_story": "みずたま模様"
@@ -132798,14 +132857,17 @@
         "name": "照らし出す光たち",
         "effect_value": [
           "50"
-        ]
+        ],
+        "type_id": 16
       },
       "live": {
         "name": "リクエストの挑戦",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "正座の説明"
+        "name": "正座の説明",
+        "type_id": 7
       }
     },
     "spp": {
@@ -132855,14 +132917,17 @@
         "name": "縁起の良い環境",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 7
       },
       "live": {
         "name": "聴衆への挑発",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "溜息カウンター"
+        "name": "溜息カウンター",
+        "type_id": 13
       }
     },
     "spp": {
@@ -132912,14 +132977,17 @@
         "name": "神秘へ近づく活動",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 1
       },
       "live": {
         "name": "お礼のきゅうり",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "海辺の清掃"
+        "name": "海辺の清掃",
+        "type_id": 9
       }
     },
     "associated_story": "夏休みの思い出を"
@@ -132953,14 +133021,17 @@
         "name": "ひまわりパワー",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 14
       },
       "live": {
         "name": "楽しいがだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "たのしい工場"
+        "name": "たのしい工場",
+        "type_id": 5
       }
     },
     "spp": {
@@ -132969,8 +133040,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133008,14 +133083,17 @@
         "name": "ひまわりあんない",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 3
       },
       "live": {
         "name": "ぷかぷかだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "たのしいさぎょう"
+        "name": "たのしいさぎょう",
+        "type_id": 13
       }
     },
     "spp": {
@@ -133024,8 +133102,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133063,14 +133145,17 @@
         "name": "ひまわりコール",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 5
       },
       "live": {
         "name": "努力がだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "たのしい業務"
+        "name": "たのしい業務",
+        "type_id": 9
       }
     },
     "spp": {
@@ -133079,8 +133164,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133118,14 +133207,17 @@
         "name": "ひまわりワーキング",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 14
       },
       "live": {
         "name": "気ままがだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "たのしい環境"
+        "name": "たのしい環境",
+        "type_id": 5
       }
     },
     "spp": {
@@ -133134,8 +133226,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133173,14 +133269,17 @@
         "name": "ひまわりピッキング",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 11
       },
       "live": {
         "name": "なりきりだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "たのしい役割"
+        "name": "たのしい役割",
+        "type_id": 13
       }
     },
     "spp": {
@@ -133189,8 +133288,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133228,14 +133331,17 @@
         "name": "ひまわりチェック",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 2
       },
       "live": {
         "name": "日常がだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "たのしい関係"
+        "name": "たのしい関係",
+        "type_id": 5
       }
     },
     "spp": {
@@ -133244,8 +133350,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133283,14 +133393,17 @@
         "name": "ひまわりエール",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 9
       },
       "live": {
         "name": "元気がだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 5
       },
       "support": {
-        "name": "たのしい仲間"
+        "name": "たのしい仲間",
+        "type_id": 9
       }
     },
     "spp": {
@@ -133299,8 +133412,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133338,14 +133455,17 @@
         "name": "ひまわりダッシュ",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 15
       },
       "live": {
         "name": "走るのだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 12
       },
       "support": {
-        "name": "たのしい時間"
+        "name": "たのしい時間",
+        "type_id": 13
       }
     },
     "spp": {
@@ -133354,8 +133474,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133388,14 +133512,17 @@
         "name": "ひまわりラッピング",
         "effect_value": [
           "80"
-        ]
+        ],
+        "type_id": 5
       },
       "live": {
         "name": "仲良しがだいすき",
-        "type_id": 1
+        "type_id": 1,
+        "duration": 8
       },
       "support": {
-        "name": "たのしいお仕事"
+        "name": "たのしいお仕事",
+        "type_id": 9
       }
     },
     "spp": {
@@ -133404,8 +133531,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "ハム太郎とっとこうた衣装",
-        "3d": "ハム太郎とっとこうた衣装"
+        "l2d": [
+          "ハム太郎とっとこうた衣装"
+        ],
+        "3d": [
+          "ハム太郎とっとこうた衣装"
+        ]
       }
     }
   },
@@ -133481,7 +133612,7 @@
     },
     "items": {
       "outfit": {
-        "l2d": "サンシャイン衣装/サンシャイン衣装 (SCR)",
+        "l2d": "[\"サンシャイン衣装\",サンシャイン衣装 (SCR)\"]",
         "3d": "サンシャイン衣装/サンシャイン衣装 (SCR)"
       }
     },
@@ -133539,8 +133670,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "サンシャイン衣装",
-        "3d": "サンシャイン衣装"
+        "l2d": [
+          "サンシャイン衣装"
+        ],
+        "3d": [
+          "サンシャイン衣装"
+        ]
       }
     },
     "associated_story": "サンシャイン"
@@ -133597,8 +133732,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "サンシャイン衣装",
-        "3d": "サンシャイン衣装"
+        "l2d": [
+          "サンシャイン衣装"
+        ],
+        "3d": [
+          "サンシャイン衣装"
+        ]
       }
     },
     "associated_story": "サンシャイン"
@@ -133651,8 +133790,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "サンシャイン衣装",
-        "3d": "サンシャイン衣装"
+        "l2d": [
+          "サンシャイン衣装"
+        ],
+        "3d": [
+          "サンシャイン衣装"
+        ]
       }
     },
     "associated_story": "サンシャイン"
@@ -133705,8 +133848,12 @@
     },
     "items": {
       "outfit": {
-        "l2d": "サンシャイン衣装",
-        "3d": "サンシャイン衣装"
+        "l2d": [
+          "サンシャイン衣装"
+        ],
+        "3d": [
+          "サンシャイン衣装"
+        ]
       }
     },
     "associated_story": "サンシャイン"
@@ -133783,8 +133930,14 @@
     },
     "items": {
       "outfit": {
-        "l2d": "アニマルズ衣装/アニマルズ衣装 (SCR)",
-        "3d": "アニマルズ衣装/アニマルズ衣装 (SCR)"
+        "l2d": [
+          "アニマルズ衣装",
+          "アニマルズ衣装 (SCR)"
+        ],
+        "3d": [
+          "アニマルズ衣装",
+          "アニマルズ衣装 (SCR)"
+        ]
       }
     },
     "associated_story": "アニマルズ"
@@ -133841,7 +133994,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "アニマルズ衣装"
+        "l2d": [
+          "アニマルズ衣装"
+        ]
       }
     },
     "associated_story": "アニマルズ"
@@ -134231,7 +134386,11 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（一年、鉢巻き）/水着＋セーラー衣装/水着＋セーラー衣装 (SCR)"
+        "l2d": [
+          "体操服（一年、鉢巻き）",
+          "水着＋セーラー衣装",
+          "水着＋セーラー衣装 (SCR)"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134294,7 +134453,7 @@
       },
       "live": {
         "name": "先輩の気分",
-        "type_id": 1,
+        "type_id": 3,
         "duration": 8
       },
       "support": {
@@ -134308,7 +134467,11 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（二年、鉢巻き）/水着＋セーラー衣装/水着＋セーラー衣装 (SCR)"
+        "l2d": [
+          "体操服（二年、鉢巻き）",
+          "水着＋セーラー衣装",
+          "水着＋セーラー衣装 (SCR)"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134365,7 +134528,10 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（三年、鉢巻き）/チア衣装"
+        "l2d": [
+          "体操服（三年、鉢巻き）",
+          "チア衣装"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134422,7 +134588,10 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（二年、鉢巻き）/チア衣装"
+        "l2d": [
+          "体操服（二年、鉢巻き）",
+          "チア衣装"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134475,7 +134644,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（三年、鉢巻き）"
+        "l2d": [
+          "体操服（三年、鉢巻き）"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134528,7 +134699,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（二年、鉢巻き）"
+        "l2d": [
+          "体操服（二年、鉢巻き）"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134581,7 +134754,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（三年、鉢巻き）"
+        "l2d": [
+          "体操服（三年、鉢巻き）"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134634,7 +134809,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "体操服（二年、鉢巻き）"
+        "l2d": [
+          "体操服（二年、鉢巻き）"
+        ]
       }
     },
     "associated_story": "グランドスラム"
@@ -134711,8 +134888,15 @@
     },
     "items": {
       "outfit": {
-        "l2d": "レッドホットアイランド衣装/水着/レッドホットアイランド衣装 (SCR)",
-        "3d": "レッドホットアイランド衣装/水着/レッドホットアイランド衣装 (SCR)"
+        "l2d": [
+          "レッドホットアイランド衣装",
+          "水着",
+          "レッドホットアイランド衣装 (SCR)"
+        ],
+        "3d": [
+          "レッドホットアイランド衣装",
+          "レッドホットアイランド衣装 (SCR)"
+        ]
       }
     },
     "associated_story": "レッドホットアイランド"
@@ -134769,7 +134953,10 @@
     },
     "items": {
       "outfit": {
-        "l2d": "レッドホットアイランド衣装/水着"
+        "l2d": [
+          "レッドホットアイランド衣装",
+          "水着"
+        ]
       }
     },
     "associated_story": "レッドホットアイランド"
@@ -134822,7 +135009,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "水着"
+        "l2d": [
+          "水着"
+        ]
       }
     },
     "associated_story": "レッドホットアイランド"
@@ -134875,7 +135064,9 @@
     },
     "items": {
       "outfit": {
-        "l2d": "水着"
+        "l2d": [
+          "水着"
+        ]
       }
     },
     "associated_story": "レッドホットアイランド"
@@ -136460,7 +136651,7 @@
       },
       "live": {
         "name": "癒しのコアラ",
-        "type_id": 1,
+        "type_id": 3,
         "duration": 8
       },
       "support": {
@@ -140925,6 +141116,58 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3302,
+    "rarity": 5,
+    "character_id": 69,
+    "type": 2,
+    "substat_type": 1,
+    "title": "神秘のスタフェス",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2022-11-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 28012,
+        "vo": 42325,
+        "pf": 24885
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "一族の掟破り",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "地下のクリスマス",
+        "type_id": 2,
+        "duration": 5,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "特別な匿い場所",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Artistic Partisan"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "スタフェス衣装/スタフェス衣装 (SCR)"
+      }
+    },
+    "associated_story": "ブラックジャック"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3303,
     "rarity": 4,
     "character_id": 14,
@@ -144639,5 +144882,919 @@
       }
     },
     "associated_story": "クラフトモンスター"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3384,
+    "rarity": 5,
+    "character_id": 14,
+    "type": 4,
+    "substat_type": 2,
+    "title": "曇りなき姿勢",
+    "name": "神崎颯馬",
+    "skills": {
+      "center": {
+        "name": "思い出と歩む道",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "珍しさの撮り溜め",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "人気者の挨拶",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "辻風に吹かれて"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "風雅の景/風雅の景 (SCR)",
+        "3d": "風雅の景/風雅の景 (SCR)"
+      },
+      "backgrounds": "あおうみ水族館（イルカショー）"
+    },
+    "associated_story": "群青の桜、ひとひら"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3385,
+    "rarity": 4,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 0,
+    "title": "美味しく健康",
+    "name": "乙狩アドニス",
+    "skills": {
+      "center": {
+        "name": "自炊のメリット",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "効果的な食事法",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "効果的な食事法",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "ハニーミルクはお好みで"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "幸せの料理"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3386,
+    "rarity": 3,
+    "character_id": 8,
+    "type": 1,
+    "substat_type": 1,
+    "title": "違和感とらしさ",
+    "name": "葵ゆうた",
+    "skills": {
+      "center": {
+        "name": "気になる内と外",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "長髪のエトセトラ",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "勉強と集中力",
+        "type_id": 9
+      }
+    },
+    "associated_story": "いつか日常に"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3387,
+    "rarity": 5,
+    "character_id": 34,
+    "type": 3,
+    "substat_type": 1,
+    "title": "マキナの創造主",
+    "name": "影片みか",
+    "skills": {
+      "center": {
+        "name": "神がかり的な人気",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "未知なる可能性",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "新感覚の芸術",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "迷宮電子回廊"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "マキナ衣装/マキナ衣装 (SCR)",
+        "3d": "マキナ衣装/マキナ衣装 (SCR)"
+      }
+    },
+    "associated_story": "マキナ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3388,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 1,
+    "substat_type": 2,
+    "title": "マキナの破壊者",
+    "name": "斎宮宗",
+    "skills": {
+      "center": {
+        "name": "誘惑の落とし穴",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "将来の可能性",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "鉄槌の船",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "迷宮電子回廊"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "マキナ衣装",
+        "3d": "マキナ衣装"
+      }
+    },
+    "associated_story": "マキナ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3389,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 2,
+    "substat_type": 0,
+    "title": "マキナの魔力",
+    "name": "遊木真",
+    "skills": {
+      "center": {
+        "name": "反響の分析結果",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "システムの可能性",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "状況変化の世界",
+        "type_id": 5
+      }
+    },
+    "associated_story": "マキナ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3390,
+    "rarity": 3,
+    "character_id": 37,
+    "type": 4,
+    "substat_type": 1,
+    "title": "マキナの夢",
+    "name": "春川宙",
+    "skills": {
+      "center": {
+        "name": "仮想の急成長",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "テストプレイの可能性",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "新しい機能追加",
+        "type_id": 1
+      }
+    },
+    "associated_story": "マキナ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3391,
+    "rarity": 5,
+    "character_id": 7,
+    "type": 2,
+    "substat_type": 2,
+    "title": "もどかしい想い",
+    "name": "仙石忍",
+    "skills": {
+      "center": {
+        "name": "赤面リクエスト",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "フラッシュの極意",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "お礼詰め合わせ",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "アンリミテッド☆パワー!!!!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "赤面フラッシュ衣装/赤面フラッシュ衣装 (SCR)",
+        "3d": "赤面フラッシュ衣装/赤面フラッシュ衣装 (SCR)"
+      },
+      "backgrounds": "公園（冬_枯れ木）"
+    },
+    "associated_story": "赤面フラッシュ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3392,
+    "rarity": 4,
+    "character_id": 37,
+    "type": 3,
+    "substat_type": 1,
+    "title": "慣れない想い",
+    "name": "春川宙",
+    "skills": {
+      "center": {
+        "name": "赤面オーダー",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "フラッシュの感覚",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ニュアンス調整",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Galaxy Destiny"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "赤面フラッシュ衣装"
+      }
+    },
+    "associated_story": "赤面フラッシュ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3393,
+    "rarity": 3,
+    "character_id": 27,
+    "type": 2,
+    "substat_type": 0,
+    "title": "想い自由自在",
+    "name": "日々樹渉",
+    "skills": {
+      "center": {
+        "name": "赤面も一面",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "フラッシュ伝道師",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "極意の課題",
+        "type_id": 4
+      }
+    },
+    "associated_story": "赤面フラッシュ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3394,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 1,
+    "substat_type": 2,
+    "title": "想いとっておき",
+    "name": "天満光",
+    "skills": {
+      "center": {
+        "name": "赤面のコツ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "フラッシュ伝授",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "習得までの道程",
+        "type_id": 13
+      }
+    },
+    "associated_story": "赤面フラッシュ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3395,
+    "rarity": 5,
+    "character_id": 9,
+    "type": 4,
+    "substat_type": 2,
+    "title": "ありのまま光って",
+    "name": "天満光",
+    "skills": {
+      "center": {
+        "name": "自然体の魅力",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "大人探しの旅",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "気分転換パン",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "ハレノヒSugar Wave"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブライト・スタート/ブライト・スタート (SCR)",
+        "3d": "ブライト・スタート/ブライト・スタート (SCR)"
+      }
+    },
+    "associated_story": "One Step"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3396,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 1,
+    "substat_type": 1,
+    "title": "気に入ったもの",
+    "name": "守沢千秋",
+    "skills": {
+      "center": {
+        "name": "喜ぶプレゼント",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "さりげない気遣い",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "応急のケア",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "天下無敵☆メテオレンジャー！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "ブラックステージ/ブラックステージ (SCR)",
+        "3d": "ブラックステージ/ブラックステージ (SCR)"
+      }
+    },
+    "associated_story": "漢の背中"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3397,
+    "rarity": 3,
+    "character_id": 27,
+    "type": 3,
+    "substat_type": 0,
+    "title": "輝く一枚",
+    "name": "日々樹渉",
+    "skills": {
+      "center": {
+        "name": "甘いサプライズ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "ご褒美マジック",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "金貨の鑑定",
+        "type_id": 5
+      }
+    },
+    "associated_story": "ここ掘れ、ワン！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3398,
+    "rarity": 5,
+    "character_id": 12,
+    "type": 3,
+    "substat_type": 2,
+    "title": "夢の先の情熱",
+    "name": "氷鷹北斗",
+    "skills": {
+      "center": {
+        "name": "君と立つ未来",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "より良い変革",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "開け放たれた鳥籠",
+        "type_id": 29
+      }
+    },
+    "spp": {
+      "name": "Finder Girl"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)",
+        "3d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3399,
+    "rarity": 5,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 1,
+    "title": "夢の先の輝き",
+    "name": "明星スバル",
+    "skills": {
+      "center": {
+        "name": "君と歩む道程",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "アイドルらしい誓い",
+        "type_id": 3,
+        "duration": 12
+      },
+      "support": {
+        "name": "星が咲く大樹",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "CHERRY HAPPY STREAM (ALBUM Mix)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)",
+        "3d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3400,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 4,
+    "substat_type": 0,
+    "title": "夢の先の情報",
+    "name": "遊木真",
+    "skills": {
+      "center": {
+        "name": "君と過ごす日々",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "大満足の笑顔",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "テニス部の伝統",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "ONLY YOUR STARS! (Trickstar Ver.)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "テニス部ユニフォーム/グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3401,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 2,
+    "substat_type": 1,
+    "title": "夢の先の信頼",
+    "name": "衣更真緒",
+    "skills": {
+      "center": {
+        "name": "君と並ぶ場所",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "抜群の舵取り",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "次に託す証",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Infinite Star"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3402,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 4,
+    "substat_type": 2,
+    "title": "夢の先の強さ",
+    "name": "乙狩アドニス",
+    "skills": {
+      "center": {
+        "name": "君と知る世界",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "仲間たちとの絆",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "卒業前の勝負",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3403,
+    "rarity": 3,
+    "character_id": 14,
+    "type": 2,
+    "substat_type": 2,
+    "title": "夢の先の生き様",
+    "name": "神崎颯馬",
+    "skills": {
+      "center": {
+        "name": "君と見る光景",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "これからの道行き",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "聞き取り調査",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3404,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 1,
+    "substat_type": 0,
+    "title": "夢の先の幸せ",
+    "name": "朔間凛月",
+    "skills": {
+      "center": {
+        "name": "君と聞く音楽",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "日陰の晴れ舞台",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "昼間の恩返し",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3405,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 3,
+    "substat_type": 1,
+    "title": "夢の先の魔法",
+    "name": "逆先夏目",
+    "skills": {
+      "center": {
+        "name": "君と綴る物語",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "もう迷わない星",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "魔法使いの指南",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3407,
+    "rarity": 4,
+    "character_id": 16,
+    "type": 2,
+    "substat_type": 1,
+    "title": "理想へ進む先",
+    "name": "大神晃牙",
+    "skills": {
+      "center": {
+        "name": "反骨心と共に",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "後続への寄与",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "放縦な生き様",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "ハニーミルクはお好みで"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3408,
+    "rarity": 3,
+    "character_id": 69,
+    "type": 4,
+    "substat_type": 2,
+    "title": "裏側から進む先",
+    "name": "礼瀬マヨイ",
+    "skills": {
+      "center": {
+        "name": "学び舎と共に",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "ふと気づく気遣い",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "放課後の日課",
+        "type_id": 13
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3409,
+    "rarity": 3,
+    "character_id": 34,
+    "type": 1,
+    "substat_type": 0,
+    "title": "緩やかに進む先",
+    "name": "影片みか",
+    "skills": {
+      "center": {
+        "name": "躊躇いと共に",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "踏み出す一歩",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "奇行への慣れ",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3410,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 3,
+    "substat_type": 1,
+    "title": "華麗に進む先",
+    "name": "鳴上嵐",
+    "skills": {
+      "center": {
+        "name": "火照りと共に",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "磨き上げた自信",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "珍しいやる気",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装",
+        "3d": "グラデュエーション衣装"
+      }
+    },
+    "associated_story": "グラデュエーション"
   }
 ]
