@@ -144892,6 +144892,9 @@
     "substat_type": 2,
     "title": "曇りなき姿勢",
     "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2023-02-25"
+    },
     "skills": {
       "center": {
         "name": "思い出と歩む道",
@@ -144931,6 +144934,9 @@
     "substat_type": 0,
     "title": "美味しく健康",
     "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2023-02-25"
+    },
     "skills": {
       "center": {
         "name": "自炊のメリット",
@@ -144969,6 +144975,9 @@
     "substat_type": 1,
     "title": "違和感とらしさ",
     "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2023-02-25"
+    },
     "skills": {
       "center": {
         "name": "気になる内と外",
@@ -144998,6 +145007,9 @@
     "substat_type": 1,
     "title": "マキナの創造主",
     "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-02-28"
+    },
     "skills": {
       "center": {
         "name": "神がかり的な人気",
@@ -145036,6 +145048,9 @@
     "substat_type": 2,
     "title": "マキナの破壊者",
     "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-02-28"
+    },
     "skills": {
       "center": {
         "name": "誘惑の落とし穴",
@@ -145074,6 +145089,9 @@
     "substat_type": 0,
     "title": "マキナの魔力",
     "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-02-28"
+    },
     "skills": {
       "center": {
         "name": "反響の分析結果",
@@ -145103,6 +145121,9 @@
     "substat_type": 1,
     "title": "マキナの夢",
     "name": "春川宙",
+    "releaseDate": {
+      "jp": "2023-02-28"
+    },
     "skills": {
       "center": {
         "name": "仮想の急成長",
@@ -145132,6 +145153,9 @@
     "substat_type": 2,
     "title": "もどかしい想い",
     "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2023-02-27"
+    },
     "skills": {
       "center": {
         "name": "赤面リクエスト",
@@ -145171,6 +145195,9 @@
     "substat_type": 1,
     "title": "慣れない想い",
     "name": "春川宙",
+    "releaseDate": {
+      "jp": "2023-02-27"
+    },
     "skills": {
       "center": {
         "name": "赤面オーダー",
@@ -145208,6 +145235,9 @@
     "substat_type": 0,
     "title": "想い自由自在",
     "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2023-02-27"
+    },
     "skills": {
       "center": {
         "name": "赤面も一面",
@@ -145237,6 +145267,9 @@
     "substat_type": 2,
     "title": "想いとっておき",
     "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-02-27"
+    },
     "skills": {
       "center": {
         "name": "赤面のコツ",
@@ -145266,6 +145299,13 @@
     "substat_type": 2,
     "title": "ありのまま光って",
     "name": "天満光",
+    "stats": {
+      "ir": {
+        "da": 25315,
+        "vo": 27745,
+        "pf": 42447
+      }
+    },
     "skills": {
       "center": {
         "name": "自然体の魅力",
@@ -145304,6 +145344,13 @@
     "substat_type": 1,
     "title": "気に入ったもの",
     "name": "守沢千秋",
+    "stats": {
+      "ir": {
+        "da": 14414,
+        "vo": 30483,
+        "pf": 11963
+      }
+    },
     "skills": {
       "center": {
         "name": "喜ぶプレゼント",
@@ -145342,6 +145389,13 @@
     "substat_type": 0,
     "title": "輝く一枚",
     "name": "日々樹渉",
+    "stats": {
+      "ir": {
+        "da": 21815,
+        "vo": 10034,
+        "pf": 9592
+      }
+    },
     "skills": {
       "center": {
         "name": "甘いサプライズ",
@@ -145371,6 +145425,13 @@
     "substat_type": 2,
     "title": "夢の先の情熱",
     "name": "氷鷹北斗",
+    "stats": {
+      "ir": {
+        "da": 23826,
+        "vo": 27367,
+        "pf": 43478
+      }
+    },
     "skills": {
       "center": {
         "name": "君と立つ未来",
@@ -145409,6 +145470,13 @@
     "substat_type": 1,
     "title": "夢の先の輝き",
     "name": "明星スバル",
+    "stats": {
+      "ir": {
+        "da": 27471,
+        "vo": 41660,
+        "pf": 26505
+      }
+    },
     "skills": {
       "center": {
         "name": "君と歩む道程",
@@ -145447,6 +145515,13 @@
     "substat_type": 0,
     "title": "夢の先の情報",
     "name": "遊木真",
+    "stats": {
+      "ir": {
+        "da": 30845,
+        "vo": 11414,
+        "pf": 13757
+      }
+    },
     "skills": {
       "center": {
         "name": "君と過ごす日々",
@@ -145485,6 +145560,13 @@
     "substat_type": 1,
     "title": "夢の先の信頼",
     "name": "衣更真緒",
+    "stats": {
+      "ir": {
+        "da": 12687,
+        "vo": 29182,
+        "pf": 15766
+      }
+    },
     "skills": {
       "center": {
         "name": "君と並ぶ場所",
