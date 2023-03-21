@@ -5905,6 +5905,40 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2460,
+    "title": "ES Staff",
+    "name": "Jin Sagami",
+    "skills": {
+      "center": {
+        "name": "Senior Super Idol"
+      },
+      "live": {
+        "name": "Warm-Up for Grown-Ups"
+      },
+      "support": {
+        "name": "ES Business Dept Assistant"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2461,
+    "title": "ES Staff",
+    "name": "Akiomi Kunugi",
+    "skills": {
+      "center": {
+        "name": "Senior Idol"
+      },
+      "live": {
+        "name": "Stretching for Grown-Ups"
+      },
+      "support": {
+        "name": "ES Business Dept Leader"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2464,
     "title": "Delusional Dollhouse",
     "name": "Midori Takamine",
@@ -8637,6 +8671,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2606,
+    "title": "Peach Crystal",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Gift from White Snow"
+      },
+      "live": {
+        "name": "Honest Words from Friend"
+      },
+      "support": {
+        "name": "Project Leader"
+      }
+    },
+    "quote": {
+      "n": "せ〜のっ…☆",
+      "e": "憧れてもらえる景色だよね"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2607,
     "title": "Sky-Color Cystal",
     "name": "Sora Harukawa",
@@ -8692,6 +8747,166 @@
     "quote": {
       "n": "えぇっ?全部って…..?",
       "e": "もっと好きになれますよね"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2610,
+    "title": "Wings of Magic",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Far-Reaching Happiness"
+      },
+      "live": {
+        "name": "Ahead of the Clear Sky"
+      },
+      "support": {
+        "name": "Beginning of Design"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2615,
+    "title": "Meteor and Everyone",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Carefree Comet"
+      },
+      "live": {
+        "name": "Family of Five"
+      },
+      "support": {
+        "name": "Walk on the Beach"
+      }
+    },
+    "quote": {
+      "n": "ちゃっぷちゃっぷ♪",
+      "e": "なんだってできるきがします"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2616,
+    "title": "Meteor for My True Feelings",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Self-Centered Comet"
+      },
+      "live": {
+        "name": "Everything Done as Five"
+      },
+      "support": {
+        "name": "Words Confided"
+      }
+    },
+    "quote": {
+      "n": "俺たちの出番ですよ、先輩",
+      "e": "援護してあげよっか"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2617,
+    "title": "Meteor in Its Original Color",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Frank Comet"
+      },
+      "live": {
+        "name": "Staying as Five"
+      },
+      "support": {
+        "name": "Feelings and Bare Hands"
+      }
+    },
+    "quote": {
+      "n": "怪獣…？海獣ッスか？",
+      "e": "掴み取れるように努力をしてるッス"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2618,
+    "title": "Meteor and Capability",
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Buffer Comet"
+      },
+      "live": {
+        "name": "Expectation for the Five"
+      },
+      "support": {
+        "name": "The Narrator"
+      }
+    },
+    "quote": {
+      "n": "持ち味や技能を活かすでござるよ",
+      "e": "いつでも仲良しがいいでござる"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2623,
+    "title": "Vibrant Colors",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "World Enveloped in Music"
+      },
+      "live": {
+        "name": "Private Music"
+      },
+      "support": {
+        "name": "Collision Between Geniuses"
+      }
+    },
+    "quote": {
+      "n": "時間がないから困ってるんだろ~?",
+      "e": "世界を楽しい音で満たそう!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2630,
+    "title": "Companion of Twin Peaks",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Instinctual Insight"
+      },
+      "live": {
+        "name": "Double Role"
+      },
+      "support": {
+        "name": "Non-approach Order"
+      }
+    },
+    "quote": {
+      "n": "近づくなと命じられているし",
+      "e": "ルール違反には気をつけてね"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2631,
+    "title": "Consultant to Twin Peaks",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Delicate Insight"
+      },
+      "live": {
+        "name": "Competition Spectator"
+      },
+      "support": {
+        "name": "Suggestion from the Senior"
+      }
     }
   }
 ]
