@@ -172,5 +172,15 @@
     "song_name": "Sweet Sweet White Song",
     "story_name": "MerryXmas",
     "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 219,
+    "name": "Transform! Five Stars in COMET SHOW",
+    "event_gacha": "The Legend of Ox-Hour (Part A)",
+    "intro_lines": "Under the agency's order, RYUSEITAI-M and RYUSEITAI-N will be reorganized into RYUSEITAI of five members and other satellite units. Hearing this order, Chiaki and Kanata declare they'll leave RYUSEITAI after their next Live stage... ",
+    "song_name": "Comet HALATION",
+    "story_name": "Comet Show",
+    "story_author": "Akira"
   }
 ]

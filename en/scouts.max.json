@@ -236,5 +236,19 @@
     "name": "Branco",
     "story_name": "MerryXmas",
     "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 339,
+    "name": "The Legend of Ox-Hour (Part A)",
+    "story_name": "The Legend of Ox-Hour (Part A)",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 340,
+    "name": "The Legend of Ox-Hour (Part B)",
+    "story_name": "The Legend of Ox-Hour (Part B)",
+    "story_author": "Kino Seitaro"
   }
 ]

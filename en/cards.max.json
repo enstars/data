@@ -8873,6 +8873,120 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2624,
+    "title": "Pulse of the Sea",
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Ocean of Memories"
+      },
+      "live": {
+        "name": "Tangibility"
+      },
+      "support": {
+        "name": "Voice from Ocean"
+      }
+    },
+    "quote": {
+      "n": "…貝の中で音が響いてるね",
+      "e": "…辺の撮影は久しぶりだな"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2625,
+    "title": "Team Lunch",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Lively Dining Table"
+      },
+      "live": {
+        "name": "Autumn Tasting Party"
+      },
+      "support": {
+        "name": "Invitation to Lunch"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2626,
+    "title": "Searching for the Cat",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "After School DRIVE"
+      },
+      "live": {
+        "name": "Bond with the Cat"
+      },
+      "support": {
+        "name": "Report on Discovery"
+      }
+    },
+    "quote": {
+      "n": "見つかって安心しました…",
+      "e": "安全運転でお願いしますよ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2627,
+    "title": "More Sparkling!",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "The Shiniest Moment"
+      },
+      "live": {
+        "name": "Smile of the Idol"
+      },
+      "support": {
+        "name": "Full-Time Production"
+      }
+    },
+    "quote": {
+      "n": "なんと俺の衣装が光る☆",
+      "e": "みんなの笑顔ももっと見せて！"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2628,
+    "title": "Apex of Twin Peaks",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Self-Determined Path"
+      },
+      "live": {
+        "name": "Parabola Climbing Upward"
+      },
+      "support": {
+        "name": "Moving Closer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2629,
+    "title": "Crest of Twin Peaks",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Multiple Answers"
+      },
+      "live": {
+        "name": "Parabola Opening Upward"
+      },
+      "support": {
+        "name": "Considering on Image Change"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2630,
     "title": "Companion of Twin Peaks",
     "name": "Hiiro Amagi",
@@ -8907,6 +9021,69 @@
       "support": {
         "name": "Suggestion from the Senior"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2632,
+    "title": "Burning-Red Judge",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Trial from Dream"
+      },
+      "live": {
+        "name": "Red Ox and Black Horns"
+      },
+      "support": {
+        "name": "A Grasp for Forced Pause"
+      }
+    },
+    "quote": {
+      "n": "すこしよろしいでしょうか？",
+      "e": "試練を乗り越えたら通しましょう"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2633,
+    "title": "Fuming-Red Prophet",
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Future in Dream"
+      },
+      "live": {
+        "name": "Red OX and Black Gloves"
+      },
+      "support": {
+        "name": "Temporarily Stored"
+      }
+    },
+    "quote": {
+      "n": "諭さなくてはなりません",
+      "e": "未来も来るまでは夢と同じですよ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2634,
+    "title": "Dark-Red Ox Envoy",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Standing in Dream"
+      },
+      "live": {
+        "name": "Red Ox and Q&A"
+      },
+      "support": {
+        "name": "Imagining Rare Situation"
+      }
+    },
+    "quote": {
+      "n": "本当に突入するのか…？",
+      "e": "危険でも進む覚悟があるか？"
     }
   }
 ]
