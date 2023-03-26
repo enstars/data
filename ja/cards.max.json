@@ -143633,7 +143633,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143676,7 +143676,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143717,7 +143717,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143760,7 +143760,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143803,7 +143803,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143846,7 +143846,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143889,7 +143889,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143932,7 +143932,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -143975,7 +143975,7 @@
       "jp": "2022-01-24"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "special"
     },
     "skills": {
       "center": {
@@ -144895,6 +144895,9 @@
     "releaseDate": {
       "jp": "2023-02-25"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "思い出と歩む道",
@@ -144937,6 +144940,9 @@
     "releaseDate": {
       "jp": "2023-02-25"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "自炊のメリット",
@@ -144978,6 +144984,9 @@
     "releaseDate": {
       "jp": "2023-02-25"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "気になる内と外",
@@ -145009,6 +145018,9 @@
     "name": "影片みか",
     "releaseDate": {
       "jp": "2023-02-28"
+    },
+    "obtain": {
+      "type": "event"
     },
     "skills": {
       "center": {
@@ -145051,6 +145063,9 @@
     "releaseDate": {
       "jp": "2023-02-28"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "誘惑の落とし穴",
@@ -145092,6 +145107,9 @@
     "releaseDate": {
       "jp": "2023-02-28"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "反響の分析結果",
@@ -145124,6 +145142,9 @@
     "releaseDate": {
       "jp": "2023-02-28"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "仮想の急成長",
@@ -145155,6 +145176,9 @@
     "name": "仙石忍",
     "releaseDate": {
       "jp": "2023-02-27"
+    },
+    "obtain": {
+      "type": "gacha"
     },
     "skills": {
       "center": {
@@ -145198,6 +145222,9 @@
     "releaseDate": {
       "jp": "2023-02-27"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "赤面オーダー",
@@ -145238,6 +145265,9 @@
     "releaseDate": {
       "jp": "2023-02-27"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "赤面も一面",
@@ -145270,6 +145300,9 @@
     "releaseDate": {
       "jp": "2023-02-27"
     },
+    "obtain": {
+      "type": "gacha"
+    },
     "skills": {
       "center": {
         "name": "赤面のコツ",
@@ -145299,6 +145332,9 @@
     "substat_type": 2,
     "title": "ありのまま光って",
     "name": "天満光",
+    "obtain": {
+      "type": "gacha"
+    },
     "stats": {
       "ir": {
         "da": 25315,
@@ -145344,6 +145380,9 @@
     "substat_type": 1,
     "title": "気に入ったもの",
     "name": "守沢千秋",
+    "obtain": {
+      "type": "gacha"
+    },
     "stats": {
       "ir": {
         "da": 14414,
@@ -145389,6 +145428,9 @@
     "substat_type": 0,
     "title": "輝く一枚",
     "name": "日々樹渉",
+    "obtain": {
+      "type": "gacha"
+    },
     "stats": {
       "ir": {
         "da": 21815,
@@ -145425,6 +145467,9 @@
     "substat_type": 2,
     "title": "夢の先の情熱",
     "name": "氷鷹北斗",
+    "obtain": {
+      "type": "gacha"
+    },
     "stats": {
       "ir": {
         "da": 23826,
@@ -145470,6 +145515,9 @@
     "substat_type": 1,
     "title": "夢の先の輝き",
     "name": "明星スバル",
+    "obtain": {
+      "type": "event"
+    },
     "stats": {
       "ir": {
         "da": 27471,
@@ -145515,6 +145563,9 @@
     "substat_type": 0,
     "title": "夢の先の情報",
     "name": "遊木真",
+    "obtain": {
+      "type": "event"
+    },
     "stats": {
       "ir": {
         "da": 30845,
@@ -145560,6 +145611,9 @@
     "substat_type": 1,
     "title": "夢の先の信頼",
     "name": "衣更真緒",
+    "obtain": {
+      "type": "event"
+    },
     "stats": {
       "ir": {
         "da": 12687,
@@ -145605,6 +145659,9 @@
     "substat_type": 2,
     "title": "夢の先の強さ",
     "name": "乙狩アドニス",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "君と知る世界",
@@ -145640,6 +145697,9 @@
     "substat_type": 2,
     "title": "夢の先の生き様",
     "name": "神崎颯馬",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "君と見る光景",
@@ -145675,6 +145735,9 @@
     "substat_type": 0,
     "title": "夢の先の幸せ",
     "name": "朔間凛月",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "君と聞く音楽",
@@ -145710,6 +145773,9 @@
     "substat_type": 1,
     "title": "夢の先の魔法",
     "name": "逆先夏目",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "君と綴る物語",
@@ -145745,6 +145811,9 @@
     "substat_type": 1,
     "title": "理想へ進む先",
     "name": "大神晃牙",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "反骨心と共に",
@@ -145783,6 +145852,9 @@
     "substat_type": 2,
     "title": "裏側から進む先",
     "name": "礼瀬マヨイ",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "学び舎と共に",
@@ -145818,6 +145890,9 @@
     "substat_type": 0,
     "title": "緩やかに進む先",
     "name": "影片みか",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "躊躇いと共に",
@@ -145853,6 +145928,9 @@
     "substat_type": 1,
     "title": "華麗に進む先",
     "name": "鳴上嵐",
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "火照りと共に",
