@@ -9085,5 +9085,77 @@
       "n": "本当に突入するのか…？",
       "e": "危険でも進む覚悟があるか？"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2636,
+    "title": "Guide to the Future",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Unlimited Possibilities"
+      },
+      "live": {
+        "name": "Graduates Lecture"
+      },
+      "support": {
+        "name": "Narrow Bypath"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2637,
+    "title": "New Blend Release",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Joyful Blending"
+      },
+      "live": {
+        "name": "Cafe Circle"
+      },
+      "support": {
+        "name": "Select Materials"
+      }
+    },
+    "quote": {
+      "n": "A new blend that I thought of ♪",
+      "e": "いつでも明るく笑いあおう"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2638,
+    "title": "Imagined Recipient",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Feelings Wrapped in"
+      },
+      "live": {
+        "name": "Advice on Approaches"
+      },
+      "support": {
+        "name": "Number of Roses"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2639,
+    "title": "Impression and Reality",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Rock Style"
+      },
+      "live": {
+        "name": "True Timbre"
+      },
+      "support": {
+        "name": "Musical Direction"
+      }
+    }
   }
 ]
