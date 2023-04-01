@@ -182,5 +182,15 @@
     "song_name": "Comet HALATION",
     "story_name": "Comet Show",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 220,
+    "name": "Beyond! Resonating TWIN PEAKS",
+    "event_gacha": "The Legend of Ox-Hour (Part B)",
+    "intro_lines": "Ibara entrusts 2wink with an opportunity to attend a prestigious music program, which is considered the gateway to success in the industry. However, this program only allows one member of 2wink to stand on its stage...",
+    "song_name": "Fighting Dreamer",
+    "story_name": "TWIN PEAKS",
+    "story_author": "Akira"
   }
 ]

@@ -9157,5 +9157,26 @@
         "name": "Musical Direction"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2644,
+    "title": "Family Tales",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Relation with Antiques"
+      },
+      "live": {
+        "name": "Walk with Family"
+      },
+      "support": {
+        "name": "Conversation with Father"
+      }
+    },
+    "quote": {
+      "n": "解析と解説など鬱陶しいな",
+      "e": "俺たちはいつでも味方だ"
+    }
   }
 ]
