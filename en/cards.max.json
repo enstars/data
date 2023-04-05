@@ -9225,6 +9225,50 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2650,
+    "title": "Pristine Prince",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "White Lily of Intelligence"
+      },
+      "live": {
+        "name": "Sword of Unbreakable Heart"
+      },
+      "support": {
+        "name": "Appointment of Prince"
+      }
+    },
+    "quote": {
+      "n": "まったく、理解に苦しむよ",
+      "e": "しなやかな心で優雅であれ…♪"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2651,
+    "title": "Naive Prince",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "White Lily of Light Heart"
+      },
+      "live": {
+        "name": "Sword of Unyielding Heart"
+      },
+      "support": {
+        "name": "Conch Horn of Prince"
+      }
+    },
+    "quote": {
+      "n": "ぼお〜♪",
+      "e": "やさしくおだやかなこころですね♪"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
