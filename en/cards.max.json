@@ -8966,7 +8966,8 @@
       "support": {
         "name": "Moving Closer"
       }
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -8983,7 +8984,8 @@
       "support": {
         "name": "Considering on Image Change"
       }
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9004,7 +9006,8 @@
     "quote": {
       "n": "近づくなと命じられているし",
       "e": "ルール違反には気をつけてね"
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9021,7 +9024,8 @@
       "support": {
         "name": "Suggestion from the Senior"
       }
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9084,6 +9088,27 @@
     "quote": {
       "n": "本当に突入するのか…？",
       "e": "危険でも進む覚悟があるか？"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2635,
+    "title": "Light-Red Ox Envoy",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Dreamy Mischief"
+      },
+      "live": {
+        "name": "Red Ox and Conspiracy"
+      },
+      "support": {
+        "name": "Ornament in Front of The Room"
+      }
+    },
+    "quote": {
+      "n": "これ絶対危ないやつだよ！",
+      "e": "痛い目見せてあげなきゃね♪"
     }
   },
   {
@@ -9177,6 +9202,46 @@
     "quote": {
       "n": "解析と解説など鬱陶しいな",
       "e": "俺たちはいつでも味方だ"
-    }
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2645,
+    "title": "Historical Tales",
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Encounter with Antiques"
+      },
+      "live": {
+        "name": "Investigation"
+      },
+      "support": {
+        "name": "The Dug-Up Past"
+      }
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3140,
+    "title": "BUKUBU",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Wolf ⋅ Ensemble"
+      },
+      "live": {
+        "name": "Starring in WOLFes"
+      },
+      "support": {
+        "name": "Wolf ⋅ Guitarist"
+      }
+    },
+    "quote": {
+      "n": "…ってそれどころじゃねぇ！"
+    },
+    "releaseDate": "2023-04-01"
   }
 ]
