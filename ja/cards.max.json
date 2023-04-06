@@ -142120,7 +142120,7 @@
     "compliant": "TRUE",
     "id": 3322,
     "rarity": 3,
-    "character_id": 18,
+    "character_id": 13,
     "type": 4,
     "substat_type": 1,
     "title": "(RE)MIND",
@@ -142171,7 +142171,7 @@
     "compliant": "TRUE",
     "id": 3323,
     "rarity": 3,
-    "character_id": 13,
+    "character_id": 18,
     "type": 3,
     "substat_type": 0,
     "title": "(RE)BOUND",
@@ -145956,5 +145956,56 @@
       }
     },
     "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3414,
+    "rarity": 3,
+    "character_id": 67,
+    "type": 1,
+    "substat_type": 1,
+    "title": "儚げな兵隊の夜",
+    "name": "天城一彩",
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 9844,
+        "vo": 21457,
+        "pf": 10722
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "物憂げな空気",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "喧噪囲まれた街",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "駆け行く心",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
   }
 ]
