@@ -9269,6 +9269,50 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2648,
+    "title": "Innocent Prince",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "White Lily of Sincerity"
+      },
+      "live": {
+        "name": "Sword of Unwavering Heart"
+      },
+      "support": {
+        "name": "Practical Prince"
+      }
+    },
+    "quote": {
+      "n": "ぜひ僕と結婚してほしいよ！",
+      "e": "壊れないよう大切にする心か…"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2649,
+    "title": "Pure Prince",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "White Lily of Faith"
+      },
+      "live": {
+        "name": "Sword of Unbending Heart"
+      },
+      "support": {
+        "name": "Prince as Paragon"
+      }
+    },
+    "quote": {
+      "n": "な、ん…だと!?",
+      "e": "誰かを想い慈しむ心か"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2650,
     "title": "Pristine Prince",
     "name": "Eichi Tenshouin",
