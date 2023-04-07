@@ -9185,6 +9185,50 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2642,
+    "title": "Exposed Tales",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Worn Antique"
+      },
+      "live": {
+        "name": "Beauty With Love"
+      },
+      "support": {
+        "name": "Equal Outfits"
+      }
+    },
+    "quote": {
+      "n": "馬鹿、なーー",
+      "e": "新たな生と美しき呪詛を吐くといい"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2643,
+    "title": "Hidden Tales",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Fake Antique"
+      },
+      "live": {
+        "name": "Beauty by Your Side"
+      },
+      "support": {
+        "name": "In the Backstage"
+      }
+    },
+    "quote": {
+      "n": "もう夜も遅いし、帰れ",
+      "e": "同じような顔をしているんだろう"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2644,
     "title": "Family Tales",
     "name": "Hokuto Hidaka",
