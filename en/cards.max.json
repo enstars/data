@@ -9185,6 +9185,28 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2640,
+    "title": "Fulfilled Tales",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Broken Antique"
+      },
+      "live": {
+        "name": "Beauty in this Moment"
+      },
+      "support": {
+        "name": "Friendly Youngster"
+      }
+    },
+    "quote": {
+      "n": "いつも応援おおきにな",
+      "e": "どんなお宝よりも価値のある、今や"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2642,
     "title": "Exposed Tales",
     "name": "Shu Itsuki",
