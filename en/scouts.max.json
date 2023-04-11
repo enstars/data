@@ -226,36 +226,78 @@
   {
     "compliant": "TRUE",
     "gacha_id": 337,
+    "name": "Shu Itsuki",
+    "story_name": "Faraway Haute Couture",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 338,
     "name": "XXVeil",
     "story_name": "Butlers",
     "story_author": "Kino Seitaro"
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 338,
+    "gacha_id": 339,
+    "name": "Rinne Amagi",
+    "story_name": "Bee's Needs",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 340,
     "name": "Branco",
     "story_name": "MerryXmas",
     "story_author": "Nishioka Maiko"
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 339,
-    "name": "The Legend of Ox-Hour (Part A)",
-    "story_name": "The Legend of Ox-Hour (Part A)",
-    "story_author": "Kino Seitaro"
-  },
-  {
-    "compliant": "TRUE",
-    "gacha_id": 340,
-    "name": "The Legend of Ox-Hour (Part B)",
-    "story_name": "The Legend of Ox-Hour (Part B)",
-    "story_author": "Kino Seitaro"
-  },
-  {
-    "compliant": "TRUE",
     "gacha_id": 341,
+    "name": "Tsumugi Aoba",
+    "story_name": "Blue Hour's Spinning Song",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 342,
+    "name": "The Legend of Ox-Hour (Part A)",
+    "story_name": "The Legend of the Ox-Man",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 343,
+    "name": "Leo Tsukinaga",
+    "story_name": "Concerto for Geniuses",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 344,
+    "name": "The Legend of Ox-Hour (Part B)",
+    "story_name": "The Ox Figurine",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 345,
+    "name": "Nazuna Nito",
+    "story_name": "Someday The Flower Will Bloom",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 346,
     "name": "White Lilies",
     "story_name": "White Lilies",
     "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 347,
+    "name": "Hiyori Tomoe",
+    "story_name": "Dazzling, Glowing Sunlight",
+    "story_author": "Yuumasu"
   }
 ]

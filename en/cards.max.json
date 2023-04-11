@@ -9379,6 +9379,86 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2652,
+    "title": "Shine Everyday",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Center of Brilliance"
+      },
+      "live": {
+        "name": "Anything For a Smile"
+      },
+      "support": {
+        "name": "Lighting u´Up Everything"
+      }
+    },
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2653,
+    "title": "Purchasing New Book",
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Comics Sharing Circle"
+      },
+      "live": {
+        "name": "Discussion on Comics"
+      },
+      "support": {
+        "name": "Give-And-Take"
+      }
+    },
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2654,
+    "title": "As the Club President",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Butt of Jokes"
+      },
+      "live": {
+        "name": "Apply for Exchange"
+      },
+      "support": {
+        "name": "Resubmitted Documents"
+      }
+    },
+    "quote": {
+      "n": "ちょっと待ってねすぐ書き直すから",
+      "e": "あはは、衣更くんも容赦ないよねぇ"
+    },
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2655,
+    "title": "Junior Social Mixer",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Kubb Competition"
+      },
+      "live": {
+        "name": "New Participant"
+      },
+      "support": {
+        "name": "Demand from Chieftan"
+      }
+    },
+    "quote": {
+      "n": "…はい？ど、どうして…",
+      "e": "ゲームを楽しむ仲間、ですね…♪"
+    },
+    "releaseDate": "2023-04-10"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
