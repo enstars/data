@@ -9207,6 +9207,28 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2641,
+    "title": "Paired Tales",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Pure Antique"
+      },
+      "live": {
+        "name": "Pure Beauty"
+      },
+      "support": {
+        "name": "Immature Duo"
+      }
+    },
+    "quote": {
+      "n": "難儀な道を選んだもんやわ",
+      "e": "後ろのひとらが喧しいな…"
+    },
+    "releaseDate": "2023-04-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2642,
     "title": "Exposed Tales",
     "name": "Shu Itsuki",
