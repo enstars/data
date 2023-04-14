@@ -9481,6 +9481,86 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2660,
+    "title": "Sweet Hunter",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Divine Delicacy"
+      },
+      "live": {
+        "name": "Secret Spice"
+      },
+      "support": {
+        "name": "Blessed Cola"
+      }
+    },
+    "quote": {
+      "n": "あんたがコーラをつくったんすか！",
+      "e": "きっちり狙って手に入れるっす♪"
+    },
+    "releaseDate": "2023-04-14"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2661,
+    "title": "Sweet Shooter",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Homemade Delicacy"
+      },
+      "live": {
+        "name": "Cooking Show Filming"
+      },
+      "support": {
+        "name": "Special Cola"
+      }
+    },
+    "quote": {
+      "n": "ほらこの動画見てくださいよ",
+      "e": "気軽に手に入れたいんだけどな♪"
+    },
+    "releaseDate": "2023-04-14"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2662,
+    "title": "Sweet Sensor",
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Hunger-Stisfied Delicacy"
+      },
+      "live": {
+        "name": "Seeking Hints"
+      },
+      "support": {
+        "name": "Sample Cola"
+      }
+    },
+    "releaseDate": "2023-04-14"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2663,
+    "title": "Sweet Crafter",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Inspiring Delicacy"
+      },
+      "live": {
+        "name": "Recipe on a Whim"
+      },
+      "support": {
+        "name": "Elaborate Cola"
+      }
+    },
+    "releaseDate": "2023-04-14"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
