@@ -201,5 +201,15 @@
     "intro_lines": "An antique fair is held near the ES. Sensing a suspicious scent, the two members of Double Face force their way into the stage of Valkyrie and corner them for intelligence. But, unexpectedly, they unveil the secret of Mika…",
     "story_name": "The Tale of Antiques",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 222,
+    "name": "Fight! Dominant Blade & Fist",
+    "event_gacha": "Sweet Hunt",
+    "intro_lines": "Souma comes across a quarrel between Kuro and Keito, but it ends before he is able to ask why. After that, Souma hears from Leo that AKATSUKI is now at stake in Rhythm Link...",
+    "song_name": "AKATSUKI Iroha Song",
+    "story_name": "Blade & Fist",
+    "story_author": "Akira"
   }
 ]
