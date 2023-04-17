@@ -148356,9 +148356,9 @@
     },
     "stats": {
       "ir": {
-        "da": "23,953",
-        "vo": "46,366",
-        "pf": "22,920"
+        "da": 23953,
+        "vo": 46366,
+        "pf": 22920
       }
     },
     "skills": {
@@ -148413,9 +148413,9 @@
     },
     "stats": {
       "ir": {
-        "da": "27,234",
-        "vo": "13,614",
-        "pf": "16,222"
+        "da": 27234,
+        "vo": 13614,
+        "pf": 16222
       }
     },
     "skills": {
@@ -148442,6 +148442,7 @@
     "items": {
       "outfit": {
         "l2d": [
+          "2wink練習着（長髪）",
           "Big Ocean衣装"
         ],
         "3d": [
@@ -148450,5 +148451,478 @@
       }
     },
     "associated_story": "Big Ocean"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3428,
+    "rarity": 3,
+    "character_id": 1,
+    "type": 1,
+    "substat_type": 2,
+    "title": "進むBig Ocean",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-03-31"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 9812,
+        "vo": 10145,
+        "pf": 21629
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "友と贈る謝儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "咄嗟に出た嘘",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "激辛な驚き",
+        "type_id": 13
+      }
+    },
+    "associated_story": "Big Ocean"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3429,
+    "rarity": 3,
+    "character_id": 16,
+    "type": 4,
+    "substat_type": 1,
+    "title": "飛び込むBig Ocean",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2023-03-31"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 10579,
+        "vo": 19483,
+        "pf": 12303
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "受け取る謝儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "果たし状の代わり",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "明かす胸の内",
+        "type_id": 1
+      }
+    },
+    "associated_story": "Big Ocean"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3430,
+    "rarity": 5,
+    "character_id": 23,
+    "type": 1,
+    "substat_type": 0,
+    "title": "スコルピオの怪人",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2023-03-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 47505,
+        "vo": 20371,
+        "pf": 23433
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "背徳的ヴィラン",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "致死性のない毒",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "完璧な悪役",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "ハニーミルクはお好みで"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スコルピオの毒衣装",
+          "スコルピオの毒衣装 (SCR)"
+        ],
+        "3d": [
+          "スコルピオの毒衣装",
+          "スコルピオの毒衣装 (SCR)"
+        ]
+      },
+      "backgrounds": "病院の談話室"
+    },
+    "associated_story": "スコルピオの毒"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3431,
+    "rarity": 4,
+    "character_id": 3,
+    "type": 4,
+    "substat_type": 1,
+    "title": "スコルピオの宿敵",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2023-03-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 14906,
+        "vo": 27522,
+        "pf": 14845
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "必殺ラビッツショット",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "発見する毒",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "手慣れた即興劇",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "野うさぎマーチ♪"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スコルピオの毒衣装"
+        ]
+      },
+      "backgrounds": "病院前（冬_枯れ木）"
+    },
+    "associated_story": "スコルピオの毒"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3432,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 2,
+    "title": "スコルピオの天敵",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-03-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 11599,
+        "vo": 8728,
+        "pf": 21329
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "遅れてきたヒーロー",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "遅効性の毒",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ヒーローショウの達人",
+        "type_id": 4
+      }
+    },
+    "associated_story": "スコルピオの毒"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3433,
+    "rarity": 3,
+    "character_id": 67,
+    "type": 2,
+    "substat_type": 0,
+    "title": "スコルピオの手下",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2023-03-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 19865,
+        "vo": 11186,
+        "pf": 11500
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "召喚されるスペード",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "傷つけない毒",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "手伝う物語",
+        "type_id": 5
+      }
+    },
+    "associated_story": "スコルピオの毒"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3434,
+    "rarity": 5,
+    "character_id": 74,
+    "type": 2,
+    "substat_type": 0,
+    "title": "満腹になる料理",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2023-04-10"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 42965,
+        "vo": 27202,
+        "pf": 25019
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "オフタイムの探求",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "料理と自分",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "おすそ分けの一口",
+        "type_id": 3
+      }
+    },
+    "spp": {
+      "name": "デートプランA to Z"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ヤミー・トレジャー",
+          "ヤミー・トレジャー (SCR)"
+        ],
+        "3d": [
+          "ヤミー・トレジャー",
+          "ヤミー・トレジャー (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ボナペティート！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3435,
+    "rarity": 4,
+    "character_id": 5,
+    "type": 4,
+    "substat_type": 2,
+    "title": "苦肉の褒め言葉",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-04-10"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 13466,
+        "vo": 12542,
+        "pf": 30694
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "正直な感想",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "素朴な疑問",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "ナチュラルスルー",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Colors Arise"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "言い分はおあいこ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3436,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 3,
+    "substat_type": 1,
+    "title": "男同士の約束",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2023-04-10"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 9669,
+        "vo": 21832,
+        "pf": 9894
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "頼れる指先",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "裁縫のできるひと",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "秘密の手提げ袋",
+        "type_id": 9
+      }
+    },
+    "associated_story": "手提げの中にあるものは"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3461,
+    "rarity": 3,
+    "character_id": 33,
+    "type": 3,
+    "substat_type": 2,
+    "title": "お祭り応援",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
+    "stats": {
+      "ir": {
+        "da": 10760,
+        "vo": 9478,
+        "pf": 21445
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞台の盛り上げ役",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "お祭りアナウンス",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "雅よりも愉快に",
+        "type_id": 13
+      }
+    }
   }
 ]
