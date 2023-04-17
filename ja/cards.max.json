@@ -7288,10 +7288,10 @@
     "items": {
       "outfit": {
         "l2d": [
-          "Tirckstar练习服装"
+          "Trickstar练习服装"
         ],
         "3d": [
-          "Tirckstar练习服装"
+          "Trickstar练习服装"
         ]
       }
     }
@@ -7414,10 +7414,10 @@
     "items": {
       "outfit": {
         "l2d": [
-          "Tirckstar练习服装"
+          "Trickstar练习服装"
         ],
         "3d": [
-          "Tirckstar练习服装"
+          "Trickstar练习服装"
         ]
       }
     }
@@ -146724,6 +146724,9 @@
     "substat_type": 2,
     "title": "ありのまま光って",
     "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-03-10"
+    },
     "obtain": {
       "type": "gacha"
     },
@@ -146772,6 +146775,9 @@
     "substat_type": 1,
     "title": "気に入ったもの",
     "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-03-10"
+    },
     "obtain": {
       "type": "gacha"
     },
@@ -146820,6 +146826,9 @@
     "substat_type": 0,
     "title": "輝く一枚",
     "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2023-03-10"
+    },
     "obtain": {
       "type": "gacha"
     },
@@ -146859,6 +146868,9 @@
     "substat_type": 2,
     "title": "夢の先の情熱",
     "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "gacha"
     },
@@ -146907,6 +146919,9 @@
     "substat_type": 1,
     "title": "夢の先の輝き",
     "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -146955,6 +146970,9 @@
     "substat_type": 0,
     "title": "夢の先の情報",
     "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147003,6 +147021,9 @@
     "substat_type": 1,
     "title": "夢の先の信頼",
     "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147051,6 +147072,9 @@
     "substat_type": 2,
     "title": "夢の先の強さ",
     "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147089,6 +147113,9 @@
     "substat_type": 2,
     "title": "夢の先の生き様",
     "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147127,6 +147154,9 @@
     "substat_type": 0,
     "title": "夢の先の幸せ",
     "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147165,6 +147195,9 @@
     "substat_type": 1,
     "title": "夢の先の魔法",
     "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147203,6 +147236,9 @@
     "substat_type": 1,
     "title": "理想へ進む先",
     "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2023-03-14"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147244,6 +147280,9 @@
     "substat_type": 2,
     "title": "裏側から進む先",
     "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2023-03-14"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147282,6 +147321,9 @@
     "substat_type": 0,
     "title": "緩やかに進む先",
     "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-03-14"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147320,6 +147362,9 @@
     "substat_type": 1,
     "title": "華麗に進む先",
     "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2023-03-14"
+    },
     "obtain": {
       "type": "event"
     },
@@ -147351,6 +147396,165 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3411,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 4,
+    "substat_type": 1,
+    "title": "純粋な音色の束",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2023-03-25"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 28498,
+        "vo": 43762,
+        "pf": 22252
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "リクエストコンサート",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "胸躍る花たち",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "喜びの余韻",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Article of Faith"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Tasto bianco",
+          "Tasto bianco (SCR)"
+        ],
+        "3d": [
+          "Tasto bianco",
+          "Tasto bianco (SCR)"
+        ]
+      }
+    },
+    "associated_story": "両手いっぱいの喝采を"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3412,
+    "rarity": 4,
+    "character_id": 10,
+    "type": 1,
+    "substat_type": 0,
+    "title": "英語時間",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2023-03-25"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 30437,
+        "vo": 11903,
+        "pf": 14409
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "言葉を超えた想い",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "解説と解読",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "特技の出番",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Article of Faith"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ShinobiのWay"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3413,
+    "rarity": 3,
+    "character_id": 6,
+    "type": 2,
+    "substat_type": 2,
+    "title": "プリティ活動",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2023-03-25"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 11685,
+        "vo": 12259,
+        "pf": 19307
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "連れていきたい場所",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "クラスメイトの情報",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "とびきりのコロッケ",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "backgrounds": "喫茶『COCHI』（秋）"
+    },
+    "associated_story": "放課後プリティタイム"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3414,
     "rarity": 3,
     "character_id": 67,
@@ -147358,6 +147562,9 @@
     "substat_type": 1,
     "title": "儚げな兵隊の夜",
     "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
     "obtain": {
       "type": "special"
     },
@@ -147399,5 +147606,849 @@
         ]
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3415,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 3,
+    "substat_type": 2,
+    "title": "寂しい兵隊の夜",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 11289,
+        "vo": 12636,
+        "pf": 19235
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "見つめ返す瞳",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "絶え間ない日々",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "駆け出す心",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3416,
+    "rarity": 3,
+    "character_id": 69,
+    "type": 2,
+    "substat_type": 0,
+    "title": "沈みゆく兵隊の夜",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 21638,
+        "vo": 9713,
+        "pf": 10401
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "誘い掛ける表情",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "閉ざした昨日",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "駆け巡る心",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3417,
+    "rarity": 3,
+    "character_id": 70,
+    "type": 4,
+    "substat_type": 2,
+    "title": "吹き抜ける兵隊の夜",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 11699,
+        "vo": 12120,
+        "pf": 19445
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "憂色湛えた口元",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "胸を叩く言葉",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "駆け寄る心",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3418,
+    "rarity": 3,
+    "character_id": 40,
+    "type": 1,
+    "substat_type": 2,
+    "title": "騒がしい番犬の夜",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 10070,
+        "vo": 10089,
+        "pf": 21249
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "静かに問う眼差し",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "過ぎる針の音",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "駆け回る心",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3419,
+    "rarity": 3,
+    "character_id": 73,
+    "type": 3,
+    "substat_type": 1,
+    "title": "差し伸べる番犬の夜",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-03-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 12311,
+        "vo": 19381,
+        "pf": 11343
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "投げ掛ける視線",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "いつかに願う明日",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "駆け惑う心",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "夜に駆ける"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夜に駆ける衣装"
+        ],
+        "3d": [
+          "夜に駆ける衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3420,
+    "rarity": 2,
+    "character_id": 1,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ESのアイドル2",
+    "name": "南雲鉄虎",
+    "obtain": {
+      "type": "special",
+      "name": "スクエアスカウト"
+    },
+    "skills": {
+      "center": {
+        "name": "表現力ブリリアント",
+        "effect_value": [
+          50
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf {0}％up",
+        "order_num": 131
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8,
+        "effect_values": [
+          [
+            8,
+            3
+          ],
+          [
+            8,
+            4
+          ],
+          [
+            8,
+            5
+          ],
+          [
+            8,
+            6
+          ],
+          [
+            8,
+            7
+          ],
+          [
+            8,
+            8
+          ],
+          [
+            8,
+            9
+          ],
+          [
+            8,
+            10
+          ],
+          [
+            8,
+            12
+          ],
+          [
+            8,
+            15
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 14,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "チアパフォーマンス",
+        "type_id": 1,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "VOLTAGEの下降量が少しダウン",
+        "order_num": 11,
+        "support_skill_type_name": "ボルテージサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "流星队パワーアップ衣装"
+        ],
+        "3d": [
+          "流星队パワーアップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3421,
+    "rarity": 2,
+    "character_id": 5,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ESのアイドル2",
+    "name": "高峯翠",
+    "obtain": {
+      "type": "special",
+      "name": "スクエアスカウト"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声スパークル",
+        "effect_value": [
+          50
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo {0}％up",
+        "order_num": 11
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "effect_values": [
+          [
+            12,
+            1
+          ],
+          [
+            12,
+            2
+          ],
+          [
+            12,
+            3
+          ],
+          [
+            12,
+            4
+          ],
+          [
+            12,
+            5
+          ],
+          [
+            12,
+            6
+          ],
+          [
+            12,
+            7
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            12,
+            9
+          ],
+          [
+            12,
+            10
+          ]
+        ],
+        "description": "{0}秒間{1}％スコアアップ",
+        "order_num": 17,
+        "live_skill_type_name": "スコアアップ"
+      },
+      "support": {
+        "name": "チャームステージ",
+        "type_id": 1,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "VOLTAGEの下降量が少しダウン",
+        "order_num": 11,
+        "support_skill_type_name": "ボルテージサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "流星队パワーアップ衣装"
+        ],
+        "3d": [
+          "流星队パワーアップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3422,
+    "rarity": 2,
+    "character_id": 7,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ESのアイドル2",
+    "name": "仙石忍",
+    "obtain": {
+      "type": "special",
+      "name": "スクエアスカウト"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声スパークル",
+        "effect_value": [
+          50
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo {0}％up",
+        "order_num": 11
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "スパークルチア",
+        "type_id": 4,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ",
+        "order_num": 41,
+        "support_skill_type_name": "あんさんぶるタイムサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "流星队パワーアップ衣装"
+        ],
+        "3d": [
+          "流星队パワーアップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3423,
+    "rarity": 2,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ESのアイドル2",
+    "name": "守沢千秋",
+    "obtain": {
+      "type": "special",
+      "name": "スクエアスカウト"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声グリッター",
+        "effect_value": [
+          50
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "チアボーカル",
+        "type_id": 4,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ",
+        "order_num": 41,
+        "support_skill_type_name": "あんさんぶるタイムサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "流星队パワーアップ衣装"
+        ],
+        "3d": [
+          "流星队パワーアップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3424,
+    "rarity": 2,
+    "character_id": 28,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ESのアイドル2",
+    "name": "深海奏汰",
+    "obtain": {
+      "type": "special",
+      "name": "スクエアスカウト"
+    },
+    "skills": {
+      "center": {
+        "name": "ダンスフラッシュ",
+        "effect_value": [
+          50
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa {0}％up",
+        "order_num": 321
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "チアダンス",
+        "type_id": 1,
+        "effect_values": [
+          [
+            2
+          ],
+          [
+            3
+          ],
+          [
+            5
+          ],
+          [
+            8
+          ],
+          [
+            10
+          ]
+        ],
+        "description": "VOLTAGEの下降量が少しダウン",
+        "order_num": 11,
+        "support_skill_type_name": "ボルテージサポート"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "流星队パワーアップ衣装"
+        ],
+        "3d": [
+          "流星队パワーアップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3425,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ウェルカム祭",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-03-15"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "stats": {
+      "ir": {
+        "da": 20435,
+        "vo": 39149,
+        "pf": 22680
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "お祭り男の舞台",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "愉快な三色",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "祭りの見所",
+        "type_id": 28
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェルカム祭衣装"
+        ],
+        "3d": [
+          "ウェルカム祭衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3426,
+    "rarity": 5,
+    "character_id": 4,
+    "type": 1,
+    "substat_type": 1,
+    "title": "挑むBig Ocean",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2023-03-31"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": "23,953",
+        "vo": "46,366",
+        "pf": "22,920"
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "心からの謝儀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "交わる時間の長さ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "変わらない歩調",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Turbulent Storm"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Big Ocean衣装",
+          "Big Ocean衣装 (SCR)"
+        ],
+        "3d": [
+          "Big Ocean衣装",
+          "Big Ocean衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "Big Ocean"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3427,
+    "rarity": 4,
+    "character_id": 8,
+    "type": 2,
+    "substat_type": 0,
+    "title": "超えるBig Ocean",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2023-03-31"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": "27,234",
+        "vo": "13,614",
+        "pf": "16,222"
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "共に伝える謝儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "繋がっている旅路",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "壁に耳あり",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Turbulent Storm"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Big Ocean衣装"
+        ],
+        "3d": [
+          "Big Ocean衣装"
+        ]
+      }
+    },
+    "associated_story": "Big Ocean"
   }
 ]
