@@ -139852,7 +139852,7 @@
         "order_num": 212
       },
       "live": {
-        "name": "ほの淡き青春\r",
+        "name": "ほの淡き青春",
         "type_id": 1,
         "duration": 5,
         "effect_values": [
@@ -148886,6 +148886,520 @@
       }
     },
     "associated_story": "手提げの中にあるものは"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3437,
+    "rarity": 5,
+    "character_id": 29,
+    "type": 2,
+    "substat_type": 0,
+    "title": "願望の原点",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2023-04-15"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 43735,
+        "vo": 25513,
+        "pf": 26190
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "変わる世界",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "統べる星空",
+        "type_id": 2,
+        "duration": 12
+      },
+      "support": {
+        "name": "過激な退屈しのぎ",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Twilight Pentagram"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『オルタード』衣装",
+          "『オルタード』衣装 (SCR)"
+        ],
+        "3d": [
+          "『オルタード』衣装",
+          "『オルタード』衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3438,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 1,
+    "title": "物語の原点",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-04-15"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 24935,
+        "vo": 44640,
+        "pf": 24817
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "変わる価値観",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "見渡す星空",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "空虚に舞う羽根",
+        "type_id": 24
+      }
+    },
+    "spp": {
+      "name": "Dawning Angels"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『fine-O』衣装",
+          "旧fine衣装",
+          "『fine-O』(SCR) 衣装"
+        ],
+        "3d": [
+          "『fine-O』衣装",
+          "『fine-O』(SCR) 衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3439,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 4,
+    "substat_type": 1,
+    "title": "へんかのげんてん",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-04-15"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 11558,
+        "vo": 30462,
+        "pf": 14774
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "かわるうんめい",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "つながるほしぞら",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "きまぐれちぇんじ",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Twilight Pentagram"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『オルタード』衣装",
+          "制服（冬、二年生）"
+        ],
+        "3d": [
+          "『オルタード』衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3440,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 3,
+    "substat_type": 2,
+    "title": "創造の原点",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-04-15"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 15134,
+        "vo": 12725,
+        "pf": 29220
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "変わる出会い",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "交差する星空",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "聖域なる部屋",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Twilight Pentagram"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『オルタード』衣装",
+          "制服（冬、二年生）"
+        ],
+        "3d": [
+          "『オルタード』衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3441,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 1,
+    "substat_type": 2,
+    "title": "修得の原点",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-04-15"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 13328,
+        "vo": 12073,
+        "pf": 30407
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "変わる舞台",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "捉える星空",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "喜びのダンス",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Dawning Angels"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『fine-O』衣装",
+          "体操服（ジャージ、二年生）",
+          "旧fine衣装"
+        ],
+        "3d": [
+          "『fine-O』衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3442,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 2,
+    "title": "風変わりな配役",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2023-04-14"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 22818,
+        "vo": 21833,
+        "pf": 47339
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "終止する物語",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "追憶する夜会",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "胸に抱く企画書",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "Twilight Pentagram"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『オルタード』衣装"
+        ],
+        "3d": [
+          "『オルタード』衣装",
+          "制服（冬、一年生）",
+          "『オルタード』衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3443,
+    "rarity": 5,
+    "character_id": 39,
+    "type": 3,
+    "substat_type": 0,
+    "title": "風変わりな役儀",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2023-04-14"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 46446,
+        "vo": 21676,
+        "pf": 21626
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "終止させる過去",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "星を仰ぐ瞳",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "意図しない感情",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "Dawning Angels"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『fine-O』衣装",
+          "制服（冬、二年生）",
+          "旧fine衣装",
+          "『fine-O』衣装 (SCR)"
+        ],
+        "3d": [
+          "『fine-O』衣装",
+          "『fine-O』(SCR) 衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3444,
+    "rarity": 4,
+    "character_id": 27,
+    "type": 1,
+    "substat_type": 0,
+    "title": "風変わりな脚本",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2023-04-14"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 27121,
+        "vo": 15793,
+        "pf": 15334
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "終止を打つ楽章",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "自由気儘な戯れ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "病室の語り手",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Twilight Pentagram"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『オルタード』衣装",
+          "制服（冬、二年生）",
+          "旧fine戦衣装"
+        ],
+        "3d": [
+          "『オルタード』衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3445,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 2,
+    "substat_type": 1,
+    "title": "風変わりな催事",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2023-04-14"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 14587,
+        "vo": 28161,
+        "pf": 14724
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "終止しない交誼",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "夜明けの鐘の音",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "買い物日和",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Dawning Angels"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『fine-O』衣装",
+          "制服（冬、二年生）",
+          "旧fine衣装"
+        ],
+        "3d": [
+          "『fine-O』衣装"
+        ]
+      }
+    },
+    "associated_story": "オルタード"
   },
   {
     "compliant": "TRUE",
