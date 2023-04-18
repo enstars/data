@@ -9481,6 +9481,46 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2658,
+    "title": "Discerning Steps",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "The Ruminated Path"
+      },
+      "live": {
+        "name": "Confidence from Experience"
+      },
+      "support": {
+        "name": "Intervention of Worrywart"
+      }
+    },
+    "releaseDate": "2023-04-15"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2659,
+    "title": "Heart-to-Heart Conversation",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Delightful Sunny Path"
+      },
+      "live": {
+        "name": "The Open Mind"
+      },
+      "support": {
+        "name": "Contacts and Information"
+      }
+    },
+    "quote": {
+      "n": "何とかって、どうすんの?",
+      "e": "みんなに笑っていてほしいんだよ"
+    },
+    "releaseDate": "2023-04-15"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2660,
     "title": "Sweet Hunter",
     "name": "Niki Shiina",
