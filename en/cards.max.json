@@ -9481,6 +9481,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2657,
+    "title": "Steps of Bonded Souls",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Path of Tempered Martial Arts"
+      },
+      "live": {
+        "name": "What I Aspire To Be"
+      },
+      "support": {
+        "name": "Unknown Territory"
+      }
+    },
+    "releaseDate": "2023-04-15"
+  },
+  {
+    "compliant": "TRUE",
     "id": 2658,
     "title": "Discerning Steps",
     "name": "Keito Hasumi",
