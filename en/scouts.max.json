@@ -107,7 +107,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 320,
-    "name": "Dollhouse",
+    "name": "Doll House",
     "story_name": "Doll House",
     "story_author": "Nishioka Maiko"
   },
@@ -262,7 +262,7 @@
     "compliant": "TRUE",
     "gacha_id": 342,
     "name": "The Legend of Ox-Hour (Part A)",
-    "story_name": "The Legend of the Ox-Man",
+    "story_name": "The Legend of Ox-Hour (Part A)",
     "story_author": "Kino Seitaro"
   },
   {
@@ -276,7 +276,7 @@
     "compliant": "TRUE",
     "gacha_id": 344,
     "name": "The Legend of Ox-Hour (Part B)",
-    "story_name": "The Ox Figurine",
+    "story_name": "The Legend of Ox-Hour (Part B)",
     "story_author": "Kino Seitaro"
   },
   {
@@ -304,7 +304,7 @@
     "compliant": "TRUE",
     "gacha_id": 348,
     "name": "Sweet Hunt",
-    "story_name": "Sweet Dreams",
+    "story_name": "Sweet Hunt",
     "story_author": "Kino Seitaro"
   }
 ]
