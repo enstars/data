@@ -9619,6 +9619,68 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2665,
+    "title": "Leisure Day Unwound",
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Days Spent with Someone"
+      },
+      "live": {
+        "name": "Fortune Telling Badge"
+      },
+      "support": {
+        "name": "Cafe Reservation"
+      }
+    },
+    "quote": {
+      "n": "もうちょっと考えるよォ",
+      "e": "身近なところにおれたちはいるよ"
+    },
+    "releaseDate": "2023-04-24"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2666,
+    "title": "Destination in Future Trips",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Expand Travel Plans"
+      },
+      "live": {
+        "name": "The Researcher"
+      },
+      "support": {
+        "name": "Travel Wishlist"
+      }
+    },
+    "quote": {
+      "n": "別の場所でも行けるかも？",
+      "e": "みんなと一緒に行けたらいいね♪"
+    },
+    "releaseDate": "2023-04-24"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2667,
+    "title": "A Loose Thread",
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Answers on the Brim"
+      },
+      "live": {
+        "name": "Gaze Sensor"
+      },
+      "support": {
+        "name": "Secret Glimpsed"
+      }
+    },
+    "releaseDate": "2023-04-24"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
