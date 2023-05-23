@@ -144849,7 +144849,7 @@
     "compliant": "TRUE",
     "id": 3350,
     "rarity": 3,
-    "character_id": 74,
+    "character_id": 73,
     "type": 2,
     "substat_type": 1,
     "title": "巻き込まれバニー",
@@ -149400,6 +149400,628 @@
       }
     },
     "associated_story": "オルタード"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3446,
+    "rarity": 5,
+    "character_id": 67,
+    "type": 1,
+    "substat_type": 2,
+    "title": "輝きの見つけかた",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2023-04-25"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 25430,
+        "vo": 27584,
+        "pf": 42462
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "肌で知る熱気",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "都会の夜",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "アイドルの研究",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "パラダイム・リバーシ！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "モード・ノクト",
+          "モード・ノクト (SCR)"
+        ],
+        "3d": [
+          "モード・ノクト",
+          "モード・ノクト (SCR)"
+        ]
+      },
+      "backgrounds": "セゾンアヴェニュー（冬_枯れ木）"
+    },
+    "associated_story": "輝きを掴みゆく"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3447,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 2,
+    "substat_type": 0,
+    "title": "世界への一歩",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-04-25"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 30378,
+        "vo": 12658,
+        "pf": 13676
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "触れられる歴史",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "いつか得る余裕",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "探究心の広がり",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "Noisy:Beep"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      },
+      "backgrounds": "博物館（外観）,博物館（内装）"
+    },
+    "associated_story": "踏み出す好奇心"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3448,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 3,
+    "substat_type": 1,
+    "title": "自分を活かす仕事",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-04-25"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 12164,
+        "vo": 19361,
+        "pf": 12123
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "負けられない戦い",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "ゲーマー魂",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "放課後の名勝負",
+        "type_id": 9
+      }
+    },
+    "associated_story": "Gamer’s Soul"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3449,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 2,
+    "substat_type": 2,
+    "title": "夢叶うMad Party",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2023-04-30"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 24657,
+        "vo": 23151,
+        "pf": 46400
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別な一着",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "憧れのひと雫",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "貴重な指導姿",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Mad Party衣装",
+          "Mad Party衣装 (SCR)"
+        ],
+        "3d": [
+          "Mad Party衣装",
+          "Mad Party衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "Mad Party"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3450,
+    "rarity": 4,
+    "character_id": 24,
+    "type": 3,
+    "substat_type": 0,
+    "title": "見守るMad Party",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2023-04-30"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 27372,
+        "vo": 15620,
+        "pf": 14154
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別なお茶会",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "寄与するひと雫",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "お家芸の提案",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Mad Party衣装"
+        ],
+        "3d": [
+          "Mad Party衣装"
+        ]
+      }
+    },
+    "associated_story": "Mad Party"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3451,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 1,
+    "substat_type": 1,
+    "title": "色めくMad Party",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2023-04-30"
+    },
+    "obtain": {
+      "type": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 12552,
+        "vo": 30398,
+        "pf": 13691
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別な昼下がり",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "最高のひと雫",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ここだけの話",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Mad Party衣装"
+        ],
+        "3d": [
+          "Mad Party衣装"
+        ]
+      }
+    },
+    "associated_story": "Mad Party"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3452,
+    "rarity": 3,
+    "character_id": 10,
+    "type": 4,
+    "substat_type": 0,
+    "title": "率いるMad Party",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2023-04-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 21455,
+        "vo": 10889,
+        "pf": 9494
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別なアレンジ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "仲間へのひと雫",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "後輩への檄",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Mad Party衣装"
+        ],
+        "3d": [
+          "Mad Party衣装"
+        ]
+      }
+    },
+    "associated_story": "Mad Party"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3453,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 1,
+    "substat_type": 2,
+    "title": "花添えるMad Party",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2023-04-30"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 10813,
+        "vo": 12574,
+        "pf": 19229
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別なお喋り",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "香り立つひと雫",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "熱心な聞き手",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Mad Party衣装"
+        ],
+        "3d": [
+          "Mad Party衣装"
+        ]
+      }
+    },
+    "associated_story": "Mad Party"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3454,
+    "rarity": 5,
+    "character_id": 30,
+    "type": 1,
+    "substat_type": 0,
+    "title": "×××・プリティ",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-04-29"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 47226,
+        "vo": 22230,
+        "pf": 22035
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "いつもとちがう印",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "応えたい期待",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "衣装の探しかた",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "メイド・イン・トキメキ♪"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "バツ×バッテン衣装",
+          "バツ×バッテン衣装 (SCR)"
+        ],
+        "3d": [
+          "バツ×バッテン衣装",
+          "バツ×バッテン衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "バツ×バッテン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3455,
+    "rarity": 4,
+    "character_id": 69,
+    "type": 3,
+    "substat_type": 0,
+    "title": "×××・フレンド",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2023-04-29"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 27394,
+        "vo": 14251,
+        "pf": 15891
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自分だけの印",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "器用な手先",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "かわいいの奥深さ",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "翼モラトリアム"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "バツ×バッテン衣装"
+        ]
+      }
+    },
+    "associated_story": "バツ×バッテン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3456,
+    "rarity": 3,
+    "character_id": 34,
+    "type": 4,
+    "substat_type": 2,
+    "title": "×××・クリエイト",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-04-29"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 10059,
+        "vo": 9874,
+        "pf": 21522
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "気持ち傾く印",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "芸術家の計らい",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "発展する距離",
+        "type_id": 13
+      }
+    },
+    "associated_story": "バツ×バッテン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3457,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 2,
+    "substat_type": 1,
+    "title": "×××・ランウェイ",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2023-04-29"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 11993,
+        "vo": 19114,
+        "pf": 11308
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "モデル指導の印",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "強力な助っ人",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "主張する掛け声",
+        "type_id": 1
+      }
+    },
+    "associated_story": "バツ×バッテン"
   },
   {
     "compliant": "TRUE",
