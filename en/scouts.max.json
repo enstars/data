@@ -320,5 +320,26 @@
     "name": "Phantom Thief: FAKE",
     "story_name": "Phantom Thief: FAKE",
     "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 351,
+    "name": "Madara Mikejima",
+    "story_name": "Invited by Festive Music",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 352,
+    "name": "Spring Flower Bed",
+    "story_name": "Spring Flower Bed",
+    "story_author": "Kino Seitaro"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 353,
+    "name": "Rei Sakuma",
+    "story_name": "Swinging in the Everlasting Darkness",
+    "story_author": "Yuumasu"
   }
 ]

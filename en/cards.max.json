@@ -9681,6 +9681,149 @@
   },
   {
     "compliant": "TRUE",
+    "id": 2670,
+    "title": "Dream Toward Future",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Highly Raised Ideal"
+      },
+      "live": {
+        "name": "The Ideal of King"
+      },
+      "support": {
+        "name": "Source of Laughter"
+      }
+    },
+    "quote": {
+      "n": "Energyの摂取は必要です",
+      "e": "先輩のように成長しなければ！"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2671,
+    "title": "Dream of Harmony",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "The Amiable Chum"
+      },
+      "live": {
+        "name": "Positive Mindset"
+      },
+      "support": {
+        "name": "Small Family"
+      }
+    },
+    "quote": {
+      "n": "対等なのが好きだったのよ",
+      "e": "笑顔でいることが大切よ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2672,
+    "title": "Dream of Euthoria",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Loads-Carrying Method"
+      },
+      "live": {
+        "name": "Brand New Environment"
+      },
+      "support": {
+        "name": "Yes-Man"
+      }
+    },
+    "quote": {
+      "n": "おれは全肯定する!",
+      "e": "魂はそのかたちを忘れないんだ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2673,
+    "title": "Dream of Possibilities",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Dream-Awakening Method"
+      },
+      "live": {
+        "name": "Round-Table Advice"
+      },
+      "support": {
+        "name": "Impulsive Petition"
+      }
+    },
+    "quote": {
+      "n": "助言して矯正するのが仕事なの",
+      "e": "夢だけじゃなく現実も見なきゃ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2683,
+    "title": "Ignite the Ideals",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Present Moment Heading Future"
+      },
+      "live": {
+        "name": "\"Magic Atelier\" Plan"
+      },
+      "support": {
+        "name": "Repairing Machines"
+      }
+    },
+    "quote": {
+      "n": "不可能なことなんて何もなイ",
+      "e": "ボクらも幸せでいなきゃネ"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2684,
+    "title": "Structure and Coordination",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Present Moment Linking the Past"
+      },
+      "live": {
+        "name": "Management and Power"
+      },
+      "support": {
+        "name": "Role in the Office"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 2685,
+    "title": "Unspoken Feelings",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Running at Present"
+      },
+      "live": {
+        "name": "Advice From Chatting"
+      },
+      "support": {
+        "name": "Capricious Daikichi"
+      }
+    },
+    "quote": {
+      "n": "きみも同じタイプなんだね",
+      "e": "『らしさ』を期待してる！"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
