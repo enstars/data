@@ -211,5 +211,25 @@
     "song_name": "AKATSUKI Iroha Song",
     "story_name": "Blade & Fist",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 223,
+    "name": "Slumber* Peaceful Daydreams",
+    "event_gacha": "Phantom Thief: FAKE",
+    "intro_lines": "Izumi and Tsukasa keep arguing about the future direction of Knights. Witnessing their relentless dispute, Ritsu offers a solution: a Live duel akin to Requiem. However, this time, he hopes it will be a duel where both the winner and the defeated feel content as if they enter an eternal, peaceful, sweet dream together.",
+    "song_name": "Little Romance",
+    "story_name": "Peaceful Daydreams",
+    "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 224,
+    "name": "Hearts-Reflecting★Magic Lantern",
+    "event_gacha": "Spring Flower Bed",
+    "intro_lines": "Subaru meets Sora when he's looking for Daikichi. Then they find a machine-like object buried in the courtyard. Sora brings it to Natsume and tries to use it as a conversation starter, but Natsume is too preoccupied with his plans to pay attention to Sora...",
+    "song_name": "Fragments of Feelings",
+    "story_name": "Magic Lantern",
+    "story_author": "Akira"
   }
 ]
