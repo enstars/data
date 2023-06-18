@@ -146769,7 +146769,7 @@
   {
     "compliant": "TRUE",
     "id": 3396,
-    "rarity": 1,
+    "rarity": 4,
     "character_id": 1,
     "type": 1,
     "substat_type": 1,
@@ -150025,6 +150025,150 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3458,
+    "rarity": 5,
+    "character_id": 7,
+    "type": 3,
+    "substat_type": 1,
+    "title": "雨音弾く調べ",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2023-05-10"
+    },
+    "obtain": {
+      "type": "gacha"
+    },
+    "stats": {
+      "ir": {
+        "da": 23204,
+        "vo": 43462,
+        "pf": 27962
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "見方をかえる",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "恵みの雨露",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "練習撮影会",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "パラダイム・リバーシ！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "[\"かじかむじか\",[かじかむじか (SCR)\"]",
+        "3d": "[\"かじかむじか\",[かじかむじか (SCR)\"]"
+      }
+    },
+    "associated_story": "雨の日のニン情話"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3459,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ベスト・ブレンド",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2023-05-10"
+    },
+    "stats": {
+      "ir": {
+        "da": 12149,
+        "vo": 14264,
+        "pf": 30419
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "友達とのお茶会",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "賑やかな花園",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "気になる一杯",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "終わらないシンフォニア"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "花の香りに誘われて"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3460,
+    "rarity": 3,
+    "character_id": 70,
+    "type": 4,
+    "substat_type": 0,
+    "title": "楽しみになる日",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2023-05-10"
+    },
+    "stats": {
+      "ir": {
+        "da": 21776,
+        "vo": 8869,
+        "pf": 10859
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "初めて通る店",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "飾らない魅力",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "頼れるお留守番",
+        "type_id": 4
+      }
+    },
+    "associated_story": "気遣い無用の関係"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3461,
     "rarity": 3,
     "character_id": 33,
@@ -150060,5 +150204,145 @@
         "type_id": 13
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3463,
+    "rarity": 5,
+    "character_id": 25,
+    "type": 1,
+    "substat_type": 0,
+    "title": "燃える花婿修行",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "胸騒ぐマーチ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "熱血ウェディング",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "勝利へのダッシュ",
+        "type_id": 24
+      }
+    },
+    "spp": {
+      "name": "熱血☆流星忍法帖"
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3464,
+    "rarity": 5,
+    "character_id": 42,
+    "type": 4,
+    "substat_type": 2,
+    "title": "覚悟決める花婿修行",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "挑戦のマーチ",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "挑戦のマーチ",
+        "type_id": 3,
+        "duration": 5
+      },
+      "support": {
+        "name": "枕投げの余韻",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Dance in the Apocalypse"
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3465,
+    "rarity": 4,
+    "character_id": 70,
+    "type": 2,
+    "substat_type": 0,
+    "title": "温雅な花婿修行",
+    "name": "風早 巽",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "朗らかなマーチ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "穏やかウェディング",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "秋風吹かれる一枚",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Distorted Heart"
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3466,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 3,
+    "substat_type": 1,
+    "title": "心弾む花婿修行",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "優渥のマーチ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "修学ウェディング",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "お土産セレクト",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Ruler’s Truth"
+    },
+    "associated_story": "ウェディングマーチ"
   }
 ]
