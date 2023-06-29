@@ -150238,6 +150238,16 @@
     "spp": {
       "name": "熱血☆流星忍法帖"
     },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "旅館の浴衣",
+          "ウェディングマーチ衣装 (SCR)"
+        ]
+      }
+    },
     "associated_story": "ウェディングマーチ"
   },
   {
@@ -150272,6 +150282,15 @@
     },
     "spp": {
       "name": "Dance in the Apocalypse"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "ウェディングマーチ衣装 (SCR)"
+        ]
+      }
     },
     "associated_story": "ウェディングマーチ"
   },
@@ -150308,6 +150327,15 @@
     "spp": {
       "name": "Distorted Heart"
     },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "旅館の浴衣"
+        ]
+      }
+    },
     "associated_story": "ウェディングマーチ"
   },
   {
@@ -150343,6 +150371,228 @@
     "spp": {
       "name": "Ruler’s Truth"
     },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル"
+        ]
+      }
+    },
     "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3467,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 2,
+    "title": "配慮の花婿修行",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "憩うマーチ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "誠心ウェディング",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "旅慣れたアシスト",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "旅館の浴衣"
+        ]
+      }
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3468,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 4,
+    "substat_type": 0,
+    "title": "お気楽花婿修行",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "自然体のマーチ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "実況ウェディング",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "手慣れた実況役",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "旅館の浴衣"
+        ]
+      }
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3469,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 1,
+    "substat_type": 1,
+    "title": "創意の花婿修行",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-05-15"
+    },
+    "skills": {
+      "center": {
+        "name": "緻密なマーチ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "来援ウェディング",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "パリの忘れ物",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェディングマーチ衣装",
+          "タオル",
+          "旅館の浴衣"
+        ]
+      }
+    },
+    "associated_story": "ウェディングマーチ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3470,
+    "rarity": 5,
+    "character_id": 18,
+    "type": 2,
+    "substat_type": 1,
+    "title": "漫画との思い出",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2023-05-14"
+    },
+    "skills": {
+      "center": {
+        "name": "冒険楽しむ世界",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "主人公になる場面",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "脳裏に浮かぶ回答",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "Daydream×Reality"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "漫画会衣装",
+          "漫画会衣装 (SCR)"
+        ],
+        "3d": [
+          "漫画会衣装",
+          "漫画会衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "漫画会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3471,
+    "rarity": 4,
+    "character_id": 21,
+    "type": 4,
+    "substat_type": 0,
+    "title": "漫画がくれる鋭気",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2023-05-14"
+    },
+    "skills": {
+      "center": {
+        "name": "活劇紡ぐ世界",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "断ち切る現実線",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "仮想現実の体験",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "紅月いろは唄"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "漫画会衣装",
+          "いじわるな義姉衣装"
+        ]
+      },
+      "backgrounds": "衣更家（真緒の自室）"
+    },
+    "associated_story": "漫画会"
   }
 ]
