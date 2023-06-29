@@ -146288,7 +146288,8 @@
       "jp": "2023-02-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "skills": {
       "center": {
@@ -146333,7 +146334,8 @@
       "jp": "2023-02-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "skills": {
       "center": {
@@ -146377,7 +146379,8 @@
       "jp": "2023-02-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "skills": {
       "center": {
@@ -146412,7 +146415,8 @@
       "jp": "2023-02-28"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "skills": {
       "center": {
@@ -146456,7 +146460,8 @@
       "jp": "2023-02-28"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "skills": {
       "center": {
@@ -146500,7 +146505,8 @@
       "jp": "2023-02-28"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "skills": {
       "center": {
@@ -146535,7 +146541,8 @@
       "jp": "2023-02-28"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "skills": {
       "center": {
@@ -146570,7 +146577,8 @@
       "jp": "2023-02-27"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -146615,7 +146623,8 @@
       "jp": "2023-02-27"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -146658,7 +146667,8 @@
       "jp": "2023-02-27"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -146693,7 +146703,8 @@
       "jp": "2023-02-27"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -146728,7 +146739,8 @@
       "jp": "2023-03-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -146779,7 +146791,8 @@
       "jp": "2023-03-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -146830,7 +146843,8 @@
       "jp": "2023-03-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -146872,7 +146886,7 @@
       "jp": "2023-03-15"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "event"
     },
     "stats": {
       "ir": {
@@ -147240,7 +147254,8 @@
       "jp": "2023-03-14"
     },
     "obtain": {
-      "type": "event"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -147284,7 +147299,8 @@
       "jp": "2023-03-14"
     },
     "obtain": {
-      "type": "event"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -147325,7 +147341,8 @@
       "jp": "2023-03-14"
     },
     "obtain": {
-      "type": "event"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -147366,7 +147383,8 @@
       "jp": "2023-03-14"
     },
     "obtain": {
-      "type": "event"
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -147407,7 +147425,8 @@
       "jp": "2023-03-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -147464,7 +147483,8 @@
       "jp": "2023-03-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -147521,7 +147541,8 @@
       "jp": "2023-03-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -148352,7 +148373,8 @@
       "jp": "2023-03-31"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -148409,7 +148431,8 @@
       "jp": "2023-03-31"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -148465,7 +148488,8 @@
       "jp": "2023-03-31"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -148507,7 +148531,8 @@
       "jp": "2023-03-31"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -148549,7 +148574,8 @@
       "jp": "2023-03-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -148607,7 +148633,8 @@
       "jp": "2023-03-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -148660,7 +148687,8 @@
       "jp": "2023-03-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -148702,7 +148730,8 @@
       "jp": "2023-03-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -148744,7 +148773,8 @@
       "jp": "2023-04-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -148801,7 +148831,8 @@
       "jp": "2023-04-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -148858,7 +148889,8 @@
       "jp": "2023-04-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -149184,7 +149216,8 @@
       "jp": "2023-04-14"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149241,7 +149274,8 @@
       "jp": "2023-04-14"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149300,7 +149334,8 @@
       "jp": "2023-04-14"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149357,7 +149392,8 @@
       "jp": "2023-04-14"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149414,7 +149450,8 @@
       "jp": "2023-04-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -149472,7 +149509,8 @@
       "jp": "2023-04-25"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -149530,7 +149568,8 @@
       "jp": "2023-04-25"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -149572,7 +149611,8 @@
       "jp": "2023-04-30"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -149629,7 +149669,8 @@
       "jp": "2023-04-30"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -149684,7 +149725,8 @@
       "jp": "2023-04-30"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -149739,7 +149781,8 @@
       "jp": "2023-04-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -149791,7 +149834,8 @@
       "jp": "2023-04-30"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "unit"
     },
     "stats": {
       "ir": {
@@ -149843,7 +149887,8 @@
       "jp": "2023-04-29"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149900,7 +149945,8 @@
       "jp": "2023-04-29"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149952,7 +149998,8 @@
       "jp": "2023-04-29"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -149994,7 +150041,8 @@
       "jp": "2023-04-29"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "ir": {
@@ -150036,7 +150084,8 @@
       "jp": "2023-05-10"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -150085,6 +150134,10 @@
     "name": "姫宮桃李",
     "releaseDate": {
       "jp": "2023-05-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
     },
     "stats": {
       "ir": {
@@ -150140,6 +150193,10 @@
     "releaseDate": {
       "jp": "2023-05-10"
     },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
     "stats": {
       "ir": {
         "da": 21776,
@@ -150179,6 +150236,9 @@
     "releaseDate": {
       "jp": "2023-03-15"
     },
+    "obtain": {
+      "type": "special"
+    },
     "stats": {
       "ir": {
         "da": 10760,
@@ -150216,6 +150276,9 @@
     "name": "守沢千秋",
     "releaseDate": {
       "jp": "2023-05-15"
+    },
+    "obtain": {
+      "type": "event"
     },
     "skills": {
       "center": {
@@ -150262,6 +150325,9 @@
     "releaseDate": {
       "jp": "2023-05-15"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "挑戦のマーチ",
@@ -150305,6 +150371,9 @@
     "name": "風早 巽",
     "releaseDate": {
       "jp": "2023-05-15"
+    },
+    "obtain": {
+      "type": "event"
     },
     "skills": {
       "center": {
@@ -150350,6 +150419,9 @@
     "releaseDate": {
       "jp": "2023-05-15"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "優渥のマーチ",
@@ -150393,6 +150465,9 @@
     "releaseDate": {
       "jp": "2023-05-15"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "憩うマーチ",
@@ -150433,6 +150508,9 @@
     "name": "遊木真",
     "releaseDate": {
       "jp": "2023-05-15"
+    },
+    "obtain": {
+      "type": "event"
     },
     "skills": {
       "center": {
@@ -150475,6 +150553,9 @@
     "releaseDate": {
       "jp": "2023-05-15"
     },
+    "obtain": {
+      "type": "event"
+    },
     "skills": {
       "center": {
         "name": "緻密なマーチ",
@@ -150515,6 +150596,10 @@
     "name": "衣更真緒",
     "releaseDate": {
       "jp": "2023-05-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
     },
     "skills": {
       "center": {
@@ -150563,6 +150648,10 @@
     "releaseDate": {
       "jp": "2023-05-14"
     },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
     "skills": {
       "center": {
         "name": "活劇紡ぐ世界",
@@ -150594,5 +150683,471 @@
       "backgrounds": "衣更家（真緒の自室）"
     },
     "associated_story": "漫画会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3472,
+    "rarity": 3,
+    "character_id": 6,
+    "type": 3,
+    "substat_type": 0,
+    "title": "漫画から知る文化",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2023-05-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "空想楽しむ世界",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "使い分けるアイレベル",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "優勝に向かう正解",
+        "type_id": 1
+      }
+    },
+    "associated_story": "漫画会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3473,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 4,
+    "substat_type": 2,
+    "title": "漫画にもらう元気",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-05-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "心癒される世界",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "カタルシスの与え方",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "理想が叶う物語",
+        "type_id": 13
+      }
+    },
+    "associated_story": "漫画会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3474,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 1,
+    "substat_type": 1,
+    "title": "漫画で感じる意気",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2023-05-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "追体験する世界",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "ぶち抜く枠組",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "身につける知識",
+        "type_id": 4
+      }
+    },
+    "associated_story": "漫画会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3475,
+    "rarity": 5,
+    "character_id": 16,
+    "type": 2,
+    "substat_type": 0,
+    "title": "不変のスリー・コード",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2023-05-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "星宿る喧呼",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "野望宿る言魂",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "見せたい自分",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "PERFECTLY-IMPERFECT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "レガシーコード",
+          "レガシーコード (SCR)"
+        ],
+        "3d": [
+          "レガシーコード",
+          "レガシーコード (SCR)"
+        ]
+      }
+    },
+    "associated_story": "流星に吠える"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3476,
+    "rarity": 4,
+    "character_id": 34,
+    "type": 1,
+    "substat_type": 2,
+    "title": "心留める時間",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-05-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "きっかけをくれた場所",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "校舎に残す感謝",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "思い出のアルバイト",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "今宵月の館にて"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "かけがえのない居場所"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3477,
+    "rarity": 3,
+    "character_id": 39,
+    "type": 3,
+    "substat_type": 1,
+    "title": "鍋囲む食卓",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2023-05-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "秘密の味付け",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "食事で繋がる仲",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "まさかの具材",
+        "type_id": 9
+      }
+    },
+    "associated_story": "闇鍋の魔法使い"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3478,
+    "rarity": 5,
+    "character_id": 71,
+    "type": 1,
+    "substat_type": 2,
+    "title": "夢載せるナンバー",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2023-05-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "max": {
+        "da": 22429,
+        "vo": 21385,
+        "pf": 47894
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "口ずさむBGM",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "天道任せの旅",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "夜風も弾む場所",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Crazy Anthem"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナンバーエイト衣装",
+          "ナンバーエイト衣装 (SCR)"
+        ],
+        "3d": [
+          "ナンバーエイト衣装",
+          "ナンバーエイト衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ナンバーエイト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3479,
+    "rarity": 4,
+    "character_id": 72,
+    "type": 3,
+    "substat_type": 0,
+    "title": "無茶振りナンバー",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2023-05-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "max": {
+        "da": 27316,
+        "vo": 13957,
+        "pf": 15845
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "案浮かぶBGM",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "機転利かす旅",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "気構え存分",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Crazy Anthem"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナンバーエイト衣装"
+        ],
+        "3d": [
+          "ナンバーエイト衣装"
+        ]
+      }
+    },
+    "associated_story": "ナンバーエイト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3480,
+    "rarity": 3,
+    "character_id": 73,
+    "type": 4,
+    "substat_type": 1,
+    "title": "道連れナンバー",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-05-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "max": {
+        "da": 9391,
+        "vo": 21421,
+        "pf": 10827
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "浮き立つBGM",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "飛び込む旅",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "ありがち指令",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナンバーエイト衣装"
+        ],
+        "3d": [
+          "ナンバーエイト衣装"
+        ]
+      }
+    },
+    "associated_story": "ナンバーエイト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3481,
+    "rarity": 3,
+    "character_id": 74,
+    "type": 2,
+    "substat_type": 2,
+    "title": "満喫のナンバー",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2023-05-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "max": {
+        "da": 12160,
+        "vo": 11981,
+        "pf": 19057
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "頬緩むBGM",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "運任せな旅",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "交流のコツ",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナンバーエイト衣装"
+        ],
+        "3d": [
+          "ナンバーエイト衣装"
+        ]
+      }
+    },
+    "associated_story": "ナンバーエイト"
   }
 ]
