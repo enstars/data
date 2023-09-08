@@ -151149,5 +151149,673 @@
       }
     },
     "associated_story": "ナンバーエイト"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3482,
+    "rarity": 5,
+    "character_id": 10,
+    "type": 4,
+    "substat_type": 1,
+    "title": "執筆ビブリオン",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2023-05-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "読書で伝わる自分",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "こだわりの一冊",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "小説家の卵",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ビブリオン衣装",
+          "ビブリオン衣装 (SCR)"
+        ],
+        "3d": [
+          "ビブリオン衣装",
+          "ビブリオン衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ビブリオン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3483,
+    "rarity": 4,
+    "character_id": 23,
+    "type": 1,
+    "substat_type": 2,
+    "title": "推敲ビブリオン",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2023-05-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "読書を楽しむ時間",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "おすすめの一冊",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ゆるく楽しむ空間",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "FORBIDDEN RAIN"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ビブリオン衣装"
+        ]
+      }
+    },
+    "associated_story": "ビブリオン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3484,
+    "rarity": 3,
+    "character_id": 50,
+    "type": 2,
+    "substat_type": 0,
+    "title": "熟読ビブリオン",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-05-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "読書で学ぶ知識",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "注目の一冊",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "惹かれるタイトル",
+        "type_id": 5
+      }
+    },
+    "associated_story": "ビブリオン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3485,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 3,
+    "substat_type": 1,
+    "title": "添削ビブリオン",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2023-05-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "読書がくれる勇気",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "紐解く一冊",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "執筆アドバイス",
+        "type_id": 1
+      }
+    },
+    "associated_story": "ビブリオン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3486,
+    "rarity": 3,
+    "character_id": 39,
+    "type": 4,
+    "substat_type": 2,
+    "title": "解釈ビブリオン",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2023-05-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "読書で気づく感情",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "読みこなす一冊",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "本好きの勧誘",
+        "type_id": 4
+      }
+    },
+    "associated_story": "ビブリオン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3487,
+    "rarity": 5,
+    "character_id": 68,
+    "type": 2,
+    "substat_type": 0,
+    "title": "愛が伝わる方法",
+    "name": "白鳥 藍良",
+    "releaseDate": {
+      "jp": "2023-06-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "繋がっていく幸せ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "推し及ぼす笑顔",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "本当の理由",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Kiss of Life"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ピュアメソッド",
+          "ピュアメソッド (SCR)"
+        ],
+        "3d": [
+          "ピュアメソッド",
+          "ピュアメソッド (SCR)"
+        ]
+      }
+    },
+    "associated_story": "愛広がって、幸せ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3488,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 1,
+    "title": "隣に並ぶ音",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-06-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "反射しあう距離",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "アップ・ストローク",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "舞台での調律",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Daydream×Reality"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "放課後セッション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3489,
+    "rarity": 3,
+    "character_id": 29,
+    "type": 4,
+    "substat_type": 2,
+    "title": "補佐役の仕事",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2023-06-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "密かな手助け",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "年長者の助言",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "未完成の企画書",
+        "type_id": 13
+      }
+    },
+    "associated_story": "血肉に変えて"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3490,
+    "rarity": 5,
+    "character_id": 3,
+    "type": 3,
+    "substat_type": 2,
+    "title": "本物の可能性",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2023-06-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "無限大の自分",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "変化する並行世界",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "寝落ちて見る夢",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "パラレルメイズ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "パラレルワールド",
+          "パラレルワールド (SCR)"
+        ],
+        "3d": [
+          "パラレルワールド",
+          "パラレルワールド (SCR)"
+        ]
+      }
+    },
+    "associated_story": "パラレルワールド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3491,
+    "rarity": 4,
+    "character_id": 9,
+    "type": 2,
+    "substat_type": 0,
+    "title": "最高の可能性",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-06-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "無限大の距離",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "選ぶ並行世界",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "憎めないお見舞い",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "パラレルメイズ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "パラレルワールド衣装"
+        ],
+        "3d": [
+          "パラレルワールド衣装"
+        ]
+      }
+    },
+    "associated_story": "パラレルワールド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3492,
+    "rarity": 3,
+    "character_id": 30,
+    "type": 4,
+    "substat_type": 1,
+    "title": "発言の可能性",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-06-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "無限大の未来",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "学ぶ並行世界",
+        "duration": 8
+      },
+      "support": {
+        "name": "重ね合わせる自分",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "パラレルワールド衣装"
+        ],
+        "3d": [
+          "パラレルワールド衣装"
+        ]
+      }
+    },
+    "associated_story": "パラレルワールド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3493,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 1,
+    "substat_type": 2,
+    "title": "一歩の可能性",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2023-06-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "無限大の成長",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "期待する並行世界",
+        "duration": 5
+      },
+      "support": {
+        "name": "怪しい雲行き",
+        "type_id": 13
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "パラレルワールド衣装"
+        ],
+        "3d": [
+          "パラレルワールド衣装"
+        ]
+      }
+    },
+    "associated_story": "パラレルワールド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3538,
+    "rarity": 5,
+    "character_id": 13,
+    "type": 1,
+    "substat_type": 1,
+    "title": "煌めく一欠片",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "舞台裏からの角度",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "艶めきスター",
+        "duration": 8
+      },
+      "support": {
+        "name": "寝ても覚めても",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Welcome to the Trickstar Night☆"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ラスターピース",
+          "ラスターピース (SCR)"
+        ],
+        "3d": [
+          "ラスターピース",
+          "ラスターピース (SCR)"
+        ]
+      }
+    },
+    "associated_story": "本の海に微睡んで"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3539,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 3,
+    "substat_type": 0,
+    "title": "歯がゆい悩み",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "沁み入る光景",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "射抜く視線",
+        "duration": 12
+      },
+      "support": {
+        "name": "隔靴掻痒の感",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "Dance in the Apocalypse"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "獅子身中の虫"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3540,
+    "rarity": 3,
+    "character_id": 67,
+    "type": 4,
+    "substat_type": 2,
+    "title": "心の在りかた",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2023-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "真剣白刃取り",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "修行隙無し",
+        "duration": 5
+      },
+      "support": {
+        "name": "座禅の作法",
+        "type_id": 4
+      }
+    },
+    "associated_story": "一刀掌握"
   }
 ]
