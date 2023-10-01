@@ -151619,6 +151619,7 @@
       },
       "live": {
         "name": "学ぶ並行世界",
+        "type_id": 1,
         "duration": 8
       },
       "support": {
@@ -151664,6 +151665,7 @@
       },
       "live": {
         "name": "期待する並行世界",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
@@ -151682,6 +151684,728 @@
       }
     },
     "associated_story": "パラレルワールド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3494,
+    "rarity": 5,
+    "character_id": 14,
+    "type": 1,
+    "substat_type": 0,
+    "title": "雨垂れる飾り窓",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2023-06-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "伝統でぃすぷれい",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "飾り付けの主題",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "手助け無用",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Midnight Butlers"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "雨垂れショーウィンドウ衣装",
+          "雨垂れショーウィンドウ衣装 (SCR)"
+        ],
+        "3d": [
+          "雨垂れショーウィンドウ衣装",
+          "雨垂れショーウィンドウ衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "雨垂れショーウィンドウ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3495,
+    "rarity": 4,
+    "character_id": 72,
+    "type": 4,
+    "substat_type": 2,
+    "title": "雨垂れる町並み",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2023-06-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "トレンドディスプレイ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "飾り付けのセンス",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "求められる期待",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "指先のアリアドネ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "雨垂れショーウィンドウ衣装"
+        ],
+        "3d": [
+          "雨垂れショーウィンドウ衣装"
+        ]
+      }
+    },
+    "associated_story": "雨垂れショーウィンドウ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3496,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 2,
+    "substat_type": 2,
+    "title": "あまだれるみちゆき",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-06-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "おさかなでぃすぷれい",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "かざりつけのたすけ",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "すいぞくかんうまれ",
+        "type_id": 13
+      }
+    },
+    "associated_story": "雨垂れショーウィンドウ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3497,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 3,
+    "substat_type": 1,
+    "title": "雨垂れる展観",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-06-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "采配ディスプレイ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "飾り付けの指示",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "直々のご指名",
+        "type_id": 4
+      }
+    },
+    "associated_story": "雨垂れショーウィンドウ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3498,
+    "rarity": 5,
+    "character_id": 19,
+    "type": 1,
+    "substat_type": 1,
+    "title": "秘密めく眠花",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-06-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "笑顔の報酬",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "完全無欠の使用人",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "寝不足の一夜",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "The Tempest Night"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "朝霧の水面",
+          "朝霧の水面 (SCR)"
+        ],
+        "3d": [
+          "朝霧の水面",
+          "朝霧の水面 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "完全無欠の使用人"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3499,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 3,
+    "substat_type": 0,
+    "title": "兄者への伝言",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2023-06-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "甘いアピール",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "早起きのご褒美",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "家族サービス",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "Article of Faith"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "たまには家族サービスを"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3500,
+    "rarity": 3,
+    "character_id": 24,
+    "type": 2,
+    "substat_type": 2,
+    "title": "卒業サプライズ",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2023-06-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "内緒の帰国",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "待ちびと来る",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "報告必須",
+        "type_id": 13
+      }
+    },
+    "associated_story": "遅れてきたお礼"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3501,
+    "rarity": 5,
+    "character_id": 5,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ゆる星パラダイス",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-06-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "好きを詰めた集団",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "南国トロピカル",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ゆるさの極意",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "RELAX PARADISE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "トロピカル衣装",
+          "トロピカル衣装 (SCR)"
+        ],
+        "3d": [
+          "トロピカル衣装",
+          "トロピカル衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "トロピカル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3502,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 4,
+    "substat_type": 1,
+    "title": "個性パラダイス",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2023-06-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "好きを詰めた時間",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "楽園トロピカル",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "懐かしのグッズ",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "RELAX PARADISE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "トロピカル衣装"
+        ],
+        "3d": [
+          "トロピカル衣装"
+        ]
+      }
+    },
+    "associated_story": "トロピカル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3503,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 0,
+    "title": "しんせいぱらだいす",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-06-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "すきをつめたばしょ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "うららかとろぴかる",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "つくえのうえのゆめ",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "RELAX PARADISE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "トロピカル衣装"
+        ],
+        "3d": [
+          "トロピカル衣装"
+        ]
+      }
+    },
+    "associated_story": "トロピカル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3504,
+    "rarity": 3,
+    "character_id": 1,
+    "type": 3,
+    "substat_type": 1,
+    "title": "達成パラダイス",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-06-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "好きを詰めた舞台",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "晴れ晴れトロピカル",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "知らない趣味",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "トロピカル衣装",
+          "私服（春〜夏、ピアス）"
+        ],
+        "3d": [
+          "トロピカル衣装"
+        ]
+      }
+    },
+    "associated_story": "トロピカル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3505,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 1,
+    "substat_type": 2,
+    "title": "隆盛パラダイス",
+    "name": "守沢 千秋",
+    "releaseDate": {
+      "jp": "2023-06-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "好きを詰めた瞬間",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "新風トロピカル",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "見守る未来",
+        "type_id": 13
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "トロピカル衣装"
+        ],
+        "3d": [
+          "トロピカル衣装"
+        ]
+      }
+    },
+    "associated_story": "トロピカル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3506,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 2,
+    "substat_type": 1,
+    "title": "挑戦SUMMER",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2023-06-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "浴びる日差し",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "小麦色の夏",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "美味しい魔法",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Magic for your “Switch”"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "サンタンSUMMER衣装",
+          "私服（春〜夏、エプロン）",
+          "サンタンSUMMER衣装 (SCR)"
+        ],
+        "3d": [
+          "サンタンSUMMER衣装",
+          "サンタンSUMMER衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "サンタンSUMMER"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3507,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 3,
+    "substat_type": 0,
+    "title": "協力SUMMER",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2023-06-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "照らす日差し",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "寄り添う夏",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "息休めのお茶",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Honeycomb Summer"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "サンタンSUMMER衣装"
+        ]
+      }
+    },
+    "associated_story": "サンタンSUMMER"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3508,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 4,
+    "substat_type": 2,
+    "title": "観察SUMMER",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-06-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "遮る日差し",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "癒やされる夏",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "尋ねる本心",
+        "type_id": 13
+      }
+    },
+    "associated_story": "サンタンSUMMER"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3509,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 1,
+    "substat_type": 0,
+    "title": "手助けSUMMER",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2023-06-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "焦がす日差し",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "男気の夏",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "後輩の手伝い",
+        "type_id": 1
+      }
+    },
+    "associated_story": "サンタンSUMMER"
   },
   {
     "compliant": "TRUE",
@@ -151817,5 +152541,316 @@
       }
     },
     "associated_story": "一刀掌握"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3574,
+    "rarity": 5,
+    "character_id": 32,
+    "type": 4,
+    "substat_type": 1,
+    "title": "月光エスケープ",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎得る階層",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "解決マンション",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "安定チームワーク",
+        "type_id": 29
+      }
+    },
+    "spp": {
+      "name": "Death Game Holic"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装",
+          "エスケープマンション衣装(SCR)"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3575,
+    "rarity": 5,
+    "character_id": 41,
+    "type": 1,
+    "substat_type": 0,
+    "title": "勝利エスケープ",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎多い部屋",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "解明マンション",
+        "type_id": 2,
+        "duration": 8
+      },
+      "support": {
+        "name": "Ｖサインの意味",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Heart aid Cafeteria"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装",
+          "エスケープマンション衣装(SCR)"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3576,
+    "rarity": 4,
+    "character_id": 5,
+    "type": 3,
+    "substat_type": 0,
+    "title": "機転エスケープ",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎閃く鍵",
+        "effect_value": "[\"35']",
+        "type_id": 12
+      },
+      "live": {
+        "name": "解析マンション",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "難問マッチング",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "アンリミテッド☆パワー!!!!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3577,
+    "rarity": 4,
+    "character_id": 23,
+    "type": 4,
+    "substat_type": 2,
+    "title": "誘惑エスケープ",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎賭け回廊",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "解釈マンション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "与える挑戦権",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Melody in the Dark"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3578,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 2,
+    "title": "直感エスケープ",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎問う空間",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "解読マンション",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "怪しい雰囲気",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3579,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 2,
+    "substat_type": 0,
+    "title": "着想エスケープ",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎掛ける窓",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "解除マンション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "折り紙の飛行",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3580,
+    "rarity": 3,
+    "character_id": 21,
+    "type": 3,
+    "substat_type": 1,
+    "title": "聡明エスケープ",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2023-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "謎伝う扉",
+        "effect_value": "[\"35']",
+        "type_id": 12
+      },
+      "live": {
+        "name": "解説マンション",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "探索と熟考",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エスケープマンション衣装"
+        ]
+      }
+    },
+    "associated_story": "エスケープマンション"
   }
 ]
