@@ -150267,6 +150267,40 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3462,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 4,
+    "substat_type": 1,
+    "title": "お祭り応援",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-03-22"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "正義の盛り上げ役",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "燃えるアナウンス",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "熱の入る応援",
+        "type_id": 9
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3463,
     "rarity": 5,
     "character_id": 25,
