@@ -152886,5 +152886,286 @@
       }
     },
     "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3637,
+    "rarity": 5,
+    "character_id": 25,
+    "type": 2,
+    "substat_type": 2,
+    "title": "彩られる心",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "放つ光彩"
+      },
+      "live": {
+        "name": "正義の真髄",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "お気に入りの一足",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "アンリミテッド☆パワー!!!!!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3638,
+    "rarity": 4,
+    "character_id": 69,
+    "type": 3,
+    "substat_type": 1,
+    "title": "お世話の方法",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2023-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "やり遂げる意思",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "戸惑う恩返し",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "寮室の異変",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Hysteric Humanoid"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3639,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 4,
+    "substat_type": 0,
+    "title": "かえりみちのきせき",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "ひかるふゆげしき",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "うんめいのぎふと",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "きみょうなきせつ",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "backgrounds": [
+        "セゾンアヴェニュー（冬）"
+      ]
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3644,
+    "rarity": 5,
+    "character_id": 20,
+    "type": 1,
+    "substat_type": 1,
+    "title": "メイド・ムード",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2023-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "自分でつくる色",
+        "effect_value": "[\"120\"[",
+        "type_id": 1
+      },
+      "live": {
+        "name": "プリティアテンダント",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "歓迎のチャンス",
+        "type_id": 28
+      }
+    },
+    "spp": {
+      "name": "Article of Faith"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Made Me衣装",
+          "Made Me衣装 (SCR)"
+        ],
+        "3d": [
+          "Made Me衣装",
+          "Made Me衣装 (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "『プリティルーム』店内"
+      ]
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3645,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 4,
+    "substat_type": 0,
+    "title": "メイド・エネルギー",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2023-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "自分なりの魅力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "気まぐれウェイター",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "おつかいの成果",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "楽園追放 -Faith Conquest-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Made Me衣装"
+        ],
+        "3d": [
+          "Made Me衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3646,
+    "rarity": 3,
+    "character_id": 1,
+    "type": 3,
+    "substat_type": 2,
+    "title": "メイド・サービス",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "自分で見出す理由",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "押せ押せオーダー",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "大切な荷物",
+        "type_id": 13
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3647,
+    "rarity": 3,
+    "character_id": 72,
+    "type": 2,
+    "substat_type": 1,
+    "title": "メイド・リサーチ",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2023-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "自分からの提案",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "手慣れのデシャップ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "お披露目知識",
+        "type_id": 9
+      }
+    }
   }
 ]
