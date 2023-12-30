@@ -149159,7 +149159,7 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "gacha"
+      "type": "event"
     },
     "stats": {
       "ir": {
@@ -150402,7 +150402,7 @@
     "type": 2,
     "substat_type": 0,
     "title": "温雅な花婿修行",
-    "name": "風早 巽",
+    "name": "風早巽",
     "releaseDate": {
       "jp": "2023-05-15"
     },
@@ -151397,7 +151397,7 @@
     "type": 2,
     "substat_type": 0,
     "title": "愛が伝わる方法",
-    "name": "白鳥 藍良",
+    "name": "白鳥藍良",
     "releaseDate": {
       "jp": "2023-06-10"
     },
@@ -152233,7 +152233,7 @@
     "type": 1,
     "substat_type": 2,
     "title": "隆盛パラダイス",
-    "name": "守沢 千秋",
+    "name": "守沢千秋",
     "releaseDate": {
       "jp": "2023-06-30"
     },
@@ -152689,7 +152689,9 @@
     "skills": {
       "center": {
         "name": "謎閃く鍵",
-        "effect_value": "[\"35']",
+        "effect_value": [
+          "35"
+        ],
         "type_id": 12
       },
       "live": {
@@ -152865,7 +152867,9 @@
     "skills": {
       "center": {
         "name": "謎伝う扉",
-        "effect_value": "[\"35']",
+        "effect_value": [
+          "35"
+        ],
         "type_id": 12
       },
       "live": {
