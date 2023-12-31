@@ -152950,7 +152950,20 @@
     },
     "spp": {
       "name": "アンリミテッド☆パワー!!!!!"
-    }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Color your heart",
+          "Color your heart (SCR)"
+        ],
+        "3d": [
+          "Color your heart",
+          "Color your heart (SCR)"
+        ]
+      }
+    },
+    "associated_story": "夢の日々とヒーロー"
   },
   {
     "compliant": "TRUE",
@@ -152988,7 +153001,20 @@
     },
     "spp": {
       "name": "Hysteric Humanoid"
-    }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "気難しいあの子のお世話"
   },
   {
     "compliant": "TRUE",
@@ -153028,7 +153054,8 @@
       "backgrounds": [
         "セゾンアヴェニュー（冬）"
       ]
-    }
+    },
+    "associated_story": "ふゆのすいてい"
   },
   {
     "compliant": "TRUE",
@@ -153081,7 +153108,8 @@
       "backgrounds": [
         "『プリティルーム』店内"
       ]
-    }
+    },
+    "associated_story": "Made Me"
   },
   {
     "compliant": "TRUE",
@@ -153129,7 +153157,8 @@
           "Made Me衣装"
         ]
       }
-    }
+    },
+    "associated_story": "Made Me"
   },
   {
     "compliant": "TRUE",
@@ -153164,7 +153193,8 @@
         "name": "大切な荷物",
         "type_id": 13
       }
-    }
+    },
+    "associated_story": "Made Me"
   },
   {
     "compliant": "TRUE",
@@ -153199,6 +153229,7 @@
         "name": "お披露目知識",
         "type_id": 9
       }
-    }
+    },
+    "associated_story": "Made Me"
   }
 ]
