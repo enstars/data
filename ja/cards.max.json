@@ -147907,6 +147907,9 @@
     "substat_type": 2,
     "title": "ESのアイドル2",
     "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-02-10"
+    },
     "obtain": {
       "type": "special",
       "name": "スクエアスカウト"
@@ -148016,6 +148019,9 @@
     "substat_type": 1,
     "title": "ESのアイドル2",
     "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-02-11"
+    },
     "obtain": {
       "type": "special",
       "name": "スクエアスカウト"
@@ -148125,6 +148131,9 @@
     "substat_type": 2,
     "title": "ESのアイドル2",
     "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2023-02-12"
+    },
     "obtain": {
       "type": "special",
       "name": "スクエアスカウト"
@@ -148189,6 +148198,9 @@
     "substat_type": 1,
     "title": "ESのアイドル2",
     "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-02-13"
+    },
     "obtain": {
       "type": "special",
       "name": "スクエアスカウト"
@@ -148251,6 +148263,9 @@
     "substat_type": 0,
     "title": "ESのアイドル2",
     "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-02-14"
+    },
     "obtain": {
       "type": "special",
       "name": "スクエアスカウト"
@@ -148932,7 +148947,8 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "stats": {
       "ir": {
@@ -148989,7 +149005,8 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "stats": {
       "ir": {
@@ -149047,7 +149064,8 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "stats": {
       "ir": {
@@ -149103,7 +149121,8 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "stats": {
       "ir": {
@@ -149159,7 +149178,8 @@
       "jp": "2023-04-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "stats": {
       "ir": {
@@ -150312,7 +150332,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150360,7 +150381,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150407,7 +150429,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150454,7 +150477,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150500,7 +150524,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150544,7 +150569,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -150588,7 +150614,8 @@
       "jp": "2023-05-15"
     },
     "obtain": {
-      "type": "event"
+      "type": "event",
+      "subType": "tour"
     },
     "skills": {
       "center": {
@@ -153022,7 +153049,9 @@
     "skills": {
       "center": {
         "name": "自分でつくる色",
-        "effect_value": "[\"120\"[",
+        "effect_value": [
+          "120"
+        ],
         "type_id": 1
       },
       "live": {
