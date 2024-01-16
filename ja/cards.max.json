@@ -152470,6 +152470,1314 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3510,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 3,
+    "substat_type": 0,
+    "title": "燃えあがる思い",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2023-07-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "海を渡るもの",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "在るべき場所",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "砂浜の訪問者",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Melody in the Dark"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブレイジング",
+          "ブレイジング (SCR)"
+        ],
+        "3d": [
+          "ブレイジング",
+          "ブレイジング (SCR)"
+        ]
+      }
+    },
+    "associated_story": "この声をあなたのもとに"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3511,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 2,
+    "substat_type": 1,
+    "title": "ニアリーイコール",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2023-07-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "見分けかたのコツ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "客席からのコール",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ルールは簡単",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "歓迎☆トゥ・ウィンク雑技団"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "特訓・葵兄弟見分け術！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3512,
+    "rarity": 3,
+    "character_id": 16,
+    "type": 1,
+    "substat_type": 2,
+    "title": "遊戯は道連れ",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2023-07-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "蹴散らす鬱憤",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "協力ゲーム",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "立ち直りプレイ",
+        "type_id": 1
+      }
+    },
+    "associated_story": "アミューズメントウルフ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3513,
+    "rarity": 4,
+    "character_id": 71,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ギャンブルBee",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2023-07-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "刺激的な空間",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "気まぐれなルート",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "Crazyな気概",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "NA NA NA SUMMER NIGHT BeeAT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3514,
+    "rarity": 4,
+    "character_id": 72,
+    "type": 3,
+    "substat_type": 1,
+    "title": "シークレットBee",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2023-07-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "独占欲のライト",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "堅実な旅計画",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "Crazyな魅力",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "NA NA NA SUMMER NIGHT BeeAT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3515,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 1,
+    "substat_type": 0,
+    "title": "花舞うBee",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-07-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "通い路ステージ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "未知との出会い",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Crazyと縁",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "NA NA NA SUMMER NIGHT BeeAT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3516,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 4,
+    "substat_type": 2,
+    "title": "腹ペコBee",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2023-07-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "フルコースライブ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "食べ歩き旅",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "Crazyも味わい",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "NA NA NA SUMMER NIGHT BeeAT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3517,
+    "rarity": 4,
+    "character_id": 3,
+    "type": 4,
+    "substat_type": 0,
+    "title": "Ra*スポット",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2023-08-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "与えられた居場所",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "空に思い浮かべて",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Ra*bitsな自信",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "ヒカリスペクトル"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3518,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 3,
+    "substat_type": 2,
+    "title": "Ra*フリーダム",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-08-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "跳んで飛ぶメロディ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "過ぎ行く小さな痛み",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "Ra*bitsな気ままさ",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "ヒカリスペクトル"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3519,
+    "rarity": 4,
+    "character_id": 9,
+    "type": 1,
+    "substat_type": 1,
+    "title": "Ra*スペース",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-08-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "可能性の眩しい場所",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "星を掴みに行こう",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "Ra*bitsな進み方",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "ヒカリスペクトル"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3520,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 2,
+    "substat_type": 2,
+    "title": "Ra*ドローイング",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2023-08-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "夢と未来ステージ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "行方知らずの空と道",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Ra*bitsな想いたち",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "ヒカリスペクトル"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3521,
+    "rarity": 4,
+    "character_id": 40,
+    "type": 4,
+    "substat_type": 2,
+    "title": "二つの望み",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-09-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "重なる道の影",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "灰と虹色の星屑",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "Doubleのテクニック",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "ネビュラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3522,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 1,
+    "substat_type": 1,
+    "title": "二つの願い",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-09-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "影たちの使命",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "輝く星屑の夢",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Doubleのパワー",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "ネビュラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3523,
+    "rarity": 4,
+    "character_id": 22,
+    "type": 2,
+    "substat_type": 0,
+    "title": "天使の優雅さ",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-10-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "贈る耀きの世界",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "夢を詰めた愛の歌",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "fineのオーケストラ",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "Angelic Grace"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3524,
+    "rarity": 4,
+    "character_id": 27,
+    "type": 4,
+    "substat_type": 2,
+    "title": "天使のユーモラス",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2023-10-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "共有する夢物語",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "歓びへと続く未来",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "fineなショウ",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "Angelic Grace"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3525,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 3,
+    "substat_type": 0,
+    "title": "天使の愛らしさ",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2023-10-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "宝物になる時間",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "描いた約束の朝",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "fineなスマイル",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "Angelic Grace"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3526,
+    "rarity": 4,
+    "character_id": 19,
+    "type": 1,
+    "substat_type": 1,
+    "title": "天使の麗しさ",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-10-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "求め帰る場所",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "求めあう翼たち",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "fineのエクスペリエンス",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "Angelic Grace"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3527,
+    "rarity": 5,
+    "character_id": 74,
+    "type": 4,
+    "substat_type": 1,
+    "title": "探求アイランド",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の追究者",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "海上での対決",
+        "type_id": 3,
+        "duration": 5
+      },
+      "support": {
+        "name": "生きる希望",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Crazy Anthem"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装",
+          "ドリフトアイランド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3528,
+    "rarity": 5,
+    "character_id": 30,
+    "type": 3,
+    "substat_type": 2,
+    "title": "獲得アイランド",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の探索者",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "おいしい対決",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "波乱の果て",
+        "type_id": 24
+      }
+    },
+    "spp": {
+      "name": "パラレルメイズ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装",
+          "ドリフトアイランド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3529,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 1,
+    "substat_type": 0,
+    "title": "対抗アイランド",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の挑戦者",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "不慣れな対決",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "遭難者発見",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "HEART→BEATER!!!! (ALBUM Mix)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3530,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 4,
+    "substat_type": 2,
+    "title": "才略アイランド",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の考察者",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "手慣れた対決",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "抗えない天命",
+        "type_id": 4
+      }
+    },
+    "spp": {
+      "name": "Death Game Holic"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3531,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 3,
+    "substat_type": 1,
+    "title": "冒険アイランド",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の冒険者",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "ひりつく対決",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "不意打ちの涙",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3532,
+    "rarity": 3,
+    "character_id": 4,
+    "type": 1,
+    "substat_type": 0,
+    "title": "違算アイランド",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の模索者",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "未知との対決",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "悪戯な座標",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3533,
+    "rarity": 3,
+    "character_id": 40,
+    "type": 2,
+    "substat_type": 2,
+    "title": "強行アイランド",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "料理の開拓者",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "万能対決",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "山道抜け道",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドリフトアイランド衣装"
+        ]
+      }
+    },
+    "associated_story": "ゲットアイランド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3534,
+    "rarity": 5,
+    "character_id": 24,
+    "type": 4,
+    "substat_type": 0,
+    "title": "夕焼けのパドル",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2023-07-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "夕立あとの虹",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "融ける雨雲",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "祝福の空",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "Article of Faith"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夕立のパドル衣装",
+          "夕立のパドル衣装 (SCR)"
+        ],
+        "3d": [
+          "夕立のパドル衣装",
+          "夕立のパドル衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "夕立のパドル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3535,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 1,
+    "title": "波紋残すパドル",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-07-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "夕立降る道",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "晴雨のあいだ",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "パリとの往来",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "礼賛歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "夕立のパドル衣装"
+        ]
+      }
+    },
+    "associated_story": "夕立のパドル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3536,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 1,
+    "substat_type": 2,
+    "title": "雨上がるパドル",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2023-07-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "夕立当たる日",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "恵みの喜雨",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "文化の強み",
+        "type_id": 4
+      }
+    },
+    "associated_story": "夕立のパドル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3537,
+    "rarity": 3,
+    "character_id": 14,
+    "type": 3,
+    "substat_type": 0,
+    "title": "滴落とすパドル",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2023-07-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "夕立差す傘",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "助けの瑞雨",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "馴染みの茶",
+        "type_id": 5
+      }
+    },
+    "associated_story": "夕立のパドル"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3538,
     "rarity": 5,
     "character_id": 13,
@@ -152494,6 +153802,7 @@
       },
       "live": {
         "name": "艶めきスター",
+        "type_id": 1,
         "duration": 8
       },
       "support": {
@@ -152544,6 +153853,7 @@
       },
       "live": {
         "name": "射抜く視線",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -152594,6 +153904,7 @@
       },
       "live": {
         "name": "修行隙無し",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
@@ -152602,6 +153913,345 @@
       }
     },
     "associated_story": "一刀掌握"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3541,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 2,
+    "substat_type": 2,
+    "title": "夜明けの守護者",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "愛と信念",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "緊急ミッション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "慣れない子育て",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Bye-Bye Buddy"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ラストミッション衣装",
+          "ラストミッション衣装 (SCR)"
+        ],
+        "3d": [
+          "ラストミッション衣装",
+          "ラストミッション衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ラストミッション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3542,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 3,
+    "substat_type": 1,
+    "title": "帰路の守護者",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2023-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "相棒と選ぶ道",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "遂行ミッション",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "家族の時間",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Bye-Bye Buddy"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ラストミッション衣装"
+        ],
+        "3d": [
+          "ラストミッション衣装"
+        ]
+      }
+    },
+    "associated_story": "ラストミッション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3543,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 4,
+    "substat_type": 0,
+    "title": "企画の支援者",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "合図と役割",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "思惑ミッション",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "世話は匙投げ",
+        "type_id": 1
+      }
+    },
+    "associated_story": "ラストミッション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3544,
+    "rarity": 3,
+    "character_id": 10,
+    "type": 1,
+    "substat_type": 2,
+    "title": "護身の協力者",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2023-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "哀史と真実",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "望蜀ミッション",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "理想の住まい",
+        "type_id": 13
+      }
+    },
+    "associated_story": "ラストミッション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3545,
+    "rarity": 5,
+    "character_id": 69,
+    "type": 4,
+    "substat_type": 2,
+    "title": "宵夜の幻",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2023-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "想い想われ",
+        "effect_value": "[\"50']",
+        "type_id": 16
+      },
+      "live": {
+        "name": "先照らす光",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "迷い出る怪",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Kiss of Life"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "幻想夜光衣装",
+          "幻想夜光衣装 (SCR)"
+        ],
+        "3d": [
+          "幻想夜光衣装",
+          "幻想夜光衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "幻想夜光"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3546,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 2,
+    "substat_type": 0,
+    "title": "暮夜の幻",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2023-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "想う非日常",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "道先行く光",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "雰囲気重視",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Genuine Revelation"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "幻想夜光衣装"
+        ]
+      }
+    },
+    "associated_story": "幻想夜光"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3547,
+    "rarity": 3,
+    "character_id": 3,
+    "type": 1,
+    "substat_type": 0,
+    "title": "白夜の幻",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2023-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "気楽な想い",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "照り返す光",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "呼び掛ける声",
+        "type_id": 1
+      }
+    },
+    "associated_story": "幻想夜光"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3548,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 3,
+    "substat_type": 1,
+    "title": "朧夜の幻",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2023-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "想いは無関係",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "流れゆく光",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "手招く霊魂",
+        "type_id": 9
+      }
+    },
+    "associated_story": "幻想夜光"
   },
   {
     "compliant": "TRUE",
