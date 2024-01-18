@@ -154255,9 +154255,340 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3549,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 3,
+    "substat_type": 0,
+    "title": "着地点の向こう側",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2023-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "等身大の自分",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "理想へ至る道",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "早朝の水飛沫",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "RELAX PARADISE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "NEVER OVER",
+          "体操服（ジャージ、二年生、前閉じ）",
+          "NEVER OVER (SCR)"
+        ],
+        "3d": [
+          "NEVER OVER",
+          "NEVER OVER (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ありのままの自分で"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3550,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 4,
+    "substat_type": 1,
+    "title": "ある日のご馳走",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2023-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "真摯な対話",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "飾らない笑顔",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "知らない記念日",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "パラレルメイズ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "野草とピザ大統領"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3551,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 2,
+    "title": "『へん』なおさかな",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "かんじのうみ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "もりあがるわだい",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "しょうどうがい",
+        "type_id": 13
+      }
+    },
+    "associated_story": "おりじなる『かんじ』"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3552,
+    "rarity": 5,
+    "character_id": 6,
+    "type": 4,
+    "substat_type": 1,
+    "title": "蒼海の王冠",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2023-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "真実の演説",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "輝く広い世界",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "ハチャメチャ演説",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Dreaming Ocean"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『ATLANTIS』衣装",
+          "『ATLANTIS』衣装 (SCR)"
+        ],
+        "3d": [
+          "『ATLANTIS』衣装",
+          "『ATLANTIS』衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "アトランティス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3553,
+    "rarity": 4,
+    "character_id": 27,
+    "type": 3,
+    "substat_type": 0,
+    "title": "蒼海の道化師",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2023-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "真実の風貌",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "輝く水平線",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "演じない心",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Dreaming Ocean"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『ATLANTIS』衣装"
+        ],
+        "3d": [
+          "『ATLANTIS』衣装"
+        ]
+      }
+    },
+    "associated_story": "アトランティス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3554,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 1,
+    "substat_type": 2,
+    "title": "蒼海の支配者",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "真実の政",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "輝く水面下",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "冷静な指摘",
+        "type_id": 13
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『ATLANTIS』衣装"
+        ],
+        "3d": [
+          "『ATLANTIS』衣装"
+        ]
+      }
+    },
+    "associated_story": "アトランティス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3555,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 2,
+    "substat_type": 1,
+    "title": "蒼海の世話役",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "真実の察知",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "輝く波飛沫",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "苦難の共感",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "『ATLANTIS』衣装"
+        ],
+        "3d": [
+          "『ATLANTIS』衣装"
+        ]
+      }
+    },
+    "associated_story": "アトランティス"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3574,
     "rarity": 5,
-    "character_id": 32,
+    "character_id": 16,
     "type": 4,
     "substat_type": 1,
     "title": "月光エスケープ",
@@ -154304,7 +154635,7 @@
     "compliant": "TRUE",
     "id": 3575,
     "rarity": 5,
-    "character_id": 41,
+    "character_id": 10,
     "type": 1,
     "substat_type": 0,
     "title": "勝利エスケープ",
@@ -154878,5 +155209,174 @@
       }
     },
     "associated_story": "Made Me"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3701,
+    "rarity": 5,
+    "character_id": 34,
+    "type": 2,
+    "substat_type": 2,
+    "title": "伝説の黄金天",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "天駆ける竜神",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "マキナの伝説",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "ややこしい展開",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "パラダイム・リバーシ！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "黄金天衣装",
+          "黄金天衣装 (SCR)"
+        ],
+        "3d": [
+          "黄金天衣装",
+          "黄金天衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "黄金天"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3702,
+    "rarity": 4,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 0,
+    "title": "観察の黄金天",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "追いかける神",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "伝説の感想",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "片付いた宿題",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "辻風に吹かれて"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "黄金天衣装"
+        ]
+      }
+    },
+    "associated_story": "黄金天"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3703,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 1,
+    "substat_type": 1,
+    "title": "伝道の黄金天",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2023-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "想像する神",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "伝説の始まり",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "気になるワード",
+        "type_id": 4
+      }
+    },
+    "associated_story": "黄金天"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3704,
+    "rarity": 3,
+    "character_id": 50,
+    "type": 4,
+    "substat_type": 2,
+    "title": "経験の黄金天",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-12-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "手助けする神",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "伝説の解読",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "感心する強さ",
+        "type_id": 13
+      }
+    },
+    "associated_story": "黄金天"
   }
 ]
