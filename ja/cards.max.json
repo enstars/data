@@ -156722,5 +156722,140 @@
       }
     },
     "associated_story": "宝相華"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3717,
+    "rarity": 5,
+    "character_id": 17,
+    "type": 4,
+    "substat_type": 2,
+    "title": "薔薇色の休息",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "癒やされる鼓動",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "自分らしい姿",
+        "duration": 12
+      },
+      "support": {
+        "name": "幸福な時間",
+        "type_id": 3
+      }
+    },
+    "spp": {
+      "name": "Mystic Fragrance"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "赤い鼓動",
+          "赤い鼓動 (SCR)"
+        ],
+        "3d": [
+          "赤い鼓動",
+          "赤い鼓動 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "まどろみの黒騎士"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3718,
+    "rarity": 4,
+    "character_id": 16,
+    "type": 3,
+    "substat_type": 0,
+    "title": "はじめてのサミット",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "吠える理想の夢",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "巻き起こす新風",
+        "duration": 5
+      },
+      "support": {
+        "name": "代理の言葉",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "ROCK ROAR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "サミットに吠える"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3719,
+    "rarity": 3,
+    "character_id": 27,
+    "type": 1,
+    "substat_type": 1,
+    "title": "予定外の演出",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-01-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "息の合った手品",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "突発エスコート",
+        "duration": 8
+      },
+      "support": {
+        "name": "手招くステージ",
+        "type_id": 1
+      }
+    },
+    "associated_story": "ふたつのショウ"
   }
 ]
