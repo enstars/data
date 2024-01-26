@@ -154586,6 +154586,840 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3556,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 1,
+    "substat_type": 0,
+    "title": "魔王城への入場",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2023-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "キラーチューン",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "王者の証",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "戦士の行進",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Crush of Judgment"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナイトキラーズ衣装",
+          "灰燼ナイトキラーズ衣装",
+          "灰燼ナイトキラーズ衣装 (SCR)"
+        ],
+        "3d": [
+          "灰燼ナイトキラーズ衣装",
+          "灰燼ナイトキラーズ衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ナイトキラーズ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3557,
+    "rarity": 4,
+    "character_id": 26,
+    "type": 3,
+    "substat_type": 2,
+    "title": "仕立て屋の魂",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2023-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "キラーコスチューム",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "王者の矜持",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "言葉の拘束力",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Crush of Judgment"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナイトキラーズ衣装",
+          "灰燼ナイトキラーズ衣装"
+        ]
+      }
+    },
+    "associated_story": "ナイトキラーズ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3558,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 4,
+    "substat_type": 1,
+    "title": "お忍び戦士",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "キラースポンサー",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "王者の資格",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "しばしの休息",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナイトキラーズ衣装"
+        ]
+      }
+    },
+    "associated_story": "ナイトキラーズ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3559,
+    "rarity": 3,
+    "character_id": 30,
+    "type": 2,
+    "substat_type": 2,
+    "title": "頼れる味方",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "キラーシンガー",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "王者の意地",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "成長のスケール",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ナイトキラーズ衣装"
+        ]
+      }
+    },
+    "associated_story": "ナイトキラーズ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3560,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ほどける言の葉",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2023-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "天邪鬼な風",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "瞳見透かす",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "長く過ごした場所",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "デートプランA to Z"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ライト・ウィンド",
+          "ライト・ウィンド (SCR)"
+        ],
+        "3d": [
+          "ライト・ウィンド",
+          "ライト・ウィンド (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "夢ノ咲学院バスケットコート"
+      ]
+    },
+    "associated_story": "積み重ねた日々"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3561,
+    "rarity": 4,
+    "character_id": 19,
+    "type": 4,
+    "substat_type": 2,
+    "title": "キングとの絆",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "厳しい特訓",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "一芸披露",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "共に暮らす仲",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Dreaming Ocean"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "忠犬も歩けば棒に当たる"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3562,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 1,
+    "title": "今見る輝き",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "枠に収まらない星",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "残したい一枚",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "撮影の難しさ",
+        "type_id": 4
+      }
+    },
+    "associated_story": "変わらない輝きよりも"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3563,
+    "rarity": 5,
+    "character_id": 35,
+    "type": 4,
+    "substat_type": 2,
+    "title": "語る恋物語",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "読み解く意義",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "強い絆の存在",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "花の都描く世界",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Le temps des fleurs"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "レゾンデートル衣装",
+          "私服（秋〜冬＋レゾンデートルマドモアゼル）",
+          "レゾンデートル衣装 (SCR)"
+        ],
+        "3d": [
+          "レゾンデートル衣装",
+          "レゾンデートル衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "レゾンデートル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3564,
+    "rarity": 4,
+    "character_id": 34,
+    "type": 2,
+    "substat_type": 1,
+    "title": "語る芸術家",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "空想世界の意義",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "交わす言葉の存在",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "パリの路地裏",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Le temps des fleurs"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "レゾンデートル衣装",
+          "レゾンデートル衣装（お揃い）",
+          "私服（秋〜冬＋レゾンデートルマドモアゼル）"
+        ],
+        "3d": [
+          "レゾンデートル衣装"
+        ]
+      }
+    },
+    "associated_story": "レゾンデートル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3565,
+    "rarity": 3,
+    "character_id": 30,
+    "type": 3,
+    "substat_type": 0,
+    "title": "代わる友情",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2023-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "証明する意義",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "変化していく存在",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "貴重な人材",
+        "type_id": 5
+      }
+    },
+    "associated_story": "レゾンデートル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3566,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 1,
+    "substat_type": 2,
+    "title": "代わる役回り",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2023-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "協力する意義",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "見守る存在",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "見えない話題",
+        "type_id": 13
+      }
+    },
+    "associated_story": "レゾンデートル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3567,
+    "rarity": 5,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ひみつのうみ",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2023-08-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "しんかいのこどう",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "とくべつなしずく",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "たいくつなかみ",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "辻風に吹かれて"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "海の鼓動衣装",
+          "私服（秋〜冬、濡れすけ）",
+          "海の鼓動衣装 (SCR)"
+        ],
+        "3d": [
+          "海の鼓動衣装",
+          "海の鼓動衣装 (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "神の御座所"
+      ]
+    },
+    "associated_story": "ABYSS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3568,
+    "rarity": 4,
+    "character_id": 14,
+    "type": 2,
+    "substat_type": 1,
+    "title": "果てない海",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2023-08-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "染み渡る鼓動",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "残していく滴",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "自由な時間",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "斬 ー決意ノ刃ー"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "海の鼓動衣装",
+          "私服（幼少期、濡れすけ）"
+        ]
+      },
+      "backgrounds": [
+        "葬式会場",
+        "屋敷の廊下"
+      ]
+    },
+    "associated_story": "ABYSS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3569,
+    "rarity": 4,
+    "character_id": 40,
+    "type": 3,
+    "substat_type": 0,
+    "title": "味方する海",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2023-08-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "満ち干く鼓動",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "輪を描く滴",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "正義の勲章",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "辻風に吹かれて"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "海の鼓動衣装",
+          "私服（幼少期、濡れすけ、怪我）"
+        ]
+      },
+      "backgrounds": [
+        "地下水路"
+      ]
+    },
+    "associated_story": "ABYSS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3570,
+    "rarity": 3,
+    "character_id": 23,
+    "type": 4,
+    "substat_type": 2,
+    "title": "風そよぐ海",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2023-08-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "波なぞる鼓動",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "側にいる滴",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "今ある幸せ",
+        "type_id": 1
+      }
+    },
+    "associated_story": "ABYSS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3571,
+    "rarity": 5,
+    "character_id": 42,
+    "type": 3,
+    "substat_type": 0,
+    "title": "研ぎ澄まされる視線",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2023-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "掴み取る光",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "努力の実現",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "騒々しい日々",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "FIST OF SOUL"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "keen eyed",
+          "keen eyed (SCR)"
+        ],
+        "3d": [
+          "keen eyed",
+          "keen eyed (SCR)"
+        ]
+      }
+    },
+    "associated_story": "騒がしい此方で笑む"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3572,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 1,
+    "substat_type": 1,
+    "title": "アプローチショット",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2023-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "決めるインパクト",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "ブレイクスター",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "経験者のアドバイス",
+        "type_id": 1
+      }
+    },
+    "spp": {
+      "name": "BREAKTHROUGH!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "編み出せ必殺技！"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3573,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 2,
+    "substat_type": 2,
+    "title": "バランスゲーム",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2023-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "友好のフェイズ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "遊戯日和",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "暇人探し",
+        "type_id": 4
+      }
+    },
+    "associated_story": "旧き友との遊戯"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3574,
     "rarity": 5,
     "character_id": 16,
@@ -154898,6 +155732,589 @@
       }
     },
     "associated_story": "エスケープマンション"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3581,
+    "rarity": 5,
+    "character_id": 9,
+    "type": 2,
+    "substat_type": 1,
+    "title": "運拾うサバイバー",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スポーツの醍醐味",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "有り余る体力",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "思いがけないサービス",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "デートプランA to Z"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スポーツサバイバー衣装",
+          "スポーツサバイバー衣装 (SCR)"
+        ],
+        "3d": [
+          "スポーツサバイバー衣装",
+          "スポーツサバイバー衣装 (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "公園の雑木林"
+      ]
+    },
+    "associated_story": "スポーツサバイバー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3582,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 1,
+    "substat_type": 0,
+    "title": "提案サバイバー",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2023-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スポーツと協調性",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "打ち込む体力",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "地中の宝物",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "RELAX PARADISE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スポーツサバイバー衣装"
+        ]
+      }
+    },
+    "associated_story": "スポーツサバイバー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3583,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 0,
+    "title": "善行サバイバー",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2023-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スポーツの可能性",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "費やす体力",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "缶蹴り希望",
+        "type_id": 5
+      }
+    },
+    "associated_story": "スポーツサバイバー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3584,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 4,
+    "substat_type": 2,
+    "title": "競争サバイバー",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スポーツでの発見",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "尽きない体力",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "見つける思い出",
+        "type_id": 4
+      }
+    },
+    "associated_story": "スポーツサバイバー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3585,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 1,
+    "substat_type": 1,
+    "title": "体力サバイバー",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2023-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "スポーツと安らぎ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "型破りな体力",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "手加減無用",
+        "type_id": 1
+      }
+    },
+    "associated_story": "スポーツサバイバー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3586,
+    "rarity": 5,
+    "character_id": 11,
+    "type": 2,
+    "substat_type": 2,
+    "title": "願い込める時間",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2023-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "スマイル満開",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "照らされる道",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "表現力の特訓",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Welcome to the Trickstar Night☆"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "wishes in flowers",
+          "wishes in flowers (SCR)"
+        ],
+        "3d": [
+          "wishes in flowers",
+          "wishes in flowers (SCR)"
+        ]
+      }
+    },
+    "associated_story": "特訓中の一番星"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3587,
+    "rarity": 4,
+    "character_id": 20,
+    "type": 1,
+    "substat_type": 1,
+    "title": "寄り道はレモン味",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2023-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "風くすぐる香気",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "弾けるフレッシュ",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "率直な感想",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "暑さを吹っ飛ばす一杯"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3588,
+    "rarity": 3,
+    "character_id": 72,
+    "type": 4,
+    "substat_type": 0,
+    "title": "落ち着かない姿",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2023-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "装うルックス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "美味しい生活",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "計算外の反応",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬）"
+        ]
+      }
+    },
+    "associated_story": "見慣れない姿"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3589,
+    "rarity": 3,
+    "character_id": 23,
+    "type": 4,
+    "substat_type": 1,
+    "title": "お祭り応援",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2023-08-11"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "夏の盛り上げ役",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "ときめきアナウンス",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "未知数即興劇",
+        "type_id": 4
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3590,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 4,
+    "substat_type": 0,
+    "title": "導き手の戦乙女",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2023-11-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "あまねく愛の形",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "醜くも美しい旋律",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Valkyrieの主軸",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "祝福のLibrary"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3591,
+    "rarity": 4,
+    "character_id": 34,
+    "type": 3,
+    "substat_type": 2,
+    "title": "誘い手の戦乙女",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2023-11-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "すべてを捧げる夢",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "愛と罪の作品",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "Valkyrieの異軸",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "祝福のLibrary"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3592,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ピカピカ双子星",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2023-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "前を向いてススメ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "一撃、集中、一直線！",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "2winkのスイート☆",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "トゥウィンクル空中戦"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3593,
+    "rarity": 4,
+    "character_id": 8,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ギラギラ双子星",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2023-12-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "振り向かずススメ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "光線、混戦、空中戦！",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "2winkのスパイシー！",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "トゥウィンクル空中戦"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
   },
   {
     "compliant": "TRUE",
