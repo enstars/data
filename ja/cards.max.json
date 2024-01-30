@@ -158274,5 +158274,170 @@
       }
     },
     "associated_story": "ふたつのショウ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3724,
+    "rarity": 5,
+    "character_id": 6,
+    "type": 1,
+    "substat_type": 0,
+    "title": "蜜月喫茶",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "急接近の恋",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "甘く濃い時間",
+        "duration": 5
+      },
+      "support": {
+        "name": "告げる決意",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "恋はプリマヴェーラ！"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "恋こい喫茶衣装",
+          "恋こい喫茶衣装 (SCR)"
+        ],
+        "3d": [
+          "恋こい喫茶衣装",
+          "恋こい喫茶衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "恋こい喫茶"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3725,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 2,
+    "substat_type": 2,
+    "title": "微熱喫茶",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2024-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "栄養満点の恋",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "憩いの空間",
+        "duration": 12
+      },
+      "support": {
+        "name": "非日常への馴れ",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Be The Party Bee!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "恋こい喫茶衣装"
+        ]
+      }
+    },
+    "associated_story": "恋こい喫茶"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3726,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 1,
+    "title": "慕情喫茶",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "演出する恋",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "故意な戯れ",
+        "duration": 8
+      },
+      "support": {
+        "name": "気持ち高ぶる味",
+        "type_id": 4
+      }
+    },
+    "associated_story": "恋こい喫茶"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3727,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 4,
+    "substat_type": 2,
+    "title": "純粋喫茶",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-01-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "惑わされる恋",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "推測する底意",
+        "duration": 5
+      },
+      "support": {
+        "name": "思いがけない得意技",
+        "type_id": 13
+      }
+    },
+    "associated_story": "恋こい喫茶"
   }
 ]
