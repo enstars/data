@@ -158277,6 +158277,184 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3720,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 1,
+    "substat_type": 0,
+    "title": "電脳キャンディー",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実を結ぶ世界",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "笑顔色の瞳",
+        "duration": 12
+      },
+      "support": {
+        "name": "もうひとつの姿",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Chocola-Tic After School"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "キャンディーハウス衣装",
+          "キャンディーハウス衣装 (SCR)"
+        ],
+        "3d": [
+          "キャンディーハウス衣装",
+          "キャンディーハウス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "キャンディーハウス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3721,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 2,
+    "substat_type": 2,
+    "title": "想像キャンディー",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実と変わる場所",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "仮想が彩る瞳",
+        "duration": 8
+      },
+      "support": {
+        "name": "心配性の勘",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Chocola-Tic After School"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "キャンディーハウス衣装"
+        ],
+        "3d": [
+          "キャンディーハウス衣装"
+        ]
+      }
+    },
+    "associated_story": "キャンディーハウス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3722,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 0,
+    "title": "空間キャンディー",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実が見せる今",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "繋がる感情の瞳",
+        "duration": 12
+      },
+      "support": {
+        "name": "浮かれる季節",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "キャンディーハウス衣装"
+        ],
+        "3d": [
+          "キャンディーハウス衣装"
+        ]
+      }
+    },
+    "associated_story": "キャンディーハウス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3723,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 3,
+    "substat_type": 1,
+    "title": "覆面キャンディー",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-01-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実に戻る時間",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "引き継ぐ電子の瞳",
+        "duration": 5
+      },
+      "support": {
+        "name": "心弾む噂",
+        "type_id": 4
+      }
+    },
+    "associated_story": "キャンディーハウス"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3724,
     "rarity": 5,
     "character_id": 6,
@@ -158439,5 +158617,38 @@
       }
     },
     "associated_story": "恋こい喫茶"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3754,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 4,
+    "substat_type": 1,
+    "title": "お祭り応援",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-01-31"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "Triangleの盛り上げ役",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "白熱アナウンス",
+        "duration": 12
+      },
+      "support": {
+        "name": "奪い合い即興劇",
+        "type_id": 9
+      }
+    }
   }
 ]
