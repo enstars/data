@@ -156575,7 +156575,13 @@
     },
     "skills": {
       "center": {
-        "name": "放つ光彩"
+        "name": "放つ光彩",
+        "effect_value": [
+          "50",
+          "60"
+        ],
+        "type_id": 17,
+        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
       },
       "live": {
         "name": "正義の真髄",
