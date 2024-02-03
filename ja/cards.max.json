@@ -147243,6 +147243,51 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3406,
+    "rarity": 5,
+    "character_id": 19,
+    "type": 4,
+    "substat_type": 0,
+    "title": "輝く友と進む先",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2023-03-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "忠誠と共に",
+        "effect_value": [
+          "50",
+          "60"
+        ]
+      },
+      "live": {
+        "name": "側にある止り木",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "交渉術の披露",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "始まりのファンタジア"
+    },
+    "items": {
+      "outfit": {
+        "l2d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)",
+        "3d": "グラデュエーション衣装/グラデュエーション衣装 (SCR)"
+      }
+    },
+    "associated_story": "グラデュエーション"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3407,
     "rarity": 4,
     "character_id": 16,
