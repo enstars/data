@@ -147263,7 +147263,8 @@
         "effect_value": [
           "50",
           "60"
-        ]
+        ],
+        "type_id": 17
       },
       "live": {
         "name": "側にある止り木",
@@ -156580,8 +156581,7 @@
           "50",
           "60"
         ],
-        "type_id": 17,
-        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
+        "type_id": 17
       },
       "live": {
         "name": "正義の真髄",
@@ -158217,6 +158217,7 @@
       },
       "live": {
         "name": "自分らしい姿",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -158267,6 +158268,7 @@
       },
       "live": {
         "name": "巻き起こす新風",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
@@ -158317,6 +158319,7 @@
       },
       "live": {
         "name": "突発エスコート",
+        "type_id": 1,
         "duration": 8
       },
       "support": {
@@ -158352,6 +158355,7 @@
       },
       "live": {
         "name": "笑顔色の瞳",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -158402,6 +158406,7 @@
       },
       "live": {
         "name": "仮想が彩る瞳",
+        "type_id": 1,
         "duration": 8
       },
       "support": {
@@ -158450,6 +158455,7 @@
       },
       "live": {
         "name": "繋がる感情の瞳",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -158495,6 +158501,7 @@
       },
       "live": {
         "name": "引き継ぐ電子の瞳",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
@@ -158530,6 +158537,7 @@
       },
       "live": {
         "name": "甘く濃い時間",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
@@ -158580,6 +158588,7 @@
       },
       "live": {
         "name": "憩いの空間",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -158625,6 +158634,7 @@
       },
       "live": {
         "name": "故意な戯れ",
+        "type_id": 1,
         "duration": 8
       },
       "support": {
@@ -158660,6 +158670,7 @@
       },
       "live": {
         "name": "推測する底意",
+        "type_id": 1,
         "duration": 5
       },
       "support": {
