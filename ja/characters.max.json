@@ -19,7 +19,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "ティーカップ収集",
-    "speciality": "社交ダンス",
+    "specialty": "社交ダンス",
     "circle": [
       "sports",
       "teaflavor"
@@ -60,7 +60,7 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "他人の物まね",
-    "speciality": "手品",
+    "specialty": "手品",
     "circle": [
       "dramatica",
       "bioanimal"
@@ -101,7 +101,7 @@
     "age": 16,
     "blood_type": "B",
     "hobby": "カラオケ",
-    "speciality": "速記",
+    "specialty": "速記",
     "circle": [
       "archivemanga",
       "pretty5"
@@ -143,7 +143,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "掃除",
-    "speciality": "体術",
+    "specialty": "体術",
     "circle": [
       "kitchen",
       "lecturekeito"
@@ -184,7 +184,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "クロスワードパズル",
-    "speciality": "歌",
+    "specialty": "歌",
     "circle": [
       "dramatica",
       "craftmonster"
@@ -227,7 +227,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "大吉の散歩、渾名の命名",
-    "speciality": "ヒップホップダンス",
+    "specialty": "ヒップホップダンス",
     "circle": [
       "bioanimal",
       "sports"
@@ -269,7 +269,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "UFOキャッチャー、格ゲー",
-    "speciality": "電子機器いじり",
+    "specialty": "電子機器いじり",
     "circle": [
       "craftmonster",
       "mystery"
@@ -311,7 +311,7 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "TV鑑賞、マンガ",
-    "speciality": "ギター",
+    "specialty": "ギター",
     "circle": [
       "archivemanga",
       "bandbb"
@@ -353,7 +353,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "特撮番組鑑賞",
-    "speciality": "スタント技",
+    "specialty": "スタント技",
     "circle": [
       "sports",
       "shin"
@@ -392,7 +392,7 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "海辺の散歩",
-    "speciality": "手刀",
+    "specialty": "手刀",
     "circle": [
       "bioocean",
       "mystery"
@@ -431,7 +431,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "筋トレ",
-    "speciality": "炎を使った漢の料理",
+    "specialty": "炎を使った漢の料理",
     "circle": [
       "shin",
       "lectureibara"
@@ -472,7 +472,7 @@
     "age": 16,
     "blood_type": "O",
     "hobby": "ゆるキャラグッズ集め",
-    "speciality": "逆立ち",
+    "specialty": "逆立ち",
     "circle": [
       "archivemanga",
       "gardenia"
@@ -513,7 +513,7 @@
     "age": 17,
     "blood_type": "AB",
     "hobby": "カエルの飼育",
-    "speciality": "火の輪くぐり",
+    "specialty": "火の輪くぐり",
     "circle": [
       "bioocean",
       "asobi"
@@ -554,7 +554,7 @@
     "age": 16,
     "blood_type": "A",
     "hobby": "シルバー集め",
-    "speciality": "格闘技やスポーツ全般",
+    "specialty": "格闘技やスポーツ全般",
     "circle": [
       "shin",
       "lecturekeito"
@@ -592,7 +592,7 @@
     "age": 15,
     "blood_type": "B",
     "hobby": "アイドル研究",
-    "speciality": "アイドルに関する知識",
+    "specialty": "アイドルに関する知識",
     "circle": [
       "pretty5",
       "lecturekeito"
@@ -629,7 +629,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "ジオラマづくり",
-    "speciality": "細かい手仕事",
+    "specialty": "細かい手仕事",
     "circle": [
       "sweets",
       "overnight"
@@ -665,7 +665,7 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "整理整頓、文筆",
-    "speciality": "探しもの、物覚え",
+    "specialty": "探しもの、物覚え",
     "circle": [
       "teaflavor",
       "gardenia"
@@ -701,7 +701,7 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "人との関わり",
-    "speciality": "何でもできる",
+    "specialty": "何でもできる",
     "circle": [
       "dramatica",
       "archivebook"
@@ -736,7 +736,7 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "買い物",
-    "speciality": "記憶力",
+    "specialty": "記憶力",
     "circle": [
       "teaflavor",
       "pretty5"
@@ -770,7 +770,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "戦略",
-    "speciality": "褒め殺し",
+    "specialty": "褒め殺し",
     "circle": [
       "kitchen",
       "lectureibara"
@@ -807,7 +807,7 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "嫌み",
-    "speciality": "即興のポージング",
+    "specialty": "即興のポージング",
     "circle": [
       "archivemanga",
       "asobi"
@@ -843,7 +843,7 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "人形の洋服作り",
-    "speciality": "レース編み",
+    "specialty": "レース編み",
     "circle": [
       "dramatica",
       "craftmonster"
@@ -877,7 +877,7 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "ぬいぐるみ収集",
-    "speciality": "あやとり",
+    "specialty": "あやとり",
     "circle": [
       "pretty5",
       "lecturekeito"
@@ -914,7 +914,7 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
-    "speciality": "シンクロ（水泳）",
+    "specialty": "シンクロ（水泳）",
     "circle": [
       "gardenia",
       "bandbb"
@@ -951,7 +951,7 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
-    "speciality": "シンクロ（水泳）",
+    "specialty": "シンクロ（水泳）",
     "circle": [
       "bandbb",
       "asobi"
@@ -988,7 +988,7 @@
     "age": 21,
     "blood_type": "A",
     "hobby": "ギャンブル",
-    "speciality": "アドリブ",
+    "specialty": "アドリブ",
     "circle": [
       "asobi",
       "craftmonster"
@@ -1021,7 +1021,7 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "帽子集め",
-    "speciality": "推理",
+    "specialty": "推理",
     "circle": [
       "sweets",
       "lectureibara"
@@ -1060,7 +1060,7 @@
     "age": 15,
     "blood_type": "B",
     "hobby": "習い事",
-    "speciality": "古典芸能",
+    "specialty": "古典芸能",
     "circle": [
       "teakaori",
       "sweets"
@@ -1097,7 +1097,7 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "料理",
-    "speciality": "一度覚えた味は再現できる",
+    "specialty": "一度覚えた味は再現できる",
     "circle": [
       "kitchen",
       "overnight"
@@ -1132,7 +1132,7 @@
     "age": 19,
     "blood_type": "B",
     "hobby": "庭園の散歩",
-    "speciality": "ジャズダンス",
+    "specialty": "ジャズダンス",
     "circle": [
       "bandbb",
       "mystery"
@@ -1166,7 +1166,7 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "デート、マリンスポーツ",
-    "speciality": "女の子の嗅ぎ分け",
+    "specialty": "女の子の嗅ぎ分け",
     "circle": [
       "archivebook",
       "bioocean"
@@ -1200,7 +1200,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "カードゲーム",
-    "speciality": "エレキギター",
+    "specialty": "エレキギター",
     "circle": [
       "bioanimal",
       "bandbb"
@@ -1237,7 +1237,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "小さな生き物を眺める事",
-    "speciality": "オカリナ",
+    "specialty": "オカリナ",
     "circle": [
       "sports",
       "teakaori"
@@ -1273,7 +1273,7 @@
     "age": 16,
     "blood_type": "A",
     "hobby": "音楽鑑賞、マンガ",
-    "speciality": "動物に好かれやすい",
+    "specialty": "動物に好かれやすい",
     "circle": [
       "dramatica",
       "bioanimal"
@@ -1316,7 +1316,7 @@
     "age": 19,
     "blood_type": "O",
     "hobby": "携帯ゲーム",
-    "speciality": "高さのあるパフォーマンス",
+    "specialty": "高さのあるパフォーマンス",
     "circle": [
       "bioanimal",
       "mystery"
@@ -1350,7 +1350,7 @@
     "age": 16,
     "blood_type": "O",
     "hobby": "ひなたぼっこ、ダッシュ",
-    "speciality": "バク転",
+    "specialty": "バク転",
     "circle": [
       "sports",
       "overnight"
@@ -1387,7 +1387,7 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "絵、天体観測",
-    "speciality": "速読",
+    "specialty": "速読",
     "circle": [
       "teaflavor",
       "archivebook",
@@ -1424,7 +1424,7 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "読書",
-    "speciality": "三味線",
+    "specialty": "三味線",
     "circle": [
       "dramatica",
       "lecturekeito",
@@ -1459,7 +1459,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "刺繍（裁縫）",
-    "speciality": "喧嘩",
+    "specialty": "喧嘩",
     "circle": [
       "shin",
       "overnight"
@@ -1494,7 +1494,7 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "精神統一、料理",
-    "speciality": "立ったまま寝られる",
+    "specialty": "立ったまま寝られる",
     "circle": [
       "teakaori",
       "kitchen"
@@ -1531,7 +1531,7 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "チェス",
-    "speciality": "騎射",
+    "specialty": "騎射",
     "circle": [
       "archivebook",
       "sweets",
@@ -1569,7 +1569,7 @@
     "age": 19,
     "blood_type": "O",
     "hobby": "作曲",
-    "speciality": "即興ダンス",
+    "specialty": "即興ダンス",
     "circle": [
       "dramatica",
       "overnight"
@@ -1604,7 +1604,7 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "後輩いびり",
-    "speciality": "バレエ",
+    "specialty": "バレエ",
     "circle": [
       "kitchen",
       "bioocean"
@@ -1638,7 +1638,7 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "睡眠",
-    "speciality": "ピアノ",
+    "specialty": "ピアノ",
     "circle": [
       "teaflavor",
       "craftmonster"
@@ -1674,7 +1674,7 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "ショッピング",
-    "speciality": "暗記",
+    "specialty": "暗記",
     "circle": [
       "dramatica",
       "pretty5"
@@ -1711,7 +1711,7 @@
     "age": 17,
     "blood_type": "AB",
     "hobby": "無趣味",
-    "speciality": "指パッチン",
+    "specialty": "指パッチン",
     "circle": [
       "dramatica",
       "gardenia",
@@ -1750,7 +1750,7 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "風水、おまじない、占い",
-    "speciality": "相手のサポート",
+    "specialty": "相手のサポート",
     "circle": [
       "archivebook",
       "mystery"
@@ -1784,7 +1784,7 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "音楽鑑賞、音ゲー",
-    "speciality": "パルクール",
+    "specialty": "パルクール",
     "circle": [
       "asobi",
       "lectureibara"
@@ -1823,7 +1823,7 @@
     "age": 19,
     "blood_type": "A",
     "hobby": "楽しいこと探し",
-    "speciality": "派手なパフォーマンス",
+    "specialty": "派手なパフォーマンス",
     "circle": [
       "teakaori",
       "shin"
@@ -1855,7 +1855,7 @@
     "age": 31,
     "blood_type": "A",
     "hobby": "昼寝、お酒",
-    "speciality": "テーピング",
+    "specialty": "テーピング",
     "quote": "老いぼれてから後悔しないように、限られた時間を有効活用しろよ",
     "tagline": "今は隠居の元スーパーアイドル",
     "introduction": "ESの事業部でアイドルたちのサポートをしている。 面倒臭がりで人任せなところがあるが、真面目で後輩想いなところがある。 夢ノ咲学院の教師でもあり、生徒の体調管理を任されているスポーツドクター。 元スーパーアイドルで、OBとしてのアドバイスもしている。"
@@ -1878,7 +1878,7 @@
     "age": 29,
     "blood_type": "A",
     "hobby": "音読",
-    "speciality": "歌",
+    "specialty": "歌",
     "quote": "傍観者を気取ってないで、私もサポートに動いたほうが良いですかね",
     "tagline": "スパルタ指導の元アイドル",
     "introduction": "ESの事業部でアイドルたちのサポートをしている。 真面目で厳格な性格だが、後輩たちの成長のために厳しくしているところが多い。 夢ノ咲学院の教師でもあり、生徒たちの生活指導や授業も持っている。 元モデル出身のアイドルで、OBとしてのアドバイスもしている。"
