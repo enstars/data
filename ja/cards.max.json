@@ -147264,7 +147264,8 @@
           "50",
           "60"
         ],
-        "type_id": 17
+        "type_id": 17,
+        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
       },
       "live": {
         "name": "側にある止り木",
@@ -156560,6 +156561,348 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3598,
+    "rarity": 5,
+    "character_id": 8,
+    "type": 4,
+    "substat_type": 2,
+    "title": "表舞台への裏道",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2023-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "理想×不変",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "真実の権利",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "隠さない本心",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Love×me⇄monsteR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（春〜夏、長髪）",
+          "2×2衣装",
+          "2×2衣装 (SCR)"
+        ],
+        "3d": [
+          "2×2衣装",
+          "2×2衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "２×２"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3599,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 1,
+    "substat_type": 0,
+    "title": "表現する裏技",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2023-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "現実×変化",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "嘘つきの義務",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "戸惑い告白",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Love×me⇄monsteR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "2×2衣装"
+        ],
+        "3d": [
+          "2×2衣装"
+        ]
+      }
+    },
+    "associated_story": "２×２"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3600,
+    "rarity": 3,
+    "character_id": 50,
+    "type": 2,
+    "substat_type": 1,
+    "title": "裏返す表情",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2023-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "協調×無欲",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "嘘の実践",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "頼れるお友達",
+        "type_id": 9
+      }
+    },
+    "associated_story": "２×２"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3601,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 3,
+    "substat_type": 0,
+    "title": "裏方の表明",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "対立×貪欲",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "真実の理論",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "困惑直談判",
+        "type_id": 1
+      }
+    },
+    "associated_story": "２×２"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3602,
+    "rarity": 5,
+    "character_id": 51,
+    "type": 3,
+    "substat_type": 0,
+    "title": "過ごすプライベート",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "リラックスルーム",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "磨き抜かれた時間",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "テキパキDIY",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Ruler’s Truth"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "プライベートルーム衣装",
+          "プライベートルーム衣装 (SCR)"
+        ],
+        "3d": [
+          "プライベートルーム衣装",
+          "プライベートルーム衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "プライベートルーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3603,
+    "rarity": 4,
+    "character_id": 68,
+    "type": 4,
+    "substat_type": 1,
+    "title": "見直すプライベート",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2023-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "トラブルルーム",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "お気に入りの空間",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "オフの日の興味",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Distorted Heart"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "プライベートルーム衣装"
+        ]
+      }
+    },
+    "associated_story": "プライベートルーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3604,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 1,
+    "substat_type": 2,
+    "title": "予想外プライベート",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2023-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "リメイクルーム",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "落ち着ける場所",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "思わぬ幸運",
+        "type_id": 13
+      }
+    },
+    "associated_story": "プライベートルーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3605,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 2,
+    "substat_type": 0,
+    "title": "お誘いプライベート",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2023-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "フレンドリールーム",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "元気が出る拠点",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "先輩の心構え",
+        "type_id": 4
+      }
+    },
+    "associated_story": "プライベートルーム"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3637,
     "rarity": 5,
     "character_id": 25,
@@ -156581,7 +156924,8 @@
           "50",
           "60"
         ],
-        "type_id": 17
+        "type_id": 17,
+        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
       },
       "live": {
         "name": "正義の真髄",
@@ -157251,6 +157595,101 @@
       }
     },
     "associated_story": "Xday"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3694,
+    "rarity": 5,
+    "character_id": 51,
+    "type": 2,
+    "substat_type": 2,
+    "title": "戦略の盤上",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2023-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "出目の行方",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "探る可能性",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "会議の仕切り役",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Have you been naughty or nice?"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双六盤上戦衣装",
+          "双六盤上戦衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "双六盤上戦"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3695,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 3,
+    "substat_type": 1,
+    "title": "計略の盤上",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2023-12-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "出目の勝負",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "探る一荷",
+        "type_id": 3,
+        "description": "12秒間ロング・スライドのスコア32％アップ、それ以外が11％アップ"
+      },
+      "support": {
+        "name": "仕事の違和感",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Eccentric Party Night!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双六盤上戦衣装",
+          "双六盤上戦衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "双六盤上戦"
   },
   {
     "compliant": "TRUE",
