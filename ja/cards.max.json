@@ -162009,6 +162009,175 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3738,
+    "rarity": 5,
+    "character_id": 21,
+    "type": 3,
+    "substat_type": 0,
+    "title": "主役になる香り",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2024-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "連想させる甘さ",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "広がっていく知識",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "正確な計測",
+        "type_id": 2
+      }
+    },
+    "spp": {
+      "name": "Aisle, be with you"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "グルマンの香り衣装",
+          "グルマンの香り衣装 (SCR)"
+        ],
+        "3d": [
+          "グルマンの香り衣装",
+          "グルマンの香り衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "グルマンの香り"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3739,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 1,
+    "substat_type": 1,
+    "title": "心くすぐる香り",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "かわいい甘さ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "新しく得る知識",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "勘違いの味",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Crush of Judgment"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "グルマンの香り衣装"
+        ]
+      }
+    },
+    "associated_story": "グルマンの香り"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3740,
+    "rarity": 3,
+    "character_id": 29,
+    "type": 2,
+    "substat_type": 1,
+    "title": "印象誘う香り",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "魅惑的な甘さ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "披露する知識",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "とぼける余裕",
+        "type_id": 9
+      }
+    },
+    "associated_story": "グルマンの香り"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3741,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 4,
+    "substat_type": 2,
+    "title": "温かみ漂う香り",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-02-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "落ち着いた甘さ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "身につける知識",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "持ち前の技術",
+        "type_id": 4
+      }
+    },
+    "associated_story": "グルマンの香り"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3754,
     "rarity": 3,
     "character_id": 26,
