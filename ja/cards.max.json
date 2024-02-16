@@ -162009,6 +162009,323 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3731,
+    "rarity": 5,
+    "character_id": 69,
+    "type": 3,
+    "substat_type": 1,
+    "title": "春色包む梅花",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "思いがけない雪",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "応えたい思い",
+        "type_id": 2,
+        "description": "12秒間フリックのスコア40％アップ、それ以外が11％アップ"
+      },
+      "support": {
+        "name": "実感する重み",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Noir Neige"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装",
+          "梅花雪花衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3732,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 2,
+    "substat_type": 0,
+    "title": "咲きこぼれる梅花",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "優しく感じる雪",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "応えたい成長",
+        "type_id": 2,
+        "description": "8秒間フリックのスコア70％アップ、それ以外が18％アップ"
+      },
+      "support": {
+        "name": "預かる巻物",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "メルティ♡キッチン"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装",
+          "梅花雪花衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3733,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 4,
+    "substat_type": 2,
+    "title": "記憶芽吹く梅花",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "そっと触れる雪",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "応えたい自分",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "和やかムード",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Romantic Xday!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3734,
+    "rarity": 4,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 1,
+    "title": "蕾弾ける梅花",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "季節外れの雪",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "応えたい努力",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "雪かきトレーニング",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Resurrection of Soul"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3735,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 1,
+    "substat_type": 2,
+    "title": "訪れ告げる梅花",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "景色映える雪",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "応えたい約束",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "誇れる友人",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3736,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 3,
+    "substat_type": 0,
+    "title": "見頃迎える梅花",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "温かみ感じる雪",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "応えたい友情",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "雪の日の過ごしかた",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3737,
+    "rarity": 3,
+    "character_id": 3,
+    "type": 2,
+    "substat_type": 1,
+    "title": "咲きそろう梅花",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-02-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "待ちわびた雪",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "応えたい今",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "頼られる嬉しさ",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "梅花雪花衣装"
+        ]
+      }
+    },
+    "associated_story": "梅花雪花"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3738,
     "rarity": 5,
     "character_id": 21,
