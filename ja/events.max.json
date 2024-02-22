@@ -3381,5 +3381,691 @@
       3428,
       3429
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 274,
+    "start_date": "2025-04-12T17:00:00Z",
+    "end_date": "2025-04-21T03:00:00Z",
+    "start": {
+      "en": "2025-04-12T17:00:00Z",
+      "jp": "2023-04-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-04-21T03:00:00Z",
+      "jp": "2023-04-23T13:00:00Z"
+    },
+    "type": "special",
+    "name": "Origin★星空を歌うAltered",
+    "event_gacha": "スカウト！風変わりな終止たち",
+    "gacha_id": 452,
+    "song_name": "Twiilight Pentagram, Dawning Angels",
+    "story_name": "オルタード",
+    "story_author": "日日日",
+    "story_season": "過去／冬、冬、過去／春、過去／秋",
+    "banner_id": 3437,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3437,
+      3438,
+      3439,
+      3440,
+      3441
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 275,
+    "start_date": "2025-04-26T17:00:00Z",
+    "end_date": "2025-05-05T03:00:00Z",
+    "start": {
+      "en": "2025-04-26T17:00:00Z",
+      "jp": "2023-04-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-05-05T03:00:00Z",
+      "jp": "2023-05-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ひと雫＊特別を選んだMad Party in UNDERLAND",
+    "event_gacha": "スカウト！バツ×バッテン",
+    "gacha_id": 454,
+    "song_name": "Or the Beautiful Golden Drop",
+    "story_name": "Mad Party",
+    "story_author": "木野誠太郎",
+    "story_season": "秋",
+    "banner_id": 3449,
+    "unit_id": [
+      4
+    ],
+    "cards": [
+      3449,
+      3450,
+      3451
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 276,
+    "start_date": "2025-05-10T17:00:00Z",
+    "end_date": "2025-05-19T03:00:00Z",
+    "start": {
+      "en": "2025-05-10T17:00:00Z",
+      "jp": "2023-05-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-05-19T03:00:00Z",
+      "jp": "2023-05-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "花婿修行？／ウェディングマーチ！",
+    "event_gacha": "スカウト！漫画会",
+    "gacha_id": 456,
+    "story_name": "ウェディングマーチ",
+    "story_author": "ゆーます",
+    "story_season": "秋",
+    "banner_id": 3463,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3463,
+      3464,
+      3465,
+      3466,
+      3467,
+      3468,
+      3469
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 277,
+    "start_date": "2025-05-24T17:00:00Z",
+    "end_date": "2025-06-02T03:00:00Z",
+    "start": {
+      "en": "2025-05-24T17:00:00Z",
+      "jp": "2023-05-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-06-02T03:00:00Z",
+      "jp": "2023-06-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "スゴロク旅！BGMはナンバーエイト",
+    "event_gacha": "スカウト！ビブリオン",
+    "gacha_id": 458,
+    "song_name": "Crazy Anthem",
+    "story_name": "ナンバーエイト",
+    "story_author": "木野誠太郎",
+    "story_season": "冬",
+    "banner_id": 3478,
+    "unit_id": [
+      16
+    ],
+    "cards": [
+      3478,
+      3479,
+      3480,
+      3481
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 278,
+    "start_date": "2025-06-07T17:00:00Z",
+    "end_date": "2025-06-16T03:00:00Z",
+    "start": {
+      "en": "2025-06-07T17:00:00Z",
+      "jp": "2023-06-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-06-16T03:00:00Z",
+      "jp": "2023-06-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "無限大★僕らの可能性パラレルワールド",
+    "event_gacha": "スカウト！雨垂れショーウィンドウ",
+    "gacha_id": 460,
+    "song_name": "パラレルメイズ",
+    "story_name": "パラレルワールド",
+    "story_author": "日日日",
+    "story_season": "冬、春",
+    "banner_id": 3490,
+    "unit_id": [
+      6
+    ],
+    "cards": [
+      3490,
+      3491,
+      3492,
+      3493
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 279,
+    "start_date": "2025-06-21T17:00:00Z",
+    "end_date": "2025-06-30T03:00:00Z",
+    "start": {
+      "en": "2025-06-21T17:00:00Z",
+      "jp": "2023-06-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-06-30T03:00:00Z",
+      "jp": "2023-07-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ぎゅっと☆好きを詰めたトロピカルパラダイス",
+    "event_gacha": "スカウト！サンタンSUMMER",
+    "gacha_id": 462,
+    "song_name": "RELAX PARADISE",
+    "story_name": "トロピカル",
+    "story_author": "木野誠太郎",
+    "story_season": "春",
+    "banner_id": 3501,
+    "unit_id": [
+      5
+    ],
+    "cards": [
+      3501,
+      3502,
+      3503,
+      3504,
+      3505
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 280,
+    "start_date": "2025-07-05T17:00:00Z",
+    "end_date": "2025-07-14T03:00:00Z",
+    "start": {
+      "en": "2025-07-05T17:00:00Z",
+      "jp": "2023-07-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-07-14T03:00:00Z",
+      "jp": "2023-07-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "料理対決／漂流？アイランド",
+    "event_gacha": "スカウト！夕立のパドル",
+    "gacha_id": 464,
+    "story_name": "ゲットアイランド",
+    "story_author": "西岡麻衣子",
+    "story_season": "夏",
+    "banner_id": 3527,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3527,
+      3528,
+      3529,
+      3530,
+      3531,
+      3532,
+      3533
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 281,
+    "start_date": "2025-07-19T17:00:00Z",
+    "end_date": "2025-07-28T03:00:00Z",
+    "start": {
+      "en": "2025-07-19T17:00:00Z",
+      "jp": "2023-07-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-07-28T03:00:00Z",
+      "jp": "2023-08-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ガーディアンズ◆アイとラストミッション",
+    "event_gacha": "スカウト！幻想夜光",
+    "gacha_id": 466,
+    "song_name": "Bye-Bye Buddy",
+    "story_name": "ラストミッション",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3541,
+    "unit_id": [
+      17
+    ],
+    "cards": [
+      3541,
+      3542,
+      3543,
+      3544
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 282,
+    "start_date": "2025-08-02T17:00:00Z",
+    "end_date": "2025-08-11T03:00:00Z",
+    "start": {
+      "en": "2025-08-02T17:00:00Z",
+      "jp": "2023-08-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-08-11T03:00:00Z",
+      "jp": "2023-08-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "蒼海＊輝く真実のアトランティス",
+    "event_gacha": "スカウト！ナイトキラーズ",
+    "gacha_id": 468,
+    "song_name": "Dreaming Ocean",
+    "story_name": "アトランティス",
+    "story_author": "日日日",
+    "story_season": "冬、秋",
+    "banner_id": 3552,
+    "unit_id": [
+      2
+    ],
+    "cards": [
+      3552,
+      3553,
+      3554,
+      3555
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 283,
+    "start_date": "2025-08-16T17:00:00Z",
+    "end_date": "2025-08-25T03:00:00Z",
+    "start": {
+      "en": "2025-08-16T17:00:00Z",
+      "jp": "2023-08-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-08-25T03:00:00Z",
+      "jp": "2023-09-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "Remplacer＊語る人形とレゾンデートル",
+    "event_gacha": "スカウト！海の鼓動 - Look back -",
+    "gacha_id": 470,
+    "song_name": "Le temps des fleurs",
+    "story_name": "レゾンデートル",
+    "story_author": "日日日",
+    "story_season": "冬、春",
+    "banner_id": 3563,
+    "unit_id": [
+      9
+    ],
+    "cards": [
+      3563,
+      3564,
+      3565,
+      3566
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 284,
+    "start_date": "2025-08-30T17:00:00Z",
+    "end_date": "2025-09-08T03:00:00Z",
+    "start": {
+      "en": "2025-08-30T17:00:00Z",
+      "jp": "2023-09-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-09-08T03:00:00Z",
+      "jp": "2023-09-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "謎・解／エスケープマンション",
+    "event_gacha": "スカウト！スポーツサバイバー",
+    "gacha_id": 472,
+    "story_name": "エスケープマンション",
+    "story_author": "木野誠太郎",
+    "story_season": "秋",
+    "banner_id": 3574,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3574,
+      3575,
+      3576,
+      3577,
+      3578,
+      3579,
+      3580
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 285,
+    "start_date": "2025-09-13T17:00:00Z",
+    "end_date": "2025-09-22T03:00:00Z",
+    "start": {
+      "en": "2025-09-13T17:00:00Z",
+      "jp": "2023-09-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-09-22T03:00:00Z",
+      "jp": "2023-10-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "表裏◆LiesアンドTruthの2×2",
+    "event_gacha": "スカウト！プライベートルーム",
+    "gacha_id": 474,
+    "song_name": "Love×me⇄monsteR",
+    "story_name": "２×２",
+    "story_author": "日日日",
+    "story_season": "冬、春",
+    "banner_id": 3598,
+    "unit_id": [
+      7
+    ],
+    "cards": [
+      3598,
+      3599,
+      3600,
+      3601
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 286,
+    "start_date": "2025-09-27T17:00:00Z",
+    "end_date": "2025-10-06T03:00:00Z",
+    "start": {
+      "en": "2025-09-27T17:00:00Z",
+      "jp": "2023-10-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-10-06T03:00:00Z",
+      "jp": "2023-10-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "明ける夜＊ホリスティックハロウィン",
+    "event_gacha": "スカウト！月隠れの宴",
+    "gacha_id": 476,
+    "song_name": "UNDYING HOLY LOVE",
+    "story_name": "HOLISTIC HOLIC",
+    "story_author": "木野誠太郎",
+    "story_season": "秋",
+    "banner_id": 3609,
+    "unit_id": [
+      15
+    ],
+    "cards": [
+      3609,
+      3610,
+      3611,
+      3612
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 287,
+    "start_date": "2025-10-11T17:00:00Z",
+    "end_date": "2025-10-20T03:00:00Z",
+    "start": {
+      "en": "2025-10-11T17:00:00Z",
+      "jp": "2023-10-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-10-20T03:00:00Z",
+      "jp": "2023-11-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "シンケン勝負／チャンバラナイト",
+    "event_gacha": "スカウト！君の依代",
+    "gacha_id": 478,
+    "story_name": "CHANCE×伐折羅×NIGHT",
+    "story_author": "西岡麻衣子",
+    "story_season": "秋",
+    "banner_id": 3626,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3626,
+      3627,
+      3628,
+      3629,
+      3630,
+      3631,
+      3632
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 288,
+    "start_date": "2025-10-25T17:00:00Z",
+    "end_date": "2025-11-03T03:00:00Z",
+    "start": {
+      "en": "2025-10-25T17:00:00Z",
+      "jp": "2023-11-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-11-03T03:00:00Z",
+      "jp": "2023-11-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "分かれ道＊憧れた姿とフラッシュバック",
+    "event_gacha": "スカウト！Made Me",
+    "gacha_id": 480,
+    "song_name": "Resurrection of Soul",
+    "story_name": "フラッシュバック",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3640,
+    "unit_id": [
+      3
+    ],
+    "cards": [
+      3640,
+      3641,
+      3642,
+      3643
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 289,
+    "start_date": "2025-11-08T17:00:00Z",
+    "end_date": "2025-11-17T03:00:00Z",
+    "start": {
+      "en": "2025-11-08T17:00:00Z",
+      "jp": "2023-11-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-11-17T03:00:00Z",
+      "jp": "2023-12-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "昇華＊天地鳴動の晴レ舞台",
+    "event_gacha": "スカウト！カラーコード",
+    "gacha_id": 482,
+    "song_name": "金色千夜夢舞台",
+    "story_name": "天と地と",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3663,
+    "unit_id": [
+      8
+    ],
+    "cards": [
+      3663,
+      3664,
+      3665,
+      3666
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 290,
+    "start_date": "2025-11-22T17:00:00Z",
+    "end_date": "2025-12-01T03:00:00Z",
+    "start": {
+      "en": "2025-11-22T17:00:00Z",
+      "jp": "2023-12-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-12-01T03:00:00Z",
+      "jp": "2023-12-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "贈り物★子供たちのためのXday！",
+    "event_gacha": "スカウト！ホワイトベア",
+    "gacha_id": 484,
+    "song_name": "Romantic Xday!",
+    "story_name": "Xday",
+    "story_author": "日日日",
+    "story_season": "過去／冬、秋、冬、春",
+    "banner_id": 3674,
+    "unit_id": [
+      1
+    ],
+    "cards": [
+      3674,
+      3675,
+      3676,
+      3677
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 291,
+    "start_date": "2025-12-06T17:00:00Z",
+    "end_date": "2025-12-15T03:00:00Z",
+    "start": {
+      "en": "2025-12-06T17:00:00Z",
+      "jp": "2023-12-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-12-15T03:00:00Z",
+      "jp": "2024-01-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "探り合いの出目／双六盤上戦",
+    "event_gacha": "スカウト！黄金天",
+    "gacha_id": 486,
+    "story_name": "双六盤上戦",
+    "story_author": "木野誠太郎",
+    "story_season": "冬",
+    "banner_id": 3694,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3694,
+      3695,
+      3696,
+      3697,
+      3698,
+      3699,
+      3700
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 292,
+    "start_date": "2025-12-20T17:00:00Z",
+    "end_date": "2025-12-29T03:00:00Z",
+    "start": {
+      "en": "2025-12-20T17:00:00Z",
+      "jp": "2024-01-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2025-12-29T03:00:00Z",
+      "jp": "2024-01-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "Reverb★水平線を渡るステラマリス",
+    "event_gacha": "スカウト！宝相華",
+    "gacha_id": 488,
+    "song_name": "僕らのステラ",
+    "story_name": "ステラマリス",
+    "story_author": "日日日",
+    "story_season": "春",
+    "banner_id": 3708,
+    "unit_id": [
+      5
+    ],
+    "cards": [
+      3708,
+      3709,
+      3710,
+      3711,
+      3712
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 293,
+    "start_date": "2026-01-03T17:00:00Z",
+    "end_date": "2026-01-12T03:00:00Z",
+    "start": {
+      "en": "2026-01-03T17:00:00Z",
+      "jp": "2024-01-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-01-12T03:00:00Z",
+      "jp": "2024-02-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ショコラ△瞳の中のキャンディーハウス",
+    "event_gacha": "スカウト！恋こい喫茶",
+    "gacha_id": 490,
+    "song_name": "Chocola-Tic After School",
+    "story_name": "キャンディーハウス",
+    "story_author": "日日日",
+    "story_season": "冬、春、秋",
+    "banner_id": 3720,
+    "unit_id": [
+      10
+    ],
+    "cards": [
+      3720,
+      3721,
+      3722,
+      3723
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 294,
+    "start_date": "2026-01-17T17:00:00Z",
+    "end_date": "2026-01-26T03:00:00Z",
+    "start": {
+      "en": "2026-01-17T17:00:00Z",
+      "jp": "2024-02-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-01-26T03:00:00Z",
+      "jp": "2024-02-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "応えたい想い／つぶらな梅花雪花",
+    "event_gacha": "スカウト！グルマンの香り",
+    "gacha_id": 492,
+    "story_name": "梅花雪花",
+    "story_author": "ゆーます",
+    "story_season": "冬",
+    "banner_id": 3731,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3731,
+      3732,
+      3733,
+      3734,
+      3735,
+      3736,
+      3737
+    ]
   }
 ]
