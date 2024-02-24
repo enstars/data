@@ -132045,6 +132045,7 @@
       "live": {
         "name": "辿り着いた舞台",
         "type_id": 2,
+        "duration": 8,
         "effect_values": [
           [
             8,
@@ -135849,6 +135850,7 @@
       "live": {
         "name": "先輩の気分",
         "type_id": 3,
+        "duration": 8,
         "description": "8秒間ロング・スライドのスコア50％アップ、それ以外が18％アップ"
       },
       "support": {
@@ -138047,6 +138049,7 @@
       "live": {
         "name": "癒しのコアラ",
         "type_id": 3,
+        "duration": 8,
         "description": "8秒間ロング・スライドのスコア50％アップ、それ以外が18％アップ"
       },
       "support": {
@@ -142545,6 +142548,7 @@
       "live": {
         "name": "地下のクリスマス",
         "type_id": 2,
+        "duration": 5,
         "description": "5秒間フリックのスコア100％アップ、それ以外が30％アップ",
         "live_skill_type_name": "スコアアップ"
       },
@@ -146963,6 +146967,7 @@
       "live": {
         "name": "アイドルらしい誓い",
         "type_id": 3,
+        "duration": 12,
         "description": "12秒間ロング・スライドのスコア32％アップ、それ以外が11％アップ"
       },
       "support": {
@@ -149022,6 +149027,7 @@
       "live": {
         "name": "統べる星空",
         "type_id": 2,
+        "duration": 12,
         "description": "12秒間フリックのスコア40％アップ、それ以外が11％アップ"
       },
       "support": {
@@ -150451,6 +150457,7 @@
       "live": {
         "name": "挑戦のマーチ",
         "type_id": 3,
+        "duration": 5,
         "description": "5秒間ロング・スライドのスコア70％アップ、それ以外が30％アップ"
       },
       "support": {
@@ -153375,6 +153382,7 @@
       "live": {
         "name": "海上での対決",
         "type_id": 3,
+        "duration": 5,
         "description": "5秒間ロング・スライドのスコア70％アップ、それ以外が30％アップ"
       },
       "support": {
@@ -155550,6 +155558,7 @@
       "live": {
         "name": "解明マンション",
         "type_id": 2,
+        "duration": 8,
         "description": "8秒間フリックのスコア70％アップ、それ以外が18％アップ"
       },
       "support": {
@@ -157785,6 +157794,7 @@
       "live": {
         "name": "本気で向き合う夜",
         "type_id": 3,
+        "duration": 12,
         "description": "12秒間ロング・スライドのスコア32％アップ、それ以外が11％アップ"
       },
       "support": {
@@ -159254,6 +159264,202 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3658,
+    "rarity": 4,
+    "character_id": 12,
+    "type": 1,
+    "substat_type": 2,
+    "title": "信念の綺羅星",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "夜明けに向かう",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "消えない光の瞬き",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "Trickstarのノンストップ",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "幸せの歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3659,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 3,
+    "substat_type": 1,
+    "title": "誰より綺羅星",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "一緒に笑って",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "青春という居場所",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "Trickstarのラブスマイル",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "幸せの歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3660,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 2,
+    "substat_type": 0,
+    "title": "冷静な綺羅星",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "空高く目指して",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "エールと共に歩む",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "Trickstarのクレバーアイ",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "幸せの歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3661,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 4,
+    "substat_type": 2,
+    "title": "仲間と綺羅星",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "感情をシェア",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "伝えたい感謝の愛",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "Trickstarのチアマインド",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "幸せの歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3662,
     "rarity": 3,
     "character_id": 39,
@@ -160421,6 +160627,7 @@
       "live": {
         "name": "探る一荷",
         "type_id": 3,
+        "duration": 12,
         "description": "12秒間ロング・スライドのスコア32％アップ、それ以外が11％アップ"
       },
       "support": {
@@ -162034,6 +162241,7 @@
       "live": {
         "name": "応えたい思い",
         "type_id": 2,
+        "duration": 12,
         "description": "12秒間フリックのスコア40％アップ、それ以外が11％アップ"
       },
       "support": {
@@ -162082,6 +162290,7 @@
       "live": {
         "name": "応えたい成長",
         "type_id": 2,
+        "duration": 8,
         "description": "8秒間フリックのスコア70％アップ、それ以外が18％アップ"
       },
       "support": {
