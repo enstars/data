@@ -162704,6 +162704,147 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3742,
+    "rarity": 5,
+    "character_id": 12,
+    "type": 4,
+    "substat_type": 1,
+    "title": "星が刻む淵",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-02-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "いつもと同じ席",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "目指す先の瞬き",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "尽きない感想",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Welcome to the Trickstar Night☆"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Faraway",
+          "Faraway (SCR)"
+        ],
+        "3d": [
+          "Faraway",
+          "Faraway (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "ファミレス店内"
+      ]
+    },
+    "associated_story": "五つ星の夜"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3743,
+    "rarity": 4,
+    "character_id": 24,
+    "type": 3,
+    "substat_type": 0,
+    "title": "必要な甘さ",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-02-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "遠慮は不要",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "楽しむ反応",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "アイディア探し",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Fight for Judge"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "意気込みと息抜き"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3744,
+    "rarity": 3,
+    "character_id": 8,
+    "type": 1,
+    "substat_type": 2,
+    "title": "自分だけの武器",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2024-02-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "特別と区別",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3
+      },
+      "live": {
+        "name": "変わるための答え",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "楽しむ辛さ",
+        "type_id": 13
+      }
+    },
+    "associated_story": "芽吹く季節"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3754,
     "rarity": 3,
     "character_id": 26,
