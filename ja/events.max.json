@@ -4067,5 +4067,37 @@
       3736,
       3737
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 295,
+    "start_date": "2026-01-31T17:00:00Z",
+    "end_date": "2026-02-09T03:00:00Z",
+    "start": {
+      "en": "2026-01-31T17:00:00Z",
+      "jp": "2024-02-29T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-02-09T03:00:00Z",
+      "jp": "2024-03-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "楽園へ＊無垢なる望みのアブソリュート",
+    "event_gacha": "スカウト！刹那の白",
+    "gacha_id": 494,
+    "song_name": "Absolute Perfection",
+    "story_name": "アブソリュート",
+    "story_author": "日日日",
+    "story_season": "過去／春、冬",
+    "banner_id": 3755,
+    "unit_id": [
+      14
+    ],
+    "cards": [
+      3755,
+      3756,
+      3757,
+      3758
+    ]
   }
 ]

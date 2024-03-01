@@ -162868,6 +162868,7 @@
       },
       "live": {
         "name": "白熱アナウンス",
+        "type_id": 1,
         "duration": 12
       },
       "support": {
@@ -162875,5 +162876,368 @@
         "type_id": 9
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3755,
+    "rarity": 5,
+    "character_id": 50,
+    "type": 2,
+    "substat_type": 2,
+    "title": "楽園の導き",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2024-02-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "未来への望み",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7
+      },
+      "live": {
+        "name": "無垢な世界",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "存在する価値",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "Absolute Perfection"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アブソリュート衣装",
+          "制服（冬、3年生、ポニーテール）",
+          "アブソリュート衣装 (SCR)"
+        ],
+        "3d": [
+          "アブソリュート衣装",
+          "アブソリュート衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "アブソリュート"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3756,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 4,
+    "substat_type": 1,
+    "title": "楽園の番人",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-02-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "焼き付ける望み",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "無垢な歩み",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "不覚の寝顔",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "Absolute Perfection"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アブソリュート衣装"
+        ],
+        "3d": [
+          "アブソリュート衣装"
+        ]
+      }
+    },
+    "associated_story": "アブソリュート"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3757,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 1,
+    "substat_type": 0,
+    "title": "楽園の理想",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-02-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "解き放つ望み",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "無垢な栄光",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "親友の危機",
+        "type_id": 5
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アブソリュート衣装"
+        ],
+        "3d": [
+          "アブソリュート衣装"
+        ]
+      }
+    },
+    "associated_story": "アブソリュート"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3758,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 3,
+    "substat_type": 2,
+    "title": "楽園の進化",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-02-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "切り拓く望み",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11
+      },
+      "live": {
+        "name": "無垢な進化",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "視線の先",
+        "type_id": 1
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アブソリュート衣装",
+          "制服（冬、2年生）"
+        ],
+        "3d": [
+          "アブソリュート衣装"
+        ]
+      }
+    },
+    "associated_story": "アブソリュート"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3759,
+    "rarity": 5,
+    "character_id": 27,
+    "type": 3,
+    "substat_type": 1,
+    "title": "愛に満ちた刹那",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-02-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "白が示すシンボル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "舞い踊る綿毛",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "企みの灯り",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Eccentric Party Night!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "刹那の白衣装",
+          "刹那の白衣装 (SCR)"
+        ],
+        "3d": [
+          "刹那の白衣装",
+          "刹那の白衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "刹那の白"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3760,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 4,
+    "substat_type": 2,
+    "title": "驚きの刹那",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-02-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "白んでいく空",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "戯れる風花",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "思わぬ当たりくじ",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Silent Oath"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "刹那の白衣装"
+        ]
+      }
+    },
+    "associated_story": "刹那の白"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3761,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 2,
+    "title": "戸惑いの刹那",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-02-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "白昼の出来事",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "頬撫でる光風",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "渋々の贈り物",
+        "type_id": 13
+      }
+    },
+    "associated_story": "刹那の白"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3762,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 1,
+    "substat_type": 0,
+    "title": "友愛の刹那",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-02-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "白羽の矢の対象",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2
+      },
+      "live": {
+        "name": "吹き渡る軽風",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "くじ引きの結果",
+        "type_id": 5
+      }
+    },
+    "associated_story": "刹那の白"
   }
 ]
