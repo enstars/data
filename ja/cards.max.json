@@ -160507,6 +160507,251 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3685,
+    "rarity": 4,
+    "character_id": 1,
+    "type": 3,
+    "substat_type": 0,
+    "title": "己を貫くメテオ",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-03-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "好きこそ最強",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "目覚める朝に歌う",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "流星隊の意思色",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "NEW DAYBREAK"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3686,
+    "rarity": 4,
+    "character_id": 5,
+    "type": 4,
+    "substat_type": 0,
+    "title": "緩やかなメテオ",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-03-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "ずっと好き",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "自意識の情熱",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "流星隊の自由色",
+        "type_id": 5
+      }
+    },
+    "spp": {
+      "name": "NEW DAYBREAK"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3687,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 1,
+    "substat_type": 2,
+    "title": "素直な心のメテオ",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2024-03-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "好きを共有",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "理想の果ての光",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "流星隊の希望色",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "NEW DAYBREAK"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3688,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 2,
+    "substat_type": 2,
+    "title": "熱く燃えるメテオ",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-03-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "好きをチャージ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8
+      },
+      "live": {
+        "name": "運命と生きる",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "流星隊の情熱色",
+        "type_id": 13
+      }
+    },
+    "spp": {
+      "name": "NEW DAYBREAK"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3689,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 3,
+    "substat_type": 1,
+    "title": "はぐくむめてお",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-03-09"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "すきにひたる",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "じぶんらしさのゆうき",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "りゅうせいたいのゆめいろ",
+        "type_id": 9
+      }
+    },
+    "spp": {
+      "name": "NEW DAYBREAK"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "rarity": 4,
     "character_id": 16,
@@ -163239,5 +163484,587 @@
       }
     },
     "associated_story": "刹那の白"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3763,
+    "rarity": 5,
+    "character_id": 35,
+    "type": 1,
+    "substat_type": 0,
+    "title": "柔らかな調べ",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-03-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "幻想との境界",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4
+      },
+      "live": {
+        "name": "描いていく理想",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "日頃のお礼",
+        "type_id": 7
+      }
+    },
+    "spp": {
+      "name": "Eccentric Party Night!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "douce mélodie",
+          "douce mélodie (SCR)"
+        ],
+        "3d": [
+          "douce mélodie",
+          "douce mélodie (SCR)"
+        ]
+      }
+    },
+    "associated_story": "浮かびだすスリール"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3764,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 3,
+    "substat_type": 1,
+    "title": "やり遂げた印",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-03-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "任せられる安心感",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9
+      },
+      "live": {
+        "name": "背負う役割",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "評価される功績",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "CHERRY HAPPY STREAM (ALBUM Mix)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "代わりゆくもの"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3765,
+    "rarity": 3,
+    "character_id": 3,
+    "type": 4,
+    "substat_type": 2,
+    "title": "娯楽の押し引き",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-03-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "負けられない気合",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15
+      },
+      "live": {
+        "name": "何事も経験",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "託された席",
+        "type_id": 1
+      }
+    },
+    "associated_story": "未知の娯楽とシナモン"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3766,
+    "rarity": 5,
+    "character_id": 10,
+    "type": 2,
+    "substat_type": 1,
+    "title": "金色の冠",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "決意のギャンビット",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5
+      },
+      "live": {
+        "name": "抱く信念",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "エンドゲームの続き",
+        "type_id": 11
+      }
+    },
+    "spp": {
+      "name": "Luminous Crown"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ギャンビット衣装",
+          "ギャンビット衣装 (SCR)"
+        ],
+        "3d": [
+          "ギャンビット衣装",
+          "ギャンビット衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ギャンビット"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3767,
+    "rarity": 4,
+    "character_id": 33,
+    "type": 4,
+    "substat_type": 2,
+    "title": "黄昏の冠",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "決意のサクリファイス",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "授ける剣",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "宇宙的ルール",
+        "type_id": 14
+      }
+    },
+    "spp": {
+      "name": "Luminous Crown"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ギャンビット衣装"
+        ]
+      }
+    },
+    "associated_story": "ギャンビット"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3768,
+    "rarity": 4,
+    "character_id": 20,
+    "type": 3,
+    "substat_type": 0,
+    "title": "優美な冠",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "決意のクイーンサイド",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10
+      },
+      "live": {
+        "name": "得ていく憧れ",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "誰かへの手助け",
+        "type_id": 6
+      }
+    },
+    "spp": {
+      "name": "Luminous Crown"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ギャンビット衣装"
+        ]
+      }
+    },
+    "associated_story": "ギャンビット"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3769,
+    "rarity": 3,
+    "character_id": 24,
+    "type": 1,
+    "substat_type": 1,
+    "title": "想いの冠",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "決意のプロモーション",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1
+      },
+      "live": {
+        "name": "償う音色",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "検索ワード",
+        "type_id": 9
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ギャンビット衣装"
+        ]
+      }
+    },
+    "associated_story": "ギャンビット"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3770,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 4,
+    "substat_type": 0,
+    "title": "世界の冠",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "skills": {
+      "center": {
+        "name": "決意のルアーリング",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14
+      },
+      "live": {
+        "name": "与える刺激",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "大人の恐ろしさ",
+        "type_id": 4
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ギャンビット衣装"
+        ]
+      }
+    },
+    "associated_story": "ギャンビット"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3771,
+    "rarity": 5,
+    "character_id": 29,
+    "type": 1,
+    "substat_type": 2,
+    "title": "神秘と展覧会",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-03-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "思い出の瞬ぎ",
+        "effect_value": [
+          "50",
+          "60"
+        ],
+        "type_id": 17,
+        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
+      },
+      "live": {
+        "name": "描く青春",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "嬉しい反応",
+        "type_id": 15
+      }
+    },
+    "spp": {
+      "name": "ハニーミルクはお好みで"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬ぎと展覧会衣装",
+          "瞬ぎと展覧会衣装 (SCR)"
+        ],
+        "3d": [
+          "瞬ぎと展覧会衣装",
+          "瞬ぎと展覧会衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "瞬ぎと展覧会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3772,
+    "rarity": 4,
+    "character_id": 5,
+    "type": 3,
+    "substat_type": 1,
+    "title": "発見と展覧会",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-03-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "暖日の瞬ぎ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12
+      },
+      "live": {
+        "name": "描く記憶",
+        "type_id": 1,
+        "duration": 5
+      },
+      "support": {
+        "name": "急すぎる時間",
+        "type_id": 10
+      }
+    },
+    "spp": {
+      "name": "メテオ・スクランブル☆流星隊!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬ぎと展覧会衣装"
+        ]
+      }
+    },
+    "associated_story": "瞬ぎと展覧会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3773,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 2,
+    "substat_type": 0,
+    "title": "謎と展覧会",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-03-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "残す瞬ぎ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6
+      },
+      "live": {
+        "name": "描く現実",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "一緒の写真",
+        "type_id": 5
+      }
+    },
+    "associated_story": "瞬ぎと展覧会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3774,
+    "rarity": 3,
+    "character_id": 18,
+    "type": 4,
+    "substat_type": 1,
+    "title": "興味と展覧会",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-03-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "出会う瞬ぎ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13
+      },
+      "live": {
+        "name": "描く場所",
+        "type_id": 1,
+        "duration": 12
+      },
+      "support": {
+        "name": "画家への気遣い",
+        "type_id": 1
+      }
+    },
+    "associated_story": "瞬ぎと展覧会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3803,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 4,
+    "substat_type": 2,
+    "title": "ウェルカム祭",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-03-15"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "推しができる部屋",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16
+      },
+      "live": {
+        "name": "好きにさせる魅力",
+        "type_id": 1,
+        "duration": 8
+      },
+      "support": {
+        "name": "応援する楽しさ",
+        "type_id": 29
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウェルカム祭衣装"
+        ]
+      }
+    }
   }
 ]
