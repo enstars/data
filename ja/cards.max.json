@@ -160752,6 +160752,162 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3690,
+    "rarity": 4,
+    "character_id": 38,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ときめくマジック",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-04-08"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "新しいmorning",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "重ねた季節の色",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "Switchの仕掛け役",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Seven Days “Prismagic”"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3691,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 4,
+    "substat_type": 1,
+    "title": "やわらぐマジック",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-04-08"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "明日へのnight",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "純粋な夢の色",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "Switchの惹きつけ役",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Seven Days “Prismagic”"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3692,
+    "rarity": 4,
+    "character_id": 37,
+    "type": 1,
+    "substat_type": 2,
+    "title": "輝くマジック",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-04-08"
+    },
+    "obtain": {
+      "type": "special"
+    },
+    "skills": {
+      "center": {
+        "name": "ひだまりのnoon",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "虹色の情熱",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "Switchの盛り上げ役",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Seven Days “Prismagic”"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "rarity": 4,
     "character_id": 16,
@@ -164022,6 +164178,829 @@
       }
     },
     "associated_story": "瞬ぎと展覧会"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3775,
+    "rarity": 5,
+    "character_id": 73,
+    "type": 1,
+    "substat_type": 0,
+    "title": "胸踊る行き先",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2024-03-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "突き刺す視線",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 120％up"
+      },
+      "live": {
+        "name": "閉じ込められない思い",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "心地良い風",
+        "type_id": 28,
+        "description": "全ステータスピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Crazy Anthem"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "RED THORN",
+          "RED THORN (SCR)"
+        ],
+        "3d": [
+          "RED THORN",
+          "RED THORN (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "夢ノ咲学院正門前（枯れ木）"
+      ]
+    },
+    "associated_story": "知らない誰かへ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3776,
+    "rarity": 4,
+    "character_id": 9,
+    "type": 4,
+    "substat_type": 1,
+    "title": "成長する楽しさ",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2024-03-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "もうすこしの距離",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "変わらない重み",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "思い出の恩返し",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "メイド・イン・トキメキ♪"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "上から見る景色"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3777,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 3,
+    "substat_type": 2,
+    "title": "先輩の役目",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-03-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "膨らむ答え",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "身近な例題",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "予想外の点数",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "適任勉強会？"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3778,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 1,
+    "substat_type": 2,
+    "title": "熱血ドラゴン",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "不屈の流儀",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 120％up"
+      },
+      "live": {
+        "name": "スタプロの龍頭",
+        "type_id": 3,
+        "duration": 8,
+        "description": "8秒間ロング・スライドのスコア50％アップ、それ以外が18％アップ"
+      },
+      "support": {
+        "name": "問題の記事",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "GROWING STARRY DAYS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、ピアス）",
+          "ドラゴンズヘッド衣装",
+          "ドラゴンズヘッド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3779,
+    "rarity": 5,
+    "character_id": 26,
+    "type": 2,
+    "substat_type": 1,
+    "title": "剛勇ドラゴン",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "不良の流儀",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "リズリンの龍頭",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "かつての定番",
+        "type_id": 24,
+        "description": "育成チケットのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "夏鳥の詩 -サマーバード-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装",
+          "ドラゴンズヘッド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3780,
+    "rarity": 4,
+    "character_id": 22,
+    "type": 4,
+    "substat_type": 1,
+    "title": "奮戦ドラゴン",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "仕事の流儀",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "先見通す頭脳",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "戦える相手",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Crush of Judgment"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3781,
+    "rarity": 4,
+    "character_id": 3,
+    "type": 1,
+    "substat_type": 0,
+    "title": "懸命ドラゴン",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "普通の流儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "勢いづく音頭",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "疑惑の真実",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Joyful×Box*"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3782,
+    "rarity": 3,
+    "character_id": 67,
+    "type": 2,
+    "substat_type": 1,
+    "title": "実直ドラゴン",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "自分の流儀",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "見せる頭角",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "漕ぐための気合",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3783,
+    "rarity": 3,
+    "character_id": 16,
+    "type": 3,
+    "substat_type": 2,
+    "title": "邁進ドラゴン",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "解説の流儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "吠える河頭",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "練習格闘技",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3784,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 1,
+    "substat_type": 0,
+    "title": "躍然ドラゴン",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-03-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "泳ぎの流儀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "勝負の関頭",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "実践前の腕鳴らし",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドラゴンズヘッド衣装"
+        ]
+      }
+    },
+    "associated_story": "ドラゴンズヘッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3785,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 4,
+    "substat_type": 0,
+    "title": "花候の気配",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2024-03-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "手つかずの未来",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "交差する日々",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "屋台の手伝い",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "No name yet"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "bud",
+          "bud (SCR)"
+        ],
+        "3d": [
+          "bud",
+          "bud (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "フェスティバル会場"
+      ]
+    },
+    "associated_story": "縁と宴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3786,
+    "rarity": 4,
+    "character_id": 27,
+    "type": 2,
+    "substat_type": 1,
+    "title": "演技の喜び",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-03-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "怒涛の展開",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "共にする哀感",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "楽しむ合宿",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Ghostic Treat House"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "山小屋からの脱出"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3787,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 0,
+    "title": "進める一針",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-03-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "オリジナルの愛着",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 80％up"
+      },
+      "live": {
+        "name": "誇れる名前",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "努力してきた証",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "不格好な逸品"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3788,
+    "rarity": 3,
+    "character_id": 69,
+    "type": 1,
+    "substat_type": 2,
+    "title": "感じる視線",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-03-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "追われる側",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "近すぎる距離",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "和やかな仕事",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "今日は観察デー!?"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3789,
+    "rarity": 5,
+    "character_id": 8,
+    "type": 1,
+    "substat_type": 1,
+    "title": "光明バイブレーション",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2024-04-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "刻み込む存在",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 120％up"
+      },
+      "live": {
+        "name": "見逃せない一瞬",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "内緒の舞台",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Heart aid Cafeteria"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "閃光",
+          "閃光 (SCR)"
+        ],
+        "3d": [
+          "閃光",
+          "閃光 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "輝く証を見つけて"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3790,
+    "rarity": 4,
+    "character_id": 37,
+    "type": 2,
+    "substat_type": 0,
+    "title": "渾身のパンチ",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-04-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "自分の必殺技",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "リズムが肝心",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "心の指導",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "オモイノカケラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "必殺技への道"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3791,
+    "rarity": 3,
+    "character_id": 6,
+    "type": 3,
+    "substat_type": 2,
+    "title": "知らない遊び",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-04-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "skills": {
+      "center": {
+        "name": "夢中になれるもの",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "かわいい興味",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "子供の領分",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "カードの魅力"
   },
   {
     "compliant": "TRUE",
