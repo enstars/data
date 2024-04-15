@@ -165004,6 +165004,430 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3792,
+    "rarity": 5,
+    "character_id": 67,
+    "type": 4,
+    "substat_type": 1,
+    "title": "目指していく星",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-04-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "見つけた答え",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "惹かれ合う手札",
+        "type_id": 3,
+        "duration": 5,
+        "description": "5秒間ロング・スライドのスコア70％アップ、それ以外が30％アップ"
+      },
+      "support": {
+        "name": "勝負前の握手",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ],
+        "3d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3793,
+    "rarity": 5,
+    "character_id": 71,
+    "type": 3,
+    "substat_type": 0,
+    "title": "導いていく星",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2024-04-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "持っている答え",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 120％up"
+      },
+      "live": {
+        "name": "惹かれ合う仲間",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "君主の思考",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ],
+        "3d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3794,
+    "rarity": 4,
+    "character_id": 69,
+    "type": 2,
+    "substat_type": 2,
+    "title": "あるがままの星",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-04-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "解いていく答え",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "惹かれ合う心",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "因習村の怪談",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装"
+        ],
+        "3d": [
+          "マトリックス衣装"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3795,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 1,
+    "substat_type": 1,
+    "title": "さらけ出す星",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2024-04-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "skills": {
+      "center": {
+        "name": "つくり出す答え",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "惹かれ合う楽しさ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界状態",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量がアップ"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装"
+        ],
+        "3d": [
+          "マトリックス衣装"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3796,
+    "rarity": 5,
+    "character_id": 68,
+    "type": 3,
+    "substat_type": 1,
+    "title": "繋いでいく星",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-04-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "成長中のスート",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "飛び回るハート",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "リーダー奪還",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ],
+        "3d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3797,
+    "rarity": 5,
+    "character_id": 72,
+    "type": 1,
+    "substat_type": 2,
+    "title": "変わりゆく星",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2024-04-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "蜂が与える居場所",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 120％up"
+      },
+      "live": {
+        "name": "飛び回る秘密",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "得られない情報",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ],
+        "3d": [
+          "マトリックス衣装",
+          "マトリックス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3798,
+    "rarity": 4,
+    "character_id": 70,
+    "type": 3,
+    "substat_type": 2,
+    "title": "指し示す星",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2024-04-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "支えるスート",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "飛び回るダイヤ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "まさかの策",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装"
+        ],
+        "3d": [
+          "マトリックス衣装"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3799,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 4,
+    "substat_type": 0,
+    "title": "辿り着く星",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2024-04-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "skills": {
+      "center": {
+        "name": "蜂の見る世界",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "飛び回る仕事人",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "村への案内",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SAKE OF LOVE"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マトリックス衣装"
+        ],
+        "3d": [
+          "マトリックス衣装"
+        ]
+      }
+    },
+    "associated_story": "マトリックス"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3803,
     "rarity": 5,
     "character_id": 2,

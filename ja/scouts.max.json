@@ -5774,5 +5774,85 @@
       3773,
       3774
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 497,
+    "name": "フィーチャースカウト こはく編2",
+    "start": {
+      "jp": "2024-03-25T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-10T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "知らない誰かへ",
+    "banner_id": 3775,
+    "cards": [
+      3775,
+      3776,
+      3777
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 498,
+    "name": "フィーチャースカウト 斑編2",
+    "start": {
+      "jp": "2024-03-30T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-14T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "縁と宴",
+    "event_id": 297,
+    "banner_id": 3785,
+    "cards": [
+      3785,
+      3786,
+      3787,
+      3788
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 499,
+    "name": "フィーチャースカウト ゆうた編2",
+    "start": {
+      "jp": "2024-04-10T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-25T06:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "輝く証を見つけて",
+    "banner_id": 3789,
+    "cards": [
+      3789,
+      3790,
+      3791
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 500,
+    "name": "スカウト！蜂と飛び回るスート",
+    "start": {
+      "jp": "2024-04-14T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-29T06:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "マトリックス",
+    "event_id": 298,
+    "banner_id": 3796,
+    "cards": [
+      3796,
+      3797,
+      3798,
+      3799
+    ]
   }
 ]

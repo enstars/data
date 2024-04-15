@@ -4131,5 +4131,60 @@
       3769,
       3770
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 297,
+    "start": {
+      "jp": "2023-03-31T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "双頭×流儀／ドラゴンズヘッド",
+    "event_gacha": "フィーチャースカウト 斑編2",
+    "gacha_id": 498,
+    "story_name": "ドラゴンズヘッド",
+    "banner_id": 3778,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3778,
+      3779,
+      3780,
+      3781,
+      3782,
+      3783,
+      3784
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 298,
+    "start": {
+      "jp": "2024-04-15T06:00:00Z"
+    },
+    "end": {
+      "jp": "2024-04-23T13:00:00Z"
+    },
+    "type": "special",
+    "name": "Answer★星と惹かれ合うマトリックス",
+    "event_gacha": "スカウト！蜂と飛び回るスート",
+    "gacha_id": 500,
+    "song_name": "SAKE OF LOVE",
+    "story_name": "マトリックス",
+    "banner_id": 3792,
+    "unit_id": [
+      15,
+      16
+    ],
+    "cards": [
+      3792,
+      3793,
+      3794,
+      3795
+    ]
   }
 ]
