@@ -165950,6 +165950,177 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3800,
+    "rarity": 5,
+    "character_id": 5,
+    "type": 4,
+    "substat_type": 1,
+    "title": "見つける自分らしさ",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-04-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 501
+    },
+    "stats": {
+      "ir": {
+        "da": 26865,
+        "vo": 42538,
+        "pf": 26223
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "向き合う時間",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "自然体の未来",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "八百屋の看板息子",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "僕らのステラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フローライト",
+          "フローライト (SCR)"
+        ],
+        "3d": [
+          "フローライト",
+          "フローライト (SCR)"
+        ]
+      }
+    },
+    "associated_story": "俺らしく、踏み出して"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3801,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 3,
+    "substat_type": 2,
+    "title": "魅せるスペシャリティ",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-04-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 501
+    },
+    "stats": {
+      "ir": {
+        "da": 13523,
+        "vo": 12972,
+        "pf": 30331
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "茶目っ気抜群",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "斬新スタイル",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "お茶との相性",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "楽園追放 -Faith Conquest-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "バラエティータイム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3802,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 0,
+    "title": "同室同士の距離",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-04-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 501
+    },
+    "stats": {
+      "ir": {
+        "da": 19488,
+        "vo": 11820,
+        "pf": 11890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "最高の休日",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "気ままな空間",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "止まない着信音",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "騒がしい休日よ"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3803,
     "rarity": 5,
     "character_id": 2,
@@ -165988,6 +166159,226 @@
       "outfit": {
         "l2d": [
           "ウェルカム祭衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4016,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 0,
+    "title": "突き抜けるFLARE",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27507,
+        "vo": 14486,
+        "pf": 15358
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "光るための挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "耀きLIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界をもっと超えて",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4023,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 2,
+    "substat_type": 1,
+    "title": "よどみないTORRENT",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14671,
+        "vo": 27054,
+        "pf": 16118
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "りょういきとちょうせん",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "みなもりみっとぶれいく",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "げんかいをおよぎきって",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4028,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 3,
+    "substat_type": 1,
+    "title": "巻き起こすSTORM",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14735,
+        "vo": 27530,
+        "pf": 15085
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "人と繋がりと挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "遙かなLIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界を過去にして",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4056,
+    "rarity": 4,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 2,
+    "title": "鋭さのSPARK",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 17566,
+        "vo": 13251,
+        "pf": 27032
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "目新しさへの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "未来LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を攻略して",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
         ]
       }
     }
