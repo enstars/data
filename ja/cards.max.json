@@ -166382,5 +166382,316 @@
         ]
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4065,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 1,
+    "substat_type": 2,
+    "title": "黎明EVIL",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-04-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle",
+      "id": 299
+    },
+    "stats": {
+      "ir": {
+        "da": 22846,
+        "vo": 25022,
+        "pf": 46133
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "探求TELEPHONE",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 120％up"
+      },
+      "live": {
+        "name": "囁く交渉",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "悪魔の実",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Ringing evil phone"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、二年生）",
+          "私服2（春〜夏）",
+          "イービルTELEPHONE衣装",
+          "イービルTELEPHONE衣装 (SCR)"
+        ],
+        "3d": [
+          "イービルTELEPHONE衣装",
+          "イービルTELEPHONE衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "イービルTELEPHONE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4066,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 4,
+    "substat_type": 1,
+    "title": "強者EVIL",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2024-04-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle",
+      "id": 299
+    },
+    "stats": {
+      "ir": {
+        "da": 15210,
+        "vo": 27362,
+        "pf": 15045
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "悪戯TELEPHONE",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "囁く願い",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "不穏な雲行き",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量がアップ"
+      }
+    },
+    "spp": {
+      "name": "Ringing evil phone"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "イービルTELEPHONE衣装"
+        ],
+        "3d": [
+          "イービルTELEPHONE衣装"
+        ]
+      }
+    },
+    "associated_story": "イービルTELEPHONE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4067,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 2,
+    "substat_type": 0,
+    "title": "誘引EVIL",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-04-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle",
+      "id": 299
+    },
+    "stats": {
+      "ir": {
+        "da": 31006,
+        "vo": 14490,
+        "pf": 11775
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "伝授TELEPHONE",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "囁く欲望",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "感心アドリブ",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Ringing evil phone"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "イービルTELEPHONE衣装"
+        ],
+        "3d": [
+          "イービルTELEPHONE衣装"
+        ]
+      }
+    },
+    "associated_story": "イービルTELEPHONE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4068,
+    "rarity": 5,
+    "character_id": 12,
+    "type": 3,
+    "substat_type": 0,
+    "title": "契約EVIL",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-04-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 502
+    },
+    "stats": {
+      "ir": {
+        "da": 48030,
+        "vo": 24260,
+        "pf": 19260
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "試みNUM+",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 120％up"
+      },
+      "live": {
+        "name": "囁く誘惑",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "新しい活動",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Ringing evil phone"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、二年生）",
+          "私服2（春〜夏）",
+          "イービルTELEPHONE衣装",
+          "イービルTELEPHONE衣装 (SCR)"
+        ],
+        "3d": [
+          "イービルTELEPHONE衣装",
+          "イービルTELEPHONE衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "イービルTELEPHONE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4069,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 1,
+    "title": "均衡EVIL",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-04-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 502
+    },
+    "stats": {
+      "ir": {
+        "da": 14313,
+        "vo": 28570,
+        "pf": 14812
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "崇拝NUM+",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 80％up"
+      },
+      "live": {
+        "name": "囁く対価",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "遅刻回避",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Ringing evil phone"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "イービルTELEPHONE衣装"
+        ],
+        "3d": [
+          "イービルTELEPHONE衣装"
+        ]
+      }
+    },
+    "associated_story": "イービルTELEPHONE"
   }
 ]
