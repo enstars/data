@@ -163723,6 +163723,246 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3745,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 2,
+    "substat_type": 2,
+    "title": "慈しむ園",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2024-05-08"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16505,
+        "vo": 14312,
+        "pf": 27017
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "知るを恐れるな",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "炎のように踊る",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "Edenの力強さ",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "KEEP OUT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3746,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 3,
+    "substat_type": 2,
+    "title": "愛する園",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-05-08"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14749,
+        "vo": 15067,
+        "pf": 27536
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "愛を恐れるな",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "美しき僕ら",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "Edenの気高さ",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "KEEP OUT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3747,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 4,
+    "substat_type": 1,
+    "title": "求めた園",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-05-08"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15981,
+        "vo": 27530,
+        "pf": 13839
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "欲望を隠すな",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "酸い甘いに乾杯",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "Edenの賢さ",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "KEEP OUT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3748,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 1,
+    "substat_type": 0,
+    "title": "掴んだ園",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-05-08"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27019,
+        "vo": 16573,
+        "pf": 14247
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "心を閉ざすな",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "抗えないシグナル",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "Edenの鋭さ",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "KEEP OUT"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3754,
     "rarity": 3,
     "character_id": 26,
@@ -166693,5 +166933,174 @@
       }
     },
     "associated_story": "イービルTELEPHONE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4070,
+    "rarity": 5,
+    "character_id": 23,
+    "type": 2,
+    "substat_type": 1,
+    "title": "賢察インテリジェンス",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2024-05-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 24690,
+        "vo": 46490,
+        "pf": 22850
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "推理の道筋",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "射止める知性",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "カウンターの主",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "IMMORAL WORLD"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "インテリジェンス衣装",
+          "インテリジェンス衣装 (SCR)"
+        ],
+        "3d": [
+          "インテリジェンス衣装",
+          "インテリジェンス衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4071,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 3,
+    "substat_type": 2,
+    "title": "直感インテリジェンス",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-05-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 14470,
+        "vo": 13860,
+        "pf": 29030
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "推理のヒント",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "垣間見える知性",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "水族館の修了証書",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Absolute Perfection"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "インテリジェンス衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4072,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 0,
+    "title": "さぐるいんてりじぇんす",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-05-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 21600,
+        "vo": 9035,
+        "pf": 10890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "すいりのちかみち",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "ひらめくちせい",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "みりょくのあかし",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    }
   }
 ]
