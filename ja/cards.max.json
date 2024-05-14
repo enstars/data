@@ -180244,5 +180244,174 @@
         ]
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4073,
+    "rarity": 5,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 0,
+    "title": "誘引インテリジェンス",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2024-05-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 47970,
+        "vo": 21390,
+        "pf": 22155
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "解決への一歩",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "引き締まる知性",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "鍛え上げた脚力",
+        "type_id": 3,
+        "description": "GREAT・GOODを3回までPERFECTに"
+      }
+    },
+    "spp": {
+      "name": "Have you been naughty or nice?"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "インテリジェンス衣装",
+          "インテリジェンス衣装 (SCR)"
+        ],
+        "3d": [
+          "インテリジェンス衣装",
+          "インテリジェンス衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4074,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 1,
+    "substat_type": 1,
+    "title": "創造インテリジェンス",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-05-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 14108,
+        "vo": 28540,
+        "pf": 14980
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "解決への手がかり",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "編み出す知性",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "創作のための場所",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "凱旋歌"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "インテリジェンス衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4075,
+    "rarity": 3,
+    "character_id": 24,
+    "type": 4,
+    "substat_type": 2,
+    "title": "確信インテリジェンス",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-05-13"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 11060,
+        "vo": 12440,
+        "pf": 19512
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "解決への行動",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 80％up"
+      },
+      "live": {
+        "name": "鍵を握る知性",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "予想外の正体",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    }
   }
 ]
