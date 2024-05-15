@@ -180443,5 +180443,344 @@
         ]
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4076,
+    "rarity": 5,
+    "character_id": 18,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ステップ踏む舞踏会",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 27922,
+        "vo": 43702,
+        "pf": 23182
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "努力のpiece",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 120％up"
+      },
+      "live": {
+        "name": "魅了PRINCESS",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "有名人の登場",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Romantic Xday!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "舞踏会の衣装",
+          "私服2（春〜夏）",
+          "舞踏会の衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4077,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 2,
+    "substat_type": 2,
+    "title": "音色彩る舞踏会",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 27515,
+        "vo": 28795,
+        "pf": 40464
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "発見のpiece",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "接近PRINCESS",
+        "type_id": 2,
+        "duration": 5,
+        "description": "5秒間フリックのスコア100％アップ、それ以外が30％アップ"
+      },
+      "support": {
+        "name": "ダンスの実力",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Aisle, be with you"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "舞踏会の衣装",
+          "舞踏会の衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4078,
+    "rarity": 4,
+    "type": 1,
+    "substat_type": 2,
+    "title": "冒険の舞踏会",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 13911,
+        "vo": 12353,
+        "pf": 31022
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "驚きのpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "期待PRINCESS",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "はじまる大冒険",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "舞踏会の衣装",
+          "舞踏会の衣装（王冠なし）"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4079,
+    "rarity": 4,
+    "type": 4,
+    "substat_type": 0,
+    "title": "夢心地の舞踏会",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 30281,
+        "vo": 13028,
+        "pf": 14731
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "照らすpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "献身PRINCESS",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "惑いの審査員",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "舞踏会の衣装"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4080,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 3,
+    "substat_type": 0,
+    "title": "煌めく舞踏会",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 19456,
+        "vo": 10842,
+        "pf": 12050
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "成長のpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 80％up"
+      },
+      "live": {
+        "name": "感動PRINCESS",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "叫びたい言葉",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "舞踏会の衣装",
+          "オーディション練習着",
+          "私服2（春〜夏）"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4081,
+    "rarity": 3,
+    "character_id": 10,
+    "type": 2,
+    "substat_type": 1,
+    "title": "麗しの舞踏会",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-05-14"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 12003,
+        "vo": 21465,
+        "pf": 8128
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "気合のpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 80％up"
+      },
+      "live": {
+        "name": "真剣PRINCESS",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "見ていられない姿",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "舞踏会の衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★PRINCESS"
   }
 ]
