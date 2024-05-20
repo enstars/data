@@ -179642,6 +179642,381 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4000,
+    "rarity": 1,
+    "character_id": 81,
+    "type": 1,
+    "substat_type": 0,
+    "title": "ひとりのアイドル",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "ダンススパークル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
+      },
+      "support": {
+        "name": "キープボルテージ",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4001,
+    "rarity": 1,
+    "character_id": 82,
+    "type": 2,
+    "substat_type": 1,
+    "title": "ひとりのアイドル",
+    "name": "滝維吹",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声ブリリアント",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間7％スコアアップ"
+      },
+      "support": {
+        "name": "チアボーカル",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4002,
+    "rarity": 1,
+    "character_id": 83,
+    "type": 4,
+    "substat_type": 2,
+    "title": "ひとりのアイドル",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "表現力フラッシュ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
+      },
+      "support": {
+        "name": "チアパフォーマンス",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4003,
+    "rarity": 1,
+    "character_id": 84,
+    "type": 3,
+    "substat_type": 0,
+    "title": "ひとりのアイドル",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "ダンスグリッター",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
+      },
+      "support": {
+        "name": "チアダンス",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4004,
+    "rarity": 1,
+    "character_id": 85,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ひとりのアイドル",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声スパークル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間7％スコアアップ"
+      },
+      "support": {
+        "name": "チアボーカル",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4005,
+    "rarity": 2,
+    "character_id": 81,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ESの新人アイドル",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "表現力ブリリアント",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
+      },
+      "support": {
+        "name": "ブリリアントチア",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4006,
+    "rarity": 2,
+    "character_id": 82,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ESの新人アイドル",
+    "name": "滝維吹",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "ダンスフラッシュ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
+      },
+      "support": {
+        "name": "チアダンス",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4007,
+    "rarity": 2,
+    "character_id": 83,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ESの新人アイドル",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声グリッター",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間7％スコアアップ"
+      },
+      "support": {
+        "name": "グリッターチア",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4008,
+    "rarity": 2,
+    "character_id": 84,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ESの新人アイドル",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "表現力スパークル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
+      },
+      "support": {
+        "name": "フォーリンステージ",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4009,
+    "rarity": 2,
+    "character_id": 85,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ESの新人アイドル",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-04-27"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "skills": {
+      "center": {
+        "name": "ダンスブリリアント",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
+      },
+      "support": {
+        "name": "チアダンス",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4016,
     "rarity": 4,
     "character_id": 11,
@@ -180325,7 +180700,8 @@
           "インテリジェンス衣装 (SCR)"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180386,7 +180762,8 @@
           "インテリジェンス衣装"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180443,7 +180820,8 @@
           "私服2（春〜夏）"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180514,7 +180892,8 @@
           "インテリジェンス衣装 (SCR)"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180580,7 +180959,8 @@
           "インテリジェンス衣装"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180637,7 +181017,8 @@
           "私服2（春〜夏）"
         ]
       }
-    }
+    },
+    "associated_story": "インテリジェンス"
   },
   {
     "compliant": "TRUE",
@@ -180805,6 +181186,7 @@
     "compliant": "TRUE",
     "id": 4078,
     "rarity": 4,
+    "character_id": 81,
     "type": 1,
     "substat_type": 2,
     "title": "冒険の舞踏会",
@@ -180867,6 +181249,7 @@
     "compliant": "TRUE",
     "id": 4079,
     "rarity": 4,
+    "character_id": 84,
     "type": 4,
     "substat_type": 0,
     "title": "夢心地の舞踏会",
