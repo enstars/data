@@ -176261,6 +176261,306 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3749,
+    "rarity": 4,
+    "character_id": 10,
+    "type": 4,
+    "substat_type": 1,
+    "title": "誇りの剣",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-05-23"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14920,
+        "vo": 27060,
+        "pf": 15870
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "聖騎士とお姫さま",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "あなたへと駆けつけて",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "Knightsの心意気",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Wonderful Happiness"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3750,
+    "rarity": 4,
+    "character_id": 33,
+    "type": 1,
+    "substat_type": 2,
+    "title": "奏でる剣",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-05-23"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15330,
+        "vo": 14515,
+        "pf": 27510
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌騎士からの歌",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "あなたと時間を気にせず",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "Knightsの自由心",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Wonderful Happiness"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3751,
+    "rarity": 4,
+    "character_id": 24,
+    "type": 3,
+    "substat_type": 0,
+    "title": "貫く剣",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-05-23"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27045,
+        "vo": 13470,
+        "pf": 17322
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "望騎士の一着",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "あなたに振り回されて",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "Knightsの自尊心",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Wonderful Happiness"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3752,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 4,
+    "substat_type": 2,
+    "title": "照らす剣",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-05-23"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15815,
+        "vo": 15001,
+        "pf": 27020
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "吸血鬼騎士と君へ",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "あなたといる今宵に",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "Knightsの夢心地",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Wonderful Happiness"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3753,
+    "rarity": 4,
+    "character_id": 20,
+    "type": 2,
+    "substat_type": 1,
+    "title": "磨かれる剣",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-05-23"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15725,
+        "vo": 27549,
+        "pf": 14070
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "姉騎士の後押し",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "物憂げなあなたに",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "Knightsの美意識",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Wonderful Happiness"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ],
+        "3d": [
+          "アルバム『TRIP』衣装",
+          "アルバム『TRIP』衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3754,
     "rarity": 3,
     "character_id": 26,
@@ -181630,5 +181930,177 @@
       }
     },
     "associated_story": "VS★PRINCESS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4082,
+    "rarity": 5,
+    "character_id": 14,
+    "type": 2,
+    "substat_type": 1,
+    "title": "振るう一滴",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2024-05-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 25705,
+        "vo": 46479,
+        "pf": 21842
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "凛とした華",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "明浄な心",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "助けられる命",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "紅月いろは唄"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "華一滴衣装",
+          "華一滴衣装 (SCR)"
+        ],
+        "3d": [
+          "華一滴衣装",
+          "華一滴衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4083,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 4,
+    "substat_type": 0,
+    "title": "払う一滴",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-05-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 29050,
+        "vo": 13630,
+        "pf": 14600
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "貫き通す華",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "実直な心",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "貴族のお小言",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Absolute Perfection"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "華一滴衣装"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4084,
+    "rarity": 3,
+    "character_id": 30,
+    "type": 1,
+    "substat_type": 2,
+    "title": "注ぐ一滴",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-05-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 10150,
+        "vo": 9810,
+        "pf": 21570
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "心寄せる華",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "常世の心",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "濡れ兎の帰宅",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
   }
 ]
