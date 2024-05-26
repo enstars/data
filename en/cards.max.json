@@ -4808,7 +4808,8 @@
     "quote": {
       "n": "輝かしい未来を期待してほしいな",
       "e": "I want to see it too…♪"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -4829,7 +4830,8 @@
     "quote": {
       "n": "とびきりの愛を感じますね♪",
       "e": "たくさんの驚きに出会えそうです☆"
-    }
+    },
+    "releaseDate": "2023-05-15"
   },
   {
     "compliant": "TRUE",
@@ -4850,7 +4852,8 @@
     "quote": {
       "n": "みんなと祝えて嬉しいな",
       "e": "ボクはこれだけの人に出会ったんだ"
-    }
+    },
+    "releaseDate": "2023-05-15"
   },
   {
     "compliant": "TRUE",
@@ -4860,7 +4863,8 @@
     "quote": {
       "n": "随分お知り合いが増えました",
       "e": "いろいろ助けられましたね…♪"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -4881,7 +4885,8 @@
     "quote": {
       "n": "かけがえのない仲間に出会えた",
       "e": "これからも大切にしていきたいな"
-    }
+    },
+    "releaseDate": "2023-05-15"
   },
   {
     "compliant": "TRUE",
@@ -4902,7 +4907,8 @@
     "quote": {
       "n": "こんなにキラキラ笑顔でいられる☆",
       "e": "いろんなひとに感謝だね！"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -4912,7 +4918,8 @@
     "quote": {
       "n": "人と出会って成長してきたんだ",
       "e": "こんなに心強いことはないよ！"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -4922,7 +4929,8 @@
     "quote": {
       "n": "諦めずに努力したから今がある",
       "e": "支えてくれる存在が大きいな♪"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -4932,7 +4940,8 @@
     "quote": {
       "n": "頼もしい仲間がこうしている！",
       "e": "大事に育んでいきたいな！"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -4942,7 +4951,8 @@
     "quote": {
       "n": "ここにはなかまがいます",
       "e": "えがおにかこまれてしあわせですね"
-    }
+    },
+    "releaseDate": "2023-05-15"
   },
   {
     "compliant": "TRUE",
@@ -4952,7 +4962,8 @@
     "quote": {
       "n": "成長して得たものがあるッス",
       "e": "すべてが自分の一部ッスよ"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -4973,7 +4984,8 @@
     "quote": {
       "n": "悪くないって、思えるいまがある",
       "e": "楽しいをもっと積み重ねたい"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -4994,7 +5006,8 @@
     "quote": {
       "n": "自分を表現できる場所がここに！",
       "e": "支えあっていきたいでござる…♪"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -5004,7 +5017,8 @@
     "quote": {
       "n": "出会いからすべてが始まる",
       "e": "ここは可能性に満ち溢れてるよ"
-    }
+    },
+    "releaseDate": "2023-05-15"
   },
   {
     "compliant": "TRUE",
@@ -5014,7 +5028,8 @@
     "quote": {
       "n": "諦めないからここに立てるんだ",
       "e": "未来に希望を持ち続けるよ！"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -5035,7 +5050,8 @@
     "quote": {
       "n": "眩しい世界が広がってますぅ",
       "e": "優しさがこうして守ってくれますね"
-    }
+    },
+    "releaseDate": "2023-05-01"
   },
   {
     "compliant": "TRUE",
@@ -5045,7 +5061,8 @@
     "quote": {
       "n": "前に進む気持ちが未来を掴むんです",
       "e": "大事な居場所に感謝しましょう"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -5062,7 +5079,8 @@
       "support": {
         "name": "Blessed Handshake"
       }
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -5079,7 +5097,8 @@
       "support": {
         "name": "Blessed Treat"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5096,7 +5115,8 @@
       "support": {
         "name": "Blessed Salute"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5113,7 +5133,8 @@
       "support": {
         "name": "Blessed Nod"
       }
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -5134,7 +5155,8 @@
     "quote": {
       "n": "自分が信じ求める道を進むだけだよ",
       "e": "支えてくれる人がいるおかげだよ"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -5151,7 +5173,8 @@
       "support": {
         "name": "Blessed Smile"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5168,7 +5191,8 @@
       "support": {
         "name": "Blessed Hug"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5185,7 +5209,8 @@
       "support": {
         "name": "Blessed Gratitude"
       }
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -5202,7 +5227,8 @@
       "support": {
         "name": "Blessed Joke"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5219,7 +5245,8 @@
       "support": {
         "name": "Blessed Praise"
       }
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -5236,7 +5263,8 @@
       "support": {
         "name": "Blessed Assembly"
       }
-    }
+    },
+    "releaseDate": "2023-06-17"
   },
   {
     "compliant": "TRUE",
@@ -5253,55 +5281,64 @@
       "support": {
         "name": "Blessed Dish"
       }
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
     "id": 2387,
     "title": "Vampire of Rhythm Link",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
     "id": 2388,
     "title": "Heartthrob of Rhythm Link",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "releaseDate": "2023-07-27"
   },
   {
     "compliant": "TRUE",
     "id": 2389,
     "title": "Rock Star of Rhythm Link",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "releaseDate": "2023-07-27"
   },
   {
     "compliant": "TRUE",
     "id": 2390,
     "title": "Gentleness of Rhythm Link",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
     "id": 2391,
     "title": "Ambition of Rhythm Link",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
     "id": 2392,
     "title": "Sweetie of Rhythm Link",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "releaseDate": "2023-07-27"
   },
   {
     "compliant": "TRUE",
     "id": 2393,
     "title": "Aspiration of Rhythm Link",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
     "id": 2394,
     "title": "Harmony of Rhythm Link",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "releaseDate": "2023-07-27"
   },
   {
     "compliant": "TRUE",
@@ -5318,19 +5355,22 @@
       "support": {
         "name": "Blessed Rest"
       }
-    }
+    },
+    "releaseDate": "2023-07-27"
   },
   {
     "compliant": "TRUE",
     "id": 2396,
     "title": "Toughness of Rhythm Link",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
     "id": 2397,
     "title": "Elegance of Rhythm Link",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-07-20"
   },
   {
     "compliant": "TRUE",
@@ -5376,7 +5416,8 @@
       "support": {
         "name": "Blessed Future"
       }
-    }
+    },
+    "releaseDate": "2023-09-06"
   },
   {
     "compliant": "TRUE",
@@ -5411,7 +5452,8 @@
       "support": {
         "name": "Blessed Charisma"
       }
-    }
+    },
+    "releaseDate": "2023-09-06"
   },
   {
     "compliant": "TRUE",
@@ -5428,7 +5470,8 @@
       "support": {
         "name": "Blessed Magic"
       }
-    }
+    },
+    "releaseDate": "2023-09-06"
   },
   {
     "compliant": "TRUE",
@@ -5441,7 +5484,8 @@
     "compliant": "TRUE",
     "id": 2405,
     "title": "Smile of NEW DI",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "releaseDate": "2023-09-06"
   },
   {
     "compliant": "TRUE",
@@ -6521,7 +6565,8 @@
       "support": {
         "name": "ES Business Dept Assistant"
       }
-    }
+    },
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
@@ -6538,19 +6583,22 @@
       "support": {
         "name": "ES Business Dept Leader"
       }
-    }
+    },
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
     "id": 2462,
     "title": "Singing Retired Idol",
-    "name": "Jin Sagami"
+    "name": "Jin Sagami",
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
     "id": 2463,
     "title": "Singing Retired Idol",
-    "name": "Akiomi Kunugi"
+    "name": "Akiomi Kunugi",
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
@@ -7098,7 +7146,8 @@
       "support": {
         "name": "Cheer Performance"
       }
-    }
+    },
+    "releaseDate": "2022-10-16"
   },
   {
     "compliant": "TRUE",
@@ -7115,7 +7164,8 @@
       "support": {
         "name": "Absorption in Concert"
       }
-    }
+    },
+    "releaseDate": "2022-10-16"
   },
   {
     "compliant": "TRUE",
@@ -7450,7 +7500,8 @@
     "quote": {
       "n": "選ぶにも、迷ってしまうな…",
       "e": "刀に、紋に恥じぬ舞台を見せよう"
-    }
+    },
+    "releaseDate": "2022-11-07"
   },
   {
     "compliant": "TRUE",
@@ -7467,7 +7518,8 @@
       "support": {
         "name": "Proxy Delivery"
       }
-    }
+    },
+    "releaseDate": "2022-11-07"
   },
   {
     "compliant": "TRUE",
@@ -7488,7 +7540,8 @@
     "quote": {
       "n": "何してもかっこいいです！",
       "e": "行く行く、行きま〜す♪"
-    }
+    },
+    "releaseDate": "2022-11-07"
   },
   {
     "compliant": "TRUE",
@@ -7509,7 +7562,8 @@
     "quote": {
       "n": "幽霊なんて、気のせいでしょう",
       "e": "ゆっくり珈琲でも飲みましょう"
-    }
+    },
+    "releaseDate": "2022-11-07"
   },
   {
     "compliant": "TRUE",
@@ -7519,7 +7573,8 @@
     "quote": {
       "n": "……ふん。相変わらずごみごみとした町だね",
       "e": "Hmph. This city is as disorganized as usual."
-    }
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "TRUE",
@@ -7540,7 +7595,8 @@
     "quote": {
       "n": "はあああ、どないしょおおおーー",
       "e": "Arrrrrgh, what should I do—"
-    }
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "TRUE",
@@ -7561,7 +7617,8 @@
     "quote": {
       "n": "交渉や勧誘が下手なんですよね〜",
       "e": "It's only proper to lend him a hand now."
-    }
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "TRUE",
@@ -7581,7 +7638,8 @@
     },
     "quote": {
       "e": "—Yaho. I was wondering what you're doing. Are you shopping for dinner?"
-    }
+    },
+    "releaseDate": "2022-11-12"
   },
   {
     "compliant": "TRUE",
@@ -7602,7 +7660,8 @@
     "quote": {
       "n": "…ダンクシュート♪",
       "e": "…荒れ地もきっといつかは"
-    }
+    },
+    "releaseDate": "2022-11-11"
   },
   {
     "compliant": "TRUE",
@@ -7623,7 +7682,8 @@
     "quote": {
       "n": "遅〜い。待ったんだよ？",
       "e": "ずっと苦しいわけじゃない"
-    }
+    },
+    "releaseDate": "2022-11-11"
   },
   {
     "compliant": "TRUE",
@@ -7644,7 +7704,8 @@
     "quote": {
       "n": "話も通じるだろうし任せたよ",
       "e": "最後には何とかなるよな"
-    }
+    },
+    "releaseDate": "2022-11-11"
   },
   {
     "compliant": "TRUE",
@@ -7665,7 +7726,8 @@
     "quote": {
       "n": "お、俺もですか…？",
       "e": "I wanna get this done with so I can go home already..."
-    }
+    },
+    "releaseDate": "2022-11-11"
   },
   {
     "compliant": "TRUE",
@@ -7686,7 +7748,8 @@
     "quote": {
       "n": "お小遣いで買った宝物でござる",
       "e": "忍者ワールド全開でござるよ！"
-    }
+    },
+    "releaseDate": "2022-11-21"
   },
   {
     "compliant": "TRUE",
@@ -7707,7 +7770,8 @@
     "quote": {
       "n": "痛くも痒くもないぞ！",
       "e": "海のように広い心で！"
-    }
+    },
+    "releaseDate": "2022-11-21"
   },
   {
     "compliant": "TRUE",
@@ -7728,7 +7792,8 @@
     "quote": {
       "n": "日が暮れてしまいますよ",
       "e": "これからがんばりましょうね"
-    }
+    },
+    "releaseDate": "2022-11-21"
   },
   {
     "compliant": "TRUE",
@@ -7745,7 +7810,8 @@
       "support": {
         "name": "Kitchen Pantry"
       }
-    }
+    },
+    "releaseDate": "2022-11-21"
   },
   {
     "compliant": "TRUE",
@@ -7762,7 +7828,8 @@
       "support": {
         "name": "Courage of Unit"
       }
-    }
+    },
+    "releaseDate": "2022-10-24"
   },
   {
     "compliant": "TRUE",
@@ -7779,7 +7846,8 @@
       "support": {
         "name": "Acquisition from Unit"
       }
-    }
+    },
+    "releaseDate": "2022-10-24"
   },
   {
     "compliant": "TRUE",
@@ -7799,7 +7867,8 @@
     },
     "quote": {
       "e": "Here, say \"ah\"~..."
-    }
+    },
+    "releaseDate": "2022-11-26"
   },
   {
     "compliant": "TRUE",
@@ -7819,7 +7888,8 @@
     },
     "quote": {
       "e": "Stay away from me, kid. I hate kids cuz they're stupid."
-    }
+    },
+    "releaseDate": "2022-11-26"
   },
   {
     "compliant": "TRUE",
@@ -7839,7 +7909,8 @@
     },
     "quote": {
       "e": "At least, HiMERU needs to keep a cool head over the big picture."
-    }
+    },
+    "releaseDate": "2022-11-26"
   },
   {
     "compliant": "TRUE",
@@ -7859,7 +7930,8 @@
     },
     "quote": {
       "e": "Stop it. Don't make a fuss in public like this. "
-    }
+    },
+    "releaseDate": "2022-11-26"
   },
   {
     "compliant": "TRUE",
@@ -7880,7 +7952,8 @@
     "quote": {
       "n": "大丈夫か、仁兎先輩?",
       "e": "月はどこで見ても美しいな"
-    }
+    },
+    "releaseDate": "2022-11-25"
   },
   {
     "compliant": "TRUE",
@@ -7890,7 +7963,8 @@
     "quote": {
       "n": "に、苦~っ…！",
       "e": "月夜は不思議なことが起こるかも"
-    }
+    },
+    "releaseDate": "2022-11-25"
   },
   {
     "compliant": "TRUE",
@@ -7911,7 +7985,8 @@
     "quote": {
       "n": "それって冗談じゃなくて本気…？",
       "e": "季節を楽しむのは良い習慣だよね"
-    }
+    },
+    "releaseDate": "2022-11-25"
   },
   {
     "compliant": "TRUE",
@@ -7928,7 +8003,8 @@
       "support": {
         "name": "Outdoor Guest"
       }
-    }
+    },
+    "releaseDate": "2022-11-25"
   },
   {
     "compliant": "TRUE",
@@ -7945,7 +8021,8 @@
       "support": {
         "name": "Handmade Costume"
       }
-    }
+    },
+    "releaseDate": "2022-12-05"
   },
   {
     "compliant": "TRUE",
@@ -7966,7 +8043,8 @@
     "quote": {
       "n": "無い無い、どこにも無い…!",
       "e": "さぁ、どこからでも撮ってくれ"
-    }
+    },
+    "releaseDate": "2022-12-05"
   },
   {
     "compliant": "TRUE",
@@ -7987,7 +8065,8 @@
     "quote": {
       "n": "ちょっとやそっとじゃ埋もれるの",
       "e": "互いに上を目指す者同士でしょ"
-    }
+    },
+    "releaseDate": "2022-12-05"
   },
   {
     "compliant": "TRUE",
@@ -8004,7 +8083,8 @@
       "support": {
         "name": "Mysterious Activities"
       }
-    }
+    },
+    "releaseDate": "2022-12-05"
   },
   {
     "compliant": "TRUE",
@@ -8025,7 +8105,8 @@
     "quote": {
       "n": "他のみんなより出遅れちゃう",
       "e": "最高に『僕』そのものだ…！"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8046,7 +8127,8 @@
     "quote": {
       "n": "もう逃げ場はありませんよ",
       "e": "心から良かったと思いますよ…！"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8067,7 +8149,8 @@
     "quote": {
       "n": "俺が来たからにはもう安心だぞ",
       "e": "なぜだっ、なぜ勝てないんだ"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8088,7 +8171,8 @@
     "quote": {
       "n": "じゃ〜ん、桃まんじゅう！",
       "e": "助けて！助けてお願いっ"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8109,7 +8193,8 @@
     "quote": {
       "n": "柔軟性が必要なんですよ？",
       "e": "感情を武器にして披露しなさい！"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8130,7 +8215,8 @@
     "quote": {
       "n": "思っていたより前途多難だね…",
       "e": "最強のアイドルになってもらおう♪"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8151,7 +8237,8 @@
     "quote": {
       "n": "オーディションの結果を教えてっ",
       "e": "撮影ちゅうは集中…"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8172,7 +8259,8 @@
     "quote": {
       "n": "それっぽく見えるように練習だな",
       "e": "時間をかけてものにしなきゃな"
-    }
+    },
+    "releaseDate": "2022-12-10"
   },
   {
     "compliant": "TRUE",
@@ -8193,7 +8281,8 @@
     "quote": {
       "n": "心配しなくてもボクも行くってバ",
       "e": "常に勝者はボクのほうダ♪"
-    }
+    },
+    "releaseDate": "2022-12-09"
   },
   {
     "compliant": "TRUE",
@@ -8210,7 +8299,8 @@
       "support": {
         "name": "Influence of Comics"
       }
-    }
+    },
+    "releaseDate": "2022-12-09"
   },
   {
     "compliant": "TRUE",
@@ -8227,7 +8317,8 @@
       "support": {
         "name": "Concerning for Kitten"
       }
-    }
+    },
+    "releaseDate": "2022-12-09"
   },
   {
     "compliant": "TRUE",
@@ -8244,7 +8335,8 @@
       "support": {
         "name": "Participating in Game"
       }
-    }
+    },
+    "releaseDate": "2022-12-09"
   },
   {
     "compliant": "TRUE",
@@ -8265,7 +8357,8 @@
     "quote": {
       "n": "I don't really know what I'm like at all...",
       "e": "I'm not nobody—I'm me!"
-    }
+    },
+    "releaseDate": "2022-12-19"
   },
   {
     "compliant": "TRUE",
@@ -8282,7 +8375,8 @@
       "support": {
         "name": "Spicy Revenge"
       }
-    }
+    },
+    "releaseDate": "2022-12-19"
   },
   {
     "compliant": "TRUE",
@@ -8299,7 +8393,8 @@
       "support": {
         "name": "Trap of Bread"
       }
-    }
+    },
+    "releaseDate": "2022-12-19"
   },
   {
     "compliant": "TRUE",
@@ -8320,7 +8415,8 @@
     "quote": {
       "n": "起こされて忘れちゃったな…",
       "e": "ずっとついててやるからな!"
-    }
+    },
+    "releaseDate": "2022-12-19"
   },
   {
     "compliant": "TRUE",
@@ -8341,7 +8437,8 @@
     "quote": {
       "n": "い、イタいよねこういうの",
       "e": "I'm grateful for your comfort, but don't spoil me too much..."
-    }
+    },
+    "releaseDate": "2022-12-24"
   },
   {
     "compliant": "TRUE",
@@ -8362,7 +8459,8 @@
     "quote": {
       "n": "神は世界を変えるPowerでしょう",
       "e": "There are no shortcuts in life, and hard work always pays off."
-    }
+    },
+    "releaseDate": "2022-12-24"
   },
   {
     "compliant": "TRUE",
@@ -8383,7 +8481,8 @@
     "quote": {
       "n": "藍良が駄目でも僕はそれ以上だ！",
       "e": "Yep! I get it! That must be what you call Amen!"
-    }
+    },
+    "releaseDate": "2022-12-24"
   },
   {
     "compliant": "TRUE",
@@ -8404,7 +8503,8 @@
     "quote": {
       "n": "成長したい気持ちは否定できません",
       "e": "But you are still a new idol who has just debuted."
-    }
+    },
+    "releaseDate": "2022-12-24"
   },
   {
     "compliant": "TRUE",
@@ -8425,13 +8525,15 @@
     "quote": {
       "n": "ＢＡＮＧ！",
       "e": "プロの仕事を教えてあげよう"
-    }
+    },
+    "releaseDate": "2022-12-23"
   },
   {
     "compliant": "TRUE",
     "id": 2562,
     "title": "The Deceitful Spy",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2022-12-23"
   },
   {
     "compliant": "TRUE",
@@ -8448,7 +8550,8 @@
       "support": {
         "name": "Hostage [D]"
       }
-    }
+    },
+    "releaseDate": "2022-12-23"
   },
   {
     "compliant": "TRUE",
@@ -8465,7 +8568,8 @@
       "support": {
         "name": "Hideout of [D]"
       }
-    }
+    },
+    "releaseDate": "2022-12-23"
   },
   {
     "compliant": "TRUE",
@@ -8475,7 +8579,8 @@
     "quote": {
       "n": "さっぱり思い浮かびません",
       "e": "期待に応え誓いましょう"
-    }
+    },
+    "releaseDate": "2023-01-02"
   },
   {
     "compliant": "TRUE",
@@ -8496,7 +8601,8 @@
     "quote": {
       "n": "前より上手になってるねぇ",
       "e": "撮影は動かないからいいよね♪"
-    }
+    },
+    "releaseDate": "2023-01-02"
   },
   {
     "compliant": "TRUE",
@@ -8517,7 +8623,8 @@
     "quote": {
       "n": "悪魔の書だったらどうする！",
       "e": "てっきり呪いの本だとばかり…"
-    }
+    },
+    "releaseDate": "2023-01-02"
   },
   {
     "compliant": "TRUE",
@@ -8538,7 +8645,8 @@
     "quote": {
       "n": "たくさんつれてきました〜",
       "e": "おいしくたべましょう…☆"
-    }
+    },
+    "releaseDate": "2023-01-02"
   },
   {
     "compliant": "TRUE",
@@ -8555,7 +8663,8 @@
       "support": {
         "name": "Caring the Band"
       }
-    }
+    },
+    "releaseDate": "2023-01-07"
   },
   {
     "compliant": "TRUE",
@@ -8572,7 +8681,8 @@
       "support": {
         "name": "Caring Juniors"
       }
-    }
+    },
+    "releaseDate": "2023-01-07"
   },
   {
     "compliant": "TRUE",
@@ -8589,7 +8699,8 @@
       "support": {
         "name": "Previous Mode"
       }
-    }
+    },
+    "releaseDate": "2023-01-07"
   },
   {
     "compliant": "TRUE",
@@ -8606,7 +8717,8 @@
       "support": {
         "name": "Unchanging Pace"
       }
-    }
+    },
+    "releaseDate": "2023-01-07"
   },
   {
     "compliant": "TRUE",
@@ -8623,7 +8735,8 @@
       "support": {
         "name": "Oversleeping Holiday"
       }
-    }
+    },
+    "releaseDate": "2023-01-06"
   },
   {
     "compliant": "TRUE",
@@ -8644,7 +8757,8 @@
     "quote": {
       "n": "知らないものばかりだ",
       "e": "複雑で色とりどりの世界だね"
-    }
+    },
+    "releaseDate": "2023-01-06"
   },
   {
     "compliant": "TRUE",
@@ -8665,7 +8779,8 @@
     "quote": {
       "n": "役割分担ってことッスね",
       "e": "甘いものは元気が出るッス！"
-    }
+    },
+    "releaseDate": "2023-01-06"
   },
   {
     "compliant": "TRUE",
@@ -8682,7 +8797,8 @@
       "support": {
         "name": "Request for Purchase"
       }
-    }
+    },
+    "releaseDate": "2023-01-06"
   },
   {
     "compliant": "TRUE",
@@ -8703,7 +8819,8 @@
     "quote": {
       "n": "英智とのツーショットですよ？",
       "e": "楽しみましょう、ショウタイムを！"
-    }
+    },
+    "releaseDate": "2023-01-16"
   },
   {
     "compliant": "TRUE",
@@ -8724,7 +8841,8 @@
     "quote": {
       "n": "こういうのは駄目じゃったな",
       "e": "好きなだけ撮るとよい♪"
-    }
+    },
+    "releaseDate": "2023-01-16"
   },
   {
     "compliant": "TRUE",
@@ -8745,7 +8863,8 @@
     "quote": {
       "n": "一緒に生活できるんは嬉しいなぁ",
       "e": "なるちゃんがおって幸せや…♪"
-    }
+    },
+    "releaseDate": "2023-01-16"
   },
   {
     "compliant": "TRUE",
@@ -8762,7 +8881,8 @@
       "support": {
         "name": "The Best Souvenir"
       }
-    }
+    },
+    "releaseDate": "2023-01-16"
   },
   {
     "compliant": "TRUE",
@@ -8782,7 +8902,8 @@
     },
     "quote": {
       "e": "…What a disaster."
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8802,7 +8923,8 @@
     },
     "quote": {
       "e": "Haha. Here are my special toast crusts ♪"
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8822,7 +8944,8 @@
     },
     "quote": {
       "e": "All right~ There, there. I love you, so rest assured —Mary ♪"
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8842,7 +8965,8 @@
     },
     "quote": {
       "e": "Ni~chan! Over here!"
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8859,7 +8983,8 @@
       "support": {
         "name": "Perfect Duo"
       }
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8876,7 +9001,8 @@
       "support": {
         "name": "Usual Order"
       }
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8893,7 +9019,8 @@
       "support": {
         "name": "Role as Mediator"
       }
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8910,7 +9037,8 @@
       "support": {
         "name": "Incompatible Duo"
       }
-    }
+    },
+    "releaseDate": "2023-01-21"
   },
   {
     "compliant": "TRUE",
@@ -8931,7 +9059,8 @@
     "quote": {
       "n": "これからも負けないッス！",
       "e": "俺の勝ちは譲らないッスよ"
-    }
+    },
+    "releaseDate": "2023-01-20"
   },
   {
     "compliant": "TRUE",
@@ -8948,7 +9077,8 @@
       "support": {
         "name": "Trigger for Outburst"
       }
-    }
+    },
+    "releaseDate": "2023-01-20"
   },
   {
     "compliant": "TRUE",
@@ -8965,7 +9095,8 @@
       "support": {
         "name": "Student Council Campaign"
       }
-    }
+    },
+    "releaseDate": "2023-01-20"
   },
   {
     "compliant": "TRUE",
@@ -8982,7 +9113,8 @@
       "support": {
         "name": "Scandal-Detecting Agent"
       }
-    }
+    },
+    "releaseDate": "2023-01-20"
   },
   {
     "compliant": "TRUE",
@@ -9003,7 +9135,8 @@
     "quote": {
       "n": "袖に柄はないのかね",
       "e": "心に残る姿を見せよう"
-    }
+    },
+    "releaseDate": "2023-01-30"
   },
   {
     "compliant": "TRUE",
@@ -9024,7 +9157,8 @@
     "quote": {
       "n": "すみません、これには事情が…",
       "e": "撮る側のほうが気楽ですけど…"
-    }
+    },
+    "releaseDate": "2023-01-30"
   },
   {
     "compliant": "TRUE",
@@ -9045,7 +9179,8 @@
     "quote": {
       "n": "じっとしてられんのか…",
       "e": "上手く描けた気がするな"
-    }
+    },
+    "releaseDate": "2023-01-30"
   },
   {
     "compliant": "TRUE",
@@ -9066,7 +9201,8 @@
     "quote": {
       "n": "元がいいって羨ましいわァ",
       "e": "お手入れすれば綺麗になるわよ♪"
-    }
+    },
+    "releaseDate": "2023-01-30"
   },
   {
     "compliant": "TRUE",
@@ -9076,7 +9212,8 @@
     "quote": {
       "n": "…逃げましょう、私と",
       "e": "すべては大事なお嬢さまのために"
-    }
+    },
+    "releaseDate": "2023-02-04"
   },
   {
     "compliant": "TRUE",
@@ -9093,7 +9230,8 @@
       "support": {
         "name": "Experience in Performance"
       }
-    }
+    },
+    "releaseDate": "2023-02-04"
   },
   {
     "compliant": "TRUE",
@@ -9114,7 +9252,8 @@
     "quote": {
       "n": "それじゃあ乾杯！",
       "e": "みんなで守り抜くんだ"
-    }
+    },
+    "releaseDate": "2023-02-04"
   },
   {
     "compliant": "TRUE",
@@ -9135,13 +9274,15 @@
     "quote": {
       "n": "ひぃいっ、幽霊…!?",
       "e": "大事な言葉は伝えますよ"
-    }
+    },
+    "releaseDate": "2023-02-03"
   },
   {
     "compliant": "TRUE",
     "id": 2601,
     "title": "Soiree at Nine O'clock",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-02-03"
   },
   {
     "compliant": "TRUE",
@@ -9158,7 +9299,8 @@
       "support": {
         "name": "Hanging Out with Friends"
       }
-    }
+    },
+    "releaseDate": "2023-02-13"
   },
   {
     "compliant": "TRUE",
@@ -9175,7 +9317,8 @@
       "support": {
         "name": "Arm Wrestling Contest"
       }
-    }
+    },
+    "releaseDate": "2023-02-13"
   },
   {
     "compliant": "TRUE",
@@ -9196,7 +9339,8 @@
     "quote": {
       "n": "何となくTVはつけちゃうよな",
       "e": "やるしかないだろ白鳥…"
-    }
+    },
+    "releaseDate": "2023-02-13"
   },
   {
     "compliant": "TRUE",
@@ -9213,7 +9357,8 @@
       "support": {
         "name": "Fee for Hooligan Text"
       }
-    }
+    },
+    "releaseDate": "2023-02-13"
   },
   {
     "compliant": "TRUE",
@@ -9234,7 +9379,8 @@
     "quote": {
       "n": "せ〜のっ…☆",
       "e": "憧れてもらえる景色だよね"
-    }
+    },
+    "releaseDate": "2023-02-18"
   },
   {
     "compliant": "TRUE",
@@ -9251,7 +9397,8 @@
       "support": {
         "name": "Magic Tea"
       }
-    }
+    },
+    "releaseDate": "2023-02-18"
   },
   {
     "compliant": "TRUE",
@@ -9272,7 +9419,8 @@
     "quote": {
       "n": "白雪たちの絆",
       "e": "憧れの興奮"
-    }
+    },
+    "releaseDate": "2023-02-17"
   },
   {
     "compliant": "TRUE",
@@ -9282,7 +9430,8 @@
     "quote": {
       "n": "えぇっ?全部って…..?",
       "e": "もっと好きになれますよね"
-    }
+    },
+    "releaseDate": "2023-02-17"
   },
   {
     "compliant": "TRUE",
@@ -9299,7 +9448,8 @@
       "support": {
         "name": "Beginning of Design"
       }
-    }
+    },
+    "releaseDate": "2023-02-27"
   },
   {
     "compliant": "TRUE",
@@ -9316,7 +9466,8 @@
       "support": {
         "name": "Prankish Suggestion"
       }
-    }
+    },
+    "releaseDate": "2023-02-27"
   },
   {
     "compliant": "TRUE",
@@ -9337,7 +9488,8 @@
     "quote": {
       "n": "羨ましいじゃないですか",
       "e": "鳩との散歩はどうでしょう♪"
-    }
+    },
+    "releaseDate": "2023-02-27"
   },
   {
     "compliant": "TRUE",
@@ -9354,7 +9506,8 @@
       "support": {
         "name": "Hypnosis"
       }
-    }
+    },
+    "releaseDate": "2023-02-27"
   },
   {
     "compliant": "TRUE",
@@ -9375,7 +9528,8 @@
     "quote": {
       "n": "俺のパゥアを分けてやろうっ！",
       "e": "正義の戦士は立ち上がる！"
-    }
+    },
+    "releaseDate": "2023-03-04"
   },
   {
     "compliant": "TRUE",
@@ -9396,7 +9550,8 @@
     "quote": {
       "n": "ちゃっぷちゃっぷ♪",
       "e": "なんだってできるきがします"
-    }
+    },
+    "releaseDate": "2023-03-04"
   },
   {
     "compliant": "TRUE",
@@ -9417,7 +9572,8 @@
     "quote": {
       "n": "俺たちの出番ですよ、先輩",
       "e": "援護してあげよっか"
-    }
+    },
+    "releaseDate": "2023-03-04"
   },
   {
     "compliant": "TRUE",
@@ -9438,7 +9594,8 @@
     "quote": {
       "n": "怪獣…？海獣ッスか？",
       "e": "掴み取れるように努力をしてるッス"
-    }
+    },
+    "releaseDate": "2023-03-04"
   },
   {
     "compliant": "TRUE",
@@ -9459,7 +9616,8 @@
     "quote": {
       "n": "持ち味や技能を活かすでござるよ",
       "e": "いつでも仲良しがいいでござる"
-    }
+    },
+    "releaseDate": "2023-03-04"
   },
   {
     "compliant": "TRUE",
@@ -9476,7 +9634,8 @@
       "support": {
         "name": "Urgent Exorcism Spell"
       }
-    }
+    },
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
@@ -9493,7 +9652,8 @@
       "support": {
         "name": "The Planner and Photographer"
       }
-    }
+    },
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
@@ -9510,13 +9670,15 @@
       "support": {
         "name": "Script Production"
       }
-    }
+    },
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
     "id": 2622,
     "title": "Crimson-Black Ox Envoy",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-03-03"
   },
   {
     "compliant": "TRUE",
@@ -9537,7 +9699,8 @@
     "quote": {
       "n": "時間がないから困ってるんだろ~?",
       "e": "世界を楽しい音で満たそう!"
-    }
+    },
+    "releaseDate": "2023-03-13"
   },
   {
     "compliant": "TRUE",
@@ -9558,7 +9721,8 @@
     "quote": {
       "n": "…貝の中で音が響いてるね",
       "e": "…辺の撮影は久しぶりだな"
-    }
+    },
+    "releaseDate": "2023-03-13"
   },
   {
     "compliant": "TRUE",
@@ -9575,7 +9739,8 @@
       "support": {
         "name": "Invitation to Lunch"
       }
-    }
+    },
+    "releaseDate": "2023-03-13"
   },
   {
     "compliant": "TRUE",
@@ -9585,7 +9750,8 @@
     "quote": {
       "n": "見つかって安心しました…",
       "e": "安全運転でお願いしますよ"
-    }
+    },
+    "releaseDate": "2023-03-13"
   },
   {
     "compliant": "TRUE",
@@ -9613,7 +9779,8 @@
     "compliant": "TRUE",
     "id": 2628,
     "title": "Apex of Twin Peaks",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9630,7 +9797,8 @@
       "support": {
         "name": "Considering on Image Change"
       }
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9651,7 +9819,8 @@
     "quote": {
       "n": "近づくなと命じられているし",
       "e": "ルール違反には気をつけてね"
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9668,7 +9837,8 @@
       "support": {
         "name": "Suggestion from the Senior"
       }
-    }
+    },
+    "releaseDate": "2023-03-18"
   },
   {
     "compliant": "TRUE",
@@ -9689,7 +9859,8 @@
     "quote": {
       "n": "すこしよろしいでしょうか？",
       "e": "試練を乗り越えたら通しましょう"
-    }
+    },
+    "releaseDate": "2023-03-17"
   },
   {
     "compliant": "TRUE",
@@ -9710,7 +9881,8 @@
     "quote": {
       "n": "諭さなくてはなりません",
       "e": "未来も来るまでは夢と同じですよ"
-    }
+    },
+    "releaseDate": "2023-03-17"
   },
   {
     "compliant": "TRUE",
@@ -9731,7 +9903,8 @@
     "quote": {
       "n": "本当に突入するのか…？",
       "e": "危険でも進む覚悟があるか？"
-    }
+    },
+    "releaseDate": "2023-03-17"
   },
   {
     "compliant": "TRUE",
@@ -9752,7 +9925,8 @@
     "quote": {
       "n": "これ絶対危ないやつだよ！",
       "e": "痛い目見せてあげなきゃね♪"
-    }
+    },
+    "releaseDate": "2023-03-17"
   },
   {
     "compliant": "TRUE",
@@ -9769,7 +9943,8 @@
       "support": {
         "name": "Narrow Bypath"
       }
-    }
+    },
+    "releaseDate": "2023-03-27"
   },
   {
     "compliant": "TRUE",
@@ -9790,7 +9965,8 @@
     "quote": {
       "n": "A new blend that I thought of ♪",
       "e": "いつでも明るく笑いあおう"
-    }
+    },
+    "releaseDate": "2023-03-27"
   },
   {
     "compliant": "TRUE",
@@ -9807,7 +9983,8 @@
       "support": {
         "name": "Number of Roses"
       }
-    }
+    },
+    "releaseDate": "2023-03-27"
   },
   {
     "compliant": "TRUE",
@@ -9824,7 +10001,8 @@
       "support": {
         "name": "Musical Direction"
       }
-    }
+    },
+    "releaseDate": "2023-03-27"
   },
   {
     "compliant": "TRUE",
@@ -9845,7 +10023,8 @@
     "quote": {
       "n": "いつも応援おおきにな",
       "e": "どんなお宝よりも価値のある、今や"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9866,7 +10045,8 @@
     "quote": {
       "n": "難儀な道を選んだもんやわ",
       "e": "後ろのひとらが喧しいな…"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9887,7 +10067,8 @@
     "quote": {
       "n": "馬鹿、なーー",
       "e": "新たな生と美しき呪詛を吐くといい"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9908,7 +10089,8 @@
     "quote": {
       "n": "もう夜も遅いし、帰れ",
       "e": "同じような顔をしているんだろう"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9929,7 +10111,8 @@
     "quote": {
       "n": "解析と解説など鬱陶しいな",
       "e": "俺たちはいつでも味方だ"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9946,7 +10129,8 @@
       "support": {
         "name": "The Dug-Up Past"
       }
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
@@ -9967,7 +10151,8 @@
     "quote": {
       "n": "ぜひ僕と結婚してほしいよ！",
       "e": "壊れないよう大切にする心か…"
-    }
+    },
+    "releaseDate": "2023-03-31"
   },
   {
     "compliant": "TRUE",
@@ -9988,7 +10173,8 @@
     "quote": {
       "n": "な、ん…だと!?",
       "e": "誰かを想い慈しむ心か"
-    }
+    },
+    "releaseDate": "2023-03-31"
   },
   {
     "compliant": "TRUE",
@@ -10009,7 +10195,8 @@
     "quote": {
       "n": "まったく、理解に苦しむよ",
       "e": "しなやかな心で優雅であれ…♪"
-    }
+    },
+    "releaseDate": "2023-03-31"
   },
   {
     "compliant": "TRUE",
@@ -10030,7 +10217,8 @@
     "quote": {
       "n": "ぼお〜♪",
       "e": "やさしくおだやかなこころですね♪"
-    }
+    },
+    "releaseDate": "2023-03-31"
   },
   {
     "compliant": "TRUE",
@@ -10047,7 +10235,8 @@
       "support": {
         "name": "Lighting Up Everything"
       }
-    }
+    },
+    "releaseDate": "2023-04-10"
   },
   {
     "compliant": "TRUE",
@@ -10064,7 +10253,8 @@
       "support": {
         "name": "Give-and-Take"
       }
-    }
+    },
+    "releaseDate": "2023-04-10"
   },
   {
     "compliant": "TRUE",
@@ -10085,7 +10275,8 @@
     "quote": {
       "n": "ちょっと待ってねすぐ書き直すから",
       "e": "あはは、衣更くんも容赦ないよねぇ"
-    }
+    },
+    "releaseDate": "2023-04-10"
   },
   {
     "compliant": "TRUE",
@@ -10106,7 +10297,8 @@
     "quote": {
       "n": "…はい？ど、どうして…",
       "e": "ゲームを楽しむ仲間、ですね…♪"
-    }
+    },
+    "releaseDate": "2023-04-10"
   },
   {
     "compliant": "TRUE",
@@ -10116,13 +10308,15 @@
     "quote": {
       "n": "頼りっぱなしになってたんだ",
       "e": "最後の一瞬まで俺も足掻くよ"
-    }
+    },
+    "releaseDate": "2023-04-15"
   },
   {
     "compliant": "TRUE",
     "id": 2657,
     "title": "Steps of Bonded Souls",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-04-15"
   },
   {
     "compliant": "TRUE",
@@ -10139,7 +10333,8 @@
       "support": {
         "name": "Intervention of Worrywart"
       }
-    }
+    },
+    "releaseDate": "2023-04-15"
   },
   {
     "compliant": "TRUE",
@@ -10160,7 +10355,8 @@
     "quote": {
       "n": "何とかって、どうすんの?",
       "e": "みんなに笑っていてほしいんだよ"
-    }
+    },
+    "releaseDate": "2023-04-15"
   },
   {
     "compliant": "TRUE",
@@ -10181,7 +10377,8 @@
     "quote": {
       "n": "あんたがコーラをつくったんすか！",
       "e": "きっちり狙って手に入れるっす♪"
-    }
+    },
+    "releaseDate": "2023-04-14"
   },
   {
     "compliant": "TRUE",
@@ -10202,7 +10399,8 @@
     "quote": {
       "n": "ほらこの動画見てくださいよ",
       "e": "気軽に手に入れたいんだけどな♪"
-    }
+    },
+    "releaseDate": "2023-04-14"
   },
   {
     "compliant": "TRUE",
@@ -10219,7 +10417,8 @@
       "support": {
         "name": "Sample Cola"
       }
-    }
+    },
+    "releaseDate": "2023-04-14"
   },
   {
     "compliant": "TRUE",
@@ -10236,7 +10435,8 @@
       "support": {
         "name": "Elaborated Cola"
       }
-    }
+    },
+    "releaseDate": "2023-04-14"
   },
   {
     "compliant": "TRUE",
@@ -10254,7 +10454,8 @@
     "quote": {
       "n": "突撃インタビュー☆",
       "e": "これが俺の選んだスタイル！"
-    }
+    },
+    "releaseDate": "2023-04-24"
   },
   {
     "compliant": "TRUE",
@@ -10275,7 +10476,8 @@
     "quote": {
       "n": "もうちょっと考えるよォ",
       "e": "身近なところにおれたちはいるよ"
-    }
+    },
+    "releaseDate": "2023-04-24"
   },
   {
     "compliant": "TRUE",
@@ -10296,7 +10498,8 @@
     "quote": {
       "n": "別の場所でも行けるかも？",
       "e": "みんなと一緒に行けたらいいね♪"
-    }
+    },
+    "releaseDate": "2023-04-24"
   },
   {
     "compliant": "TRUE",
@@ -10313,7 +10516,8 @@
       "support": {
         "name": "Secret Glimpsed"
       }
-    }
+    },
+    "releaseDate": "2023-04-24"
   },
   {
     "compliant": "TRUE",
@@ -10355,7 +10559,8 @@
     "quote": {
       "n": "はい、そこまで",
       "e": "みんな幸せでいようよ♪"
-    }
+    },
+    "releaseDate": "2023-04-29"
   },
   {
     "compliant": "TRUE",
@@ -10365,7 +10570,8 @@
     "quote": {
       "n": "Energyの摂取は必要です",
       "e": "先輩のように成長しなければ！"
-    }
+    },
+    "releaseDate": "2023-04-29"
   },
   {
     "compliant": "TRUE",
@@ -10375,7 +10581,8 @@
     "quote": {
       "n": "対等なのが好きだったのよ",
       "e": "笑顔でいることが大切よ"
-    }
+    },
+    "releaseDate": "2023-04-29"
   },
   {
     "compliant": "TRUE",
@@ -10396,7 +10603,8 @@
     "quote": {
       "n": "おれは全肯定する!",
       "e": "魂はそのかたちを忘れないんだ"
-    }
+    },
+    "releaseDate": "2023-04-29"
   },
   {
     "compliant": "TRUE",
@@ -10417,7 +10625,8 @@
     "quote": {
       "n": "助言して矯正するのが仕事なの",
       "e": "夢だけじゃなく現実も見なきゃ"
-    }
+    },
+    "releaseDate": "2023-04-29"
   },
   {
     "compliant": "TRUE",
@@ -10434,7 +10643,8 @@
       "support": {
         "name": "Correspondence"
       }
-    }
+    },
+    "releaseDate": "2023-04-28"
   },
   {
     "compliant": "TRUE",
@@ -10455,7 +10665,8 @@
     "quote": {
       "n": "寄るのも怖いでござる〜",
       "e": "ターゲットは逃さないでござるよ♪"
-    }
+    },
+    "releaseDate": "2023-04-28"
   },
   {
     "compliant": "TRUE",
@@ -10476,7 +10687,8 @@
     "quote": {
       "n": "んあ？　面白いことって…",
       "e": "仕事は美しくこなさな♪"
-    }
+    },
+    "releaseDate": "2023-04-28"
   },
   {
     "compliant": "TRUE",
@@ -10493,7 +10705,8 @@
       "support": {
         "name": "Light Mischief"
       }
-    }
+    },
+    "releaseDate": "2023-04-28"
   },
   {
     "compliant": "TRUE",
@@ -10514,7 +10727,8 @@
     "quote": {
       "n": "I love festivals...♪",
       "e": "Come on now, laugh and make some noise!"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -10535,7 +10749,8 @@
     "quote": {
       "n": "できることなら保存したいけど",
       "e": "撮影もたしょうは慣れたかな"
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -10552,13 +10767,15 @@
       "support": {
         "name": "My-Style Flower Arrangement"
       }
-    }
+    },
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
     "id": 2681,
     "title": "Taste of Memories",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-05-08"
   },
   {
     "compliant": "TRUE",
@@ -10579,7 +10796,8 @@
     "quote": {
       "n": "この子たちとお喋りしてます!",
       "e": "今を並んで歩みたいです･･･♪"
-    }
+    },
+    "releaseDate": "2023-05-13"
   },
   {
     "compliant": "TRUE",
@@ -10600,7 +10818,8 @@
     "quote": {
       "n": "不可能なことなんて何もなイ",
       "e": "ボクらも幸せでいなきゃネ"
-    }
+    },
+    "releaseDate": "2023-05-13"
   },
   {
     "compliant": "TRUE",
@@ -10617,7 +10836,8 @@
       "support": {
         "name": "Role in the Office"
       }
-    }
+    },
+    "releaseDate": "2023-05-13"
   },
   {
     "compliant": "TRUE",
@@ -10638,7 +10858,8 @@
     "quote": {
       "n": "きみも同じタイプなんだね",
       "e": "『らしさ』を期待してる！"
-    }
+    },
+    "releaseDate": "2023-05-13"
   },
   {
     "compliant": "TRUE",
@@ -10659,7 +10880,8 @@
     "quote": {
       "n": "すっごく心配したんだからね？",
       "e": "この花みたいに笑いあいたいね"
-    }
+    },
+    "releaseDate": "2023-05-12"
   },
   {
     "compliant": "TRUE",
@@ -10680,7 +10902,8 @@
     "quote": {
       "n": "それじゃ、また明日〜♪",
       "e": "この景色独り占めッス！"
-    }
+    },
+    "releaseDate": "2023-05-12"
   },
   {
     "compliant": "TRUE",
@@ -10697,7 +10920,8 @@
       "support": {
         "name": "Fragrance of Lavender"
       }
-    }
+    },
+    "releaseDate": "2023-05-12"
   },
   {
     "compliant": "TRUE",
@@ -10714,7 +10938,8 @@
       "support": {
         "name": "Mischief of Mimosa"
       }
-    }
+    },
+    "releaseDate": "2023-05-12"
   },
   {
     "compliant": "TRUE",
@@ -10724,7 +10949,8 @@
     "quote": {
       "n": "凛月や、待っておったぞ",
       "e": "混沌とした世界で愛を歌おう…♪"
-    }
+    },
+    "releaseDate": "2023-05-22"
   },
   {
     "compliant": "TRUE",
@@ -10745,7 +10971,8 @@
     "quote": {
       "n": "心なしか、元気がないようです",
       "e": "花のように笑いましょう！"
-    }
+    },
+    "releaseDate": "2023-05-22"
   },
   {
     "compliant": "TRUE",
@@ -10766,7 +10993,8 @@
     "quote": {
       "n": "自己紹介は不要だよ",
       "e": "教えるからには妥協はしないよ"
-    }
+    },
+    "releaseDate": "2023-05-22"
   },
   {
     "compliant": "TRUE",
@@ -10787,7 +11015,8 @@
     "quote": {
       "n": "今日は紅茶はもういいや",
       "e": "幼なじみと部活だね…♪"
-    }
+    },
+    "releaseDate": "2023-05-22"
   },
   {
     "compliant": "TRUE",
@@ -11158,7 +11387,8 @@
     "quote": {
       "n": "誰もが最初は教わるものだよ",
       "e": "チャレンジ精神で次へ進もう！"
-    }
+    },
+    "releaseDate": "2023-06-16"
   },
   {
     "compliant": "TRUE",
@@ -11179,7 +11409,8 @@
     "quote": {
       "n": "変に畏まる必要もないだろう？",
       "e": "僕たちから愛を届けよう"
-    }
+    },
+    "releaseDate": "2023-05-27"
   },
   {
     "compliant": "TRUE",
@@ -11200,7 +11431,8 @@
     "quote": {
       "n": "今回は特別ですよ",
       "e": "想いを味わってください"
-    }
+    },
+    "releaseDate": "2023-05-27"
   },
   {
     "compliant": "TRUE",
@@ -11221,7 +11453,8 @@
     "quote": {
       "n": "いい汗を流せましたね☆",
       "e": "愛の祭典ですからね！"
-    }
+    },
+    "releaseDate": "2023-05-27"
   },
   {
     "compliant": "TRUE",
@@ -11242,7 +11475,8 @@
     "quote": {
       "n": "何か理由があるんだろうし",
       "e": "ボクの想いを伝えなきゃね"
-    }
+    },
+    "releaseDate": "2023-05-27"
   },
   {
     "compliant": "TRUE",
@@ -11259,7 +11493,8 @@
       "support": {
         "name": "Recent Concerns"
       }
-    }
+    },
+    "releaseDate": "2023-05-26"
   },
   {
     "compliant": "TRUE",
@@ -11269,7 +11504,8 @@
     "quote": {
       "n": "ちょっとずつでも成長していこうか",
       "e": "勝負のタイミングを見極めないと"
-    }
+    },
+    "releaseDate": "2023-05-26"
   },
   {
     "compliant": "TRUE",
@@ -11290,7 +11526,8 @@
     "quote": {
       "n": "『ふこうへい』だといってます",
       "e": "いきるためにはひつようなこと…"
-    }
+    },
+    "releaseDate": "2023-05-26"
   },
   {
     "compliant": "TRUE",
@@ -11307,7 +11544,8 @@
       "support": {
         "name": "Protection from the Junior"
       }
-    }
+    },
+    "releaseDate": "2023-05-26"
   },
   {
     "compliant": "TRUE",
@@ -11324,7 +11562,8 @@
       "support": {
         "name": "Hesitance"
       }
-    }
+    },
+    "releaseDate": "2023-06-05"
   },
   {
     "compliant": "TRUE",
@@ -11341,7 +11580,8 @@
       "support": {
         "name": "Response to Darkness"
       }
-    }
+    },
+    "releaseDate": "2023-06-05"
   },
   {
     "compliant": "TRUE",
@@ -11362,7 +11602,8 @@
     "quote": {
       "n": "声をかけたほうが良いでしょうか",
       "e": "かけがえのないものですからね♪"
-    }
+    },
+    "releaseDate": "2023-06-05"
   },
   {
     "compliant": "TRUE",
@@ -11379,7 +11620,8 @@
       "support": {
         "name": "Out for Shopping"
       }
-    }
+    },
+    "releaseDate": "2023-06-05"
   },
   {
     "compliant": "TRUE",
@@ -11400,7 +11642,8 @@
     "quote": {
       "n": "ほらみんな、みろカニだ",
       "e": "どんな逆境も俺たちは怯まん！"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11410,7 +11653,8 @@
     "quote": {
       "n": "舌が贅沢者になってしまいます",
       "e": "実力をここで発揮しませんとな"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11431,7 +11675,8 @@
     "quote": {
       "n": "俺は独りぼっちじゃない",
       "e": "さぁ、おいでよ！一緒に楽しもう！"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11452,7 +11697,8 @@
     "quote": {
       "n": "彼はとても危険な男だ",
       "e": "経験の差も超えてみせるよ！"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11473,7 +11719,8 @@
     "quote": {
       "n": "翼をもがれた鳥と同じだよ…",
       "e": "僕は状況を理解しないとね"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11494,7 +11741,8 @@
     "quote": {
       "n": "浮かれずマジにならないとな",
       "e": "気を抜かずに先輩らしくいくぜ"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11515,7 +11763,8 @@
     "quote": {
       "n": "アイドルにとって無視できないの！",
       "e": "いまできるだけのことをやるんだ！"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11536,7 +11785,8 @@
     "quote": {
       "n": "みなさんは普段どおりですね…",
       "e": "力を発揮していきましょうね"
-    }
+    },
+    "releaseDate": "2023-06-10"
   },
   {
     "compliant": "TRUE",
@@ -11557,7 +11807,8 @@
     "quote": {
       "n": "う、動けないでござる〜",
       "e": "今日は何して遊ぼう？"
-    }
+    },
+    "releaseDate": "2023-06-09"
   },
   {
     "compliant": "TRUE",
@@ -11574,7 +11825,8 @@
       "support": {
         "name": "Handmade Bamboo Helicopter"
       }
-    }
+    },
+    "releaseDate": "2023-06-09"
   },
   {
     "compliant": "TRUE",
@@ -11591,7 +11843,8 @@
       "support": {
         "name": "Rubber Band Jump Rope"
       }
-    }
+    },
+    "releaseDate": "2023-06-09"
   },
   {
     "compliant": "TRUE",
@@ -11608,7 +11861,8 @@
       "support": {
         "name": "Straw Flute"
       }
-    }
+    },
+    "releaseDate": "2023-06-09"
   },
   {
     "compliant": "TRUE",
@@ -11625,7 +11879,8 @@
       "support": {
         "name": "Chopstick Rubber Band Gun"
       }
-    }
+    },
+    "releaseDate": "2023-06-09"
   },
   {
     "compliant": "TRUE",
@@ -11642,7 +11897,8 @@
       "support": {
         "name": "Embracing Wind"
       }
-    }
+    },
+    "releaseDate": "2023-06-19"
   },
   {
     "compliant": "TRUE",
@@ -11659,13 +11915,15 @@
       "support": {
         "name": "Seeding and Field Work"
       }
-    }
+    },
+    "releaseDate": "2023-06-19"
   },
   {
     "compliant": "TRUE",
     "id": 2772,
     "title": "World History Class",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-06-19"
   },
   {
     "compliant": "TRUE",
@@ -11686,7 +11944,8 @@
     "quote": {
       "n": "ここはどこなんだぜ?",
       "e": "この瞬間は一度だけだから!"
-    }
+    },
+    "releaseDate": "2023-06-24"
   },
   {
     "compliant": "TRUE",
@@ -11707,7 +11966,8 @@
     "quote": {
       "n": "グラウンドじゃないんですか･･･?",
       "e": "普段とは違ううさぎさんです!"
-    }
+    },
+    "releaseDate": "2023-06-24"
   },
   {
     "compliant": "TRUE",
@@ -11724,7 +11984,8 @@
       "support": {
         "name": "The First Tag Game"
       }
-    }
+    },
+    "releaseDate": "2023-06-24"
   },
   {
     "compliant": "TRUE",
@@ -11741,7 +12002,8 @@
       "support": {
         "name": "Proactive Mindset"
       }
-    }
+    },
+    "releaseDate": "2023-06-24"
   },
   {
     "compliant": "TRUE",
@@ -11758,7 +12020,8 @@
       "support": {
         "name": "Harken to Concerns"
       }
-    }
+    },
+    "releaseDate": "2023-06-23"
   },
   {
     "compliant": "TRUE",
@@ -11776,7 +12039,8 @@
     "quote": {
       "n": "何だか有り難いな…",
       "e": "さぁ、行こっか♪"
-    }
+    },
+    "releaseDate": "2023-06-23"
   },
   {
     "compliant": "TRUE",
@@ -11797,7 +12061,8 @@
     "quote": {
       "n": "みんなのノリについてけない！",
       "e": "おはよう！今日もいい日だね"
-    }
+    },
+    "releaseDate": "2023-06-23"
   },
   {
     "compliant": "TRUE",
@@ -11814,7 +12079,8 @@
       "support": {
         "name": "Free Anywhere"
       }
-    }
+    },
+    "releaseDate": "2023-06-23"
   },
   {
     "compliant": "TRUE",
@@ -11835,7 +12101,8 @@
     "quote": {
       "n": "何でそこにおるんや…？",
       "e": "みんな今日は勢揃いやね♪"
-    }
+    },
+    "releaseDate": "2023-06-23"
   },
   {
     "compliant": "TRUE",
@@ -11852,7 +12119,8 @@
       "support": {
         "name": "Guide from Foretelling"
       }
-    }
+    },
+    "releaseDate": "2023-07-03"
   },
   {
     "compliant": "TRUE",
@@ -11869,7 +12137,8 @@
       "support": {
         "name": "Sitting Upright"
       }
-    }
+    },
+    "releaseDate": "2023-07-03"
   },
   {
     "compliant": "TRUE",
@@ -11886,19 +12155,22 @@
       "support": {
         "name": "Plushie on the Bed"
       }
-    }
+    },
+    "releaseDate": "2023-07-03"
   },
   {
     "compliant": "TRUE",
     "id": 2785,
     "title": "Binding Ariadne",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "releaseDate": "2023-07-08"
   },
   {
     "compliant": "TRUE",
     "id": 2786,
     "title": "Minotaur's Trial",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "releaseDate": "2023-07-08"
   },
   {
     "compliant": "TRUE",
@@ -11915,7 +12187,8 @@
       "support": {
         "name": "Big Dreams"
       }
-    }
+    },
+    "releaseDate": "2023-07-08"
   },
   {
     "compliant": "TRUE",
@@ -11932,7 +12205,8 @@
       "support": {
         "name": "Dream Destination"
       }
-    }
+    },
+    "releaseDate": "2023-07-08"
   },
   {
     "compliant": "TRUE",
@@ -11953,7 +12227,8 @@
     "quote": {
       "n": "大舞台のほうが血が譲ります♪",
       "e": "もっと早く高く行きますよ!"
-    }
+    },
+    "releaseDate": "2023-07-07"
   },
   {
     "compliant": "TRUE",
@@ -11970,7 +12245,8 @@
       "support": {
         "name": "Travel Itinerary"
       }
-    }
+    },
+    "releaseDate": "2023-07-07"
   },
   {
     "compliant": "TRUE",
@@ -11987,13 +12263,15 @@
       "support": {
         "name": "Cycling Race"
       }
-    }
+    },
+    "releaseDate": "2023-07-07"
   },
   {
     "compliant": "TRUE",
     "id": 2792,
     "title": "Beginner Skater",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-07-07"
   },
   {
     "compliant": "TRUE",
@@ -12010,7 +12288,8 @@
       "support": {
         "name": "The Exclusive Album"
       }
-    }
+    },
+    "releaseDate": "2023-07-17"
   },
   {
     "compliant": "TRUE",
@@ -12031,7 +12310,8 @@
     "quote": {
       "n": "ど、ドッキリって…",
       "e": "夜は静かで落ち着くなぁ"
-    }
+    },
+    "releaseDate": "2023-07-17"
   },
   {
     "compliant": "TRUE",
@@ -12048,7 +12328,8 @@
       "support": {
         "name": "Tiny Fingers and Dimples"
       }
-    }
+    },
+    "releaseDate": "2023-07-17"
   },
   {
     "compliant": "TRUE",
@@ -12069,7 +12350,8 @@
     "quote": {
       "n": "海の景色とか最高だよね",
       "e": "まぁ、たまにはいいか"
-    }
+    },
+    "releaseDate": "2023-07-17"
   },
   {
     "compliant": "TRUE",
@@ -12090,7 +12372,8 @@
     "quote": {
       "n": "いっしょにくるしみたいです",
       "e": "きょうゆうしましょう…♪"
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12107,7 +12390,8 @@
       "support": {
         "name": "Onboard Chef"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12124,13 +12408,15 @@
       "support": {
         "name": "The Opening Line"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
     "id": 2800,
     "title": "Submarine and Shipwreck",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12147,7 +12433,8 @@
       "support": {
         "name": "Discussing the Situation"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12164,7 +12451,8 @@
       "support": {
         "name": "Blurred Borders"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12181,7 +12469,8 @@
       "support": {
         "name": "Intelligence Gathering"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12198,7 +12487,8 @@
       "support": {
         "name": "The Unspeakable"
       }
-    }
+    },
+    "releaseDate": "2023-07-22"
   },
   {
     "compliant": "TRUE",
@@ -12215,7 +12505,8 @@
       "support": {
         "name": "The Tiny Vase"
       }
-    }
+    },
+    "releaseDate": "2023-07-21"
   },
   {
     "compliant": "TRUE",
@@ -12232,7 +12523,8 @@
       "support": {
         "name": "Plots From the Past"
       }
-    }
+    },
+    "releaseDate": "2023-07-21"
   },
   {
     "compliant": "TRUE",
@@ -12249,7 +12541,8 @@
       "support": {
         "name": "Stage Before Your Eyes"
       }
-    }
+    },
+    "releaseDate": "2023-07-21"
   },
   {
     "compliant": "TRUE",
@@ -12266,7 +12559,8 @@
       "support": {
         "name": "Return of the Mask"
       }
-    }
+    },
+    "releaseDate": "2023-07-21"
   },
   {
     "compliant": "TRUE",
@@ -12283,7 +12577,8 @@
       "support": {
         "name": "Wavering Confidence"
       }
-    }
+    },
+    "releaseDate": "2023-07-31"
   },
   {
     "compliant": "TRUE",
@@ -12300,7 +12595,8 @@
       "support": {
         "name": "Feelings of Little Brother"
       }
-    }
+    },
+    "releaseDate": "2023-07-31"
   },
   {
     "compliant": "TRUE",
@@ -12317,13 +12613,15 @@
       "support": {
         "name": "A Late Breakfast"
       }
-    }
+    },
+    "releaseDate": "2023-07-31"
   },
   {
     "compliant": "TRUE",
     "id": 2812,
     "title": "The Quiet Library",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "releaseDate": "2023-07-31"
   },
   {
     "compliant": "TRUE",
@@ -12340,7 +12638,8 @@
       "support": {
         "name": "Truth Through the Window"
       }
-    }
+    },
+    "releaseDate": "2023-08-05"
   },
   {
     "compliant": "TRUE",
@@ -12361,7 +12660,8 @@
     "quote": {
       "n": "英智…いい加減にしろ",
       "e": "曇りのない心でいよう"
-    }
+    },
+    "releaseDate": "2023-08-05"
   },
   {
     "compliant": "TRUE",
@@ -12371,7 +12671,8 @@
     "quote": {
       "n": "お父さんは認めません!",
       "e": "こういうときは笑顔だな♪"
-    }
+    },
+    "releaseDate": "2023-08-05"
   },
   {
     "compliant": "TRUE",
@@ -12385,7 +12686,8 @@
       "live": {
         "name": "Direction of Imagination"
       }
-    }
+    },
+    "releaseDate": "2023-08-04"
   },
   {
     "compliant": "TRUE",
@@ -12402,7 +12704,8 @@
       "support": {
         "name": "Prankish Supports"
       }
-    }
+    },
+    "releaseDate": "2023-08-04"
   },
   {
     "compliant": "TRUE",
@@ -12419,13 +12722,15 @@
       "support": {
         "name": "Surrounded by Support"
       }
-    }
+    },
+    "releaseDate": "2023-08-14"
   },
   {
     "compliant": "TRUE",
     "id": 2819,
     "title": "Beyond the Screen",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "releaseDate": "2023-08-14"
   },
   {
     "compliant": "TRUE",
@@ -12442,13 +12747,15 @@
       "support": {
         "name": "Lost and Found"
       }
-    }
+    },
+    "releaseDate": "2023-08-14"
   },
   {
     "compliant": "TRUE",
     "id": 2821,
     "title": "Day Off Schedule",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "releaseDate": "2023-08-14"
   },
   {
     "compliant": "TRUE",
@@ -12465,7 +12772,8 @@
       "support": {
         "name": "The Early Bird"
       }
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12486,7 +12794,8 @@
     "quote": {
       "n": "四国の祭りにお邪魔するぞお",
       "e": "器用に立ち回っていくさ"
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12503,7 +12812,8 @@
       "support": {
         "name": "My Judgement"
       }
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12520,7 +12830,8 @@
       "support": {
         "name": "Remote Discussion"
       }
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12537,7 +12848,8 @@
       "support": {
         "name": "Ties and Grudges"
       }
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12554,7 +12866,8 @@
       "support": {
         "name": "Behind the Scenes"
       }
-    }
+    },
+    "releaseDate": "2023-08-19"
   },
   {
     "compliant": "TRUE",
@@ -12575,7 +12888,8 @@
     "quote": {
       "n": "簡単には根を上げたくない",
       "e": "神秘は人目につかないものだろ"
-    }
+    },
+    "releaseDate": "2023-08-18"
   },
   {
     "compliant": "TRUE",
@@ -12592,7 +12906,8 @@
       "support": {
         "name": "Mysterious Diorama"
       }
-    }
+    },
+    "releaseDate": "2023-08-18"
   },
   {
     "compliant": "TRUE",
@@ -12609,7 +12924,8 @@
       "support": {
         "name": "Energizing Bread"
       }
-    }
+    },
+    "releaseDate": "2023-08-18"
   },
   {
     "compliant": "TRUE",
@@ -12626,7 +12942,8 @@
       "support": {
         "name": "The Puzzle Solver"
       }
-    }
+    },
+    "releaseDate": "2023-08-18"
   },
   {
     "compliant": "TRUE",
@@ -12719,7 +13036,8 @@
     "quote": {
       "n": "昔の日々を思い出すみたい",
       "e": "すこしは大人になれたかしら?"
-    }
+    },
+    "releaseDate": "2023-09-02"
   },
   {
     "compliant": "TRUE",
@@ -12740,7 +13058,8 @@
     "quote": {
       "n": "勝手に食べないでよ",
       "e": "カメラの前では最高の俺だから"
-    }
+    },
+    "releaseDate": "2023-09-02"
   },
   {
     "compliant": "TRUE",
@@ -12761,7 +13080,8 @@
     "quote": {
       "n": "ひょい、ぱく…☆",
       "e": "いつも以上にがんばるよ♪"
-    }
+    },
+    "releaseDate": "2023-09-02"
   },
   {
     "compliant": "TRUE",
@@ -12782,7 +13102,8 @@
     "quote": {
       "n": "香りでも曲が浮かんでくる!",
       "e": "カメラについて行かないとな!"
-    }
+    },
+    "releaseDate": "2023-09-02"
   },
   {
     "compliant": "TRUE",
@@ -12803,7 +13124,8 @@
     "quote": {
       "n": "妨害工作はゃめてください！",
       "e": "先輩の想いを汲みましょう"
-    }
+    },
+    "releaseDate": "2023-09-02"
   },
   {
     "compliant": "TRUE",
@@ -12892,7 +13214,8 @@
       "support": {
         "name": "Hero Lecture"
       }
-    }
+    },
+    "releaseDate": "2023-09-11"
   },
   {
     "compliant": "TRUE",
@@ -12909,7 +13232,8 @@
       "support": {
         "name": "Popcorn and Soda"
       }
-    }
+    },
+    "releaseDate": "2023-09-11"
   },
   {
     "compliant": "TRUE",
@@ -12926,7 +13250,8 @@
       "support": {
         "name": "Pasta as Appetizer!"
       }
-    }
+    },
+    "releaseDate": "2023-09-11"
   },
   {
     "compliant": "TRUE",
@@ -12947,7 +13272,8 @@
     "quote": {
       "n": "何が起きているのかねッ?",
       "e": "尊いものを拾い集めよう"
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -12964,7 +13290,8 @@
       "support": {
         "name": "VR King"
       }
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -12985,7 +13312,8 @@
     "quote": {
       "n": "喧しいわぁああ！",
       "e": "舞台に立てて嬉しいんや"
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -13002,7 +13330,8 @@
       "support": {
         "name": "VR Mediator"
       }
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -13019,7 +13348,8 @@
       "support": {
         "name": "VR Fairy"
       }
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -13036,7 +13366,8 @@
       "support": {
         "name": "Outside VR"
       }
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -13053,7 +13384,8 @@
       "support": {
         "name": "VR Hacker"
       }
-    }
+    },
+    "releaseDate": "2023-09-16"
   },
   {
     "compliant": "TRUE",
@@ -13070,7 +13402,8 @@
       "support": {
         "name": "Memories of a Dog"
       }
-    }
+    },
+    "releaseDate": "2023-09-15"
   },
   {
     "compliant": "TRUE",
@@ -13087,7 +13420,8 @@
       "support": {
         "name": "Raising a Pet"
       }
-    }
+    },
+    "releaseDate": "2023-09-15"
   },
   {
     "compliant": "TRUE",
@@ -13104,7 +13438,8 @@
       "support": {
         "name": "Walkies"
       }
-    }
+    },
+    "releaseDate": "2023-09-15"
   },
   {
     "compliant": "TRUE",
@@ -13125,7 +13460,8 @@
     "quote": {
       "n": "随分、物騒な名前ですね",
       "e": "二度と近づかせませんよ"
-    }
+    },
+    "releaseDate": "2023-09-15"
   },
   {
     "compliant": "TRUE",
@@ -13142,13 +13478,15 @@
       "support": {
         "name": "Following By Example"
       }
-    }
+    },
+    "releaseDate": "2023-09-25"
   },
   {
     "compliant": "TRUE",
     "id": 2861,
     "title": "Day Off with Friends",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "releaseDate": "2023-09-25"
   },
   {
     "compliant": "TRUE",
@@ -13165,7 +13503,8 @@
       "support": {
         "name": "Potential Job"
       }
-    }
+    },
+    "releaseDate": "2023-09-25"
   },
   {
     "compliant": "TRUE",
@@ -13186,13 +13525,15 @@
     "quote": {
       "n": "逆境でこそ燃えるよね!",
       "e": "楽しく本気でぶつかり合おうね"
-    }
+    },
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
     "id": 2865,
     "title": "Conditions of Sandstorm",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
@@ -13209,7 +13550,8 @@
       "support": {
         "name": "Young-aged Master"
       }
-    }
+    },
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
@@ -13226,7 +13568,8 @@
       "support": {
         "name": "Muzzled"
       }
-    }
+    },
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
@@ -13243,7 +13586,8 @@
       "support": {
         "name": "Dissatisfying Rules"
       }
-    }
+    },
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
@@ -13260,13 +13604,15 @@
       "support": {
         "name": "Just How It Is"
       }
-    }
+    },
+    "releaseDate": "2023-09-30"
   },
   {
     "compliant": "TRUE",
     "id": 2870,
     "title": "Heartbeat of Waves",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "releaseDate": "2023-09-29"
   },
   {
     "compliant": "TRUE",
@@ -13287,7 +13633,8 @@
     "quote": {
       "n": "HiMERUも貝を探しますよ",
       "e": "日差しすら味方にしましょう"
-    }
+    },
+    "releaseDate": "2023-09-29"
   },
   {
     "compliant": "TRUE",
@@ -13304,7 +13651,8 @@
       "support": {
         "name": "Beachy Request"
       }
-    }
+    },
+    "releaseDate": "2023-09-29"
   },
   {
     "compliant": "TRUE",
@@ -13321,7 +13669,8 @@
       "support": {
         "name": "Fresh-Squeezed Juice"
       }
-    }
+    },
+    "releaseDate": "2023-09-29"
   },
   {
     "compliant": "TRUE",
@@ -13338,7 +13687,8 @@
       "support": {
         "name": "Differing Opinion"
       }
-    }
+    },
+    "releaseDate": "2023-10-09"
   },
   {
     "compliant": "TRUE",
@@ -13355,7 +13705,8 @@
       "support": {
         "name": "Going Home Together"
       }
-    }
+    },
+    "releaseDate": "2023-10-09"
   },
   {
     "compliant": "TRUE",
@@ -13372,7 +13723,8 @@
       "support": {
         "name": "Budget Limit"
       }
-    }
+    },
+    "releaseDate": "2023-10-09"
   },
   {
     "compliant": "TRUE",
@@ -13382,7 +13734,8 @@
     "quote": {
       "n": "ぼくの、輝きだったんだ",
       "e": "ぼくたちの前途に月の光よあれ"
-    }
+    },
+    "releaseDate": "2023-10-14"
   },
   {
     "compliant": "TRUE",
@@ -13399,7 +13752,8 @@
       "support": {
         "name": "Zeal for the Stage"
       }
-    }
+    },
+    "releaseDate": "2023-10-14"
   },
   {
     "compliant": "TRUE",
@@ -13416,7 +13770,8 @@
       "support": {
         "name": "Homemade Meal"
       }
-    }
+    },
+    "releaseDate": "2023-10-14"
   },
   {
     "compliant": "TRUE",
@@ -13433,13 +13788,15 @@
       "support": {
         "name": "Radio Talk Show"
       }
-    }
+    },
+    "releaseDate": "2023-10-13"
   },
   {
     "compliant": "TRUE",
     "id": 2882,
     "title": "The Fan of Getto",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "releaseDate": "2023-10-13"
   },
   {
     "compliant": "TRUE",
@@ -13456,13 +13813,15 @@
       "support": {
         "name": "Uniqueness Hunt"
       }
-    }
+    },
+    "releaseDate": "2023-10-23"
   },
   {
     "compliant": "TRUE",
     "id": 2884,
     "title": "Got Your Back",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-10-23"
   },
   {
     "compliant": "TRUE",
@@ -13483,7 +13842,8 @@
     "quote": {
       "n": "デザインって難しいわぁ…",
       "e": "想像以上の出来や"
-    }
+    },
+    "releaseDate": "2023-10-23"
   },
   {
     "compliant": "TRUE",
@@ -13504,7 +13864,8 @@
     "quote": {
       "n": "……？ここ、は？",
       "e": "最高のショウがここにあります！"
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13521,7 +13882,8 @@
       "support": {
         "name": "A Hidden Room"
       }
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13542,7 +13904,8 @@
     "quote": {
       "n": "ボクについてきて！",
       "e": "ボクたちの輝きは誰かへの想いだよ"
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13552,7 +13915,8 @@
     "quote": {
       "n": "天祥院〜！",
       "e": "ひとりひとりが強くなってるな"
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13569,7 +13933,8 @@
       "support": {
         "name": "Quiet Planning"
       }
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13586,7 +13951,8 @@
       "support": {
         "name": "Park Attractions"
       }
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13603,13 +13969,15 @@
       "support": {
         "name": "Irritating Itinerary"
       }
-    }
+    },
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
     "id": 2894,
     "title": "Pure Sanctuary",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "releaseDate": "2023-10-28"
   },
   {
     "compliant": "TRUE",
@@ -13626,7 +13994,8 @@
       "support": {
         "name": "Hanging Out Indoors"
       }
-    }
+    },
+    "releaseDate": "2023-10-27"
   },
   {
     "compliant": "TRUE",
@@ -13643,7 +14012,8 @@
       "support": {
         "name": "This is an Announcement!"
       }
-    }
+    },
+    "releaseDate": "2023-10-27"
   },
   {
     "compliant": "TRUE",
@@ -13660,7 +14030,8 @@
       "support": {
         "name": "Supporting Allies"
       }
-    }
+    },
+    "releaseDate": "2023-10-27"
   },
   {
     "compliant": "TRUE",
@@ -13677,7 +14048,8 @@
       "support": {
         "name": "Just Checking In"
       }
-    }
+    },
+    "releaseDate": "2023-10-27"
   },
   {
     "compliant": "TRUE",
@@ -13698,7 +14070,8 @@
     "quote": {
       "n": "もっと威風堂々とした虎ッスよ",
       "e": "魂の叫びを拳に宿すッス!"
-    }
+    },
+    "releaseDate": "2023-11-06"
   },
   {
     "compliant": "TRUE",
@@ -13715,7 +14088,8 @@
       "support": {
         "name": "Through the Glass"
       }
-    }
+    },
+    "releaseDate": "2023-11-06"
   },
   {
     "compliant": "TRUE",
@@ -13732,7 +14106,8 @@
       "support": {
         "name": "Alone Time"
       }
-    }
+    },
+    "releaseDate": "2023-11-06"
   },
   {
     "compliant": "TRUE",
@@ -13742,7 +14117,8 @@
     "quote": {
       "n": "何してんだオレは…！",
       "e": "がむしゃらこそオレらしさ！"
-    }
+    },
+    "releaseDate": "2023-11-11"
   },
   {
     "compliant": "TRUE",
@@ -13759,7 +14135,8 @@
       "support": {
         "name": "Response to Darkness"
       }
-    }
+    },
+    "releaseDate": "2023-11-11"
   },
   {
     "compliant": "TRUE",
@@ -13776,7 +14153,8 @@
       "support": {
         "name": "The Agony of Waiting"
       }
-    }
+    },
+    "releaseDate": "2023-11-11"
   },
   {
     "compliant": "TRUE",
@@ -13793,7 +14171,8 @@
       "support": {
         "name": "Uncertain Companion"
       }
-    }
+    },
+    "releaseDate": "2023-11-11"
   },
   {
     "compliant": "TRUE",
@@ -13810,7 +14189,8 @@
       "support": {
         "name": "In the Nick of Time"
       }
-    }
+    },
+    "releaseDate": "2023-11-10"
   },
   {
     "compliant": "TRUE",
@@ -13827,7 +14207,8 @@
       "support": {
         "name": "Hair's Breadth Away"
       }
-    }
+    },
+    "releaseDate": "2023-11-10"
   },
   {
     "compliant": "TRUE",
@@ -13844,7 +14225,8 @@
       "support": {
         "name": "Instant Rescue"
       }
-    }
+    },
+    "releaseDate": "2023-11-10"
   },
   {
     "compliant": "TRUE",
@@ -13861,13 +14243,15 @@
       "support": {
         "name": "Reported Suspicions"
       }
-    }
+    },
+    "releaseDate": "2023-11-10"
   },
   {
     "compliant": "TRUE",
     "id": 2910,
     "title": "At My Own Pace",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "releaseDate": "2023-11-20"
   },
   {
     "compliant": "TRUE",
@@ -13884,7 +14268,8 @@
       "support": {
         "name": "Carefree Participation"
       }
-    }
+    },
+    "releaseDate": "2023-11-20"
   },
   {
     "compliant": "TRUE",
@@ -13901,7 +14286,8 @@
       "support": {
         "name": "A Light Lunch"
       }
-    }
+    },
+    "releaseDate": "2023-11-20"
   },
   {
     "compliant": "TRUE",
@@ -13922,7 +14308,8 @@
     "quote": {
       "n": "Was there something good?",
       "e": "勝負事は譲られへんな"
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -13939,7 +14326,8 @@
       "support": {
         "name": "A Small Discovery"
       }
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -13956,7 +14344,8 @@
       "support": {
         "name": "Food Tourism"
       }
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -13977,7 +14366,8 @@
     "quote": {
       "n": "やだぁあああ!",
       "e": "揃えばあとは音楽で勝負だ!"
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -13994,7 +14384,8 @@
       "support": {
         "name": "Explaining the Fundamentals"
       }
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -14011,7 +14402,8 @@
       "support": {
         "name": "Rock and Hard Place"
       }
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -14021,7 +14413,8 @@
     "quote": {
       "n": "本当、チョ〜うざぁい…",
       "e": "俺がいて負けるとかあり得ないね"
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -14042,7 +14435,8 @@
     "quote": {
       "n": "そうなる前に、手を打つ",
       "e": "何としてでも勝ち抜く…♪"
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -14052,7 +14446,8 @@
     "quote": {
       "n": "気負いすぎちゃ駄目よォ？",
       "e": "どんな状況でもエレガントによ？"
-    }
+    },
+    "releaseDate": "2023-11-25"
   },
   {
     "compliant": "TRUE",
@@ -14073,7 +14468,8 @@
     "quote": {
       "n": "気が利くな、友也",
       "e": "西へ向かうんだろう？"
-    }
+    },
+    "releaseDate": "2023-11-24"
   },
   {
     "compliant": "TRUE",
@@ -14094,7 +14490,8 @@
     "quote": {
       "n": "少々ばかり待ちたまえ",
       "e": "指示に従うと思うなよ"
-    }
+    },
+    "releaseDate": "2023-11-24"
   },
   {
     "compliant": "TRUE",
@@ -14111,7 +14508,8 @@
       "support": {
         "name": "Getting Into Character"
       }
-    }
+    },
+    "releaseDate": "2023-11-24"
   },
   {
     "compliant": "TRUE",
@@ -14128,7 +14526,8 @@
       "support": {
         "name": "Myth and Critters"
       }
-    }
+    },
+    "releaseDate": "2023-11-24"
   },
   {
     "compliant": "TRUE",
@@ -14145,19 +14544,22 @@
       "support": {
         "name": "Advice from Senior Idols"
       }
-    }
+    },
+    "releaseDate": "2023-12-09"
   },
   {
     "compliant": "TRUE",
     "id": 2927,
     "title": "Blood Tide of the Moon",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2023-12-09"
   },
   {
     "compliant": "TRUE",
     "id": 2928,
     "title": "Moon and Crimson Blood",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2023-12-09"
   },
   {
     "compliant": "TRUE",
@@ -14174,7 +14576,8 @@
       "support": {
         "name": "Popularity and the President"
       }
-    }
+    },
+    "releaseDate": "2023-12-09"
   },
   {
     "compliant": "TRUE",
@@ -14191,7 +14594,8 @@
       "support": {
         "name": "Flash of Inspiration"
       }
-    }
+    },
+    "releaseDate": "2023-12-08"
   },
   {
     "compliant": "TRUE",
@@ -14212,7 +14616,8 @@
     "quote": {
       "n": "ち、ちょっと 待って…！",
       "e": "気持ちは自分だけのものだよね"
-    }
+    },
+    "releaseDate": "2023-12-08"
   },
   {
     "compliant": "TRUE",
@@ -14233,7 +14638,8 @@
     "quote": {
       "n": "ああ、嘆かわしい！",
       "e": "純粋な心は守るべきだね"
-    }
+    },
+    "releaseDate": "2023-12-08"
   },
   {
     "compliant": "TRUE",
@@ -14243,7 +14649,8 @@
     "quote": {
       "n": "台紙とスタンプですか…？",
       "e": "みんなの成長を見守りたいですね"
-    }
+    },
+    "releaseDate": "2023-12-08"
   },
   {
     "compliant": "TRUE",
@@ -14260,7 +14667,8 @@
       "support": {
         "name": "Water-less Pool"
       }
-    }
+    },
+    "releaseDate": "2023-12-18"
   },
   {
     "compliant": "TRUE",
@@ -14277,7 +14685,8 @@
       "support": {
         "name": "The Worries of Youth"
       }
-    }
+    },
+    "releaseDate": "2023-12-18"
   },
   {
     "compliant": "TRUE",
@@ -14294,7 +14703,8 @@
       "support": {
         "name": "A Consultation"
       }
-    }
+    },
+    "releaseDate": "2023-12-18"
   },
   {
     "compliant": "TRUE",
@@ -14311,7 +14721,8 @@
       "support": {
         "name": "Strenuous Character Building"
       }
-    }
+    },
+    "releaseDate": "2023-12-23"
   },
   {
     "compliant": "TRUE",
@@ -14328,7 +14739,8 @@
       "support": {
         "name": "A Friend's Worries"
       }
-    }
+    },
+    "releaseDate": "2023-12-23"
   },
   {
     "compliant": "TRUE",
@@ -14345,7 +14757,8 @@
       "support": {
         "name": "Discussions and Performances"
       }
-    }
+    },
+    "releaseDate": "2023-12-23"
   },
   {
     "compliant": "TRUE",
@@ -14362,7 +14775,8 @@
       "support": {
         "name": "Acting Inspiration"
       }
-    }
+    },
+    "releaseDate": "2023-12-23"
   },
   {
     "compliant": "TRUE",
@@ -14372,7 +14786,8 @@
     "quote": {
       "n": "お師さん、おこんばんはぁ♪",
       "e": "情報の断片もすべて繋げよう"
-    }
+    },
+    "releaseDate": "2023-12-22"
   },
   {
     "compliant": "TRUE",
@@ -14389,7 +14804,8 @@
       "support": {
         "name": "Sweet Consultations"
       }
-    }
+    },
+    "releaseDate": "2023-12-22"
   },
   {
     "compliant": "TRUE",
@@ -14406,7 +14822,8 @@
       "support": {
         "name": "An Amateur's Shadow"
       }
-    }
+    },
+    "releaseDate": "2023-12-22"
   },
   {
     "compliant": "TRUE",
@@ -14423,7 +14840,8 @@
       "support": {
         "name": "Advice Against Weaknesses"
       }
-    }
+    },
+    "releaseDate": "2023-12-22"
   },
   {
     "compliant": "TRUE",
@@ -16096,30 +16514,35 @@
     },
     "quote": {
       "n": "…ってそれどころじゃねぇ！"
-    }
+    },
+    "releaseDate": "2023-04-01"
   },
   {
     "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "releaseDate": "2023-11-07"
   },
   {
     "compliant": "TRUE",
     "id": 3621,
     "title": "Ardent Trainer",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "releaseDate": "2023-11-07"
   },
   {
     "compliant": "TRUE",
     "id": 3622,
     "title": "Energetic Trainer",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "releaseDate": "2023-11-07"
   },
   {
     "compliant": "TRUE",
     "id": 3623,
     "title": "Graceful Trainer",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "releaseDate": "2023-11-07"
   }
 ]
