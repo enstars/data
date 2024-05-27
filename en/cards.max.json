@@ -16466,6 +16466,17 @@
     "id": 3060,
     "title": "Howling Guitarist",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "BB's Lead Guitarist"
+      },
+      "live": {
+        "name": "Guerilla Live"
+      },
+      "support": {
+        "name": "Peeping Guest"
+      }
+    },
     "releaseDate": "2024-05-24"
   },
   {
@@ -16473,6 +16484,17 @@
     "id": 3061,
     "title": "Singing Keyboardist",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "BB's Keyboard Player"
+      },
+      "live": {
+        "name": "Secret Live"
+      },
+      "support": {
+        "name": "Forcible Breakthrough"
+      }
+    },
     "releaseDate": "2024-05-24"
   },
   {
@@ -16480,6 +16502,17 @@
     "id": 3062,
     "title": "Humming Guitarist",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "BB's Guitarist"
+      },
+      "live": {
+        "name": "First Live"
+      },
+      "support": {
+        "name": "Transfer of Options"
+      }
+    },
     "releaseDate": "2024-05-24"
   },
   {
@@ -16487,6 +16520,17 @@
     "id": 3063,
     "title": "Harmonizing Bassist",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "BB's Bassist"
+      },
+      "live": {
+        "name": "Joint Live"
+      },
+      "support": {
+        "name": "Binge-eating"
+      }
+    },
     "releaseDate": "2024-05-24"
   },
   {
@@ -16494,6 +16538,17 @@
     "id": 3064,
     "title": "Whispering Drummer",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "BB's Drummer"
+      },
+      "live": {
+        "name": "Training Live"
+      },
+      "support": {
+        "name": "Juniors' Passion"
+      }
+    },
     "releaseDate": "2024-05-24"
   },
   {
