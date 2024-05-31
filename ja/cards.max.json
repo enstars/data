@@ -182172,5 +182172,413 @@
       }
     },
     "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4085,
+    "rarity": 5,
+    "character_id": 70,
+    "type": 3,
+    "substat_type": 2,
+    "title": "冷厳な一滴",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2024-05-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 21215,
+        "vo": 22325,
+        "pf": 47965
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "麗らかな華",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "祓いの心",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "飛び立つ鳩",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "VERMILION"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "華一滴衣装",
+          "華一滴衣装 (SCR)"
+        ],
+        "3d": [
+          "華一滴衣装",
+          "華一滴衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4086,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 2,
+    "substat_type": 1,
+    "title": "結ぶ一滴",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2024-05-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 16205,
+        "vo": 28538,
+        "pf": 12858
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "朗らかな華",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "占う心",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "鳥難の相",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "僕らのステラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "華一滴衣装"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4087,
+    "rarity": 3,
+    "character_id": 39,
+    "type": 4,
+    "substat_type": 0,
+    "title": "廻る一滴",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-05-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 19520,
+        "vo": 12100,
+        "pf": 11440
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "癒やしの華",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "運気の心",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "風水提案",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    },
+    "associated_story": "華一滴"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4088,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 1,
+    "substat_type": 1,
+    "title": "手を取るNIGHT",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-05-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 23451,
+        "vo": 48020,
+        "pf": 20882
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "衝動ロマンス",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 120％up"
+      },
+      "live": {
+        "name": "揺れる心",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "千夜一夜の物語",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "SWINGIN' PARONIRIA"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "私服（幼少期）",
+          "SWING NIGHT衣装",
+          "SWING NIGHT衣装 (SCR)"
+        ],
+        "3d": [
+          "SWING NIGHT衣装",
+          "SWING NIGHT衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "SWING NIGHT"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4089,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 3,
+    "substat_type": 0,
+    "title": "救いのNIGHT",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-05-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 27355,
+        "vo": 15576,
+        "pf": 14665
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "無邪気ロマンス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 80％up"
+      },
+      "live": {
+        "name": "揺らす思い",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "楽しい与太話",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SWINGIN' PARONIRIA"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "SWING NIGHT衣装"
+        ],
+        "3d": [
+          "SWING NIGHT衣装"
+        ]
+      }
+    },
+    "associated_story": "SWING NIGHT"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4090,
+    "rarity": 3,
+    "character_id": 23,
+    "type": 2,
+    "substat_type": 2,
+    "title": "駆け引きNIGHT",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2024-05-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 11511,
+        "vo": 11762,
+        "pf": 19260
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "永遠ロマンス",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "揺らぐ幻想",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "衝撃ゴシップ",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "SWING NIGHT衣装"
+        ],
+        "3d": [
+          "SWING NIGHT衣装"
+        ]
+      }
+    },
+    "associated_story": "SWING NIGHT"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4091,
+    "rarity": 3,
+    "character_id": 16,
+    "type": 4,
+    "substat_type": 1,
+    "title": "気まぐれNIGHT",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-05-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 8940,
+        "vo": 21540,
+        "pf": 9320
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "常識ロマンス",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "揺るがぬ絆",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "反抗期の否定",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "SWING NIGHT衣装"
+        ],
+        "3d": [
+          "SWING NIGHT衣装"
+        ]
+      }
+    },
+    "associated_story": "SWING NIGHT"
   }
 ]
