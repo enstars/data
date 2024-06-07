@@ -16555,19 +16555,64 @@
     "compliant": "TRUE",
     "id": 3065,
     "title": "Unyielding Belief",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "releaseDate": "2024-06-03"
   },
   {
     "compliant": "TRUE",
     "id": 3066,
     "title": "Sleeping Gear Placement",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "releaseDate": "2024-06-03"
   },
   {
     "compliant": "TRUE",
     "id": 3067,
     "title": "A Forgotten Disc",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "releaseDate": "2024-06-03"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3117,
+    "title": "Game and Actuality",
+    "name": "Makoto Yuuki",
+    "releaseDate": "2024-06-08"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3118,
+    "title": "Game and Reality",
+    "name": "Hokuto Hidaka",
+    "releaseDate": "2024-06-08"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3121,
+    "title": "Encountering Wonders",
+    "name": "Midori Takamine",
+    "releaseDate": "2024-06-07"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3122,
+    "title": "Embracing Wonders",
+    "name": "Leo Tsukinaga",
+    "releaseDate": "2024-06-07"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3123,
+    "title": "Thrilling Wonders",
+    "name": "Shinobu Sengoku",
+    "releaseDate": "2024-06-07"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3124,
+    "title": "Exploring Wonders",
+    "name": "Madara Mikejima",
+    "releaseDate": "2024-06-07"
   },
   {
     "compliant": "TRUE",
