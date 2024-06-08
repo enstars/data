@@ -16616,6 +16616,17 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3139,
+    "title": "Challenge Together!",
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "挑むときは持ちつ持たれつ！",
+      "e": "ひとりじゃないよ俺たちと一緒に☆"
+    },
+    "releaseDate": "2024-06-10"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3140,
     "title": "BUKUBU",
     "name": "Koga Oogami",
