@@ -318,6 +318,9 @@
       },
       "live": {
         "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
       }
     },
     "quote": {
@@ -623,6 +626,9 @@
       },
       "live": {
         "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
       }
     },
     "quote": {
@@ -1370,6 +1376,9 @@
       },
       "live": {
         "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
       }
     },
     "releaseDate": "2022-06-16"
@@ -1651,6 +1660,9 @@
       },
       "live": {
         "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
       }
     },
     "releaseDate": "2022-06-16"
@@ -2344,6 +2356,17 @@
     "id": 2113,
     "title": "Practice",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Studies of Idol"
+      },
+      "support": {
+        "name": "Self-Study of the Unit"
+      }
+    },
     "releaseDate": "2022-06-16"
   },
   {
@@ -2620,6 +2643,12 @@
     "skills": {
       "center": {
         "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Breath of Idol"
+      },
+      "support": {
+        "name": "Adjust Unit Output"
       }
     },
     "releaseDate": "2022-06-16"
@@ -3467,6 +3496,17 @@
     "id": 2169,
     "title": "The Dexterous Strong",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Glitter Ensemble"
+      },
+      "live": {
+        "name": "Crimson Flower Under Moonlight"
+      },
+      "support": {
+        "name": "Splendid Precise Needlework"
+      }
+    },
     "quote": {
       "n": "こうしてチクチクやってんだよ",
       "e": "前に苦い経験をしてるからよ"
@@ -4393,6 +4433,17 @@
     "id": 2214,
     "title": "Marching Motor Show",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Flag for Apprentice"
+      },
+      "live": {
+        "name": "Inspection of Examples"
+      },
+      "support": {
+        "name": "Amaterasu Omikami Punch"
+      }
+    },
     "quote": {
       "n": "…………",
       "e": "進んでいくよ僕たちも"
@@ -4860,6 +4911,17 @@
     "id": 2361,
     "title": "Butler of STAR PRO",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Star of Dignified Commitment"
+      },
+      "live": {
+        "name": "Techniques of Butler"
+      },
+      "support": {
+        "name": "Blessed Assistance"
+      }
+    },
     "quote": {
       "n": "随分お知り合いが増えました",
       "e": "いろいろ助けられましたね…♪"
@@ -4915,6 +4977,17 @@
     "id": 2364,
     "title": "Intellect of STAR PRO",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Amiable Star"
+      },
+      "live": {
+        "name": "Geek's Information War"
+      },
+      "support": {
+        "name": "Blessed Knowledge"
+      }
+    },
     "quote": {
       "n": "人と出会って成長してきたんだ",
       "e": "こんなに心強いことはないよ！"
@@ -4926,6 +4999,17 @@
     "id": 2365,
     "title": "Mediator of STAR PRO",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Resilient Star"
+      },
+      "live": {
+        "name": "Competence of Hard Worker"
+      },
+      "support": {
+        "name": "Blessed Applause"
+      }
+    },
     "quote": {
       "n": "諦めずに努力したから今がある",
       "e": "支えてくれる存在が大きいな♪"
@@ -4937,6 +5021,17 @@
     "id": 2366,
     "title": "Justice of STAR PRO",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Star Shining for Protection"
+      },
+      "live": {
+        "name": "Action of the Hero"
+      },
+      "support": {
+        "name": "Blessed Greeting"
+      }
+    },
     "quote": {
       "n": "頼もしい仲間がこうしている！",
       "e": "大事に育んでいきたいな！"
@@ -4948,6 +5043,17 @@
     "id": 2367,
     "title": "Healing Power of STAR PRO",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Star of Calmness"
+      },
+      "live": {
+        "name": "Healing Smile"
+      },
+      "support": {
+        "name": "Blessed Atmosphere"
+      }
+    },
     "quote": {
       "n": "ここにはなかまがいます",
       "e": "えがおにかこまれてしあわせですね"
@@ -4959,6 +5065,17 @@
     "id": 2368,
     "title": "Perseverance of STAR PRO",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Balmy Star"
+      },
+      "live": {
+        "name": "Guts of the Fighter"
+      },
+      "support": {
+        "name": "Blessed Fists"
+      }
+    },
     "quote": {
       "n": "成長して得たものがあるッス",
       "e": "すべてが自分の一部ッスよ"
@@ -5014,6 +5131,17 @@
     "id": 2371,
     "title": "Innocence of STAR PRO",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Star Falling From Heaven"
+      },
+      "live": {
+        "name": "Pure Absorbency"
+      },
+      "support": {
+        "name": "Blessed Innocent Eyes"
+      }
+    },
     "quote": {
       "n": "出会いからすべてが始まる",
       "e": "ここは可能性に満ち溢れてるよ"
@@ -5025,6 +5153,17 @@
     "id": 2372,
     "title": "Fledgling of STAR PRO",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Pure White Star"
+      },
+      "live": {
+        "name": "Ambition of the Novice"
+      },
+      "support": {
+        "name": "Blessed Cheering"
+      }
+    },
     "quote": {
       "n": "諦めないからここに立てるんだ",
       "e": "未来に希望を持ち続けるよ！"
@@ -5058,6 +5197,17 @@
     "id": 2374,
     "title": "Priest of STAR PRO",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Star Inviting the Wind"
+      },
+      "live": {
+        "name": "Tolerance of the Saint"
+      },
+      "support": {
+        "name": "Blessed Words"
+      }
+    },
     "quote": {
       "n": "前に進む気持ちが未来を掴むんです",
       "e": "大事な居場所に感謝しましょう"
@@ -5289,6 +5439,17 @@
     "id": 2387,
     "title": "Vampire of Rhythm Link",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Rhythm Chanted in Moonless Night"
+      },
+      "live": {
+        "name": "Rapport of the Leader"
+      },
+      "support": {
+        "name": "Blessed Locale"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5296,6 +5457,17 @@
     "id": 2388,
     "title": "Heartthrob of Rhythm Link",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Rhythm Riding on Free Wind"
+      },
+      "live": {
+        "name": "Cheerful Mood"
+      },
+      "support": {
+        "name": "Blessed Daily Routine"
+      }
+    },
     "releaseDate": "2023-07-27"
   },
   {
@@ -5303,6 +5475,17 @@
     "id": 2389,
     "title": "Rock Star of Rhythm Link",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Rhythm of Resounding Bravery"
+      },
+      "live": {
+        "name": "Roguish Playing"
+      },
+      "support": {
+        "name": "Blessed Claw Marks"
+      }
+    },
     "releaseDate": "2023-07-27"
   },
   {
@@ -5310,6 +5493,17 @@
     "id": 2390,
     "title": "Gentleness of Rhythm Link",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Rhythm from Hometown"
+      },
+      "live": {
+        "name": "Support of Missionary"
+      },
+      "support": {
+        "name": "Blessed Track"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5317,6 +5511,17 @@
     "id": 2391,
     "title": "Ambition of Rhythm Link",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Rhythm of Gracious Soul"
+      },
+      "live": {
+        "name": "Holistic Advice"
+      },
+      "support": {
+        "name": "Blessed Wink"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5324,6 +5529,17 @@
     "id": 2392,
     "title": "Sweetie of Rhythm Link",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Rhythm Mirroring the Sky"
+      },
+      "live": {
+        "name": "Dashing at Sonic Speed"
+      },
+      "support": {
+        "name": "Blessed Gathering"
+      }
+    },
     "releaseDate": "2023-07-27"
   },
   {
@@ -5331,6 +5547,17 @@
     "id": 2393,
     "title": "Aspiration of Rhythm Link",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Rhythm of True Strength"
+      },
+      "live": {
+        "name": "Diligence of the Beginner"
+      },
+      "support": {
+        "name": "Blessed Pace"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5338,6 +5565,17 @@
     "id": 2394,
     "title": "Harmony of Rhythm Link",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Rhythm Tinting the Violet Sky"
+      },
+      "live": {
+        "name": "Heartfelt Tea"
+      },
+      "support": {
+        "name": "Blessed Friends"
+      }
+    },
     "releaseDate": "2023-07-27"
   },
   {
@@ -5363,6 +5601,17 @@
     "id": 2396,
     "title": "Toughness of Rhythm Link",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Rhythm from the Lenient Ghost"
+      },
+      "live": {
+        "name": "Tolerance of Warrior"
+      },
+      "support": {
+        "name": "Blessed Path"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5370,6 +5619,17 @@
     "id": 2397,
     "title": "Elegance of Rhythm Link",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Rhythm of the Sacred Soul"
+      },
+      "live": {
+        "name": "Pride of Samurai"
+      },
+      "support": {
+        "name": "Blessed Protection"
+      }
+    },
     "releaseDate": "2023-07-20"
   },
   {
@@ -5377,6 +5637,17 @@
     "id": 2398,
     "title": "Representative of NEW DI",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "New Commander of Scarlet"
+      },
+      "live": {
+        "name": "Dignity of Knights"
+      },
+      "support": {
+        "name": "Blessed Determination"
+      }
+    },
     "releaseDate": "2023-08-30"
   },
   {
@@ -5478,6 +5749,17 @@
     "id": 2404,
     "title": "Supporter of NEW DI",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "New Wish of the Blue"
+      },
+      "live": {
+        "name": "Aid from the Supporter"
+      },
+      "support": {
+        "name": "Blessed Happiness"
+      }
+    },
     "releaseDate": "2023-08-30"
   },
   {
@@ -5485,6 +5767,17 @@
     "id": 2405,
     "title": "Smile of NEW DI",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "New Span of Spring"
+      },
+      "live": {
+        "name": "Eyes of the Identifier"
+      },
+      "support": {
+        "name": "Blessed Warmth"
+      }
+    },
     "releaseDate": "2023-09-06"
   },
   {
@@ -5492,6 +5785,17 @@
     "id": 2406,
     "title": "Joyfulness of NEW DI",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "New Mission of Triad"
+      },
+      "live": {
+        "name": "Deterrence of the Fearless"
+      },
+      "support": {
+        "name": "Blessed Armor"
+      }
+    },
     "quote": {
       "n": "大事なものが増えてくなあ",
       "e": "笑顔を守ってやらないとなあ"
@@ -5543,6 +5847,17 @@
     "id": 2409,
     "title": "Flustered AtoZ",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Route·True Feelings"
+      },
+      "live": {
+        "name": "Hesitant Choice"
+      },
+      "support": {
+        "name": "Forced Date"
+      }
+    },
     "quote": {
       "n": "H...Help~!"
     },
@@ -5675,6 +5990,17 @@
     "id": 2416,
     "title": "Ebullient Spring Storm",
     "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Wind Dancing with Flowers"
+      },
+      "live": {
+        "name": "Tempest of Love"
+      },
+      "support": {
+        "name": "Midnight Prank Operation"
+      }
+    },
     "quote": {
       "n": "また居残りですか？",
       "e": "笑顔で進んでまいりましょう！"
@@ -6591,6 +6917,17 @@
     "id": 2462,
     "title": "Singing Retired Idol",
     "name": "Jin Sagami",
+    "skills": {
+      "center": {
+        "name": "Heart of Uncle Jin"
+      },
+      "live": {
+        "name": "Mr. Jin Sagami"
+      },
+      "support": {
+        "name": "God of USB"
+      }
+    },
     "releaseDate": "2023-03-03"
   },
   {
@@ -6598,6 +6935,17 @@
     "id": 2463,
     "title": "Singing Retired Idol",
     "name": "Akiomi Kunugi",
+    "skills": {
+      "center": {
+        "name": "Ability of Uncle Akiomi"
+      },
+      "live": {
+        "name": "Mr. Akiomi Kunugi"
+      },
+      "support": {
+        "name": "Assistant of USB"
+      }
+    },
     "releaseDate": "2023-03-03"
   },
   {
@@ -6801,6 +7149,17 @@
     "id": 2474,
     "title": "Match of Sword",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Tough and Innocent"
+      },
+      "live": {
+        "name": "Modern Files on the Bookshelf"
+      },
+      "support": {
+        "name": "Complaints from Juniors"
+      }
+    },
     "releaseDate": "2022-10-01"
   },
   {
@@ -7074,6 +7433,17 @@
     "id": 2488,
     "title": "Green-Eyed Punisher",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "The Reliable Back"
+      },
+      "live": {
+        "name": "Accidentally United"
+      },
+      "support": {
+        "name": "Hunting Skills"
+      }
+    },
     "quote": {
       "n": "君じゃ俺の相手にはならないなあ",
       "e": "俺たちは正義なんかじゃない"
@@ -7107,6 +7477,17 @@
     "id": 2490,
     "title": "Fortuitous Contractor",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Witness of Battlefield"
+      },
+      "live": {
+        "name": "Communicating Front and Back"
+      },
+      "support": {
+        "name": "Hasty Pursuit"
+      }
+    },
     "releaseDate": "2022-10-15"
   },
   {
@@ -7230,6 +7611,17 @@
     "id": 2497,
     "title": "Time Spent Apart",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Gift for Little Sister"
+      },
+      "live": {
+        "name": "Select and Discuss"
+      },
+      "support": {
+        "name": "For Little Sister"
+      }
+    },
     "releaseDate": "2022-10-24"
   },
   {
@@ -7325,6 +7717,17 @@
     "id": 2502,
     "title": "Toward Path to Happiness",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Before the Open Door"
+      },
+      "live": {
+        "name": "Flapping Wings of Bluebird"
+      },
+      "support": {
+        "name": "Extreme Tasks"
+      }
+    },
     "quote": {
       "n": "Mmm~, I feel refreshed!",
       "e": "進む先にはきっと幸せがありますね"
@@ -7570,6 +7973,17 @@
     "id": 2515,
     "title": "Art Toward Eternity",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Stage Worth Love"
+      },
+      "live": {
+        "name": "Naive Expectations"
+      },
+      "support": {
+        "name": "Organizing Junk"
+      }
+    },
     "quote": {
       "n": "……ふん。相変わらずごみごみとした町だね",
       "e": "Hmph. This city is as disorganized as usual."
@@ -7960,6 +8374,17 @@
     "id": 2534,
     "title": "Moon and Tales",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Moon and White Lies"
+      },
+      "live": {
+        "name": "Summer Report"
+      },
+      "support": {
+        "name": "College Student Style"
+      }
+    },
     "quote": {
       "n": "に、苦~っ…！",
       "e": "月夜は不思議なことが起こるかも"
@@ -8533,6 +8958,17 @@
     "id": 2562,
     "title": "The Deceitful Spy",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Break of Dawn"
+      },
+      "live": {
+        "name": "Arrest in the Courtyard"
+      },
+      "support": {
+        "name": "Hide-and-Seek of [D]"
+      }
+    },
     "releaseDate": "2022-12-23"
   },
   {
@@ -8576,6 +9012,17 @@
     "id": 2565,
     "title": "The Road to King",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Pride and Chivalry"
+      },
+      "live": {
+        "name": "Request for Ideal"
+      },
+      "support": {
+        "name": "Incomplete Design"
+      }
+    },
     "quote": {
       "n": "さっぱり思い浮かびません",
       "e": "期待に応え誓いましょう"
@@ -9209,6 +9656,17 @@
     "id": 2597,
     "title": "Matin at Six O'clock",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Confident Senior"
+      },
+      "live": {
+        "name": "Butler Assistant"
+      },
+      "support": {
+        "name": "Unyielding Insistence"
+      }
+    },
     "quote": {
       "n": "…逃げましょう、私と",
       "e": "すべては大事なお嬢さまのために"
@@ -9282,6 +9740,17 @@
     "id": 2601,
     "title": "Soiree at Nine O'clock",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Calm Supporter"
+      },
+      "live": {
+        "name": "Subordinate of Nuit"
+      },
+      "support": {
+        "name": "Pronunciation Practice"
+      }
+    },
     "releaseDate": "2023-02-03"
   },
   {
@@ -9427,6 +9896,17 @@
     "id": 2609,
     "title": "Violet Crystal",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Promise with White Snow"
+      },
+      "live": {
+        "name": "Hope of White Snow"
+      },
+      "support": {
+        "name": "Summarize Opinions"
+      }
+    },
     "quote": {
       "n": "えぇっ?全部って…..?",
       "e": "もっと好きになれますよね"
@@ -9678,6 +10158,17 @@
     "id": 2622,
     "title": "Crimson-Black Ox Envoy",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Warning of Illusion"
+      },
+      "live": {
+        "name": "Black Ox and Mask"
+      },
+      "support": {
+        "name": "Help from Ox-Man"
+      }
+    },
     "releaseDate": "2023-03-03"
   },
   {
@@ -9747,6 +10238,17 @@
     "id": 2626,
     "title": "Searching for the Cat",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "After School DRIVE"
+      },
+      "live": {
+        "name": "Bond with the Cat"
+      },
+      "support": {
+        "name": "Report on Discovery"
+      }
+    },
     "quote": {
       "n": "見つかって安心しました…",
       "e": "安全運転でお願いしますよ"
@@ -9780,6 +10282,17 @@
     "id": 2628,
     "title": "Apex of Twin Peaks",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Self-Determined Path"
+      },
+      "live": {
+        "name": "Parabola Climbing Upward"
+      },
+      "support": {
+        "name": "Moving Closer"
+      }
+    },
     "releaseDate": "2023-03-18"
   },
   {
@@ -10305,6 +10818,17 @@
     "id": 2656,
     "title": "A Step Out of Uncertainty",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Life-Burning Path"
+      },
+      "live": {
+        "name": "Clumsy Pride"
+      },
+      "support": {
+        "name": "Reckless Fist"
+      }
+    },
     "quote": {
       "n": "頼りっぱなしになってたんだ",
       "e": "最後の一瞬まで俺も足掻くよ"
@@ -10316,6 +10840,17 @@
     "id": 2657,
     "title": "Steps of Bonded Souls",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Path of Tempered Martial Arts"
+      },
+      "live": {
+        "name": "What I Aspired To Be"
+      },
+      "support": {
+        "name": "Unknown Territory"
+      }
+    },
     "releaseDate": "2023-04-15"
   },
   {
@@ -10449,6 +10984,9 @@
       },
       "live": {
         "name": "Self-Thinking"
+      },
+      "support": {
+        "name": "Help in Trying On"
       }
     },
     "quote": {
@@ -10567,6 +11105,17 @@
     "id": 2670,
     "title": "Dream Toward Future",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Highly Raised Ideal"
+      },
+      "live": {
+        "name": "The Ideal of King"
+      },
+      "support": {
+        "name": "Source of Laughter"
+      }
+    },
     "quote": {
       "n": "Energyの摂取は必要です",
       "e": "先輩のように成長しなければ！"
@@ -10578,6 +11127,17 @@
     "id": 2671,
     "title": "Dream of Harmony",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "The Amiable Chum"
+      },
+      "live": {
+        "name": "Positive Mindset"
+      },
+      "support": {
+        "name": "Small Family"
+      }
+    },
     "quote": {
       "n": "対等なのが好きだったのよ",
       "e": "笑顔でいることが大切よ"
@@ -10775,6 +11335,17 @@
     "id": 2681,
     "title": "Taste of Memories",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Student Time"
+      },
+      "live": {
+        "name": "Introducing Bubble Tea"
+      },
+      "support": {
+        "name": "Recent Routines"
+      }
+    },
     "releaseDate": "2023-05-08"
   },
   {
@@ -10946,6 +11517,17 @@
     "id": 2690,
     "title": "Guide of Chaos & Love",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Playful Vampire"
+      },
+      "live": {
+        "name": "Image of Vampire"
+      },
+      "support": {
+        "name": "Brothers' Play"
+      }
+    },
     "quote": {
       "n": "凛月や、待っておったぞ",
       "e": "混沌とした世界で愛を歌おう…♪"
@@ -11063,6 +11645,17 @@
     "id": 2696,
     "title": "Advance with Rock",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Cute LOVE"
+      },
+      "live": {
+        "name": "Loveliest of All"
+      },
+      "support": {
+        "name": "Fluttering Songs"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11070,6 +11663,17 @@
     "id": 2697,
     "title": "Accomplish with Rock",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Hearfelt LOVE"
+      },
+      "live": {
+        "name": "With Deep Love"
+      },
+      "support": {
+        "name": "Sincere Songs"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11117,6 +11721,17 @@
     "id": 2700,
     "title": "Persisting in Rock",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Feel My LOVE"
+      },
+      "live": {
+        "name": "Love People Around"
+      },
+      "support": {
+        "name": "Feeling Through My Song"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11124,6 +11739,17 @@
     "id": 2701,
     "title": "Free-Spirited Rock",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Innocent LOVE"
+      },
+      "live": {
+        "name": "Balanced Love"
+      },
+      "support": {
+        "name": "Humming to My Song"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11177,6 +11803,17 @@
     "id": 2709,
     "title": "Rocking Somewhere",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Unimaginable LOVE"
+      },
+      "live": {
+        "name": "If You Seek Love"
+      },
+      "support": {
+        "name": "Hopes in My Song"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11184,6 +11821,17 @@
     "id": 2710,
     "title": "Pillar of Rock",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Equal LOVE"
+      },
+      "live": {
+        "name": "Love Is There"
+      },
+      "support": {
+        "name": "Time We Share in Songs"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11227,6 +11875,17 @@
     "id": 2713,
     "title": "Insatiable Rock",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Strategic LOVE"
+      },
+      "live": {
+        "name": "Love Into Passion"
+      },
+      "support": {
+        "name": "Song of Peace"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11234,6 +11893,17 @@
     "id": 2714,
     "title": "Spirit of Rock",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Gratitude and LOVE"
+      },
+      "live": {
+        "name": "Joy of Being Loved"
+      },
+      "support": {
+        "name": "Song of Gratitude & Vows"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11259,6 +11929,17 @@
     "id": 2716,
     "title": "Twisted Rock",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Supported LOVE"
+      },
+      "live": {
+        "name": "Love is Warm"
+      },
+      "support": {
+        "name": "Perfect My Song"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11284,6 +11965,17 @@
     "id": 2728,
     "title": "Collision of Rock",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "LOVE and Everyone"
+      },
+      "live": {
+        "name": "Joined by Love"
+      },
+      "support": {
+        "name": "Sing for My Heart"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11291,6 +11983,17 @@
     "id": 2729,
     "title": "Dash to Rock",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Brimful LOVE"
+      },
+      "live": {
+        "name": "Love is Near"
+      },
+      "support": {
+        "name": "Songs Cuddling You"
+      }
+    },
     "releaseDate": "2024-05-12"
   },
   {
@@ -11298,6 +12001,17 @@
     "id": 2730,
     "title": "Gentle Rock",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Tender LOVE"
+      },
+      "live": {
+        "name": "In Return for Love"
+      },
+      "support": {
+        "name": "Songs as Ultimate Gratitude"
+      }
+    },
     "releaseDate": "2024-05-19"
   },
   {
@@ -11323,6 +12037,17 @@
     "id": 2740,
     "title": "Natural Rock",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Smiling LOVE"
+      },
+      "live": {
+        "name": "To Repay Your Love"
+      },
+      "support": {
+        "name": "Songs As Truth"
+      }
+    },
     "releaseDate": "2024-05-12"
   },
   {
@@ -11330,6 +12055,17 @@
     "id": 2741,
     "title": "Bright Rock",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Simple LOVE"
+      },
+      "live": {
+        "name": "Love is Magic"
+      },
+      "support": {
+        "name": "Spell of Song"
+      }
+    },
     "releaseDate": "2024-05-26"
   },
   {
@@ -11501,6 +12237,17 @@
     "id": 2750,
     "title": "A Resuscitating Blow",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Bullet Tearing Despair"
+      },
+      "live": {
+        "name": "Obsessive RELOAD"
+      },
+      "support": {
+        "name": "Inhospitable Climate"
+      }
+    },
     "quote": {
       "n": "ちょっとずつでも成長していこうか",
       "e": "勝負のタイミングを見極めないと"
@@ -11650,6 +12397,17 @@
     "id": 2758,
     "title": "Satellite: Revolutionary",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Resourceful Planet"
+      },
+      "live": {
+        "name": "Bearing from Experiences"
+      },
+      "support": {
+        "name": "Quick Break at the Inn"
+      }
+    },
     "quote": {
       "n": "舌が贅沢者になってしまいます",
       "e": "実力をここで発揮しませんとな"
@@ -11923,6 +12681,17 @@
     "id": 2772,
     "title": "World History Class",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Studying from Scratch"
+      },
+      "live": {
+        "name": "Learning and Playing"
+      },
+      "support": {
+        "name": "History Quiz"
+      }
+    },
     "releaseDate": "2023-06-19"
   },
   {
@@ -12034,6 +12803,9 @@
       },
       "live": {
         "name": "Innermost Thoughts"
+      },
+      "support": {
+        "name": "Substitute for Little Sister"
       }
     },
     "quote": {
@@ -12163,6 +12935,17 @@
     "id": 2785,
     "title": "Binding Ariadne",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Connected By Threads"
+      },
+      "live": {
+        "name": "Two Doors"
+      },
+      "support": {
+        "name": "The Nostalgic Song"
+      }
+    },
     "releaseDate": "2023-07-08"
   },
   {
@@ -12170,6 +12953,17 @@
     "id": 2786,
     "title": "Minotaur's Trial",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Threads of Empty Stomach"
+      },
+      "live": {
+        "name": "Friend's Sacrifice"
+      },
+      "support": {
+        "name": "Mission: Beef Tongue"
+      }
+    },
     "releaseDate": "2023-07-08"
   },
   {
@@ -12271,6 +13065,17 @@
     "id": 2792,
     "title": "Beginner Skater",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Dedicated Style"
+      },
+      "live": {
+        "name": "Blade of Judgment"
+      },
+      "support": {
+        "name": "Road Training"
+      }
+    },
     "releaseDate": "2023-07-07"
   },
   {
@@ -12416,6 +13221,17 @@
     "id": 2800,
     "title": "Submarine and Shipwreck",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Against the Sea"
+      },
+      "live": {
+        "name": "At the Helm"
+      },
+      "support": {
+        "name": "Seasickness"
+      }
+    },
     "releaseDate": "2023-07-22"
   },
   {
@@ -12621,6 +13437,17 @@
     "id": 2812,
     "title": "The Quiet Library",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Rain and Stories"
+      },
+      "live": {
+        "name": "The Librarian's Work"
+      },
+      "support": {
+        "name": "Swapping Books"
+      }
+    },
     "releaseDate": "2023-07-31"
   },
   {
@@ -12668,6 +13495,17 @@
     "id": 2815,
     "title": "The Joyful Bouquet",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Resounding Chimes"
+      },
+      "live": {
+        "name": "Song of Wedding"
+      },
+      "support": {
+        "name": "Emotional Stimulus"
+      }
+    },
     "quote": {
       "n": "お父さんは認めません!",
       "e": "こういうときは笑顔だな♪"
@@ -12685,6 +13523,9 @@
       },
       "live": {
         "name": "Direction of Imagination"
+      },
+      "support": {
+        "name": "Reason of Misunderstanding"
       }
     },
     "releaseDate": "2023-08-04"
@@ -12730,6 +13571,17 @@
     "id": 2819,
     "title": "Beyond the Screen",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Role vs. Reality"
+      },
+      "live": {
+        "name": "Photo-shoot Memories"
+      },
+      "support": {
+        "name": "The Big Scene"
+      }
+    },
     "releaseDate": "2023-08-14"
   },
   {
@@ -12755,6 +13607,17 @@
     "id": 2821,
     "title": "Day Off Schedule",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Strict Tutor"
+      },
+      "live": {
+        "name": "Extra Keito Lecture"
+      },
+      "support": {
+        "name": "Every Nook and Cranny"
+      }
+    },
     "releaseDate": "2023-08-14"
   },
   {
@@ -13486,6 +14349,17 @@
     "id": 2861,
     "title": "Day Off with Friends",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Friend, Supporter, and Fan"
+      },
+      "live": {
+        "name": "Figure On TV"
+      },
+      "support": {
+        "name": "A Day Off"
+      }
+    },
     "releaseDate": "2023-09-25"
   },
   {
@@ -13533,6 +14407,17 @@
     "id": 2865,
     "title": "Conditions of Sandstorm",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Search in the Sand"
+      },
+      "live": {
+        "name": "Dual Conquest"
+      },
+      "support": {
+        "name": "Sand Surfer"
+      }
+    },
     "releaseDate": "2023-09-30"
   },
   {
@@ -13612,6 +14497,17 @@
     "id": 2870,
     "title": "Heartbeat of Waves",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Shallow Marina"
+      },
+      "live": {
+        "name": "Best Shot"
+      },
+      "support": {
+        "name": "Brief Interaction"
+      }
+    },
     "releaseDate": "2023-09-29"
   },
   {
@@ -13731,6 +14627,17 @@
     "id": 2878,
     "title": "Memories in Getto",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Led By Moonlight"
+      },
+      "live": {
+        "name": "Precious Time"
+      },
+      "support": {
+        "name": "The Way to Shine"
+      }
+    },
     "quote": {
       "n": "ぼくの、輝きだったんだ",
       "e": "ぼくたちの前途に月の光よあれ"
@@ -13796,6 +14703,17 @@
     "id": 2882,
     "title": "The Fan of Getto",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Beautiful Moonlight"
+      },
+      "live": {
+        "name": "Joint Efforts"
+      },
+      "support": {
+        "name": "Coordinated Staging"
+      }
+    },
     "releaseDate": "2023-10-13"
   },
   {
@@ -13821,6 +14739,17 @@
     "id": 2884,
     "title": "Got Your Back",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Sister in the Spotlight"
+      },
+      "live": {
+        "name": "Prepared to Protect"
+      },
+      "support": {
+        "name": "Visitors' Guide"
+      }
+    },
     "releaseDate": "2023-10-23"
   },
   {
@@ -13912,6 +14841,17 @@
     "id": 2890,
     "title": "Remote Sanctuary",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Protected Sanctuary"
+      },
+      "live": {
+        "name": "Conservative Methods"
+      },
+      "support": {
+        "name": "Break Into the Room"
+      }
+    },
     "quote": {
       "n": "天祥院〜！",
       "e": "ひとりひとりが強くなってるな"
@@ -13977,6 +14917,17 @@
     "id": 2894,
     "title": "Pure Sanctuary",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Sanctuary for the Beloved"
+      },
+      "live": {
+        "name": "Scattered Support"
+      },
+      "support": {
+        "name": "Watch Your Words"
+      }
+    },
     "releaseDate": "2023-10-28"
   },
   {
@@ -14114,6 +15065,17 @@
     "id": 2902,
     "title": "Break Through the Clouds",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Solid Spirit"
+      },
+      "live": {
+        "name": "Nimbus Gathering"
+      },
+      "support": {
+        "name": "Symptoms of a Slump"
+      }
+    },
     "quote": {
       "n": "何してんだオレは…！",
       "e": "がむしゃらこそオレらしさ！"
@@ -14251,6 +15213,17 @@
     "id": 2910,
     "title": "At My Own Pace",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "The Way I Move On"
+      },
+      "live": {
+        "name": "Stay Who I Am"
+      },
+      "support": {
+        "name": "The Expected Work"
+      }
+    },
     "releaseDate": "2023-11-20"
   },
   {
@@ -14410,6 +15383,17 @@
     "id": 2919,
     "title": "Sudden Death: Trade-Off",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Discordant Fight"
+      },
+      "live": {
+        "name": "Chances and Risks"
+      },
+      "support": {
+        "name": "Preparatory Session"
+      }
+    },
     "quote": {
       "n": "本当、チョ〜うざぁい…",
       "e": "俺がいて負けるとかあり得ないね"
@@ -14443,6 +15427,17 @@
     "id": 2921,
     "title": "Sudden Death: Solidarity",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Amicable Fight"
+      },
+      "live": {
+        "name": "Taking Stock"
+      },
+      "support": {
+        "name": "Worried for the King"
+      }
+    },
     "quote": {
       "n": "気負いすぎちゃ駄目よォ？",
       "e": "どんな状況でもエレガントによ？"
@@ -14552,6 +15547,17 @@
     "id": 2927,
     "title": "Blood Tide of the Moon",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Dance of Blood"
+      },
+      "live": {
+        "name": "Enticing Halloween"
+      },
+      "support": {
+        "name": "Academy Bustle"
+      }
+    },
     "releaseDate": "2023-12-09"
   },
   {
@@ -14559,6 +15565,17 @@
     "id": 2928,
     "title": "Moon and Crimson Blood",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Blood Bat"
+      },
+      "live": {
+        "name": "Captivating Halloween"
+      },
+      "support": {
+        "name": "Solution Strategy"
+      }
+    },
     "releaseDate": "2023-12-09"
   },
   {
@@ -14646,6 +15663,17 @@
     "id": 2933,
     "title": "Plans of the Sun",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Quavering Heart Strings"
+      },
+      "live": {
+        "name": "Wings of Gentleness"
+      },
+      "support": {
+        "name": "Company Observation"
+      }
+    },
     "quote": {
       "n": "台紙とスタンプですか…？",
       "e": "みんなの成長を見守りたいですね"
@@ -14783,6 +15811,17 @@
     "id": 2941,
     "title": "Dainty High School Detective",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Imaginative Investigation"
+      },
+      "live": {
+        "name": "Dancing Before Your Eyes"
+      },
+      "support": {
+        "name": "Contact With Far Away"
+      }
+    },
     "quote": {
       "n": "お師さん、おこんばんはぁ♪",
       "e": "情報の断片もすべて繋げよう"
@@ -14884,6 +15923,17 @@
     "id": 2947,
     "title": "The Charm of Acting",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Unlimited Future"
+      },
+      "live": {
+        "name": "Infinite Potential"
+      },
+      "support": {
+        "name": "Discussing the Theatre"
+      }
+    },
     "releaseDate": "2024-01-01"
   },
   {
@@ -14927,6 +15977,17 @@
     "id": 2950,
     "title": "Ninpou: My Pace",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Secret Move: Propaganda!"
+      },
+      "live": {
+        "name": "Unified Ninjas"
+      },
+      "support": {
+        "name": "Strange Message"
+      }
+    },
     "releaseDate": "2024-01-06"
   },
   {
@@ -14992,6 +16053,17 @@
     "id": 2954,
     "title": "Warm Gaze in Winter",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Silent Winter Nights"
+      },
+      "live": {
+        "name": "Santa Organizer"
+      },
+      "support": {
+        "name": "Preparing a Tree"
+      }
+    },
     "releaseDate": "2024-01-05"
   },
   {
@@ -15017,6 +16089,17 @@
     "id": 2956,
     "title": "Performance in Winter",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Soft Winter Snow"
+      },
+      "live": {
+        "name": "Prospective Santa"
+      },
+      "support": {
+        "name": "Christmas Decorations"
+      }
+    },
     "releaseDate": "2024-01-05"
   },
   {
@@ -15082,6 +16165,17 @@
     "id": 2960,
     "title": "Reaper of Judgement",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Fated Encounter"
+      },
+      "live": {
+        "name": "Funeral Snow"
+      },
+      "support": {
+        "name": "Winter of Missed Connections"
+      }
+    },
     "releaseDate": "2024-01-19"
   },
   {
@@ -15090,6 +16184,9 @@
     "title": "Grave-Guarding Reaper",
     "name": "Nagisa Ran",
     "skills": {
+      "center": {
+        "name": "Duty of the Grave-keeper"
+      },
       "live": {
         "name": "Regulated Snow"
       },
@@ -15140,6 +16237,17 @@
     "id": 2964,
     "title": "Sweets Maker",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "One For the Club"
+      },
+      "live": {
+        "name": "Homemade Apple Pie"
+      },
+      "support": {
+        "name": "Cooking Party!"
+      }
+    },
     "quote": {
       "n": "ほっぺたが落ちてしまうほど…",
       "e": "見た目も味も上出来です♪"
@@ -15277,6 +16385,17 @@
     "id": 2972,
     "title": "Rippling White",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "SS: Moderation"
+      },
+      "live": {
+        "name": "Team White & Core"
+      },
+      "support": {
+        "name": "New Year's Resolution"
+      }
+    },
     "releaseDate": "2024-02-03"
   },
   {
@@ -15284,6 +16403,17 @@
     "id": 2973,
     "title": "The Unfettered Tiger",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "New Year's Omen"
+      },
+      "live": {
+        "name": "New Experiences"
+      },
+      "support": {
+        "name": "Warmth in the Chest"
+      }
+    },
     "quote": {
       "n": "あったかければ何でも良い!",
       "e": "楽しい年の始まりだな"
@@ -15569,6 +16699,17 @@
     "id": 2989,
     "title": "A Sleepover Nearby",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Chance to Dream"
+      },
+      "live": {
+        "name": "Masters by the Side"
+      },
+      "support": {
+        "name": "Sleepover Set"
+      }
+    },
     "releaseDate": "2024-02-26"
   },
   {
@@ -15576,6 +16717,17 @@
     "id": 2990,
     "title": "Someone After School",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Invisible Personal Trainer"
+      },
+      "live": {
+        "name": "Empty Room, Solo Practice"
+      },
+      "support": {
+        "name": "Mysterious Hint"
+      }
+    },
     "releaseDate": "2024-02-26"
   },
   {
@@ -15655,6 +16807,17 @@
     "id": 2995,
     "title": "Astraea of Discipline",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Atelier of Art"
+      },
+      "live": {
+        "name": "Art Review Meeting"
+      },
+      "support": {
+        "name": "Host at the Destination"
+      }
+    },
     "releaseDate": "2024-03-01"
   },
   {
@@ -15662,6 +16825,17 @@
     "id": 2996,
     "title": "Astraea of Transformation",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Atelier of Justice"
+      },
+      "live": {
+        "name": "Night Patrol"
+      },
+      "support": {
+        "name": "Travel and Work"
+      }
+    },
     "releaseDate": "2024-03-01"
   },
   {
@@ -15669,6 +16843,17 @@
     "id": 2997,
     "title": "Flying Astraea",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Atelier of Clothes"
+      },
+      "live": {
+        "name": "Overwrite Sewing"
+      },
+      "support": {
+        "name": "Airsickness"
+      }
+    },
     "releaseDate": "2024-03-01"
   },
   {
@@ -15676,6 +16861,17 @@
     "id": 2998,
     "title": "Invading Astraea",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Atelier of Music"
+      },
+      "live": {
+        "name": "Traveling Composer"
+      },
+      "support": {
+        "name": "Allies Lie in Wait"
+      }
+    },
     "quote": {
       "n": "姿の見えない犯人か…",
       "e": "手の中にある宇宙だな…！"
@@ -15687,6 +16883,17 @@
     "id": 2999,
     "title": "Tough Threads of Youth",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Frenzy Percentage"
+      },
+      "live": {
+        "name": "Clothes and Opinion Exchange"
+      },
+      "support": {
+        "name": "Dangerous Factors"
+      }
+    },
     "releaseDate": "2024-03-11"
   },
   {
@@ -15694,6 +16901,17 @@
     "id": 3000,
     "title": "Choosing the Path",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Written Invitation"
+      },
+      "live": {
+        "name": "Multi-Circle Member"
+      },
+      "support": {
+        "name": "Launch and Reality"
+      }
+    },
     "releaseDate": "2024-03-11"
   },
   {
@@ -15701,6 +16919,17 @@
     "id": 3001,
     "title": "Table Sharing and Gap",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Lunch Lecture"
+      },
+      "live": {
+        "name": "Meddling Friend"
+      },
+      "support": {
+        "name": "Hunger and Idle Thoughts"
+      }
+    },
     "releaseDate": "2024-03-11"
   },
   {
@@ -15730,6 +16959,17 @@
     "id": 3003,
     "title": "Candid Love Letter",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Chocolate Fes of Growth"
+      },
+      "live": {
+        "name": "Letter from Big Bro"
+      },
+      "support": {
+        "name": "Spoiled Training"
+      }
+    },
     "quote": {
       "n": "甘えさせてもらっちゃおうかな〜",
       "e": "ひとりひとりの心に届くように！"
@@ -15777,6 +17017,17 @@
     "id": 3006,
     "title": "Unsweet Words",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Consuming Delusion"
+      },
+      "live": {
+        "name": "Tough Day"
+      },
+      "support": {
+        "name": "Strategy and Resistance"
+      }
+    },
     "releaseDate": "2024-03-15"
   },
   {
@@ -15784,6 +17035,17 @@
     "id": 3007,
     "title": "Unchecked Sweetness",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Quantifiable Love"
+      },
+      "live": {
+        "name": "Confusing Day"
+      },
+      "support": {
+        "name": "Uncommunicated Feelings"
+      }
+    },
     "releaseDate": "2024-03-15"
   },
   {
@@ -15791,6 +17053,17 @@
     "id": 3008,
     "title": "Excessive Sweetness",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Communication Limit"
+      },
+      "live": {
+        "name": "Rampaging Day"
+      },
+      "support": {
+        "name": "Shaken Heart"
+      }
+    },
     "releaseDate": "2024-03-15"
   },
   {
@@ -15798,6 +17071,17 @@
     "id": 3009,
     "title": "Enigmatic Sweetness",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Unimaginable Ideals"
+      },
+      "live": {
+        "name": "Bizarre Day"
+      },
+      "support": {
+        "name": "Intriguing Relation"
+      }
+    },
     "releaseDate": "2024-03-15"
   },
   {
@@ -15823,6 +17107,17 @@
     "id": 3011,
     "title": "Hobby Time",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Weaving for Someone"
+      },
+      "live": {
+        "name": "The World of Knitting"
+      },
+      "support": {
+        "name": "Library Exploration"
+      }
+    },
     "releaseDate": "2024-03-25"
   },
   {
@@ -15956,6 +17251,17 @@
     "id": 3019,
     "title": "Changing Colors",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Color of Lost Flowers"
+      },
+      "live": {
+        "name": "Hundred Roots"
+      },
+      "support": {
+        "name": "Repayment Regret"
+      }
+    },
     "releaseDate": "2024-03-29"
   },
   {
@@ -15963,6 +17269,17 @@
     "id": 3020,
     "title": "Watchful Colors",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Color of True Flowers"
+      },
+      "live": {
+        "name": "Hundred Stems"
+      },
+      "support": {
+        "name": "The Sword and Petals"
+      }
+    },
     "releaseDate": "2024-03-29"
   },
   {
@@ -15988,6 +17305,17 @@
     "id": 3022,
     "title": "A Senior's Experience",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Backing Words"
+      },
+      "live": {
+        "name": "One of the Options"
+      },
+      "support": {
+        "name": "Foyer Greeting"
+      }
+    },
     "releaseDate": "2024-04-08"
   },
   {
@@ -16035,6 +17363,17 @@
     "id": 3025,
     "title": "Enlivening Specimen Box",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Hermitage for Ideals"
+      },
+      "live": {
+        "name": "Show and World-building"
+      },
+      "support": {
+        "name": "Daily Growth"
+      }
+    },
     "quote": {
       "n": "人形そのもののようだったよ",
       "e": "僕は幸福を願うのだよ"
@@ -16046,6 +17385,17 @@
     "id": 3026,
     "title": "The Doll and Meals",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Care and Hermitage"
+      },
+      "live": {
+        "name": "Hand-made Breakfast"
+      },
+      "support": {
+        "name": "Plants on the Counter"
+      }
+    },
     "releaseDate": "2024-04-13"
   },
   {
@@ -16053,6 +17403,17 @@
     "id": 3027,
     "title": "Hints from the Doll",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Hint and Hermitage"
+      },
+      "live": {
+        "name": "Awareness of Growth"
+      },
+      "support": {
+        "name": "Inexplicable Epiphany"
+      }
+    },
     "quote": {
       "n": "催眠ってやつじゃないの？",
       "e": "初めて聞いたかも"
@@ -16064,6 +17425,17 @@
     "id": 3028,
     "title": "White Headdress",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Noble's History"
+      },
+      "live": {
+        "name": "Honesty and Truth"
+      },
+      "support": {
+        "name": "The King's Back"
+      }
+    },
     "releaseDate": "2024-04-12"
   },
   {
@@ -16071,6 +17443,17 @@
     "id": 3029,
     "title": "Headdress of Integrity",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Noble's End"
+      },
+      "live": {
+        "name": "Nemesis and Desire"
+      },
+      "support": {
+        "name": "Request for Costumes"
+      }
+    },
     "releaseDate": "2024-04-12"
   },
   {
@@ -16078,6 +17461,17 @@
     "id": 3030,
     "title": "Headdress of Jokes",
     "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Noble's Play"
+      },
+      "live": {
+        "name": "Trust and Testing"
+      },
+      "support": {
+        "name": "Controlling the Game"
+      }
+    },
     "releaseDate": "2024-04-12"
   },
   {
@@ -16085,6 +17479,17 @@
     "id": 3031,
     "title": "Headdress of the Socialite",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Noble's Value"
+      },
+      "live": {
+        "name": "Play and Strategy"
+      },
+      "support": {
+        "name": "The Plus One"
+      }
+    },
     "releaseDate": "2024-04-12"
   },
   {
@@ -16110,6 +17515,17 @@
     "id": 3033,
     "title": "The Feeling of Water",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Old Stomping Ground"
+      },
+      "live": {
+        "name": "Inside the Aquarium"
+      },
+      "support": {
+        "name": "Downtown Tour"
+      }
+    },
     "quote": {
       "n": "星奏館にもあればいいのに",
       "e": "雰囲気作りは撮影場所から"
@@ -16139,6 +17555,17 @@
     "id": 3035,
     "title": "Sakura-Colored Night",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Gentle Breeze"
+      },
+      "live": {
+        "name": "Start of Spring"
+      },
+      "support": {
+        "name": "Fun of the Arcade"
+      }
+    },
     "quote": {
       "n": "おぉ、絡め取られとる！",
       "e": "わしららしくなれるように"
@@ -16222,6 +17649,17 @@
     "id": 3040,
     "title": "Quiet City",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Accommodating City Plan"
+      },
+      "live": {
+        "name": "Supportive Rider"
+      },
+      "support": {
+        "name": "Full of Merch"
+      }
+    },
     "releaseDate": "2024-04-26"
   },
   {
@@ -16229,6 +17667,17 @@
     "id": 3041,
     "title": "Lively City",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Lively City Plan"
+      },
+      "live": {
+        "name": "Watchful Rider"
+      },
+      "support": {
+        "name": "A Long Story"
+      }
+    },
     "releaseDate": "2024-04-26"
   },
   {
@@ -16327,6 +17776,9 @@
     "title": "Fluffy Bunny",
     "name": "Hiiro Amagi",
     "skills": {
+      "center": {
+        "name": "Bunny Making Discoveries"
+      },
       "live": {
         "name": "Exciting Easter"
       },
@@ -16403,6 +17855,17 @@
     "id": 3051,
     "title": "Beyond Epochs",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Thoughts to an Answer"
+      },
+      "live": {
+        "name": "Grain of Proof"
+      },
+      "support": {
+        "name": "Friend's Recommendation"
+      }
+    },
     "releaseDate": "2024-05-20"
   },
   {
@@ -16410,6 +17873,17 @@
     "id": 3052,
     "title": "Dorm-Return Treat",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Special Vegetable Ramen"
+      },
+      "live": {
+        "name": "Cup of Energy"
+      },
+      "support": {
+        "name": "After-work Appetite"
+      }
+    },
     "releaseDate": "2024-05-20"
   },
   {
@@ -16417,6 +17891,17 @@
     "id": 3053,
     "title": "Thankful Soda",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Sweet Roll-flavored Gift"
+      },
+      "live": {
+        "name": "Workplace Manners"
+      },
+      "support": {
+        "name": "Voice of Needs"
+      }
+    },
     "releaseDate": "2024-05-20"
   },
   {
@@ -16424,6 +17909,17 @@
     "id": 3054,
     "title": "Upheld Shards of Radiance",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Road to Happiness"
+      },
+      "live": {
+        "name": "Fading Tone"
+      },
+      "support": {
+        "name": "Faith and Hope"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16431,6 +17927,17 @@
     "id": 3055,
     "title": "Pursued Shards of Radiance",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Road to Glory"
+      },
+      "live": {
+        "name": "Color-changing Tone"
+      },
+      "support": {
+        "name": "Stairs to Happiness"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16438,6 +17945,17 @@
     "id": 3056,
     "title": "New Shards of Radiance",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Road Split from the Past"
+      },
+      "live": {
+        "name": "Worried Tone"
+      },
+      "support": {
+        "name": "New Land of Farewell"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16445,6 +17963,17 @@
     "id": 3057,
     "title": "Encountered Shards of Radiance",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Road that Changed my Life"
+      },
+      "live": {
+        "name": "Melancholy Tone"
+      },
+      "support": {
+        "name": "Pitfalls of Enrollment"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16452,6 +17981,17 @@
     "id": 3058,
     "title": "Continued Shards of Radiance",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Road Under the Sun"
+      },
+      "live": {
+        "name": "Colorful Tone"
+      },
+      "support": {
+        "name": "Primary Contract"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16459,6 +17999,17 @@
     "id": 3059,
     "title": "Opportune Shards of Radiance",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Road of Ambition"
+      },
+      "live": {
+        "name": "Unique Tone"
+      },
+      "support": {
+        "name": "Mental Strategy"
+      }
+    },
     "releaseDate": "2024-05-25"
   },
   {
@@ -16556,6 +18107,17 @@
     "id": 3065,
     "title": "Unyielding Belief",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Future Expectations"
+      },
+      "live": {
+        "name": "Uncompromising Realm"
+      },
+      "support": {
+        "name": "Room Temperature Water"
+      }
+    },
     "releaseDate": "2024-06-03"
   },
   {
@@ -16563,6 +18125,17 @@
     "id": 3066,
     "title": "Sleeping Gear Placement",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Comfort Disparity"
+      },
+      "live": {
+        "name": "Dorm Environment"
+      },
+      "support": {
+        "name": "Beloved Coffin"
+      }
+    },
     "releaseDate": "2024-06-03"
   },
   {
@@ -16570,6 +18143,17 @@
     "id": 3067,
     "title": "A Forgotten Disc",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Theater for Two"
+      },
+      "live": {
+        "name": "Video Playback Check"
+      },
+      "support": {
+        "name": "Watch Party Prep"
+      }
+    },
     "releaseDate": "2024-06-03"
   },
   {
@@ -16577,6 +18161,17 @@
     "id": 3117,
     "title": "Game and Actuality",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Improved Self"
+      },
+      "live": {
+        "name": "VS Live Stream"
+      },
+      "support": {
+        "name": "Serious Play"
+      }
+    },
     "releaseDate": "2024-06-08"
   },
   {
@@ -16584,6 +18179,17 @@
     "id": 3118,
     "title": "Game and Reality",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Insights from the Unknown"
+      },
+      "live": {
+        "name": "VS Experience"
+      },
+      "support": {
+        "name": "Beginner's Wall"
+      }
+    },
     "releaseDate": "2024-06-08"
   },
   {
@@ -16591,6 +18197,17 @@
     "id": 3119,
     "title": "Watching the Game",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Tie-In Song Choreo"
+      },
+      "live": {
+        "name": "VS Dance"
+      },
+      "support": {
+        "name": "Guerrilla Stream"
+      }
+    },
     "releaseDate": "2024-06-08"
   },
   {
@@ -16598,6 +18215,17 @@
     "id": 3120,
     "title": "Supporting the Game",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Adjusting the Dance"
+      },
+      "live": {
+        "name": "VS Performance"
+      },
+      "support": {
+        "name": "Choreo Guidance"
+      }
+    },
     "releaseDate": "2024-06-08"
   },
   {
@@ -16605,6 +18233,17 @@
     "id": 3121,
     "title": "Encountering Wonders",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Uncharted Waters"
+      },
+      "live": {
+        "name": "Neighboring World"
+      },
+      "support": {
+        "name": "World I Fell Into"
+      }
+    },
     "releaseDate": "2024-06-07"
   },
   {
@@ -16612,6 +18251,17 @@
     "id": 3122,
     "title": "Embracing Wonders",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Unknown Horizons"
+      },
+      "live": {
+        "name": "Joyful World"
+      },
+      "support": {
+        "name": "Dorm Cleaning"
+      }
+    },
     "releaseDate": "2024-06-07"
   },
   {
@@ -16619,6 +18269,17 @@
     "id": 3123,
     "title": "Thrilling Wonders",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Unexplored Frontiers"
+      },
+      "live": {
+        "name": "Dream World"
+      },
+      "support": {
+        "name": "Goggles I Found"
+      }
+    },
     "releaseDate": "2024-06-07"
   },
   {
@@ -16626,6 +18287,17 @@
     "id": 3124,
     "title": "Exploring Wonders",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Undiscovered Landscapes"
+      },
+      "live": {
+        "name": "Adapting World"
+      },
+      "support": {
+        "name": "Help with Cleaning"
+      }
+    },
     "releaseDate": "2024-06-07"
   },
   {
@@ -16633,6 +18305,17 @@
     "id": 3139,
     "title": "Challenge Together!",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Smiling Stage"
+      },
+      "live": {
+        "name": "Duo Smiles"
+      },
+      "support": {
+        "name": "Challenge with You"
+      }
+    },
     "quote": {
       "n": "挑むときは持ちつ持たれつ！",
       "e": "ひとりじゃないよ俺たちと一緒に☆"
