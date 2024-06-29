@@ -183603,5 +183603,340 @@
       }
     },
     "associated_story": "天音色"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4102,
+    "rarity": 5,
+    "character_id": 11,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ハッピーパレード",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-06-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 47943,
+        "vo": 23820,
+        "pf": 19727
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "花咲く魅力",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "ウィンクサニー",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "一番の望み",
+        "type_id": 3,
+        "description": "GREAT・GOODを3回までPERFECTに"
+      }
+    },
+    "spp": {
+      "name": "Have you been naughty or nice?"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ハッピーチャーム衣装",
+          "ハッピーチャーム衣装 (SCR)"
+        ],
+        "3d": [
+          "ハッピーチャーム衣装",
+          "ハッピーチャーム衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4103,
+    "rarity": 4,
+    "character_id": 37,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ハッピームード",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-06-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 15131,
+        "vo": 28530,
+        "pf": 13928
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "柔らかい魅力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "アテンドサニー",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "冒険のはじまり",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "イースター・カーニバル"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "ハッピーチャーム衣装"
+        ]
+      }
+    },
+    "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4104,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ハッピーキャスト",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-06-24"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 11933,
+        "vo": 11598,
+        "pf": 19516
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "フレンドリーな魅力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "スマイルサニー",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "発見パーティ",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4105,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ハッピーバルーン",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-06-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 23826,
+        "vo": 23738,
+        "pf": 46472
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "伸ばす魅力",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 120％up"
+      },
+      "live": {
+        "name": "ウィンクキャンディ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "仕事の信頼",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "Aisle, be with you"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "ハッピーチャーム衣装",
+          "ハッピーチャーム衣装 (SCR)"
+        ],
+        "3d": [
+          "ハッピーチャーム衣装",
+          "ハッピーチャーム衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4106,
+    "rarity": 4,
+    "character_id": 70,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ハッピーチケット",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2024-06-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 29015,
+        "vo": 12989,
+        "pf": 15313
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "送り出す魅力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "アテンドキャンディ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "後輩への評価",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Hysteric Humanoid"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ハッピーチャーム衣装"
+        ]
+      }
+    },
+    "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4107,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ハッピーサービス",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-06-28"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 10805,
+        "vo": 21585,
+        "pf": 9135
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "語る魅力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "スマイルキャンディ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "突然の驚き",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    },
+    "associated_story": "ハッピーチャーム"
   }
 ]
