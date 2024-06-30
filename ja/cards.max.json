@@ -183621,6 +183621,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 11820,
+        "vo": 6000,
+        "pf": 6110
+      },
       "ir": {
         "da": 47943,
         "vo": 23820,
@@ -183682,6 +183687,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 2980,
+        "vo": 5100,
+        "pf": 2640
+      },
       "ir": {
         "da": 15131,
         "vo": 28530,
@@ -183739,6 +183749,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 2010,
+        "vo": 1660,
+        "pf": 2780
+      },
       "ir": {
         "da": 11933,
         "vo": 11598,
@@ -183785,6 +183800,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 6290,
+        "vo": 6710,
+        "pf": 11190
+      },
       "ir": {
         "da": 23826,
         "vo": 23738,
@@ -183847,6 +183867,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 5480,
+        "vo": 2680,
+        "pf": 3050
+      },
       "ir": {
         "da": 29015,
         "vo": 12989,
@@ -183903,6 +183928,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 1770,
+        "vo": 3300,
+        "pf": 1600
+      },
       "ir": {
         "da": 10805,
         "vo": 21585,
@@ -183938,5 +183968,346 @@
       }
     },
     "associated_story": "ハッピーチャーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4108,
+    "rarity": 5,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 1,
+    "title": "熱意の美食街",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 24815,
+        "vo": 43703,
+        "pf": 26294
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "勇気のpiece",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "正義GOURMET",
+        "type_id": 3,
+        "duration": 5,
+        "description": "5秒間ロング・スライドのスコア70％アップ、それ以外が30％アップ"
+      },
+      "support": {
+        "name": "野菜の励まし",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Colors Arise"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "オーディション練習着",
+          "美食街の衣装",
+          "美食街の衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4109,
+    "rarity": 5,
+    "character_id": 9,
+    "type": 1,
+    "substat_type": 0,
+    "title": "伸び盛り美食街",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 40447,
+        "vo": 29655,
+        "pf": 26633
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "輝くpiece",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "元気GOURMET",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "試行錯誤レシピ",
+        "type_id": 24,
+        "description": "育成チケットのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "うさぎの森の音楽会"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "オーディション練習着",
+          "美食街の衣装",
+          "美食街の衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4110,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 2,
+    "substat_type": 2,
+    "title": "食べごろ美食街",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 13143,
+        "vo": 13066,
+        "pf": 31024
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "弾むpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "活動GOURMET",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "競技前の距離",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Genuine Revelation"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "美食街の衣装"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4111,
+    "rarity": 4,
+    "character_id": 85,
+    "type": 1,
+    "substat_type": 1,
+    "title": "フレッシュ美食街",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 14012,
+        "vo": 30250,
+        "pf": 13777
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌うpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "意外GOURMET",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "畑での反省",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "美食街の衣装"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4112,
+    "rarity": 3,
+    "character_id": 69,
+    "type": 4,
+    "substat_type": 0,
+    "title": "エンジョイ美食街",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 21454,
+        "vo": 8105,
+        "pf": 11941
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "発見のpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "協賛GOURMET",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "心休まる場所",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "オーディション練習着",
+          "美食街の衣装"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4113,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 3,
+    "substat_type": 2,
+    "title": "腕まくる美食街",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-06-29"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 11541,
+        "vo": 11323,
+        "pf": 19450
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "甘いpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "歓待GOURMET",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "強気な挑戦",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "オーディション練習着",
+          "美食街の衣装"
+        ]
+      }
+    },
+    "associated_story": "VS★GOURMET"
   }
 ]
