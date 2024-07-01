@@ -18379,6 +18379,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3136,
+    "title": "Tender Teatime",
+    "name": "Tsukasa Suou",
+    "releaseDate": "2024-07-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3137,
+    "title": "Studying Time",
+    "name": "Aira Shiratori",
+    "releaseDate": "2024-07-01"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3138,
+    "title": "Checking Footage",
+    "name": "Natsume Sakasaki",
+    "releaseDate": "2024-07-01"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3139,
     "title": "Challenge Together!",
     "name": "Yuta Aoi",
