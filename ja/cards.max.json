@@ -180887,6 +180887,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4015,
+    "rarity": 4,
+    "character_id": 12,
+    "type": 3,
+    "substat_type": 0,
+    "title": "上昇するFLARE",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27523,
+        "vo": 13043,
+        "pf": 16772
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "不屈の挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "信念LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に立ち止まらない",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4016,
     "rarity": 4,
     "character_id": 11,
@@ -180930,6 +180985,116 @@
       },
       "support": {
         "name": "限界をもっと超えて",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4019,
+    "rarity": 4,
+    "character_id": 1,
+    "type": 2,
+    "substat_type": 1,
+    "title": "巻き起こすFLARE",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14209,
+        "vo": 27538,
+        "pf": 15586
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自分への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "逆境LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界を突き進んで",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4022,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 0,
+    "title": "燃え滾るFLARE",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27563,
+        "vo": 13289,
+        "pf": 16500
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "信じる己への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "熱血LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界超えるヒーロー",
         "type_id": 6,
         "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
       }
@@ -181007,6 +181172,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4024,
+    "rarity": 4,
+    "character_id": 67,
+    "type": 1,
+    "substat_type": 2,
+    "title": "掲げるFLARE",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15034,
+        "vo": 15767,
+        "pf": 27050
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "模索する挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "純粋LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界は超えられる",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4028,
     "rarity": 4,
     "character_id": 50,
@@ -181067,6 +181287,446 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4029,
+    "rarity": 4,
+    "character_id": 41,
+    "type": 1,
+    "substat_type": 1,
+    "title": "輝くFLARE",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15427,
+        "vo": 27050,
+        "pf": 15375
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "磨きをかける挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "眩しさLIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界に恐れない",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4032,
+    "rarity": 4,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 2,
+    "title": "華麗なFLARE",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16674,
+        "vo": 13114,
+        "pf": 27547
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表現の挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "感性LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を塗り替えて",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4034,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 3,
+    "substat_type": 2,
+    "title": "跳躍するFLARE",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 17073,
+        "vo": 13728,
+        "pf": 27047
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "隣り合う挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "共鳴LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界は跳び越えて",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4042,
+    "rarity": 4,
+    "character_id": 16,
+    "type": 4,
+    "substat_type": 2,
+    "title": "燃え盛るFLARE",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13248,
+        "vo": 16566,
+        "pf": 27524
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "理想への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "魂のLIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界をぶち破って",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4043,
+    "rarity": 4,
+    "character_id": 15,
+    "type": 1,
+    "substat_type": 0,
+    "title": "安らぎFLARE",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27051,
+        "vo": 13131,
+        "pf": 17665
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "大きな挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "歌声LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界と向き合いながら",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4044,
+    "rarity": 4,
+    "character_id": 3,
+    "type": 2,
+    "substat_type": 1,
+    "title": "解き放つFLARE",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14930,
+        "vo": 27048,
+        "pf": 15876
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "目標への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "遠慮LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を目標に見立てて",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4049,
+    "rarity": 4,
+    "character_id": 26,
+    "type": 2,
+    "substat_type": 0,
+    "title": "力強きFLARE",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27042,
+        "vo": 12970,
+        "pf": 17839
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "成長への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "勝負LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界と睨み合い",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4051,
+    "rarity": 4,
+    "character_id": 10,
+    "type": 2,
+    "substat_type": 2,
+    "title": "照らすFLARE",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13907,
+        "vo": 15891,
+        "pf": 27536
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "受け入れる挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "正しさLIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に立ち向かう",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "rarity": 4,
     "character_id": 38,
@@ -181112,6 +181772,61 @@
         "name": "限界を攻略して",
         "type_id": 14,
         "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4060,
+    "rarity": 4,
+    "character_id": 81,
+    "type": 4,
+    "substat_type": 1,
+    "title": "広がるFLARE",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-06-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13988,
+        "vo": 27571,
+        "pf": 15805
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "アイドルに挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "冒険LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に怯まない",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
