@@ -18443,27 +18443,59 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3152,
+    "title": "Determined Star",
+    "name": "Souma Kanzaki",
+    "releaseDate": "2024-07-06"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3153,
+    "title": "Protective Moon",
+    "name": "Keito Hasumi",
+    "releaseDate": "2024-07-06"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3154,
+    "title": "Supporting Sun",
+    "name": "Kuro Kiryu",
+    "releaseDate": "2024-07-06"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3155,
+    "title": "Leading Bird",
+    "name": "Nazuna Nito",
+    "releaseDate": "2024-07-06"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3156,
     "title": "Wild Youth",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "releaseDate": "2024-07-05"
   },
   {
     "compliant": "TRUE",
     "id": 3157,
     "title": "Wild Life",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "releaseDate": "2024-07-05"
   },
   {
     "compliant": "TRUE",
     "id": 3158,
     "title": "Wild Calculation",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "releaseDate": "2024-07-05"
   },
   {
     "compliant": "TRUE",
     "id": 3159,
     "title": "Wild Game",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "releaseDate": "2024-07-05"
   },
   {
     "compliant": "TRUE",
