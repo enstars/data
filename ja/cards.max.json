@@ -185224,5 +185224,173 @@
       }
     },
     "associated_story": "VS★GOURMET"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4114,
+    "rarity": 5,
+    "character_id": 51,
+    "type": 4,
+    "substat_type": 1,
+    "title": "惑わす舌先",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-07-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 21613,
+        "vo": 47907,
+        "pf": 21885
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "読めない本心",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "話術の罠",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "噛みつく相手",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Absolute Perfection"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "パープレックス衣装",
+          "パープレックス衣装 (SCR)"
+        ],
+        "3d": [
+          "パープレックス衣装",
+          "パープレックス衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4115,
+    "rarity": 4,
+    "character_id": 23,
+    "type": 3,
+    "substat_type": 2,
+    "title": "惑わす表情",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2024-07-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 17845,
+        "vo": 11165,
+        "pf": 28542
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "探り当てる本心",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "笑顔の罠",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "お節介の心",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SWINGIN' PARONIRIA"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "パープレックス衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4116,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 2,
+    "substat_type": 0,
+    "title": "惑わす手元",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-07-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 19516,
+        "vo": 10350,
+        "pf": 13074
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "見透かす本心",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "魅力の罠",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "ナイスリアクション",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    }
   }
 ]
