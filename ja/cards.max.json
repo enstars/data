@@ -185701,5 +185701,243 @@
       }
     },
     "associated_story": "パープレックス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4120,
+    "rarity": 5,
+    "character_id": 68,
+    "type": 1,
+    "substat_type": 2,
+    "title": "愛情スパークル",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 21190,
+        "vo": 23113,
+        "pf": 48028
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "黄色い季節",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "トラベルサマー",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "再会の約束",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "SunnyTrip Summer"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スパークル衣装",
+          "スパークル衣装 (SCR)",
+          "私服2（春〜夏）",
+          "ホテルの館内着"
+        ],
+        "3d": [
+          "スパークル衣装",
+          "スパークル衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "スパークル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4121,
+    "rarity": 4,
+    "character_id": 67,
+    "type": 4,
+    "substat_type": 0,
+    "title": "青雲スパークル",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 27346,
+        "vo": 15335,
+        "pf": 14896
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "黄色い果実",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "フレッシュサマー",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "レモンの香り",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SunnyTrip Summer"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スパークル衣装",
+          "私服2（春〜夏）",
+          "ホテルの館内着"
+        ],
+        "3d": [
+          "スパークル衣装"
+        ]
+      }
+    },
+    "associated_story": "スパークル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4122,
+    "rarity": 3,
+    "character_id": 69,
+    "type": 3,
+    "substat_type": 1,
+    "title": "旋律スパークル",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 11847,
+        "vo": 19257,
+        "pf": 11444
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "黄色い思い出",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "バカンスサマー",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "万全な準備",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スパークル衣装",
+          "ホテルの館内着"
+        ],
+        "3d": [
+          "スパークル衣装"
+        ]
+      }
+    },
+    "associated_story": "スパークル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4123,
+    "rarity": 3,
+    "character_id": 70,
+    "type": 2,
+    "substat_type": 2,
+    "title": "探訪スパークル",
+    "name": "風早巽",
+    "releaseDate": {
+      "jp": "2024-07-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 9404,
+        "vo": 8892,
+        "pf": 21524
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "黄色い休暇",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "ヒーリングサマー",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "パリの撮影",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スパークル衣装",
+          "ホテルの館内着"
+        ],
+        "3d": [
+          "スパークル衣装"
+        ]
+      }
+    },
+    "associated_story": "スパークル"
   }
 ]
