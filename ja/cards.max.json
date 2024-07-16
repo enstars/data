@@ -185718,13 +185718,6 @@
       "type": "event",
       "subType": "unit"
     },
-    "stats": {
-      "ir": {
-        "da": 21190,
-        "vo": 23113,
-        "pf": 48028
-      }
-    },
     "skills": {
       "center": {
         "name": "黄色い季節",
@@ -185781,13 +185774,6 @@
       "type": "event",
       "subType": "unit"
     },
-    "stats": {
-      "ir": {
-        "da": 27346,
-        "vo": 15335,
-        "pf": 14896
-      }
-    },
     "skills": {
       "center": {
         "name": "黄色い果実",
@@ -185842,13 +185828,6 @@
       "type": "event",
       "subType": "unit"
     },
-    "stats": {
-      "ir": {
-        "da": 11847,
-        "vo": 19257,
-        "pf": 11444
-      }
-    },
     "skills": {
       "center": {
         "name": "黄色い思い出",
@@ -185898,13 +185877,6 @@
     "obtain": {
       "type": "event",
       "subType": "unit"
-    },
-    "stats": {
-      "ir": {
-        "da": 9404,
-        "vo": 8892,
-        "pf": 21524
-      }
     },
     "skills": {
       "center": {
