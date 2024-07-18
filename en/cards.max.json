@@ -12927,7 +12927,7 @@
   {
     "compliant": "TRUE",
     "id": 2785,
-    "title": "Binding Ariadne",
+    "title": "The Binding Ariadne",
     "name": "HiMERU",
     "skills": {
       "center": {
@@ -18511,6 +18511,41 @@
     "title": "School Day",
     "name": "Mayoi Ayase",
     "releaseDate": "2024-07-15"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3171,
+    "title": "Curiosity & Challenges",
+    "name": "Hiiro Amagi",
+    "releaseDate": "2024-07-19"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3172,
+    "title": "Experienced Role Model",
+    "name": "Yuzuru Fushimi",
+    "releaseDate": "2024-07-19"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3173,
+    "title": "Self-Reflection & Practice",
+    "name": "Aira Shiratori",
+    "releaseDate": "2024-07-19"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3174,
+    "title": "Absorbing the Unknown",
+    "name": "Mika Kagehira",
+    "releaseDate": "2024-07-19"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3175,
+    "title": "Lecture & Pointer",
+    "name": "Keito Hasumi",
+    "releaseDate": "2024-07-19"
   },
   {
     "compliant": "TRUE",
