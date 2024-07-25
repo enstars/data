@@ -186029,5 +186029,180 @@
       }
     },
     "associated_story": "スパークル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4124,
+    "rarity": 5,
+    "character_id": 81,
+    "type": 2,
+    "substat_type": 0,
+    "title": "弾ける星しずく",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 43562,
+        "vo": 27342,
+        "pf": 24815
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "笑顔の目標地点",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 120％up"
+      },
+      "live": {
+        "name": "スターエクスプローラー",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "心地の良い基地",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "BOUKEN BLUE",
+          "BOUKEN BLUE (SCR)"
+        ],
+        "3d": [
+          "BOUKEN BLUE",
+          "BOUKEN BLUE (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ドリーム・ア・ゴーゴー"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4125,
+    "rarity": 4,
+    "character_id": 83,
+    "type": 4,
+    "substat_type": 1,
+    "title": "仕掛ける機会",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 14119,
+        "vo": 30935,
+        "pf": 12304
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "奇妙な発明家",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "プレシジョンモード",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "安眠構築",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "機械仕掛けの神の子"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4126,
+    "rarity": 3,
+    "character_id": 73,
+    "type": 1,
+    "substat_type": 2,
+    "title": "不思議な付き合い",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2024-07-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature"
+    },
+    "stats": {
+      "ir": {
+        "da": 8504,
+        "vo": 11589,
+        "pf": 21552
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "複雑な関係",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "友達の手引き",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "満更でもない顔",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）"
+        ]
+      }
+    },
+    "associated_story": "友情、その初手"
   }
 ]
