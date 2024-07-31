@@ -186299,5 +186299,306 @@
       }
     },
     "associated_story": "友情、その初手"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4127,
+    "rarity": 5,
+    "character_id": 19,
+    "type": 2,
+    "substat_type": 2,
+    "title": "深奥の迷い子",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2024-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 23951,
+        "vo": 23953,
+        "pf": 46154
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "M∀N∀の儀",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 120％up"
+      },
+      "live": {
+        "name": "悟道バラッド",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "人助けの結果",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "喪失寓意 -LOST BALLADE-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "迷い子バラッド衣装",
+          "迷い子バラッド衣装 (SCR)"
+        ],
+        "3d": [
+          "迷い子バラッド衣装",
+          "迷い子バラッド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "迷い子バラッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4128,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 4,
+    "substat_type": 1,
+    "title": "伝承の迷い子",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 15123,
+        "vo": 27345,
+        "pf": 15125
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "M∀N∀の意",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "奸計バラッド",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "心の模索",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "喪失寓意 -LOST BALLADE-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "迷い子バラッド衣装"
+        ],
+        "3d": [
+          "迷い子バラッド衣装"
+        ]
+      }
+    },
+    "associated_story": "迷い子バラッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4129,
+    "rarity": 4,
+    "character_id": 40,
+    "type": 1,
+    "substat_type": 0,
+    "title": "戒律の迷い子",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2024-07-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "shuffle"
+    },
+    "stats": {
+      "ir": {
+        "da": 31016,
+        "vo": 14200,
+        "pf": 12005
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "M∀N∀の軸",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "誓願バラッド",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "特訓の手助け",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "喪失寓意 -LOST BALLADE-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "迷い子バラッド衣装",
+          "私服2（春〜夏）"
+        ],
+        "3d": [
+          "迷い子バラッド衣装"
+        ]
+      }
+    },
+    "associated_story": "迷い子バラッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4130,
+    "rarity": 5,
+    "character_id": 74,
+    "type": 3,
+    "substat_type": 2,
+    "title": "暁光の迷い子",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2024-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 21748,
+        "vo": 21746,
+        "pf": 47994
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "M∀N∀の糧",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "先導バラッド",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "秘密の特訓",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "喪失寓意 -LOST BALLADE-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "迷い子バラッド衣装",
+          "迷い子バラッド衣装 (SCR)",
+          "私服2（春〜夏）"
+        ],
+        "3d": [
+          "迷い子バラッド衣装",
+          "迷い子バラッド衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "迷い子バラッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4131,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 1,
+    "substat_type": 0,
+    "title": "神託の迷い子",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-07-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 28547,
+        "vo": 14505,
+        "pf": 14501
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "M∀N∀の源",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "通達バラッド",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "行方不明の怪",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "喪失寓意 -LOST BALLADE-"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "迷い子バラッド衣装"
+        ],
+        "3d": [
+          "迷い子バラッド衣装"
+        ]
+      }
+    },
+    "associated_story": "迷い子バラッド"
   }
 ]
