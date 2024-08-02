@@ -18626,27 +18626,59 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3179,
+    "title": "Encounter on Cruise Ship",
+    "name": "Natsume Sakasaki",
+    "releaseDate": "2024-08-03"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3180,
+    "title": "Flexible Cruise Ship",
+    "name": "Tsumugi Aoba",
+    "releaseDate": "2024-08-03"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3181,
+    "title": "Magical Cruise Ship",
+    "name": "Sora Harukawa",
+    "releaseDate": "2024-08-03"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3182,
+    "title": "Butterfly and Cruise Ship",
+    "name": "Shu Itsuki",
+    "releaseDate": "2024-08-03"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3183,
     "title": "Memories of Water Balloon",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "releaseDate": "2024-08-02"
   },
   {
     "compliant": "TRUE",
     "id": 3184,
     "title": "Heart of Water Balloon",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "releaseDate": "2024-08-02"
   },
   {
     "compliant": "TRUE",
     "id": 3185,
     "title": "Festival and Water Balloon",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "releaseDate": "2024-08-02"
   },
   {
     "compliant": "TRUE",
     "id": 3186,
     "title": "Stalls and Water Balloon",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "releaseDate": "2024-08-02"
   },
   {
     "compliant": "TRUE",
