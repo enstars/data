@@ -18299,6 +18299,17 @@
     "id": 3125,
     "title": "Hopping High",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Nazuna on Stage"
+      },
+      "live": {
+        "name": "Enthusiastic Stage"
+      },
+      "support": {
+        "name": "Flex and Chill"
+      }
+    },
     "releaseDate": "2024-06-17"
   },
   {
@@ -18306,6 +18317,17 @@
     "id": 3126,
     "title": "History Challenge",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Back to Study"
+      },
+      "live": {
+        "name": "Learning Strategy"
+      },
+      "support": {
+        "name": "Lecture Time"
+      }
+    },
     "releaseDate": "2024-06-17"
   },
   {
@@ -18313,6 +18335,17 @@
     "id": 3127,
     "title": "Symbol of the Scar",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Proof of Hard Work"
+      },
+      "live": {
+        "name": "Junior's Band-aid"
+      },
+      "support": {
+        "name": "Left Hand Behind Back"
+      }
+    },
     "releaseDate": "2024-06-17"
   },
   {
@@ -18320,6 +18353,17 @@
     "id": 3128,
     "title": "Blessing Bridal Light",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Light of Shining Future"
+      },
+      "live": {
+        "name": "Song for Vows"
+      },
+      "support": {
+        "name": "Taken to Sea"
+      }
+    },
     "releaseDate": "2024-06-22"
   },
   {
@@ -18327,6 +18371,17 @@
     "id": 3129,
     "title": "Gentle Bridal Light",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Light of Overlapping Faces"
+      },
+      "live": {
+        "name": "Song as a Mediator"
+      },
+      "support": {
+        "name": "Concern and Consideration"
+      }
+    },
     "releaseDate": "2024-06-22"
   },
   {
@@ -18334,6 +18389,17 @@
     "id": 3130,
     "title": "Supportive Bridal Light",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Light of Encouragement"
+      },
+      "live": {
+        "name": "Song of a Friend in Need"
+      },
+      "support": {
+        "name": "Scream at the Sea"
+      }
+    },
     "releaseDate": "2024-06-22"
   },
   {
@@ -18341,6 +18407,17 @@
     "id": 3131,
     "title": "Changing Bridal Light",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "A New Light"
+      },
+      "live": {
+        "name": "Song of Encouragement"
+      },
+      "support": {
+        "name": "Sing it Out"
+      }
+    },
     "releaseDate": "2024-06-22"
   },
   {
@@ -18348,6 +18425,17 @@
     "id": 3132,
     "title": "Illusory Sweetling",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Mouth-watering Sweetling"
+      },
+      "live": {
+        "name": "An Unconquered Sweet"
+      },
+      "support": {
+        "name": "Chef's Burning Soul"
+      }
+    },
     "releaseDate": "2024-06-21"
   },
   {
@@ -18355,6 +18443,17 @@
     "id": 3133,
     "title": "Lively Sweetling",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Enchanting Sweetling"
+      },
+      "live": {
+        "name": "World's Sweetling"
+      },
+      "support": {
+        "name": "Mail of Truth"
+      }
+    },
     "releaseDate": "2024-06-21"
   },
   {
@@ -18362,6 +18461,17 @@
     "id": 3134,
     "title": "Curious Sweetling",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Unknown Sweetling"
+      },
+      "live": {
+        "name": "Trending Sweetling"
+      },
+      "support": {
+        "name": "Line before Opening"
+      }
+    },
     "releaseDate": "2024-06-21"
   },
   {
@@ -18369,6 +18479,17 @@
     "id": 3135,
     "title": "Mischievous Sweetling",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "So-called Sweetling"
+      },
+      "live": {
+        "name": "Unbelievable Sweetling"
+      },
+      "support": {
+        "name": "Source of Misinformation"
+      }
+    },
     "releaseDate": "2024-06-21"
   },
   {
@@ -18376,6 +18497,17 @@
     "id": 3136,
     "title": "Tender Teatime",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Photo Sticker Memento"
+      },
+      "live": {
+        "name": "After Class"
+      },
+      "support": {
+        "name": "Me as a High-Schooler"
+      }
+    },
     "releaseDate": "2024-07-01"
   },
   {
@@ -18383,6 +18515,17 @@
     "id": 3137,
     "title": "Studying Time",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Daily Life of a Student"
+      },
+      "live": {
+        "name": "Library Study"
+      },
+      "support": {
+        "name": "Future of Pop Quizzes"
+      }
+    },
     "releaseDate": "2024-07-01"
   },
   {
@@ -18390,6 +18533,17 @@
     "id": 3138,
     "title": "Checking Footage",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Measuring up"
+      },
+      "live": {
+        "name": "Joint Seniors"
+      },
+      "support": {
+        "name": "A Little Prank"
+      }
+    },
     "releaseDate": "2024-07-01"
   },
   {
@@ -18440,6 +18594,17 @@
     "id": 3152,
     "title": "Determined Star",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Sky to Fly Freely"
+      },
+      "live": {
+        "name": "Expanding Potential"
+      },
+      "support": {
+        "name": "Skill Test Study"
+      }
+    },
     "releaseDate": "2024-07-06"
   },
   {
@@ -18447,6 +18612,17 @@
     "id": 3153,
     "title": "Protective Moon",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "The Sky I Chose"
+      },
+      "live": {
+        "name": "Desire to Learn"
+      },
+      "support": {
+        "name": "Waiting for Success"
+      }
+    },
     "releaseDate": "2024-07-06"
   },
   {
@@ -18454,6 +18630,17 @@
     "id": 3154,
     "title": "Supportive Sun",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Sky I Desired"
+      },
+      "live": {
+        "name": "Costume of Emotion"
+      },
+      "support": {
+        "name": "Breath of Ice"
+      }
+    },
     "releaseDate": "2024-07-06"
   },
   {
@@ -18461,6 +18648,17 @@
     "id": 3155,
     "title": "Leading Bird",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "The Sky I Will Discover"
+      },
+      "live": {
+        "name": "Pioneer's Proclamation"
+      },
+      "support": {
+        "name": "Hand-written Flashcards"
+      }
+    },
     "releaseDate": "2024-07-06"
   },
   {
@@ -18468,6 +18666,17 @@
     "id": 3156,
     "title": "Wild Youth",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Manliness of the Body"
+      },
+      "live": {
+        "name": "Riverbank Twilight"
+      },
+      "support": {
+        "name": "Open Operations"
+      }
+    },
     "releaseDate": "2024-07-05"
   },
   {
@@ -18475,6 +18684,17 @@
     "id": 3157,
     "title": "Wild Life",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Manliness of the Tone"
+      },
+      "live": {
+        "name": "Main Street Swagger"
+      },
+      "support": {
+        "name": "Nervous Self-introduction"
+      }
+    },
     "releaseDate": "2024-07-05"
   },
   {
@@ -18482,6 +18702,17 @@
     "id": 3158,
     "title": "Wild Calculation",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Considered Masculinity"
+      },
+      "live": {
+        "name": "Sold Fight"
+      },
+      "support": {
+        "name": "Targeted Behavior"
+      }
+    },
     "releaseDate": "2024-07-05"
   },
   {
@@ -18489,6 +18720,17 @@
     "id": 3159,
     "title": "Wild Game",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Masculinity of the Role"
+      },
+      "live": {
+        "name": "Light Test of Skill"
+      },
+      "support": {
+        "name": "Unexpected Development"
+      }
+    },
     "releaseDate": "2024-07-05"
   },
   {
@@ -18496,6 +18738,17 @@
     "id": 3160,
     "title": "Sing with Fishes",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Ideas of My Own"
+      },
+      "live": {
+        "name": "Ocean by my Side"
+      },
+      "support": {
+        "name": "Thinking Drink"
+      }
+    },
     "releaseDate": "2024-07-15"
   },
   {
@@ -18503,6 +18756,17 @@
     "id": 3161,
     "title": "How to Treat a Lady",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Flight Back Home"
+      },
+      "live": {
+        "name": "Night Maintenance"
+      },
+      "support": {
+        "name": "Rest Bed"
+      }
+    },
     "releaseDate": "2024-07-15"
   },
   {
@@ -18510,6 +18774,17 @@
     "id": 3162,
     "title": "School Day",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Outstretched Hand"
+      },
+      "live": {
+        "name": "Lunch for Three"
+      },
+      "support": {
+        "name": "Class Comfort"
+      }
+    },
     "releaseDate": "2024-07-15"
   },
   {
@@ -18517,6 +18792,17 @@
     "id": 3163,
     "title": "Tanabata: Looking into the Sky",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Song for a Smile"
+      },
+      "live": {
+        "name": "The Stage we Reached"
+      },
+      "support": {
+        "name": "Pride as a Leader"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18524,6 +18810,17 @@
     "id": 3164,
     "title": "Tanabata: Praying to the Sky",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "A Song No One Knows"
+      },
+      "live": {
+        "name": "A Stage to Shine"
+      },
+      "support": {
+        "name": "Thing I can't Abandon"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18531,6 +18828,17 @@
     "id": 3165,
     "title": "Tanabata: A Roaring Song",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Rock'N'Roll Battle"
+      },
+      "live": {
+        "name": "Carpe Diem Stage"
+      },
+      "support": {
+        "name": "Audience Booing"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18538,6 +18846,17 @@
     "id": 3166,
     "title": "Tanabata: A Joyful Night",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Song that Leads the Way"
+      },
+      "live": {
+        "name": "Frolicking Stage"
+      },
+      "support": {
+        "name": "Same as Ever"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18545,6 +18864,17 @@
     "id": 3167,
     "title": "Tanabata: Unexpected Proposal",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Council President's Inspection"
+      },
+      "live": {
+        "name": "A Stage for Everyone"
+      },
+      "support": {
+        "name": "Proposal Adjustments"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18552,6 +18882,17 @@
     "id": 3168,
     "title": "Tanabata: Supernatural",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Story of Seven Wonders"
+      },
+      "live": {
+        "name": "Helping Stage"
+      },
+      "support": {
+        "name": "Request for a Friend"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18559,6 +18900,17 @@
     "id": 3169,
     "title": "Tanabata: My Wishes",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Unit Compass"
+      },
+      "live": {
+        "name": "Challenging Stage"
+      },
+      "support": {
+        "name": "Vague Venting"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18566,6 +18918,17 @@
     "id": 3170,
     "title": "Tanabata: Forces",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "A Challenging Battle"
+      },
+      "live": {
+        "name": "Warlike Stage"
+      },
+      "support": {
+        "name": "Pride to Show"
+      }
+    },
     "releaseDate": "2024-07-20"
   },
   {
@@ -18573,6 +18936,17 @@
     "id": 3171,
     "title": "Curiosity & Challenges",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Straight Student"
+      },
+      "live": {
+        "name": "Concentration in the Dark"
+      },
+      "support": {
+        "name": "First Train"
+      }
+    },
     "releaseDate": "2024-07-19"
   },
   {
@@ -18580,6 +18954,17 @@
     "id": 3172,
     "title": "Experienced Role Model",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Diligent Student"
+      },
+      "live": {
+        "name": "Thorough Preparations"
+      },
+      "support": {
+        "name": "Hand-made Bento"
+      }
+    },
     "releaseDate": "2024-07-19"
   },
   {
@@ -18587,6 +18972,17 @@
     "id": 3173,
     "title": "Self-Reflection & Practice",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Lazy Student"
+      },
+      "live": {
+        "name": "Elaborate Equipment"
+      },
+      "support": {
+        "name": "Difference in Common Sense"
+      }
+    },
     "releaseDate": "2024-07-19"
   },
   {
@@ -18594,6 +18990,17 @@
     "id": 3174,
     "title": "Absorbing the Unknown",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Mild Student"
+      },
+      "live": {
+        "name": "Fun Practice"
+      },
+      "support": {
+        "name": "Countryside Shoot"
+      }
+    },
     "releaseDate": "2024-07-19"
   },
   {
@@ -18601,6 +19008,17 @@
     "id": 3175,
     "title": "Lecture & Pointer",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Knowledgable Teacher"
+      },
+      "live": {
+        "name": "Outdoor Study Meet"
+      },
+      "support": {
+        "name": "River Fishing Rewards"
+      }
+    },
     "releaseDate": "2024-07-19"
   },
   {
@@ -18608,6 +19026,17 @@
     "id": 3176,
     "title": "Amid Green and Sunlight",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Scenery in the Sunshine"
+      },
+      "live": {
+        "name": "Camera Awareness"
+      },
+      "support": {
+        "name": "Be the Natural Self"
+      }
+    },
     "releaseDate": "2024-07-29"
   },
   {
@@ -18615,6 +19044,17 @@
     "id": 3177,
     "title": "A Natural Thing",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Rely and Be Relied on"
+      },
+      "live": {
+        "name": "Hectic Daily Life"
+      },
+      "support": {
+        "name": "Cake Treat"
+      }
+    },
     "releaseDate": "2024-07-29"
   },
   {
@@ -18622,6 +19062,17 @@
     "id": 3178,
     "title": "Little Wishes",
     "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "What I Can Experience Here"
+      },
+      "live": {
+        "name": "Brand-New Challenge"
+      },
+      "support": {
+        "name": "Try New Things"
+      }
+    },
     "releaseDate": "2024-07-29"
   },
   {
@@ -18629,6 +19080,17 @@
     "id": 3179,
     "title": "Encounter on Cruise Ship",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Elements of Summer"
+      },
+      "live": {
+        "name": "Ocean World"
+      },
+      "support": {
+        "name": "Reunion on Remote Island"
+      }
+    },
     "releaseDate": "2024-08-03"
   },
   {
@@ -18636,6 +19098,17 @@
     "id": 3180,
     "title": "Flexible Cruise Ship",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Dreamy Island and Vacation"
+      },
+      "live": {
+        "name": "Summer and the Sea"
+      },
+      "support": {
+        "name": "Plan to Unwind"
+      }
+    },
     "releaseDate": "2024-08-03"
   },
   {
@@ -18643,6 +19116,17 @@
     "id": 3181,
     "title": "Magical Cruise Ship",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Magic to Change Dislike"
+      },
+      "live": {
+        "name": "Secret Tricks"
+      },
+      "support": {
+        "name": "Trio on Island"
+      }
+    },
     "releaseDate": "2024-08-03"
   },
   {
@@ -18650,6 +19134,17 @@
     "id": 3182,
     "title": "Butterfly and Cruise Ship",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Director's Insistence"
+      },
+      "live": {
+        "name": "Different Perspectives"
+      },
+      "support": {
+        "name": "Inspiring Butterfly"
+      }
+    },
     "releaseDate": "2024-08-03"
   },
   {
@@ -18657,6 +19152,17 @@
     "id": 3183,
     "title": "Memories of Water Balloon",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Summer Sky Overhead"
+      },
+      "live": {
+        "name": "Spots and Spin and Sky"
+      },
+      "support": {
+        "name": "Show the Way"
+      }
+    },
     "releaseDate": "2024-08-02"
   },
   {
@@ -18664,6 +19170,17 @@
     "id": 3184,
     "title": "Heart of Water Balloon",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Fresh Breeze and Windbells"
+      },
+      "live": {
+        "name": "Take off the Balloon"
+      },
+      "support": {
+        "name": "Fun at the Stalls"
+      }
+    },
     "releaseDate": "2024-08-02"
   },
   {
@@ -18671,6 +19188,17 @@
     "id": 3185,
     "title": "Festival and Water Balloon",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Festival Music and Mask"
+      },
+      "live": {
+        "name": "Explore the Stalls"
+      },
+      "support": {
+        "name": "Arrival Report"
+      }
+    },
     "releaseDate": "2024-08-02"
   },
   {
@@ -18678,6 +19206,17 @@
     "id": 3186,
     "title": "Stalls and Water Balloon",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Cool Summer Festival"
+      },
+      "live": {
+        "name": "Accompany to the Stalls"
+      },
+      "support": {
+        "name": "Prepare for Shooting Game"
+      }
+    },
     "releaseDate": "2024-08-02"
   },
   {
