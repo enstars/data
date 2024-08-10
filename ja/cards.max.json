@@ -186685,5 +186685,171 @@
       }
     },
     "associated_story": "迷い子バラッド"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4132,
+    "rarity": 5,
+    "character_id": 21,
+    "type": 4,
+    "substat_type": 1,
+    "title": "堅実ドミナント",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2024-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 22848,
+        "vo": 47961,
+        "pf": 20648
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "統治者の意地",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "デビルズコントロール",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "授業の再案",
+        "type_id": 3,
+        "description": "GREAT・GOODを3回までPERFECTに"
+      }
+    },
+    "spp": {
+      "name": "ROCK ROAR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドミナント衣装",
+          "ドミナント衣装 (SCR)",
+          "私服2（春〜夏）"
+        ],
+        "3d": [
+          "ドミナント衣装",
+          "ドミナント衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4133,
+    "rarity": 4,
+    "character_id": 1,
+    "type": 1,
+    "substat_type": 0,
+    "title": "邁進ドミナント",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 28568,
+        "vo": 13963,
+        "pf": 15054
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "統治者の成長",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "デビルズチョイス",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "自慢の点数",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "メテオ・スクランブル☆流星隊!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドミナント衣装",
+          "私服2（春〜夏）",
+          "制服（冬、三年生）"
+        ]
+      }
+    },
+    "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4134,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 3,
+    "substat_type": 2,
+    "title": "頑健ドミナント",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-08-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 11476,
+        "vo": 11915,
+        "pf": 19527
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "統治者の細工",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "デビルズホープ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "粘土細工の城",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "ドミナント"
   }
 ]
