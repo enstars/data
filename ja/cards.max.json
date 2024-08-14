@@ -186918,20 +186918,10 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 5730,
-        "vo": 12040,
-        "pf": 5330
-      },
       "ir": {
         "da": 22848,
         "vo": 47961,
         "pf": 20648
-      },
-      "ir4": {
-        "da": 27005,
-        "vo": 67962,
-        "pf": 24795
       }
     },
     "skills": {
@@ -186990,11 +186980,6 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 4230,
-        "vo": 3030,
-        "pf": 3420
-      },
       "ir": {
         "da": 28568,
         "vo": 13963,
@@ -187053,11 +187038,6 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 1650,
-        "vo": 1630,
-        "pf": 3130
-      },
       "ir": {
         "da": 11476,
         "vo": 11915,
@@ -187083,6 +187063,170 @@
         "name": "粘土細工の城",
         "type_id": 4,
         "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4135,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 3,
+    "substat_type": 0,
+    "title": "策謀ドミナント",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2024-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 46490,
+        "vo": 23805,
+        "pf": 23796
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "支配者の欲得",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 120％up"
+      },
+      "live": {
+        "name": "デビルズスタート",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "自信の指導役",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "ネビュラ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ドミナント衣装",
+          "ドミナント衣装 (SCR)"
+        ],
+        "3d": [
+          "ドミナント衣装",
+          "ドミナント衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4136,
+    "rarity": 4,
+    "character_id": 33,
+    "type": 2,
+    "substat_type": 1,
+    "title": "充足ドミナント",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 14146,
+        "vo": 29060,
+        "pf": 14155
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "支配者の自由",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 80％up"
+      },
+      "live": {
+        "name": "デビルズルール",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "楽しい熱帯魚",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "We’ll be “Knights”"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服2（春〜夏）",
+          "ドミナント衣装"
+        ]
+      }
+    },
+    "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4137,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 2,
+    "title": "連携ドミナント",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-08-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 8897,
+        "vo": 11100,
+        "pf": 21538
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "支配者の救済",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "デビルズレッスン",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "サークルでの勉強",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
       }
     },
     "associated_story": "ドミナント"
