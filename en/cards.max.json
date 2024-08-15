@@ -19239,6 +19239,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3204,
+    "title": "Vibrant ANIMALS",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3205,
+    "title": "Joyful ANIMALS",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3206,
+    "title": "Serious ANIMALS",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3207,
+    "title": "Learning ANIMALS",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3208,
+    "title": "Friendly ANIMALS",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
