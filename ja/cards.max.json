@@ -187275,5 +187275,345 @@
       }
     },
     "associated_story": "ドミナント"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4138,
+    "rarity": 5,
+    "character_id": 27,
+    "type": 2,
+    "substat_type": 2,
+    "title": "発揚の双鶏塔",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 25547,
+        "vo": 25554,
+        "pf": 43755
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "本気のpiece",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "全開AUDIENCE",
+        "type_id": 2,
+        "duration": 12,
+        "description": "12秒間フリックのスコア40％アップ、それ以外が11％アップ"
+      },
+      "support": {
+        "name": "夢現の仮面",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Never-ending Stage!!!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "双鶏塔の衣装 (SCR)",
+          "オーディション練習着",
+          "私服2（春〜夏）",
+          "私服2（春〜夏、マスク）"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4139,
+    "rarity": 5,
+    "character_id": 24,
+    "type": 1,
+    "substat_type": 1,
+    "title": "高吟の双鶏塔",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 28154,
+        "vo": 40501,
+        "pf": 28154
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自信のpiece",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 120％up"
+      },
+      "live": {
+        "name": "熱唱AUDIENCE",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "情動の叫び",
+        "type_id": 30,
+        "description": "アイドルピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Luminous Crown"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "双鶏塔の衣装 (SCR)",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4140,
+    "rarity": 4,
+    "character_id": 67,
+    "type": 3,
+    "substat_type": 1,
+    "title": "練達の双鶏塔",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 13098,
+        "vo": 31059,
+        "pf": 13095
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "理解のpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "上昇AUDIENCE",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "審査の責任",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "VERMILION"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4141,
+    "rarity": 4,
+    "character_id": 82,
+    "type": 4,
+    "substat_type": 0,
+    "title": "鮮烈の双鶏塔",
+    "name": "滝維吹",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 30260,
+        "vo": 13905,
+        "pf": 13895
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "活劇のpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "繚乱AUDIENCE",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "予想外の曲目",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4142,
+    "rarity": 3,
+    "character_id": 21,
+    "type": 2,
+    "substat_type": 1,
+    "title": "機縁の双鶏塔",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 10047,
+        "vo": 10045,
+        "pf": 21417
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "意外のpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "翻弄AUDIENCE",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "国外での評判",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4143,
+    "rarity": 3,
+    "character_id": 30,
+    "type": 4,
+    "substat_type": 0,
+    "title": "想到の双鶏塔",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-08-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour"
+    },
+    "stats": {
+      "ir": {
+        "da": 19455,
+        "vo": 11446,
+        "pf": 11447
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "感受のpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "体得AUDIENCE",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "気にする一言",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "双鶏塔の衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★AUDIENCE"
   }
 ]
