@@ -188290,5 +188290,169 @@
       }
     },
     "associated_story": "VS★AUDIENCE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4144,
+    "rarity": 5,
+    "character_id": 3,
+    "type": 3,
+    "substat_type": 1,
+    "title": "体験プリンス",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 21749,
+        "vo": 47970,
+        "pf": 21746
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "真っ直ぐな輝き",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "幻夜の星光",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "馬とのふれあい",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "うさぎの森の音楽会"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブリリアンスプリンス衣装",
+          "ブリリアンスプリンス衣装 (SCR)",
+          "私服2（春〜夏）"
+        ],
+        "3d": [
+          "ブリリアンスプリンス衣装",
+          "ブリリアンスプリンス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4145,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 1,
+    "substat_type": 2,
+    "title": "道連れプリンス",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 13395,
+        "vo": 15598,
+        "pf": 28592
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "反射する輝き",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "瞬きの星光",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "興味のない話",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Psyche’s Butterfly"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブリリアンスプリンス衣装"
+        ]
+      }
+    },
+    "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4146,
+    "rarity": 3,
+    "character_id": 14,
+    "type": 4,
+    "substat_type": 0,
+    "title": "指導プリンス",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2024-08-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 19508,
+        "vo": 11371,
+        "pf": 12028
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "研ぎ澄ます輝き",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "春夜の星光",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "愛馬の交流",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "ブリリアンスプリンス"
   }
 ]
