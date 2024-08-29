@@ -19455,6 +19455,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3220,
+    "title": "Blazing Summer",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3221,
+    "title": "Blazing Memories",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3222,
+    "title": "Blazing Playtime",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3223,
+    "title": "Blazing Invitation",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
