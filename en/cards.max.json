@@ -18773,10 +18773,10 @@
         "name": "The Sky I Desired"
       },
       "live": {
-        "name": "Costume of Emotion"
+        "name": "Heartfelt Costume"
       },
       "support": {
-        "name": "Breath of Ice"
+        "name": "Ice Cream Break"
       }
     },
     "releaseDate": "2024-07-06"
@@ -18788,7 +18788,7 @@
     "name": "Nazuna Nito",
     "skills": {
       "center": {
-        "name": "The Sky I Will Discover"
+        "name": "The Sky I Discovered"
       },
       "live": {
         "name": "Pioneer's Proclamation"
@@ -19238,10 +19238,10 @@
     "name": "Tsumugi Aoba",
     "skills": {
       "center": {
-        "name": "Dreamy Island and Vacation"
+        "name": "Dreamy Island & Vacation"
       },
       "live": {
-        "name": "Summer and the Sea"
+        "name": "Summer & the Sea"
       },
       "support": {
         "name": "Plan to Unwind"
@@ -19277,7 +19277,7 @@
         "name": "Director's Insistence"
       },
       "live": {
-        "name": "Different Perspectives"
+        "name": "Different Viewpoints"
       },
       "support": {
         "name": "Inspiring Butterfly"
@@ -19379,31 +19379,86 @@
     "compliant": "TRUE",
     "id": 3199,
     "title": "Sunshine on a Faraway Isle",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Relaxing Vacation"
+      },
+      "live": {
+        "name": "Heartfelt Music"
+      },
+      "support": {
+        "name": "Island Cuisine"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3200,
     "title": "Sunshine of Vacation",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Land of New Experiences"
+      },
+      "live": {
+        "name": "Beyond Words"
+      },
+      "support": {
+        "name": "Island Music"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3201,
     "title": "Sunshine of Competition",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Hold Fast, Stay Strong"
+      },
+      "live": {
+        "name": "Stepping Stone Stage"
+      },
+      "support": {
+        "name": "Island Popularity"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3202,
     "title": "Resisting Sunshine",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Dealing with the Sun"
+      },
+      "live": {
+        "name": "Friendly Sea Breeze"
+      },
+      "support": {
+        "name": "Island Atmosphere"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3203,
     "title": "Challenging Sunshine",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Attention and Motivation"
+      },
+      "live": {
+        "name": "Grateful Opportunity"
+      },
+      "support": {
+        "name": "Island Winning Outfit"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19452,6 +19507,54 @@
     "id": 3211,
     "title": "Other Activities",
     "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3212,
+    "title": "Confusing Sports Fes",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3213,
+    "title": "Cheerful Sports Fes",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3214,
+    "title": "Planned Sports Fes",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3215,
+    "title": "Showtime in Sports Fes",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3216,
+    "title": "Exciting Sports Fes",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3217,
+    "title": "My First Sports Fes",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3218,
+    "title": "Crowded Sports Fes",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3219,
+    "title": "Beneficial Sports Fes",
+    "name": "Yuta Aoi"
   },
   {
     "compliant": "TRUE",
