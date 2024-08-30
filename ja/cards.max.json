@@ -188328,20 +188328,10 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 6540,
-        "vo": 11420,
-        "pf": 5790
-      },
       "ir": {
         "da": 21749,
         "vo": 47970,
         "pf": 21746
-      },
-      "ir4": {
-        "da": 24802,
-        "vo": 67974,
-        "pf": 26998
       }
     },
     "skills": {
@@ -188400,11 +188390,6 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 3370,
-        "vo": 3350,
-        "pf": 4160
-      },
       "ir": {
         "da": 13395,
         "vo": 15598,
@@ -188461,11 +188446,6 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 2920,
-        "vo": 1600,
-        "pf": 1990
-      },
       "ir": {
         "da": 19508,
         "vo": 11371,
@@ -188491,6 +188471,172 @@
         "name": "愛馬の交流",
         "type_id": 4,
         "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4147,
+    "rarity": 5,
+    "character_id": 12,
+    "type": 4,
+    "substat_type": 2,
+    "title": "発見プリンス",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-08-30"
+    },
+    "obtain": {
+      "type": "event/gacha/initial/campaign/special",
+      "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 22695,
+        "vo": 24905,
+        "pf": 46414
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "華やかな輝き",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 120％up"
+      },
+      "live": {
+        "name": "優美な日光",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "素の笑顔",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "ムーンライトディスコ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブリリアンスプリンス衣装",
+          "ブリリアンスプリンス衣装 (SCR)"
+        ],
+        "3d": [
+          "ブリリアンスプリンス衣装",
+          "ブリリアンスプリンス衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4148,
+    "rarity": 4,
+    "character_id": 10,
+    "type": 3,
+    "substat_type": 0,
+    "title": "同行プリンス",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-08-30"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event"
+    },
+    "stats": {
+      "ir": {
+        "da": 29053,
+        "vo": 13049,
+        "pf": 15252
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "シャープな輝き",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "純粋な日光",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "完璧な予定",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Or the Beautiful Golden Drop"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブリリアンスプリンス衣装"
+        ]
+      },
+      "backgrounds": [
+        "乗馬クラブ"
+      ]
+    },
+    "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4149,
+    "rarity": 3,
+    "character_id": 34,
+    "type": 1,
+    "substat_type": 2,
+    "title": "偶然プリンス",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2024-08-30"
+    },
+    "obtain": {
+      "type": "event/gacha/initial/campaign/special",
+      "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 9944,
+        "vo": 21584,
+        "pf": 10052
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "柔らかい輝き",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "差し込む日光",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "王子の見本",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
       }
     },
     "associated_story": "ブリリアンスプリンス"
