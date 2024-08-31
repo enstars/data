@@ -188508,8 +188508,8 @@
       "jp": "2024-08-30"
     },
     "obtain": {
-      "type": "event/gacha/initial/campaign/special",
-      "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "min": {
@@ -188578,20 +188578,10 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 5570,
-        "vo": 2780,
-        "pf": 2600
-      },
       "ir": {
         "da": 29053,
         "vo": 13049,
         "pf": 15252
-      },
-      "ir4": {
-        "da": 41659,
-        "vo": 17851,
-        "pf": 20046
       }
     },
     "skills": {
@@ -188643,8 +188633,8 @@
       "jp": "2024-08-30"
     },
     "obtain": {
-      "type": "event/gacha/initial/campaign/special",
-      "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
+      "type": "gacha",
+      "subType": "event"
     },
     "stats": {
       "min": {
@@ -188680,5 +188670,238 @@
       }
     },
     "associated_story": "ブリリアンスプリンス"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4150,
+    "rarity": 5,
+    "character_id": 72,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ウタカタの眩惑",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2024-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 48081,
+        "vo": 23249,
+        "pf": 21047
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自分らしい一瞬",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "語らう真実",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "聞けない答え",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "UTAKATA DANCE FLOOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬祭礼衣装",
+          "瞬祭礼衣装 (SCR)"
+        ],
+        "3d": [
+          "瞬祭礼衣装",
+          "瞬祭礼衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "瞬祭礼"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4151,
+    "rarity": 4,
+    "character_id": 73,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ウタカタな関係",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "jp": "2024-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 15895,
+        "vo": 16560,
+        "pf": 27391
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "発散する一瞬",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "語らう本音",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "困惑同居生活",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "UTAKATA DANCE FLOOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬祭礼衣装"
+        ],
+        "3d": [
+          "瞬祭礼衣装"
+        ]
+      }
+    },
+    "associated_story": "瞬祭礼"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4152,
+    "rarity": 3,
+    "character_id": 71,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ウタカタの騒ぎ",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2024-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 10545,
+        "vo": 19248,
+        "pf": 12745
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "驚かせる一瞬",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "語らう相手",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "予定外ハプニング",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬祭礼衣装",
+          "Crazy:B練習着2"
+        ],
+        "3d": [
+          "瞬祭礼衣装"
+        ]
+      }
+    },
+    "associated_story": "瞬祭礼"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4153,
+    "rarity": 3,
+    "character_id": 74,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ウタカタな祭り",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "jp": "2024-08-31"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit"
+    },
+    "stats": {
+      "ir": {
+        "da": 10247,
+        "vo": 8054,
+        "pf": 21541
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "調和する一瞬",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "語らう距離",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "おこぼれ弁当",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "瞬祭礼衣装"
+        ],
+        "3d": [
+          "瞬祭礼衣装"
+        ]
+      }
+    },
+    "associated_story": "瞬祭礼"
   }
 ]
