@@ -18842,7 +18842,7 @@
     "name": "Tatsumi Kazehaya",
     "skills": {
       "center": {
-        "name": "Considered Masculinity"
+        "name": "Thoughtful Manliness"
       },
       "live": {
         "name": "Sold Fight"
@@ -18881,7 +18881,7 @@
         "name": "Ideas of My Own"
       },
       "live": {
-        "name": "Ocean by my Side"
+        "name": "Ocean by My Side"
       },
       "support": {
         "name": "Thinking Drink"
@@ -19076,7 +19076,7 @@
     "name": "Hiiro Amagi",
     "skills": {
       "center": {
-        "name": "Straight Student"
+        "name": "Candid Student"
       },
       "live": {
         "name": "Concentration in the Dark"
@@ -19148,7 +19148,7 @@
     "name": "Keito Hasumi",
     "skills": {
       "center": {
-        "name": "Knowledgable Teacher"
+        "name": "Knowledgable Lecturer"
       },
       "live": {
         "name": "Outdoor Study Meet"
@@ -19184,7 +19184,7 @@
     "name": "Tomoya Mashiro",
     "skills": {
       "center": {
-        "name": "Rely and Be Relied on"
+        "name": "Give and Take"
       },
       "live": {
         "name": "Hectic Daily Life"
@@ -19202,13 +19202,13 @@
     "name": "Eichi Tenshouin",
     "skills": {
       "center": {
-        "name": "What I Can Experience Here"
+        "name": "What I Can Try Here"
       },
       "live": {
-        "name": "Brand-New Challenge"
+        "name": "Brand-New Challenges"
       },
       "support": {
-        "name": "Try New Things"
+        "name": "Trying New Things"
       }
     },
     "releaseDate": "2024-07-29"
@@ -19292,13 +19292,13 @@
     "name": "Tetora Nagumo",
     "skills": {
       "center": {
-        "name": "Summer Sky Overhead"
+        "name": "Watching Summer Skies"
       },
       "live": {
-        "name": "Spots and Spin and Sky"
+        "name": "Spots, Spin, Sky"
       },
       "support": {
-        "name": "Show the Way"
+        "name": "Event Usher"
       }
     },
     "releaseDate": "2024-08-02"
@@ -19310,13 +19310,13 @@
     "name": "Hinata Aoi",
     "skills": {
       "center": {
-        "name": "Fresh Breeze and Windbells"
+        "name": "Fresh Breeze & Windbells"
       },
       "live": {
         "name": "Take off the Balloon"
       },
       "support": {
-        "name": "Fun at the Stalls"
+        "name": "Fun at Stalls"
       }
     },
     "releaseDate": "2024-08-02"
@@ -19328,10 +19328,10 @@
     "name": "Hokuto Hidaka",
     "skills": {
       "center": {
-        "name": "Festival Music and Mask"
+        "name": "Festival Music & Masks"
       },
       "live": {
-        "name": "Explore the Stalls"
+        "name": "Exploring the Stalls"
       },
       "support": {
         "name": "Arrival Report"
@@ -19352,7 +19352,7 @@
         "name": "Accompany to the Stalls"
       },
       "support": {
-        "name": "Prepare for Shooting Game"
+        "name": "Shooting Game Prep"
       }
     },
     "releaseDate": "2024-08-02"
@@ -19361,7 +19361,18 @@
     "compliant": "TRUE",
     "id": 3187,
     "title": "The Quiet Solo Stage",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Shining Lights"
+      },
+      "live": {
+        "name": "Requested Battle"
+      },
+      "support": {
+        "name": "Seiza Explanation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19464,31 +19475,86 @@
     "compliant": "TRUE",
     "id": 3204,
     "title": "Vibrant ANIMALS",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Friendly Animals"
+      },
+      "live": {
+        "name": "Playtime with My Dog"
+      },
+      "support": {
+        "name": "ANIMALS Member"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3205,
     "title": "Joyful ANIMALS",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Helpful Animals"
+      },
+      "live": {
+        "name": "Feathered Conversation"
+      },
+      "support": {
+        "name": "Meeting a Penguin"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3206,
     "title": "Serious ANIMALS",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Bonded Animals"
+      },
+      "live": {
+        "name": "Downtime with My Dog"
+      },
+      "support": {
+        "name": "The Strange Truth"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3207,
     "title": "Learning ANIMALS",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Manipulative Animals"
+      },
+      "live": {
+        "name": "Penguin and Trust"
+      },
+      "support": {
+        "name": "A Gift from the Sea"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3208,
     "title": "Friendly ANIMALS",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Wonderous Animals"
+      },
+      "live": {
+        "name": "Cuddling with a Rabbit"
+      },
+      "support": {
+        "name": "Penguin Care Manual"
+      }
+    }
   },
   {
     "compliant": "TRUE",
