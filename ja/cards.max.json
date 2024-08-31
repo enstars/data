@@ -181767,6 +181767,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4014,
+    "rarity": 4,
+    "character_id": 19,
+    "type": 3,
+    "substat_type": 1,
+    "title": "静かなるTORRENT",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13913,
+        "vo": 27601,
+        "pf": 15892
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "柔軟性の挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "無欠のLIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界も涼しい顔で",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4015,
     "rarity": 4,
     "character_id": 12,
@@ -182127,6 +182182,116 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4025,
+    "rarity": 4,
+    "character_id": 68,
+    "type": 2,
+    "substat_type": 0,
+    "title": "撥ねるTORRENT",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27098,
+        "vo": 15951,
+        "pf": 14848
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "こだわりの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "足踏みLIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界も受け止める",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4026,
+    "rarity": 4,
+    "character_id": 69,
+    "type": 1,
+    "substat_type": 0,
+    "title": "潜ませたTORRENT",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27599,
+        "vo": 15233,
+        "pf": 14568
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "顔を上げた挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "卑屈さLIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を抱きしめ",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4028,
     "rarity": 4,
     "character_id": 50,
@@ -182317,6 +182482,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4033,
+    "rarity": 4,
+    "character_id": 34,
+    "type": 1,
+    "substat_type": 1,
+    "title": "不定形TORRENT",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14740,
+        "vo": 27038,
+        "pf": 16065
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "積み上げる挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "創作LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "引き出しの限界を広げ",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4034,
     "rarity": 4,
     "character_id": 4,
@@ -182360,6 +182580,61 @@
       },
       "support": {
         "name": "限界は跳び越えて",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4038,
+    "rarity": 4,
+    "character_id": 72,
+    "type": 2,
+    "substat_type": 2,
+    "title": "完璧なTORRENT",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16105,
+        "vo": 13689,
+        "pf": 27520
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "体現する挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "理想LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界は知らない顔で",
         "type_id": 14,
         "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
       }
@@ -182557,6 +182832,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4047,
+    "rarity": 4,
+    "character_id": 2,
+    "type": 4,
+    "substat_type": 1,
+    "title": "しなやかTORRENT",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14743,
+        "vo": 27010,
+        "pf": 16056
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自信高める挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "気弱さLIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界はひとつずつ",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4049,
     "rarity": 4,
     "character_id": 26,
@@ -182607,6 +182937,61 @@
         "name": "限界と睨み合い",
         "type_id": 6,
         "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4050,
+    "rarity": 4,
+    "character_id": 14,
+    "type": 1,
+    "substat_type": 1,
+    "title": "迅速なTORRENT",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13694,
+        "vo": 27580,
+        "pf": 16109
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "可能性を広げる挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "研鑽LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界と切り結ぶ",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
@@ -182687,6 +183072,116 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4053,
+    "rarity": 4,
+    "character_id": 24,
+    "type": 4,
+    "substat_type": 2,
+    "title": "止まらぬTORRENT",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16174,
+        "vo": 14629,
+        "pf": 27031
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "諦めない挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "己のLIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を常に超えて",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4054,
+    "rarity": 4,
+    "character_id": 17,
+    "type": 1,
+    "substat_type": 0,
+    "title": "囁きのTORRENT",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27587,
+        "vo": 15453,
+        "pf": 14354
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "バランスの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "時間LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界と付き合う",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "rarity": 4,
     "character_id": 38,
@@ -182747,6 +183242,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4057,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 3,
+    "substat_type": 1,
+    "title": "内なるTORRENT",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14407,
+        "vo": 27024,
+        "pf": 16389
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "折り合いの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "制限LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界の先に進む",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4060,
     "rarity": 4,
     "character_id": 81,
@@ -182792,6 +183342,116 @@
         "name": "限界に怯まない",
         "type_id": 10,
         "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4062,
+    "rarity": 4,
+    "character_id": 83,
+    "type": 2,
+    "substat_type": 2,
+    "title": "無気力TORRENT",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15886,
+        "vo": 13907,
+        "pf": 27600
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "最年少の挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "関心LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を把握",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4063,
+    "rarity": 4,
+    "character_id": 84,
+    "type": 3,
+    "substat_type": 2,
+    "title": "自己のTORRENT",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-09-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16275,
+        "vo": 14516,
+        "pf": 27052
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "愛される挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "我が侭LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界なんて知らない",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
@@ -187857,20 +188517,10 @@
       "subType": "event"
     },
     "stats": {
-      "min": {
-        "da": 1580,
-        "vo": 1750,
-        "pf": 3560
-      },
       "ir": {
         "da": 8897,
         "vo": 11100,
         "pf": 21538
-      },
-      "ir4": {
-        "da": 14299,
-        "vo": 12101,
-        "pf": 35040
       }
     },
     "skills": {
@@ -188854,7 +189504,7 @@
     "rarity": 3,
     "character_id": 74,
     "type": 3,
-    "substat_type": 1,
+    "substat_type": 2,
     "title": "ウタカタな祭り",
     "name": "椎名ニキ",
     "releaseDate": {
