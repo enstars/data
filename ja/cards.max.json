@@ -188328,10 +188328,20 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 6540,
+        "vo": 11420,
+        "pf": 5790
+      },
       "ir": {
         "da": 21749,
         "vo": 47970,
         "pf": 21746
+      },
+      "ir4": {
+        "da": 24802,
+        "vo": 67974,
+        "pf": 26998
       }
     },
     "skills": {
@@ -188390,6 +188400,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 3370,
+        "vo": 3350,
+        "pf": 4160
+      },
       "ir": {
         "da": 13395,
         "vo": 15598,
@@ -188446,6 +188461,11 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 2920,
+        "vo": 1600,
+        "pf": 1990
+      },
       "ir": {
         "da": 19508,
         "vo": 11371,
@@ -188492,6 +188512,11 @@
       "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
     },
     "stats": {
+      "min": {
+        "da": 6840,
+        "vo": 6450,
+        "pf": 10920
+      },
       "ir": {
         "da": 22695,
         "vo": 24905,
@@ -188553,10 +188578,20 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 5570,
+        "vo": 2780,
+        "pf": 2600
+      },
       "ir": {
         "da": 29053,
         "vo": 13049,
         "pf": 15252
+      },
+      "ir4": {
+        "da": 41659,
+        "vo": 17851,
+        "pf": 20046
       }
     },
     "skills": {
@@ -188612,6 +188647,11 @@
       "subType": "event: shuffle/tour/unit, gacha: anniv/event/feature/initial, campaign: anniv"
     },
     "stats": {
+      "min": {
+        "da": 1500,
+        "vo": 3450,
+        "pf": 1640
+      },
       "ir": {
         "da": 9944,
         "vo": 21584,
