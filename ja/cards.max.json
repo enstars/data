@@ -181781,13 +181781,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 13913,
-        "vo": 27601,
-        "pf": 15892
-      }
-    },
     "skills": {
       "center": {
         "name": "柔軟性の挑戦",
@@ -182196,13 +182189,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 27098,
-        "vo": 15951,
-        "pf": 14848
-      }
-    },
     "skills": {
       "center": {
         "name": "こだわりの挑戦",
@@ -182250,13 +182236,6 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
-    },
-    "stats": {
-      "ir": {
-        "da": 27599,
-        "vo": 15233,
-        "pf": 14568
-      }
     },
     "skills": {
       "center": {
@@ -182496,13 +182475,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 14740,
-        "vo": 27038,
-        "pf": 16065
-      }
-    },
     "skills": {
       "center": {
         "name": "積み上げる挑戦",
@@ -182610,13 +182582,6 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
-    },
-    "stats": {
-      "ir": {
-        "da": 16105,
-        "vo": 13689,
-        "pf": 27520
-      }
     },
     "skills": {
       "center": {
@@ -182846,13 +182811,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 14743,
-        "vo": 27010,
-        "pf": 16056
-      }
-    },
     "skills": {
       "center": {
         "name": "自信高める挑戦",
@@ -182965,13 +182923,6 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
-    },
-    "stats": {
-      "ir": {
-        "da": 13694,
-        "vo": 27580,
-        "pf": 16109
-      }
     },
     "skills": {
       "center": {
@@ -183086,13 +183037,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 16174,
-        "vo": 14629,
-        "pf": 27031
-      }
-    },
     "skills": {
       "center": {
         "name": "諦めない挑戦",
@@ -183140,13 +183084,6 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
-    },
-    "stats": {
-      "ir": {
-        "da": 27587,
-        "vo": 15453,
-        "pf": 14354
-      }
     },
     "skills": {
       "center": {
@@ -183256,13 +183193,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 14407,
-        "vo": 27024,
-        "pf": 16389
-      }
-    },
     "skills": {
       "center": {
         "name": "折り合いの挑戦",
@@ -183371,13 +183301,6 @@
       "type": "gacha",
       "subType": "anniv"
     },
-    "stats": {
-      "ir": {
-        "da": 15886,
-        "vo": 13907,
-        "pf": 27600
-      }
-    },
     "skills": {
       "center": {
         "name": "最年少の挑戦",
@@ -183425,13 +183348,6 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
-    },
-    "stats": {
-      "ir": {
-        "da": 16275,
-        "vo": 14516,
-        "pf": 27052
-      }
     },
     "skills": {
       "center": {
@@ -188517,10 +188433,20 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 1580,
+        "vo": 1750,
+        "pf": 3560
+      },
       "ir": {
         "da": 8897,
         "vo": 11100,
         "pf": 21538
+      },
+      "ir4": {
+        "da": 14299,
+        "vo": 12101,
+        "pf": 35040
       }
     },
     "skills": {
@@ -189171,6 +189097,11 @@
         "da": 22695,
         "vo": 24905,
         "pf": 46414
+      },
+      "ir4": {
+        "da": 27902,
+        "vo": 30103,
+        "pf": 65408
       }
     },
     "skills": {
@@ -189228,10 +189159,20 @@
       "subType": "event"
     },
     "stats": {
+      "min": {
+        "da": 5570,
+        "vo": 2780,
+        "pf": 2600
+      },
       "ir": {
         "da": 29053,
         "vo": 13049,
         "pf": 15252
+      },
+      "ir4": {
+        "da": 41659,
+        "vo": 17851,
+        "pf": 20046
       }
     },
     "skills": {
@@ -189338,6 +189279,11 @@
       "subType": "unit"
     },
     "stats": {
+      "min": {
+        "da": 11430,
+        "vo": 6140,
+        "pf": 5440
+      },
       "ir": {
         "da": 48081,
         "vo": 23249,
@@ -189399,6 +189345,11 @@
       "subType": "unit"
     },
     "stats": {
+      "min": {
+        "da": 2870,
+        "vo": 2580,
+        "pf": 4880
+      },
       "ir": {
         "da": 15895,
         "vo": 16560,
@@ -189458,6 +189409,11 @@
       "subType": "unit"
     },
     "stats": {
+      "min": {
+        "da": 1700,
+        "vo": 2770,
+        "pf": 1750
+      },
       "ir": {
         "da": 10545,
         "vo": 19248,
@@ -189515,6 +189471,11 @@
       "subType": "unit"
     },
     "stats": {
+      "min": {
+        "da": 1380,
+        "vo": 1640,
+        "pf": 3450
+      },
       "ir": {
         "da": 10247,
         "vo": 8054,
