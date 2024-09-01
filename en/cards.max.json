@@ -19378,13 +19378,35 @@
     "compliant": "TRUE",
     "id": 3188,
     "title": "Luck and Gods",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Auspicious Environment"
+      },
+      "live": {
+        "name": "Pump Up the Audience"
+      },
+      "support": {
+        "name": "Sighing at the Counter"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3189,
     "title": "Exploring Cryptids",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Toward the Mystery"
+      },
+      "live": {
+        "name": "Cucumber of Thanks"
+      },
+      "support": {
+        "name": "Beach Cleanup"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19560,19 +19582,52 @@
     "compliant": "TRUE",
     "id": 3209,
     "title": "A Tempting Gambit",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Behind the Glasses"
+      },
+      "live": {
+        "name": "Diverse Charms"
+      },
+      "support": {
+        "name": "Approach Advice"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3210,
     "title": "One After Another",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Ripple Effect"
+      },
+      "live": {
+        "name": "Buoyant Day"
+      },
+      "support": {
+        "name": "Set in Stone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3211,
     "title": "Other Activities",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Our Own Sparkle"
+      },
+      "live": {
+        "name": "Things that Sparkle"
+      },
+      "support": {
+        "name": "Tearoom Guest"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19626,25 +19681,69 @@
     "compliant": "TRUE",
     "id": 3220,
     "title": "Blazing Summer",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "A Dip to Cool Off"
+      },
+      "live": {
+        "name": "Powerful Slide"
+      },
+      "support": {
+        "name": "Eager Assistant"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3221,
     "title": "Blazing Memories",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Escape the Heat"
+      },
+      "live": {
+        "name": "Pool Treasure"
+      },
+      "support": {
+        "name": "Hospital Memories"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3222,
     "title": "Blazing Playtime",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Midsummer Flower"
+      },
+      "live": {
+        "name": "Area Info"
+      },
+      "support": {
+        "name": "Suspicious Invitation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3223,
     "title": "Blazing Invitation",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Refreshing Swim"
+      },
+      "live": {
+        "name": "Chlorine Attack"
+      },
+      "support": {
+        "name": "The Wrong Swimsuit"
+      }
+    }
   },
   {
     "compliant": "TRUE",
