@@ -181781,6 +181781,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 3000,
+        "vo": 5280,
+        "pf": 2570
+      },
+      "ir": {
+        "da": 13913,
+        "vo": 27601,
+        "pf": 15892
+      }
+    },
     "skills": {
       "center": {
         "name": "柔軟性の挑戦",
@@ -182189,6 +182201,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 4380,
+        "vo": 3630,
+        "pf": 3080
+      },
+      "ir": {
+        "da": 27098,
+        "vo": 15951,
+        "pf": 14848
+      }
+    },
     "skills": {
       "center": {
         "name": "こだわりの挑戦",
@@ -182236,6 +182260,18 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 5320,
+        "vo": 2850,
+        "pf": 2410
+      },
+      "ir": {
+        "da": 27599,
+        "vo": 15233,
+        "pf": 14568
+      }
     },
     "skills": {
       "center": {
@@ -182475,6 +182511,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 3180,
+        "vo": 4660,
+        "pf": 2710
+      },
+      "ir": {
+        "da": 14740,
+        "vo": 27038,
+        "pf": 16065
+      }
+    },
     "skills": {
       "center": {
         "name": "積み上げる挑戦",
@@ -182582,6 +182630,18 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 2750,
+        "vo": 2570,
+        "pf": 5110
+      },
+      "ir": {
+        "da": 16105,
+        "vo": 13689,
+        "pf": 27520
+      }
     },
     "skills": {
       "center": {
@@ -182811,6 +182871,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 3160,
+        "vo": 4940,
+        "pf": 3400
+      },
+      "ir": {
+        "da": 14743,
+        "vo": 27010,
+        "pf": 16056
+      }
+    },
     "skills": {
       "center": {
         "name": "自信高める挑戦",
@@ -182923,6 +182995,18 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 2680,
+        "vo": 5200,
+        "pf": 2840
+      },
+      "ir": {
+        "da": 13694,
+        "vo": 27580,
+        "pf": 16109
+      }
     },
     "skills": {
       "center": {
@@ -183037,6 +183121,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 2980,
+        "vo": 2930,
+        "pf": 5110
+      },
+      "ir": {
+        "da": 16174,
+        "vo": 14629,
+        "pf": 27031
+      }
+    },
     "skills": {
       "center": {
         "name": "諦めない挑戦",
@@ -183084,6 +183180,18 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 5530,
+        "vo": 2890,
+        "pf": 2830
+      },
+      "ir": {
+        "da": 27587,
+        "vo": 15453,
+        "pf": 14354
+      }
     },
     "skills": {
       "center": {
@@ -183193,6 +183301,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 3140,
+        "vo": 4260,
+        "pf": 3560
+      },
+      "ir": {
+        "da": 14407,
+        "vo": 27024,
+        "pf": 16389
+      }
+    },
     "skills": {
       "center": {
         "name": "折り合いの挑戦",
@@ -183301,6 +183421,18 @@
       "type": "gacha",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 2620,
+        "vo": 3050,
+        "pf": 5280
+      },
+      "ir": {
+        "da": 15886,
+        "vo": 13907,
+        "pf": 27600
+      }
+    },
     "skills": {
       "center": {
         "name": "最年少の挑戦",
@@ -183348,6 +183480,23 @@
     "obtain": {
       "type": "gacha",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 3540,
+        "vo": 3100,
+        "pf": 3970
+      },
+      "ir": {
+        "da": 16275,
+        "vo": 14516,
+        "pf": 27052
+      },
+      "ir1": {
+        "da": 16920,
+        "vo": 16347,
+        "pf": 30248
+      }
     },
     "skills": {
       "center": {
