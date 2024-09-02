@@ -19657,13 +19657,35 @@
     "compliant": "TRUE",
     "id": 3216,
     "title": "Exciting Sports Fes",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Desire to Participate"
+      },
+      "live": {
+        "name": "At His Own Pace"
+      },
+      "support": {
+        "name": "Energetic Cheers"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3217,
     "title": "My First Sports Fes",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Supreme Sportiness"
+      },
+      "live": {
+        "name": "Proactive Cheers"
+      },
+      "support": {
+        "name": "Salty Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
