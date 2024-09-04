@@ -3399,7 +3399,7 @@
     "name": "Origin★星空を歌うAltered",
     "event_gacha": "スカウト！風変わりな終止たち",
     "gacha_id": 452,
-    "song_name": "Twiilight Pentagram, Dawning Angels",
+    "song_name": "Twilight Pentagram, Dawning Angels",
     "story_name": "オルタード",
     "story_author": "日日日",
     "story_season": "過去／冬、冬、過去／春、過去／秋",
@@ -4120,6 +4120,7 @@
     "song_name": "Luminous Crown",
     "story_name": "ギャンビット",
     "story_author": "日日日",
+    "story_season": "冬",
     "banner_id": 3766,
     "unit_id": [
       4
@@ -4130,6 +4131,362 @@
       3768,
       3769,
       3770
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 297,
+    "start_date": "2026-02-28T17:00:00Z",
+    "end_date": "2026-03-09T03:00:00Z",
+    "start": {
+      "en": "2026-02-28T17:00:00Z",
+      "jp": "2023-03-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-03-09T03:00:00Z",
+      "jp": "2024-04-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "双頭×流儀／ドラゴンズヘッド",
+    "event_gacha": "フィーチャースカウト 斑編2",
+    "gacha_id": 498,
+    "story_name": "ドラゴンズヘッド",
+    "story_author": "-",
+    "story_season": "冬",
+    "banner_id": 3778,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      3778,
+      3779,
+      3780,
+      3781,
+      3782,
+      3783,
+      3784
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 298,
+    "start_date": "2026-03-14T17:00:00Z",
+    "end_date": "2026-03-23T03:00:00Z",
+    "start": {
+      "en": "2026-03-14T17:00:00Z",
+      "jp": "2024-04-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-03-23T03:00:00Z",
+      "jp": "2024-04-23T13:00:00Z"
+    },
+    "type": "special",
+    "name": "Answer★星と惹かれ合うマトリックス",
+    "event_gacha": "スカウト！蜂と飛び回るスート",
+    "gacha_id": 500,
+    "song_name": "SAKE OF LOVE",
+    "story_name": "マトリックス",
+    "story_author": "日日日",
+    "story_season": "冬",
+    "banner_id": 3792,
+    "unit_id": [
+      15,
+      16
+    ],
+    "cards": [
+      3792,
+      3793,
+      3794,
+      3795
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 299,
+    "start_date": "2026-03-28T17:00:00Z",
+    "end_date": "2026-04-06T03:00:00Z",
+    "start": {
+      "en": "2026-03-28T17:00:00Z",
+      "jp": "2024-04-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-04-06T03:00:00Z",
+      "jp": "2024-05-08T13:00:00Z"
+    },
+    "type": "shuffle",
+    "name": "SHUFFLE×囁くイービルTELEPHONE",
+    "event_gacha": "スカウト！EVIL NUM+",
+    "gacha_id": 502,
+    "song_name": "Ringing evil phone",
+    "story_name": "イービルTELEPHONE",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4065,
+    "unit_id": [
+      100
+    ],
+    "cards": [
+      4065,
+      4066,
+      4067
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 300,
+    "start_date": "2026-04-11T17:00:00Z",
+    "end_date": "2026-04-20T03:00:00Z",
+    "start": {
+      "en": "2026-04-11T17:00:00Z",
+      "jp": "2024-05-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-04-20T03:00:00Z",
+      "jp": "2024-05-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "オーディション VS PRINCESS -First piece-",
+    "event_gacha": "クロススカウト・インテリジェンス／Reasoning",
+    "gacha_id": 503,
+    "story_name": "VS★PRINCESS",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4076,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      4076,
+      4077,
+      4078,
+      4079,
+      4080,
+      4081
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 301,
+    "start_date": "2026-04-25T17:00:00Z",
+    "end_date": "2026-05-04T03:00:00Z",
+    "start": {
+      "en": "2026-04-25T17:00:00Z",
+      "jp": "2024-05-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-04T03:00:00Z",
+      "jp": "2024-06-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ロマンス★歌に乗せるSWING NIGHT",
+    "event_gacha": "クロススカウト・華一滴／凛然",
+    "gacha_id": 505,
+    "song_name": "SWINGIN' PARONIRIA",
+    "story_name": "SWING NIGHT",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4088,
+    "unit_id": [
+      3
+    ],
+    "cards": [
+      4088,
+      4089,
+      4090,
+      4091
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 302,
+    "start_date": "2026-05-09T17:00:00Z",
+    "end_date": "2026-05-18T03:00:00Z",
+    "start": {
+      "en": "2026-05-09T17:00:00Z",
+      "jp": "2024-06-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-18T03:00:00Z",
+      "jp": "2024-06-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "ココロネ＊ふたりを繋ぐ天音色",
+    "event_gacha": "クロススカウト・プロメッサ／Regola",
+    "gacha_id": 507,
+    "song_name": "Twin Wedding Vows",
+    "story_name": "天音色",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4098,
+    "unit_id": [
+      7
+    ],
+    "cards": [
+      4098,
+      4099,
+      4100,
+      4101
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 303,
+    "start_date": "2026-05-23T17:00:00Z",
+    "end_date": "2026-06-01T03:00:00Z",
+    "start": {
+      "en": "2026-05-23T17:00:00Z",
+      "jp": "2024-06-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-01T03:00:00Z",
+      "jp": "2024-07-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "オーディション VS GOURMET -Second piece-",
+    "event_gacha": "クロススカウト・ハッピーチャーム／Sunny Side",
+    "gacha_id": 509,
+    "story_name": "VS★GOURMET",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4108,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      4108,
+      4109,
+      4110,
+      4111,
+      4112,
+      4113
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 304,
+    "start_date": "2026-06-06T17:00:00Z",
+    "end_date": "2026-06-15T03:00:00Z",
+    "start": {
+      "en": "2026-06-06T17:00:00Z",
+      "jp": "2024-07-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-15T03:00:00Z",
+      "jp": "2024-07-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "夏香る！黄色いサマースパークル",
+    "event_gacha": "クロススカウト・パープレックス／惑溺",
+    "gacha_id": 511,
+    "song_name": "SunnyTrip Summer",
+    "story_name": "スパークル",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4120,
+    "unit_id": [
+      15
+    ],
+    "cards": [
+      4120,
+      4121,
+      4122,
+      4123
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 305,
+    "start_date": "2026-06-20T17:00:00Z",
+    "end_date": "2026-06-29T03:00:00Z",
+    "start": {
+      "en": "2026-06-20T17:00:00Z",
+      "jp": "2024-07-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-29T03:00:00Z",
+      "jp": "2024-08-08T13:00:00Z"
+    },
+    "type": "shuffle",
+    "name": "SHUFFLE×永久の迷い子バラッド",
+    "event_gacha": "スカウト！M∀N∀",
+    "gacha_id": 514,
+    "song_name": "喪失寓意 -LOST BALLADE-",
+    "story_name": "迷い子バラッド",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4127,
+    "unit_id": [
+      100
+    ],
+    "cards": [
+      4127,
+      4128,
+      4129
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 306,
+    "start_date": "2026-07-04T17:00:00Z",
+    "end_date": "2026-07-13T03:00:00Z",
+    "start": {
+      "en": "2026-07-04T17:00:00Z",
+      "jp": "2024-08-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-13T03:00:00Z",
+      "jp": "2024-08-23T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "オーディション VS AUDIENCE -Third piece-",
+    "event_gacha": "クロススカウト・ドミナント／Chaotic",
+    "gacha_id": 515,
+    "story_name": "VS★AUDIENCE",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4138,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      4138,
+      4139,
+      4140,
+      4141,
+      4142,
+      4143
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 307,
+    "start_date": "2026-07-18T17:00:00Z",
+    "end_date": "2026-07-27T03:00:00Z",
+    "start": {
+      "en": "2026-07-18T17:00:00Z",
+      "jp": "2024-08-31T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-27T03:00:00Z",
+      "jp": "2024-09-08T13:00:00Z"
+    },
+    "type": "song",
+    "name": "夜遊び★ウタカタらう瞬祭礼",
+    "event_gacha": "クロススカウト・ブリリアンスプリンス／starlight",
+    "gacha_id": 517,
+    "song_name": "UTAKATA DANCE FLOOR",
+    "story_name": "瞬祭礼",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4150,
+    "unit_id": [
+      16
+    ],
+    "cards": [
+      4150,
+      4151,
+      4152,
+      4153
     ]
   }
 ]

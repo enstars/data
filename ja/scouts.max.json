@@ -5907,5 +5907,445 @@
       3801,
       3802
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 502,
+    "name": "スカウト！EVIL NUM+",
+    "start_date": "2026-03-28T17:00:00Z",
+    "end_date": "2026-04-11T17:00:00Z",
+    "start": {
+      "en": "2026-03-28T17:00:00Z",
+      "jp": "2024-04-29T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-04-11T17:00:00Z",
+      "jp": "2024-05-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "イービルTELEPHONE",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 299,
+    "banner_id": 4068,
+    "cards": [
+      4068,
+      4069
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 503,
+    "name": "クロススカウト・インテリジェンス／Reasoning",
+    "start_date": "2026-04-07T17:00:00Z",
+    "end_date": "2026-04-21T17:00:00Z",
+    "start": {
+      "en": "2026-04-07T17:00:00Z",
+      "jp": "2024-05-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-04-21T17:00:00Z",
+      "jp": "2024-05-25T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "インテリジェンス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 300,
+    "banner_id": 4070,
+    "cards": [
+      4070,
+      4071,
+      4072
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 504,
+    "name": "クロススカウト・インテリジェンス／Solving",
+    "start_date": "2026-04-11T17:00:00Z",
+    "end_date": "2026-04-25T17:00:00Z",
+    "start": {
+      "en": "2026-04-11T17:00:00Z",
+      "jp": "2024-05-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-04-25T17:00:00Z",
+      "jp": "2024-05-30T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "インテリジェンス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 300,
+    "banner_id": 4073,
+    "cards": [
+      4073,
+      4074,
+      4075
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 505,
+    "name": "クロススカウト・華一滴／凛然",
+    "start_date": "2026-04-21T17:00:00Z",
+    "end_date": "2026-05-05T17:00:00Z",
+    "start": {
+      "en": "2026-04-21T17:00:00Z",
+      "jp": "2024-05-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-05T17:00:00Z",
+      "jp": "2024-06-10T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "華一滴",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 301,
+    "banner_id": 4082,
+    "cards": [
+      4082,
+      4083,
+      4084
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 506,
+    "name": "クロススカウト・華一滴／冷麗",
+    "start_date": "2026-04-25T17:00:00Z",
+    "end_date": "2026-05-09T17:00:00Z",
+    "start": {
+      "en": "2026-04-25T17:00:00Z",
+      "jp": "2024-05-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-09T17:00:00Z",
+      "jp": "2024-06-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "華一滴",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 301,
+    "banner_id": 4085,
+    "cards": [
+      4085,
+      4086,
+      4087
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 507,
+    "name": "クロススカウト・プロメッサ／Regola",
+    "start_date": "2026-05-05T17:00:00Z",
+    "end_date": "2026-05-19T17:00:00Z",
+    "start": {
+      "en": "2026-05-05T17:00:00Z",
+      "jp": "2024-06-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-19T17:00:00Z",
+      "jp": "2024-06-25T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "プロメッサ",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 302,
+    "banner_id": 4092,
+    "cards": [
+      4092,
+      4093,
+      4094
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 508,
+    "name": "クロススカウト・プロメッサ／Ordine",
+    "start_date": "2026-05-09T17:00:00Z",
+    "end_date": "2026-05-23T17:00:00Z",
+    "start": {
+      "en": "2026-05-09T17:00:00Z",
+      "jp": "2024-06-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-05-23T17:00:00Z",
+      "jp": "2024-06-29T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "プロメッサ",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 302,
+    "banner_id": 4095,
+    "cards": [
+      4095,
+      4096,
+      4097
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 509,
+    "name": "クロススカウト・ハッピーチャーム／Sunny Side",
+    "start_date": "2026-05-19T17:00:00Z",
+    "end_date": "2026-06-02T17:00:00Z",
+    "start": {
+      "en": "2026-05-19T17:00:00Z",
+      "jp": "2024-06-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-02T17:00:00Z",
+      "jp": "2024-07-10T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ハッピーチャーム",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 303,
+    "banner_id": 4102,
+    "cards": [
+      4102,
+      4103,
+      4104
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 510,
+    "name": "クロススカウト・ハッピーチャーム／Candied",
+    "start_date": "2026-05-23T17:00:00Z",
+    "end_date": "2026-06-06T17:00:00Z",
+    "start": {
+      "en": "2026-05-23T17:00:00Z",
+      "jp": "2024-06-29T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-06T17:00:00Z",
+      "jp": "2024-07-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ハッピーチャーム",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 303,
+    "banner_id": 4105,
+    "cards": [
+      4105,
+      4106,
+      4107
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 511,
+    "name": "クロススカウト・パープレックス／惑溺",
+    "start_date": "2026-06-02T17:00:00Z",
+    "end_date": "2026-06-16T17:00:00Z",
+    "start": {
+      "en": "2026-06-02T17:00:00Z",
+      "jp": "2024-07-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-16T17:00:00Z",
+      "jp": "2024-07-25T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "パープレックス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 304,
+    "banner_id": 4114,
+    "cards": [
+      4114,
+      4115,
+      4116
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 512,
+    "name": "クロススカウト・パープレックス／迷霧",
+    "start_date": "2026-06-06T17:00:00Z",
+    "end_date": "2026-06-20T17:00:00Z",
+    "start": {
+      "en": "2026-06-06T17:00:00Z",
+      "jp": "2024-07-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-20T17:00:00Z",
+      "jp": "2024-07-30T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "パープレックス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 304,
+    "banner_id": 4117,
+    "cards": [
+      4117,
+      4118,
+      4119
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 513,
+    "name": "フィーチャースカウト 笑主編",
+    "start_date": "2026-06-16T17:00:00Z",
+    "end_date": "2026-06-30T17:00:00Z",
+    "start": {
+      "en": "2026-06-16T17:00:00Z",
+      "jp": "2024-07-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-06-30T17:00:00Z",
+      "jp": "2024-08-10T6:00:00Z"
+    },
+    "type": "feature scout",
+    "story_name": "ドリーム・ア・ゴーゴー",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 305,
+    "banner_id": 4124,
+    "cards": [
+      4124,
+      4125,
+      4126
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 514,
+    "name": "スカウト！M∀N∀",
+    "start_date": "2026-06-20T17:00:00Z",
+    "end_date": "2026-07-04T17:00:00Z",
+    "start": {
+      "en": "2026-06-20T17:00:00Z",
+      "jp": "2024-07-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-04T17:00:00Z",
+      "jp": "2024-08-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "迷い子バラッド",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 305,
+    "banner_id": 4130,
+    "cards": [
+      4130,
+      4131
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 515,
+    "name": "クロススカウト・ドミナント／Chaotic",
+    "start_date": "2026-06-30T17:00:00Z",
+    "end_date": "2026-07-14T17:00:00Z",
+    "start": {
+      "en": "2026-06-30T17:00:00Z",
+      "jp": "2024-08-10T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-14T17:00:00Z",
+      "jp": "2024-08-25T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ドミナント",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 306,
+    "banner_id": 4132,
+    "cards": [
+      4132,
+      4133,
+      4134
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 516,
+    "name": "クロススカウト・ドミナント／Drastic",
+    "start_date": "2026-07-04T17:00:00Z",
+    "end_date": "2026-07-18T17:00:00Z",
+    "start": {
+      "en": "2026-07-04T17:00:00Z",
+      "jp": "2024-08-14T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-18T17:00:00Z",
+      "jp": "2024-08-30T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ドミナント",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 306,
+    "banner_id": 4135,
+    "cards": [
+      4135,
+      4136,
+      4137
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 517,
+    "name": "クロススカウト・ブリリアンスプリンス／starlight",
+    "start_date": "2026-07-14T17:00:00Z",
+    "end_date": "2026-07-28T17:00:00Z",
+    "start": {
+      "en": "2026-07-14T17:00:00Z",
+      "jp": "2024-08-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-07-28T17:00:00Z",
+      "jp": "2024-09-10T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ブリリアンスプリンス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 307,
+    "banner_id": 4144,
+    "cards": [
+      4144,
+      4145,
+      4146
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 518,
+    "name": "クロススカウト・ブリリアンスプリンス／daylight",
+    "start_date": "2026-07-18T17:00:00Z",
+    "end_date": "2026-08-01T17:00:00Z",
+    "start": {
+      "en": "2026-07-18T17:00:00Z",
+      "jp": "2024-08-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-08-01T17:00:00Z",
+      "jp": "2024-09-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ブリリアンスプリンス",
+    "story_author": "-",
+    "story_season": "春",
+    "event_id": 307,
+    "banner_id": 4147,
+    "cards": [
+      4147,
+      4148,
+      4149
+    ]
   }
 ]
