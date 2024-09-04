@@ -177123,7 +177123,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177193,7 +177194,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177263,7 +177265,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177348,7 +177351,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177423,7 +177427,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177493,7 +177498,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177558,7 +177564,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177623,7 +177630,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -177698,7 +177706,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv"
+      "subType": "anniv",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181163,7 +181172,8 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial"
+      "type": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181232,7 +181242,8 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial"
+      "type": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181301,7 +181312,8 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial"
+      "type": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181370,7 +181382,8 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial"
+      "type": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181439,7 +181452,8 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial"
+      "type": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181509,7 +181523,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial"
+      "subType": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181564,7 +181579,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial"
+      "subType": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181614,7 +181630,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial"
+      "subType": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181664,7 +181681,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial"
+      "subType": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -181714,7 +181732,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial"
+      "subType": "initial",
+      "id": "#N/A"
     },
     "stats": {
       "min": {
@@ -183925,7 +183944,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 503
     },
     "stats": {
       "min": {
@@ -184012,7 +184032,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 503
     },
     "stats": {
       "min": {
@@ -184074,7 +184095,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 503
     },
     "stats": {
       "min": {
@@ -184132,7 +184154,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 504
     },
     "stats": {
       "min": {
@@ -184214,7 +184237,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 504
     },
     "stats": {
       "min": {
@@ -184281,7 +184305,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 504
     },
     "stats": {
       "min": {
@@ -184339,7 +184364,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184423,7 +184449,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184506,7 +184533,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184579,7 +184607,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184646,7 +184675,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184706,7 +184736,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 300
     },
     "stats": {
       "min": {
@@ -184770,7 +184801,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 505
     },
     "stats": {
       "min": {
@@ -184857,7 +184889,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 505
     },
     "stats": {
       "min": {
@@ -184919,7 +184952,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 505
     },
     "stats": {
       "min": {
@@ -184977,7 +185011,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 506
     },
     "stats": {
       "min": {
@@ -185064,7 +185099,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 506
     },
     "stats": {
       "min": {
@@ -185126,7 +185162,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 506
     },
     "stats": {
       "min": {
@@ -185184,7 +185221,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 301
     },
     "stats": {
       "min": {
@@ -185272,7 +185310,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 301
     },
     "stats": {
       "min": {
@@ -185337,7 +185376,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 301
     },
     "stats": {
       "min": {
@@ -185398,7 +185438,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 301
     },
     "stats": {
       "min": {
@@ -185460,7 +185501,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 507
     },
     "stats": {
       "min": {
@@ -185547,7 +185589,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 507
     },
     "stats": {
       "min": {
@@ -185609,7 +185652,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 507
     },
     "stats": {
       "min": {
@@ -185667,7 +185711,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 508
     },
     "stats": {
       "min": {
@@ -185755,7 +185800,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 508
     },
     "stats": {
       "min": {
@@ -185818,7 +185864,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 508
     },
     "stats": {
       "min": {
@@ -185876,7 +185923,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 302
     },
     "stats": {
       "min": {
@@ -185963,7 +186011,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 302
     },
     "stats": {
       "min": {
@@ -186029,7 +186078,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 302
     },
     "stats": {
       "min": {
@@ -186080,7 +186130,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 302
     },
     "stats": {
       "min": {
@@ -186138,7 +186189,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 509
     },
     "stats": {
       "min": {
@@ -186224,7 +186276,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 509
     },
     "stats": {
       "min": {
@@ -186286,7 +186339,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 509
     },
     "stats": {
       "min": {
@@ -186337,7 +186391,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 510
     },
     "stats": {
       "min": {
@@ -186424,7 +186479,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 510
     },
     "stats": {
       "min": {
@@ -186485,7 +186541,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 510
     },
     "stats": {
       "min": {
@@ -186543,7 +186600,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186627,7 +186685,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186711,7 +186770,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186773,7 +186833,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186835,7 +186896,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186900,7 +186962,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 303
     },
     "stats": {
       "min": {
@@ -186964,7 +187027,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 511
     },
     "stats": {
       "min": {
@@ -187051,7 +187115,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 511
     },
     "stats": {
       "min": {
@@ -187112,7 +187177,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 511
     },
     "stats": {
       "min": {
@@ -187170,7 +187236,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 512
     },
     "stats": {
       "min": {
@@ -187256,7 +187323,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 512
     },
     "stats": {
       "min": {
@@ -187323,7 +187391,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 512
     },
     "stats": {
       "min": {
@@ -187381,7 +187450,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 304
     },
     "stats": {
       "min": {
@@ -187469,7 +187539,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 304
     },
     "stats": {
       "min": {
@@ -187540,7 +187611,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 304
     },
     "stats": {
       "min": {
@@ -187602,7 +187674,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 304
     },
     "stats": {
       "min": {
@@ -187664,7 +187737,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "feature"
+      "subType": "feature",
+      "id": 513
     },
     "stats": {
       "min": {
@@ -187750,7 +187824,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "feature"
+      "subType": "feature",
+      "id": 513
     },
     "stats": {
       "min": {
@@ -187816,7 +187891,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "feature"
+      "subType": "feature",
+      "id": 513
     },
     "stats": {
       "min": {
@@ -187874,7 +187950,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "shuffle"
+      "subType": "shuffle",
+      "id": 305
     },
     "stats": {
       "min": {
@@ -187960,7 +188037,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "shuffle"
+      "subType": "shuffle",
+      "id": 305
     },
     "stats": {
       "min": {
@@ -188024,7 +188102,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "shuffle"
+      "subType": "shuffle",
+      "id": 305
     },
     "stats": {
       "min": {
@@ -188094,7 +188173,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 514
     },
     "stats": {
       "min": {
@@ -188181,7 +188261,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 514
     },
     "stats": {
       "min": {
@@ -188250,7 +188331,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 515
     },
     "stats": {
       "min": {
@@ -188322,7 +188404,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 515
     },
     "stats": {
       "min": {
@@ -188390,7 +188473,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 515
     },
     "stats": {
       "min": {
@@ -188441,7 +188525,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 516
     },
     "stats": {
       "min": {
@@ -188512,7 +188597,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 516
     },
     "stats": {
       "min": {
@@ -188579,7 +188665,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 516
     },
     "stats": {
       "min": {
@@ -188635,7 +188722,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -188720,7 +188808,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -188803,7 +188892,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -188870,7 +188960,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -188932,7 +189023,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -188991,7 +189083,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "tour"
+      "subType": "tour",
+      "id": 306
     },
     "stats": {
       "min": {
@@ -189050,7 +189143,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 517
     },
     "stats": {
       "min": {
@@ -189127,7 +189221,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 517
     },
     "stats": {
       "min": {
@@ -189188,7 +189283,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 517
     },
     "stats": {
       "min": {
@@ -189239,7 +189335,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 518
     },
     "stats": {
       "min": {
@@ -189325,7 +189422,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 518
     },
     "stats": {
       "min": {
@@ -189394,7 +189492,8 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "event"
+      "subType": "event",
+      "id": 518
     },
     "stats": {
       "min": {
@@ -189445,7 +189544,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 307
     },
     "stats": {
       "min": {
@@ -189516,7 +189616,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 307
     },
     "stats": {
       "min": {
@@ -189580,7 +189681,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 307
     },
     "stats": {
       "min": {
@@ -189642,7 +189744,8 @@
     },
     "obtain": {
       "type": "event",
-      "subType": "unit"
+      "subType": "unit",
+      "id": 307
     },
     "stats": {
       "min": {
