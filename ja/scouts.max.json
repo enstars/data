@@ -54,7 +54,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 305,
-    "name": "スカウト！ニャン銃士",
+    "name": "ニャン銃士",
     "start_date": "2022-06-22T17:00:00Z",
     "end_date": "2022-07-07T16:59:59Z",
     "start": {
@@ -159,7 +159,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 307,
-    "name": "スカウト！√AtoZ",
+    "name": "√AtoZ",
     "start_date": "2022-07-07T17:00:00Z",
     "end_date": "2022-07-22T16:59:59Z",
     "start": {
@@ -252,7 +252,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 309,
-    "name": "スカウト！ハニービー",
+    "name": "ハニービー",
     "start_date": "2022-07-22T17:00:00Z",
     "end_date": "2022-08-05T16:59:59Z",
     "start": {
@@ -357,7 +357,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 311,
-    "name": "スカウト！風来坊",
+    "name": "風来坊",
     "start_date": "2022-08-05T17:00:00Z",
     "end_date": "2022-08-19T16:59:59Z",
     "start": {
@@ -462,7 +462,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 313,
-    "name": "スカウト！お菓子の家",
+    "name": "お菓子の家",
     "start_date": "2022-08-19T17:00:00Z",
     "end_date": "2022-09-02T16:59:59Z",
     "start": {
@@ -567,7 +567,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 315,
-    "name": "スカウト！盗賊王",
+    "name": "盗賊王",
     "start_date": "2022-09-02T17:00:00Z",
     "end_date": "2022-09-16T16:59:59Z",
     "start": {
@@ -672,7 +672,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 318,
-    "name": "スカウト！ケモノサバイバル",
+    "name": "ケモノサバイバル",
     "start_date": "2022-09-16T17:00:00Z",
     "end_date": "2022-09-30T16:59:59Z",
     "start": {
@@ -777,7 +777,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 320,
-    "name": "スカウト！ドールハウス",
+    "name": "ドールハウス",
     "start_date": "2022-09-30T17:00:00Z",
     "end_date": "2022-10-14T16:59:59Z",
     "start": {
@@ -882,7 +882,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 322,
-    "name": "スカウト！デッドエンドランド",
+    "name": "デッドエンドランド",
     "start_date": "2022-10-14T17:00:00Z",
     "end_date": "2022-10-28T16:59:59Z",
     "start": {
@@ -987,7 +987,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 324,
-    "name": "スカウト！サマースノー",
+    "name": "サマースノー",
     "start_date": "2022-10-28T17:00:00Z",
     "end_date": "2022-11-11T16:59:59Z",
     "start": {
@@ -1092,7 +1092,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 326,
-    "name": "スカウト！荒野の花",
+    "name": "荒野の花",
     "start_date": "2022-11-11T17:00:00Z",
     "end_date": "2022-11-25T16:59:59Z",
     "start": {
@@ -1197,7 +1197,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 328,
-    "name": "スカウト！月見語り",
+    "name": "月見語り",
     "start_date": "2022-11-25T17:00:00Z",
     "end_date": "2022-12-09T16:59:59Z",
     "start": {
@@ -1302,7 +1302,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 330,
-    "name": "スカウト！ジンロウ",
+    "name": "ジンロウ",
     "start_date": "2022-12-09T17:00:00Z",
     "end_date": "2022-12-23T16:59:59Z",
     "start": {
@@ -1407,7 +1407,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 332,
-    "name": "スカウト！スパイTHEミッション",
+    "name": "スパイTHEミッション",
     "start_date": "2022-12-23T17:00:00Z",
     "end_date": "2023-01-06T16:59:59Z",
     "start": {
@@ -1486,7 +1486,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 334,
-    "name": "スカウト！ハロウィンBOX",
+    "name": "ハロウィンBOX",
     "start_date": "2023-01-06T17:00:00Z",
     "end_date": "2023-01-20T16:59:59Z",
     "start": {
@@ -1539,7 +1539,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 336,
-    "name": "スカウト！世紀末ウォーズ",
+    "name": "世紀末ウォーズ",
     "start_date": "2023-01-20T17:00:00Z",
     "end_date": "2023-02-03T16:59:59Z",
     "start": {
@@ -1592,7 +1592,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 338,
-    "name": "スカウト！XXVeil",
+    "name": "XXVeil",
     "start_date": "2023-02-03T17:00:00Z",
     "end_date": "2023-02-17T16:59:59Z",
     "start": {
@@ -1643,7 +1643,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 340,
-    "name": "スカウト！Branco",
+    "name": "Branco",
     "start_date": "2023-02-17T17:00:00Z",
     "end_date": "2023-03-03T16:59:59Z",
     "start": {
@@ -1694,7 +1694,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 342,
-    "name": "スカウト！丑参り（前編）",
+    "name": "丑参り（前編）",
     "start_date": "2023-03-03T17:00:00Z",
     "end_date": "2023-03-17T16:59:59Z",
     "start": {
@@ -1747,7 +1747,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 344,
-    "name": "スカウト！丑参り（後編）",
+    "name": "丑参り（後編）",
     "start_date": "2023-03-17T17:00:00Z",
     "end_date": "2023-03-31T16:59:59Z",
     "start": {
@@ -1800,7 +1800,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 346,
-    "name": "スカウト！ホワイトリリー",
+    "name": "ホワイトリリー",
     "start_date": "2023-03-31T17:00:00Z",
     "end_date": "2023-04-14T16:59:59Z",
     "start": {
@@ -1853,7 +1853,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 348,
-    "name": "スカウト！スイートハント",
+    "name": "スイートハント",
     "start_date": "2023-04-14T17:00:00Z",
     "end_date": "2023-04-28T16:59:59Z",
     "start": {
@@ -1906,7 +1906,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 350,
-    "name": "スカウト！怪盗フェイク",
+    "name": "怪盗フェイク",
     "start_date": "2023-04-28T17:00:00Z",
     "end_date": "2023-05-12T16:59:59Z",
     "start": {
@@ -1959,7 +1959,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 352,
-    "name": "スカウト！スプリングベッド",
+    "name": "スプリングベッド",
     "start_date": "2023-05-12T17:00:00Z",
     "end_date": "2023-05-26T16:59:59Z",
     "start": {
@@ -2012,7 +2012,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 354,
-    "name": "スカウト！RELOADED",
+    "name": "RELOADED",
     "start_date": "2023-05-26T17:00:00Z",
     "end_date": "2023-06-09T16:59:59Z",
     "start": {
@@ -2065,7 +2065,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 356,
-    "name": "スカウト！あそび部",
+    "name": "あそび部",
     "start_date": "2023-06-09T17:00:00Z",
     "end_date": "2023-06-23T16:59:59Z",
     "start": {
@@ -2118,7 +2118,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 358,
-    "name": "スカウト！プリティ5",
+    "name": "プリティ5",
     "start_date": "2023-06-23T17:00:00Z",
     "end_date": "2023-07-07T16:59:59Z",
     "start": {
@@ -2171,7 +2171,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 360,
-    "name": "スカウト！ハルサキRide→ON！",
+    "name": "ハルサキRide→ON！",
     "start_date": "2023-07-07T17:00:00Z",
     "end_date": "2023-07-21T16:59:59Z",
     "start": {
@@ -2224,7 +2224,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 362,
-    "name": "スカウト！ツツジ燃ゆる",
+    "name": "ツツジ燃ゆる",
     "start_date": "2023-07-21T17:00:00Z",
     "end_date": "2023-08-04T16:59:59Z",
     "start": {
@@ -2279,7 +2279,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 364,
-    "name": "スカウト！Ring.A.Bell",
+    "name": "Ring.A.Bell",
     "start_date": "2023-08-04T17:00:00Z",
     "end_date": "2023-08-18T16:59:59Z",
     "start": {
@@ -2334,7 +2334,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 366,
-    "name": "スカウト！ジェムスフィア",
+    "name": "ジェムスフィア",
     "start_date": "2023-08-18T17:00:00Z",
     "end_date": "2023-09-01T16:59:59Z",
     "start": {
@@ -2391,7 +2391,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 368,
-    "name": "スカウト！プリズンブレイカーズ",
+    "name": "プリズンブレイカーズ",
     "start_date": "2023-09-01T17:00:00Z",
     "end_date": "2023-09-15T16:59:59Z",
     "start": {
@@ -2447,7 +2447,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 370,
-    "name": "スカウト！前線の番犬",
+    "name": "前線の番犬",
     "start_date": "2023-09-15T17:00:00Z",
     "end_date": "2023-09-29T16:59:59Z",
     "start": {
@@ -2503,7 +2503,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 372,
-    "name": "スカウト！潮騒マリーナ",
+    "name": "潮騒マリーナ",
     "start_date": "2023-09-29T17:00:00Z",
     "end_date": "2023-10-13T16:59:59Z",
     "start": {
@@ -2559,7 +2559,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 374,
-    "name": "スカウト！月都スペクタクル",
+    "name": "月都スペクタクル",
     "start_date": "2023-10-13T17:00:00Z",
     "end_date": "2023-10-27T16:59:59Z",
     "start": {
@@ -2613,7 +2613,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 376,
-    "name": "スカウト！一騎当千",
+    "name": "一騎当千",
     "start_date": "2023-10-27T17:00:00Z",
     "end_date": "2023-11-10T16:59:59Z",
     "start": {
@@ -2669,7 +2669,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 378,
-    "name": "スカウト！実りのOCTOBER",
+    "name": "実りのOCTOBER",
     "start_date": "2023-11-10T17:00:00Z",
     "end_date": "2023-11-24T16:59:59Z",
     "start": {
@@ -2725,7 +2725,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 380,
-    "name": "スカウト！ドラマティカ",
+    "name": "ドラマティカ",
     "start_date": "2023-11-24T17:00:00Z",
     "end_date": "2023-12-08T16:59:59Z",
     "start": {
@@ -2754,7 +2754,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 382,
-    "name": "スカウト！ソレイユ",
+    "name": "ソレイユ",
     "start_date": "2023-12-08T17:00:00Z",
     "end_date": "2023-12-22T16:59:59Z",
     "start": {
@@ -2810,7 +2810,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 384,
-    "name": "スカウト！刑事DANCE",
+    "name": "刑事DANCE",
     "start_date": "2023-12-22T17:00:00Z",
     "end_date": "2024-01-05T16:59:59Z",
     "start": {
@@ -2866,7 +2866,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 386,
-    "name": "スカウト！ホットウィンター",
+    "name": "ホットウィンター",
     "start_date": "2024-01-05T17:00:00Z",
     "end_date": "2024-01-19T16:59:59Z",
     "start": {
@@ -2895,7 +2895,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 388,
-    "name": "スカウト！La Mort",
+    "name": "La Mort",
     "start_date": "2024-01-19T17:00:00Z",
     "end_date": "2024-02-02T16:59:59Z",
     "start": {
@@ -2949,7 +2949,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 390,
-    "name": "スカウト！五黄の寅",
+    "name": "五黄の寅",
     "start_date": "2024-02-02T17:00:00Z",
     "end_date": "2024-02-16T16:59:59Z",
     "start": {
@@ -3005,7 +3005,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 392,
-    "name": "スカウト！白虎舞",
+    "name": "白虎舞",
     "start_date": "2024-02-16T17:00:00Z",
     "end_date": "2024-03-01T16:59:59Z",
     "start": {
@@ -3061,7 +3061,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 394,
-    "name": "スカウト！アストレアの工房",
+    "name": "アストレアの工房",
     "start_date": "2024-03-01T17:00:00Z",
     "end_date": "2024-03-15T16:59:59Z",
     "start": {
@@ -3117,7 +3117,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 396,
-    "name": "スカウト！ロマンチック？デイト",
+    "name": "ロマンチック？デイト",
     "start_date": "2024-03-15T17:00:00Z",
     "end_date": "2024-03-29T16:59:59Z",
     "start": {
@@ -3173,7 +3173,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 398,
-    "name": "スカウト！色彩百花",
+    "name": "色彩百花",
     "start_date": "2024-03-29T17:00:00Z",
     "end_date": "2024-04-12T16:59:59Z",
     "start": {
@@ -3229,7 +3229,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 400,
-    "name": "スカウト！ホワイトブリム",
+    "name": "ホワイトブリム",
     "start_date": "2024-04-12T17:00:00Z",
     "end_date": "2024-04-26T16:59:59Z",
     "start": {
@@ -3285,7 +3285,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 402,
-    "name": "スカウト！きまぐれシティライダー",
+    "name": "きまぐれシティライダー",
     "start_date": "2024-04-26T17:00:00Z",
     "end_date": "2024-05-10T16:59:59Z",
     "start": {
@@ -3341,7 +3341,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 404,
-    "name": "スカウト！Puffy☆Bunny",
+    "name": "Puffy☆Bunny",
     "start_date": "2024-05-10T17:00:00Z",
     "end_date": "2024-05-24T16:59:59Z",
     "start": {
@@ -3395,7 +3395,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 406,
-    "name": "スカウト！バンド『BB』",
+    "name": "バンド『BB』",
     "start_date": "2024-05-24T17:00:00Z",
     "end_date": "2024-06-07T16:59:59Z",
     "start": {
@@ -3452,7 +3452,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 408,
-    "name": "スカウト！Orient",
+    "name": "Orient",
     "start_date": "2024-06-07T17:00:00Z",
     "end_date": "2024-06-21T16:59:59Z",
     "start": {
@@ -3508,7 +3508,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 410,
-    "name": "スカウト！甜々ハングリー",
+    "name": "甜々ハングリー",
     "start_date": "2024-06-21T17:00:00Z",
     "end_date": "2024-07-05T16:59:59Z",
     "start": {
@@ -3564,7 +3564,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 412,
-    "name": "スカウト！バンカラグラフィティ",
+    "name": "バンカラグラフィティ",
     "start_date": "2024-07-05T17:00:00Z",
     "end_date": "2024-07-19T16:59:59Z",
     "start": {
@@ -3620,7 +3620,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 414,
-    "name": "スカウト！敬人塾",
+    "name": "敬人塾",
     "start_date": "2024-07-19T17:00:00Z",
     "end_date": "2024-08-02T16:59:59Z",
     "start": {
@@ -3677,7 +3677,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 416,
-    "name": "スカウト！みずたま模様",
+    "name": "みずたま模様",
     "start_date": "2024-08-02T17:00:00Z",
     "end_date": "2024-08-16T16:59:59Z",
     "start": {
@@ -3729,7 +3729,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 418,
-    "name": "スカウト！アニマルズ",
+    "name": "アニマルズ",
     "start_date": "2024-08-16T17:00:00Z",
     "end_date": "2024-08-30T16:59:59Z",
     "start": {
@@ -3782,7 +3782,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 420,
-    "name": "スカウト！レッドホットアイランド",
+    "name": "レッドホットアイランド",
     "start_date": "2024-08-30T17:00:00Z",
     "end_date": "2024-09-13T16:59:59Z",
     "start": {
@@ -3834,7 +3834,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 422,
-    "name": "スカウト！舞闘会",
+    "name": "舞闘会",
     "start_date": "2024-09-13T17:00:00Z",
     "end_date": "2024-09-27T16:59:59Z",
     "start": {
@@ -3884,7 +3884,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 424,
-    "name": "スカウト！MIRAGE",
+    "name": "MIRAGE",
     "start_date": "2024-09-27T17:00:00Z",
     "end_date": "2024-10-11T16:59:59Z",
     "start": {
@@ -3936,7 +3936,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 426,
-    "name": "スカウト！Chill Yellow",
+    "name": "Chill Yellow",
     "start_date": "2024-10-11T17:00:00Z",
     "end_date": "2024-10-25T16:59:59Z",
     "start": {
@@ -3988,7 +3988,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 428,
-    "name": "スカウト！PORTRAIT - Look back -",
+    "name": "PORTRAIT - Look back -",
     "start_date": "2024-10-25T17:00:00Z",
     "end_date": "2024-11-08T16:59:59Z",
     "start": {
@@ -4040,7 +4040,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 430,
-    "name": "スカウト！ドーリーナイト",
+    "name": "ドーリーナイト",
     "start_date": "2024-11-08T17:00:00Z",
     "end_date": "2024-11-22T16:59:59Z",
     "start": {
@@ -4092,7 +4092,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 432,
-    "name": "スカウト！BLEND+",
+    "name": "BLEND+",
     "start_date": "2024-11-22T17:00:00Z",
     "end_date": "2024-12-06T16:59:59Z",
     "start": {
@@ -4140,7 +4140,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 434,
-    "name": "スカウト！秘密の宝石商",
+    "name": "秘密の宝石商",
     "start_date": "2024-12-06T17:00:00Z",
     "end_date": "2024-12-20T16:59:59Z",
     "start": {
@@ -4192,7 +4192,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 436,
-    "name": "スカウト！Flambé！",
+    "name": "Flambé！",
     "start_date": "2024-12-20T17:00:00Z",
     "end_date": "2025-01-03T16:59:59Z",
     "start": {
@@ -4242,7 +4242,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 438,
-    "name": "スカウト！強運SCRAMBLE",
+    "name": "強運SCRAMBLE",
     "start_date": "2025-01-03T17:00:00Z",
     "end_date": "2025-01-17T16:59:59Z",
     "start": {
@@ -4294,7 +4294,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 440,
-    "name": "スカウト！乱雲FUMBLE",
+    "name": "乱雲FUMBLE",
     "start_date": "2025-01-17T17:00:00Z",
     "end_date": "2025-01-31T16:59:59Z",
     "start": {
@@ -4346,7 +4346,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 442,
-    "name": "スカウト！フェアなワルツ",
+    "name": "フェアなワルツ",
     "start_date": "2025-01-31T17:00:00Z",
     "end_date": "2025-02-14T16:59:59Z",
     "start": {
@@ -4398,7 +4398,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 444,
-    "name": "スカウト！クラフトモンスター",
+    "name": "クラフトモンスター",
     "start_date": "2025-02-14T17:00:00Z",
     "end_date": "2025-02-28T16:59:59Z",
     "start": {
@@ -4451,7 +4451,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 446,
-    "name": "スカウト！赤面フラッシュ",
+    "name": "赤面フラッシュ",
     "start_date": "2025-02-28T16:59:59Z",
     "end_date": "2025-03-14T17:00:00Z",
     "start": {
@@ -4503,7 +4503,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 448,
-    "name": "スカウト！共に進む先",
+    "name": "共に進む先",
     "start_date": "2025-03-14T17:00:00Z",
     "end_date": "2025-03-28T16:59:59Z",
     "start": {
@@ -4556,7 +4556,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 450,
-    "name": "スカウト！スコルピオの毒",
+    "name": "スコルピオの毒",
     "start_date": "2025-03-28T16:59:59Z",
     "end_date": "2025-04-11T17:00:00Z",
     "start": {
@@ -4608,7 +4608,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 452,
-    "name": "スカウト！風変わりな終止たち",
+    "name": "風変わりな終止たち",
     "start_date": "2025-04-11T17:00:00Z",
     "end_date": "2025-04-25T17:00:00Z",
     "start": {
@@ -4660,7 +4660,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 454,
-    "name": "スカウト！バツ×バッテン",
+    "name": "バツ×バッテン",
     "start_date": "2025-04-25T17:00:00Z",
     "end_date": "2025-05-09T17:00:00Z",
     "start": {
@@ -4712,7 +4712,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 456,
-    "name": "スカウト！漫画会",
+    "name": "漫画会",
     "start_date": "2025-05-09T17:00:00Z",
     "end_date": "2025-05-23T17:00:00Z",
     "start": {
@@ -4765,7 +4765,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 458,
-    "name": "スカウト！ビブリオン",
+    "name": "ビブリオン",
     "start_date": "2025-05-23T17:00:00Z",
     "end_date": "2025-06-06T17:00:00Z",
     "start": {
@@ -4818,7 +4818,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 460,
-    "name": "スカウト！雨垂れショーウィンドウ",
+    "name": "雨垂れショーウィンドウ",
     "start_date": "2025-06-06T17:00:00Z",
     "end_date": "2025-06-20T17:00:00Z",
     "start": {
@@ -4870,7 +4870,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 462,
-    "name": "スカウト！サンタンSUMMER",
+    "name": "サンタンSUMMER",
     "start_date": "2025-06-20T17:00:00Z",
     "end_date": "2025-07-04T17:00:00Z",
     "start": {
@@ -4922,7 +4922,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 464,
-    "name": "スカウト！夕立のパドル",
+    "name": "夕立のパドル",
     "start_date": "2025-07-04T17:00:00Z",
     "end_date": "2025-07-18T17:00:00Z",
     "start": {
@@ -4974,7 +4974,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 466,
-    "name": "スカウト！幻想夜光",
+    "name": "幻想夜光",
     "start_date": "2025-07-18T17:00:00Z",
     "end_date": "2025-08-01T17:00:00Z",
     "start": {
@@ -5026,7 +5026,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 468,
-    "name": "スカウト！ナイトキラーズ",
+    "name": "ナイトキラーズ",
     "start_date": "2025-08-01T17:00:00Z",
     "end_date": "2025-08-15T17:00:00Z",
     "start": {
@@ -5078,7 +5078,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 470,
-    "name": "スカウト！海の鼓動 - Look back -",
+    "name": "海の鼓動 - Look back -",
     "start_date": "2025-08-15T17:00:00Z",
     "end_date": "2025-08-29T17:00:00Z",
     "start": {
@@ -5130,7 +5130,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 472,
-    "name": "スカウト！スポーツサバイバー",
+    "name": "スポーツサバイバー",
     "start_date": "2025-08-29T17:00:00Z",
     "end_date": "2025-09-12T17:00:00Z",
     "start": {
@@ -5183,7 +5183,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 474,
-    "name": "スカウト！プライベートルーム",
+    "name": "プライベートルーム",
     "start_date": "2025-09-12T17:00:00Z",
     "end_date": "2025-09-26T17:00:00Z",
     "start": {
@@ -5235,7 +5235,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 476,
-    "name": "スカウト！月隠れの宴",
+    "name": "月隠れの宴",
     "start_date": "2025-09-26T17:00:00Z",
     "end_date": "2025-10-10T17:00:00Z",
     "start": {
@@ -5287,7 +5287,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 478,
-    "name": "スカウト！君の依代",
+    "name": "君の依代",
     "start_date": "2025-10-10T17:00:00Z",
     "end_date": "2025-10-24T17:00:00Z",
     "start": {
@@ -5339,7 +5339,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 480,
-    "name": "スカウト！Made Me",
+    "name": "Made Me",
     "start_date": "2025-10-24T17:00:00Z",
     "end_date": "2025-11-08T17:00:00Z",
     "start": {
@@ -5391,7 +5391,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 482,
-    "name": "スカウト！カラーコード",
+    "name": "カラーコード",
     "start_date": "2025-11-08T17:00:00Z",
     "end_date": "2025-11-22T17:00:00Z",
     "start": {
@@ -5443,7 +5443,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 484,
-    "name": "スカウト！ホワイトベア",
+    "name": "ホワイトベア",
     "start_date": "2025-11-22T17:00:00Z",
     "end_date": "2025-12-06T17:00:00Z",
     "start": {
@@ -5495,7 +5495,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 486,
-    "name": "スカウト！黄金天",
+    "name": "黄金天",
     "start_date": "2025-12-06T17:00:00Z",
     "end_date": "2025-12-20T17:00:00Z",
     "start": {
@@ -5547,7 +5547,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 488,
-    "name": "スカウト！宝相華",
+    "name": "宝相華",
     "start_date": "2025-12-20T17:00:00Z",
     "end_date": "2026-01-03T17:00:00Z",
     "start": {
@@ -5599,7 +5599,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 490,
-    "name": "スカウト！恋こい喫茶",
+    "name": "恋こい喫茶",
     "start_date": "2026-01-03T17:00:00Z",
     "end_date": "2026-01-17T17:00:00Z",
     "start": {
@@ -5651,7 +5651,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 492,
-    "name": "スカウト！グルマンの香り",
+    "name": "グルマンの香り",
     "start_date": "2026-01-17T17:00:00Z",
     "end_date": "2026-01-31T17:00:00Z",
     "start": {
@@ -5703,7 +5703,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 494,
-    "name": "スカウト！刹那の白",
+    "name": "刹那の白",
     "start_date": "2026-01-31T17:00:00Z",
     "end_date": "2026-02-14T17:00:00Z",
     "start": {
@@ -5755,7 +5755,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 496,
-    "name": "スカウト！瞬ぎと展覧会",
+    "name": "瞬ぎと展覧会",
     "start_date": "2026-02-14T17:00:00Z",
     "end_date": "2026-02-28T17:00:00Z",
     "start": {
@@ -5859,7 +5859,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 500,
-    "name": "スカウト！蜂と飛び回るスート",
+    "name": "蜂と飛び回るスート",
     "start_date": "2026-03-14T17:00:00Z",
     "end_date": "2026-03-28T17:00:00Z",
     "start": {
@@ -5911,7 +5911,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 502,
-    "name": "スカウト！EVIL NUM+",
+    "name": "EVIL NUM+",
     "start_date": "2026-03-28T17:00:00Z",
     "end_date": "2026-04-11T17:00:00Z",
     "start": {
@@ -5936,7 +5936,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 503,
-    "name": "クロススカウト・インテリジェンス／Reasoning",
+    "name": "インテリジェンス／Reasoning",
     "start_date": "2026-04-07T17:00:00Z",
     "end_date": "2026-04-21T17:00:00Z",
     "start": {
@@ -5951,6 +5951,7 @@
     "story_name": "インテリジェンス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 504,
     "event_id": 300,
     "banner_id": 4070,
     "cards": [
@@ -5962,7 +5963,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 504,
-    "name": "クロススカウト・インテリジェンス／Solving",
+    "name": "インテリジェンス／Solving",
     "start_date": "2026-04-11T17:00:00Z",
     "end_date": "2026-04-25T17:00:00Z",
     "start": {
@@ -5977,6 +5978,7 @@
     "story_name": "インテリジェンス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 503,
     "event_id": 300,
     "banner_id": 4073,
     "cards": [
@@ -5988,7 +5990,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 505,
-    "name": "クロススカウト・華一滴／凛然",
+    "name": "華一滴／凛然",
     "start_date": "2026-04-21T17:00:00Z",
     "end_date": "2026-05-05T17:00:00Z",
     "start": {
@@ -6003,6 +6005,7 @@
     "story_name": "華一滴",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 506,
     "event_id": 301,
     "banner_id": 4082,
     "cards": [
@@ -6014,7 +6017,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 506,
-    "name": "クロススカウト・華一滴／冷麗",
+    "name": "華一滴／冷麗",
     "start_date": "2026-04-25T17:00:00Z",
     "end_date": "2026-05-09T17:00:00Z",
     "start": {
@@ -6029,6 +6032,7 @@
     "story_name": "華一滴",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 505,
     "event_id": 301,
     "banner_id": 4085,
     "cards": [
@@ -6040,7 +6044,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 507,
-    "name": "クロススカウト・プロメッサ／Regola",
+    "name": "プロメッサ／Regola",
     "start_date": "2026-05-05T17:00:00Z",
     "end_date": "2026-05-19T17:00:00Z",
     "start": {
@@ -6055,6 +6059,7 @@
     "story_name": "プロメッサ",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 508,
     "event_id": 302,
     "banner_id": 4092,
     "cards": [
@@ -6066,7 +6071,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 508,
-    "name": "クロススカウト・プロメッサ／Ordine",
+    "name": "プロメッサ／Ordine",
     "start_date": "2026-05-09T17:00:00Z",
     "end_date": "2026-05-23T17:00:00Z",
     "start": {
@@ -6081,6 +6086,7 @@
     "story_name": "プロメッサ",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 507,
     "event_id": 302,
     "banner_id": 4095,
     "cards": [
@@ -6092,7 +6098,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 509,
-    "name": "クロススカウト・ハッピーチャーム／Sunny Side",
+    "name": "ハッピーチャーム／Sunny Side",
     "start_date": "2026-05-19T17:00:00Z",
     "end_date": "2026-06-02T17:00:00Z",
     "start": {
@@ -6107,6 +6113,7 @@
     "story_name": "ハッピーチャーム",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 510,
     "event_id": 303,
     "banner_id": 4102,
     "cards": [
@@ -6118,7 +6125,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 510,
-    "name": "クロススカウト・ハッピーチャーム／Candied",
+    "name": "ハッピーチャーム／Candied",
     "start_date": "2026-05-23T17:00:00Z",
     "end_date": "2026-06-06T17:00:00Z",
     "start": {
@@ -6133,6 +6140,7 @@
     "story_name": "ハッピーチャーム",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 509,
     "event_id": 303,
     "banner_id": 4105,
     "cards": [
@@ -6144,7 +6152,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 511,
-    "name": "クロススカウト・パープレックス／惑溺",
+    "name": "パープレックス／惑溺",
     "start_date": "2026-06-02T17:00:00Z",
     "end_date": "2026-06-16T17:00:00Z",
     "start": {
@@ -6159,6 +6167,7 @@
     "story_name": "パープレックス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 512,
     "event_id": 304,
     "banner_id": 4114,
     "cards": [
@@ -6170,7 +6179,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 512,
-    "name": "クロススカウト・パープレックス／迷霧",
+    "name": "パープレックス／迷霧",
     "start_date": "2026-06-06T17:00:00Z",
     "end_date": "2026-06-20T17:00:00Z",
     "start": {
@@ -6185,6 +6194,7 @@
     "story_name": "パープレックス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 511,
     "event_id": 304,
     "banner_id": 4117,
     "cards": [
@@ -6222,7 +6232,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 514,
-    "name": "スカウト！M∀N∀",
+    "name": "M∀N∀",
     "start_date": "2026-06-20T17:00:00Z",
     "end_date": "2026-07-04T17:00:00Z",
     "start": {
@@ -6247,7 +6257,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 515,
-    "name": "クロススカウト・ドミナント／Chaotic",
+    "name": "ドミナント／Chaotic",
     "start_date": "2026-06-30T17:00:00Z",
     "end_date": "2026-07-14T17:00:00Z",
     "start": {
@@ -6262,6 +6272,7 @@
     "story_name": "ドミナント",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 516,
     "event_id": 306,
     "banner_id": 4132,
     "cards": [
@@ -6273,7 +6284,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 516,
-    "name": "クロススカウト・ドミナント／Drastic",
+    "name": "ドミナント／Drastic",
     "start_date": "2026-07-04T17:00:00Z",
     "end_date": "2026-07-18T17:00:00Z",
     "start": {
@@ -6288,6 +6299,7 @@
     "story_name": "ドミナント",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 515,
     "event_id": 306,
     "banner_id": 4135,
     "cards": [
@@ -6299,7 +6311,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 517,
-    "name": "クロススカウト・ブリリアンスプリンス／starlight",
+    "name": "ブリリアンスプリンス／starlight",
     "start_date": "2026-07-14T17:00:00Z",
     "end_date": "2026-07-28T17:00:00Z",
     "start": {
@@ -6314,6 +6326,7 @@
     "story_name": "ブリリアンスプリンス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 518,
     "event_id": 307,
     "banner_id": 4144,
     "cards": [
@@ -6325,7 +6338,7 @@
   {
     "compliant": "TRUE",
     "gacha_id": 518,
-    "name": "クロススカウト・ブリリアンスプリンス／daylight",
+    "name": "ブリリアンスプリンス／daylight",
     "start_date": "2026-07-18T17:00:00Z",
     "end_date": "2026-08-01T17:00:00Z",
     "start": {
@@ -6340,6 +6353,7 @@
     "story_name": "ブリリアンスプリンス",
     "story_author": "-",
     "story_season": "春",
+    "related_id": 517,
     "event_id": 307,
     "banner_id": 4147,
     "cards": [
