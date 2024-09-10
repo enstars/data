@@ -177188,8 +177188,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177259,8 +177258,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177330,8 +177328,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177416,8 +177413,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177492,8 +177488,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177563,8 +177558,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177629,8 +177623,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177695,8 +177688,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -177771,8 +177763,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "anniv",
-      "id": "#N/A"
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -181262,8 +181253,7 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial",
-      "id": "#N/A"
+      "type": "initial"
     },
     "stats": {
       "min": {
@@ -181332,8 +181322,7 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial",
-      "id": "#N/A"
+      "type": "initial"
     },
     "stats": {
       "min": {
@@ -181402,8 +181391,7 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial",
-      "id": "#N/A"
+      "type": "initial"
     },
     "stats": {
       "min": {
@@ -181472,8 +181460,7 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial",
-      "id": "#N/A"
+      "type": "initial"
     },
     "stats": {
       "min": {
@@ -181542,8 +181529,7 @@
       "jp": "2024-04-28"
     },
     "obtain": {
-      "type": "initial",
-      "id": "#N/A"
+      "type": "initial"
     },
     "stats": {
       "min": {
@@ -181613,8 +181599,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial",
-      "id": "#N/A"
+      "subType": "initial"
     },
     "stats": {
       "min": {
@@ -181674,8 +181659,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial",
-      "id": "#N/A"
+      "subType": "initial"
     },
     "stats": {
       "min": {
@@ -181740,8 +181724,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial",
-      "id": "#N/A"
+      "subType": "initial"
     },
     "stats": {
       "min": {
@@ -181806,8 +181789,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial",
-      "id": "#N/A"
+      "subType": "initial"
     },
     "stats": {
       "min": {
@@ -181872,8 +181854,7 @@
     },
     "obtain": {
       "type": "gacha",
-      "subType": "initial",
-      "id": "#N/A"
+      "subType": "initial"
     },
     "stats": {
       "min": {
@@ -189981,5 +189962,177 @@
       }
     },
     "associated_story": "瞬祭礼"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4154,
+    "rarity": 5,
+    "character_id": 84,
+    "type": 1,
+    "substat_type": 0,
+    "title": "導く夢世界",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 519
+    },
+    "stats": {
+      "ir": {
+        "da": 43041,
+        "vo": 28637,
+        "pf": 24459
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "愛の守護石",
+        "effect_value": [
+          "50",
+          "60"
+        ],
+        "type_id": 17,
+        "description": "全タイプの全パラメーター 50%up\nALLタイプ楽曲の場合は 60％up"
+      },
+      "live": {
+        "name": "メルヘンドリーマー",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "かわいい角度",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アメジストドリーム",
+          "アメジストドリーム (SCR)"
+        ],
+        "3d": [
+          "アメジストドリーム",
+          "アメジストドリーム (SCR)"
+        ]
+      }
+    },
+    "associated_story": "とびきりのユメだから"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4155,
+    "rarity": 4,
+    "character_id": 82,
+    "type": 3,
+    "substat_type": 1,
+    "title": "異文化インパクト",
+    "name": "滝維吹",
+    "releaseDate": {
+      "jp": "2024-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 519
+    },
+    "stats": {
+      "ir": {
+        "da": 11441,
+        "vo": 30903,
+        "pf": 14963
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "貫くスタイル",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "釣られる笑顔",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "アメリカンスタイル",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ],
+        "3d": [
+          "ブラックステージ",
+          "ブラックステージ (SCR)"
+        ]
+      }
+    },
+    "associated_story": "男子、SUSHIを食べよ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4156,
+    "rarity": 3,
+    "character_id": 4,
+    "type": 2,
+    "substat_type": 2,
+    "title": "出来立て熱々",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2024-09-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "feature",
+      "id": 519
+    },
+    "stats": {
+      "ir": {
+        "da": 12843,
+        "vo": 10863,
+        "pf": 19411
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "特別な味",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "ホカホカの縁",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "想定外の休日",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "大切なひと・あじ"
   }
 ]
