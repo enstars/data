@@ -19633,25 +19633,69 @@
     "compliant": "TRUE",
     "id": 3212,
     "title": "Confusing Sports Fes",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Striving Sea"
+      },
+      "live": {
+        "name": "A Leader's Role"
+      },
+      "support": {
+        "name": "Contest on Display"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3213,
     "title": "Cheerful Sports Fes",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Fierce Sky"
+      },
+      "live": {
+        "name": "Feeling Grown Up"
+      },
+      "support": {
+        "name": "Choosing Violence"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3214,
     "title": "Planned Sports Fes",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Cheer Tactics"
+      },
+      "live": {
+        "name": "Passionate Gaze"
+      },
+      "support": {
+        "name": "Agency's Plan"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3215,
     "title": "Showtime in Sports Fes",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Cheer Power"
+      },
+      "live": {
+        "name": "Beloved Character"
+      },
+      "support": {
+        "name": "Priorities"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19691,13 +19735,35 @@
     "compliant": "TRUE",
     "id": 3218,
     "title": "Crowded Sports Fes",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Acting Shy"
+      },
+      "live": {
+        "name": "Uncomfortable Environment"
+      },
+      "support": {
+        "name": "Occult Info"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3219,
     "title": "Beneficial Sports Fes",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Yummy Timing"
+      },
+      "live": {
+        "name": "To Battle!"
+      },
+      "support": {
+        "name": "Switching In"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -19784,6 +19850,24 @@
     "id": 3226,
     "title": "Manga Talk",
     "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3227,
+    "title": "Flame Residing in Fists",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3228,
+    "title": "Flame of Warrior's Soul",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3229,
+    "title": "Flame of Intrepidity",
+    "name": "Adonis Otogari"
   },
   {
     "compliant": "TRUE",
