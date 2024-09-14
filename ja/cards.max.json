@@ -190154,5 +190154,240 @@
       }
     },
     "associated_story": "大切なひと・あじ"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4162,
+    "rarity": 5,
+    "character_id": 17,
+    "type": 2,
+    "substat_type": 1,
+    "title": "繋がる月の歌",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 520
+    },
+    "stats": {
+      "ir": {
+        "da": 20319,
+        "vo": 47992,
+        "pf": 23182
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "いざよう招き",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "外界との出会い",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "不本意な来客",
+        "type_id": 28,
+        "description": "全ステータスピースのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Luminous Crown"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "いざよう月の歌衣装",
+          "いざよう月の歌衣装 (SCR)"
+        ],
+        "3d": [
+          "いざよう月の歌衣装",
+          "いざよう月の歌衣装 (SCR)"
+        ]
+      },
+      "backgrounds": [
+        "朔間家（凛月の自室、過去）"
+      ]
+    },
+    "associated_story": "JANUS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4163,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 4,
+    "substat_type": 0,
+    "title": "耳に残る月の歌",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 520
+    },
+    "stats": {
+      "ir": {
+        "da": 28542,
+        "vo": 15815,
+        "pf": 13183
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "いざよう会合",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "不思議な出会い",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "自分だけの部屋",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Rebellion Star (ALBUM Mix)"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "いざよう月の歌衣装"
+        ]
+      },
+      "backgrounds": [
+        "衣更家（真緒の自室、過去）"
+      ]
+    },
+    "associated_story": "JANUS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4164,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 1,
+    "substat_type": 2,
+    "title": "譲れない月の歌",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 520
+    },
+    "stats": {
+      "ir": {
+        "da": 15801,
+        "vo": 12500,
+        "pf": 29097
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "いざよう離別",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "計算外の出会い",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "弟との距離",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "ROCK ROAR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（幼少期）",
+          "いざよう月の歌衣装"
+        ]
+      },
+      "backgrounds": [
+        "朔間家のリビング"
+      ]
+    },
+    "associated_story": "JANUS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4165,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 3,
+    "substat_type": 1,
+    "title": "知らない月の歌",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-09-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 520
+    },
+    "stats": {
+      "ir": {
+        "da": 10815,
+        "vo": 19506,
+        "pf": 12577
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "いざよう調べ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "一枚の出会い",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "話題のネタ",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "JANUS"
   }
 ]
