@@ -4488,5 +4488,37 @@
       4152,
       4153
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 308,
+    "start_date": "2026-08-01T17:00:00Z",
+    "end_date": "2026-08-10T03:00:00Z",
+    "start": {
+      "en": "2026-08-01T17:00:00Z",
+      "jp": "2024-09-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-08-10T03:00:00Z",
+      "jp": "2024-09-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "激走◆チェイス・チェシャ in WILDLAND",
+    "event_gacha": "フィーチャースカウト 冬芽編",
+    "gacha_id": 519,
+    "song_name": "WILDLAND SURVIVOR",
+    "story_name": "WILDLAND",
+    "story_author": "-",
+    "banner_id": 4157,
+    "unit_id": [
+      5
+    ],
+    "cards": [
+      4157,
+      4158,
+      4159,
+      4160,
+      4161
+    ]
   }
 ]

@@ -190157,6 +190157,305 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4157,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ワイルド・ブレイブ",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 308
+    },
+    "stats": {
+      "ir": {
+        "da": 24500,
+        "vo": 23396,
+        "pf": 46095
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "激走パッション",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "チェイスウィッシュ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "荒野のなかの男",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "WILDLAND SURVIVOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "チェイス・チェシャ衣装",
+          "チェイス・チェシャ衣装 (SCR)",
+          "空手着（黒帯、三年生）"
+        ],
+        "3d": [
+          "チェイス・チェシャ衣装",
+          "チェイス・チェシャ衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "WILDLAND"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4158,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 4,
+    "substat_type": 1,
+    "title": "ワイルド・ロード",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2024-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 308
+    },
+    "stats": {
+      "ir": {
+        "da": 12334,
+        "vo": 31016,
+        "pf": 13872
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "激走チアーズ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 80％up"
+      },
+      "live": {
+        "name": "チェイスドリーム",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "支える拳",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "WILDLAND SURVIVOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "チェイス・チェシャ衣装",
+          "制服（夏、三年生）"
+        ],
+        "3d": [
+          "チェイス・チェシャ衣装"
+        ]
+      }
+    },
+    "associated_story": "WILDLAND"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4159,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 0,
+    "title": "わいるど・こーち",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 308
+    },
+    "stats": {
+      "ir": {
+        "da": 27365,
+        "vo": 16228,
+        "pf": 14028
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "げきそうあぷろーち",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "ちぇいすはぴねす",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "もえるさかな",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "WILDLAND SURVIVOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "チェイス・チェシャ衣装"
+        ],
+        "3d": [
+          "チェイス・チェシャ衣装"
+        ]
+      }
+    },
+    "associated_story": "WILDLAND"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4160,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ワイルド・ムーブ",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 308
+    },
+    "stats": {
+      "ir": {
+        "da": 10805,
+        "vo": 7503,
+        "pf": 21576
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "激走ゴーイング",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "チェイスリーズン",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "危険な状況",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "チェイス・チェシャ衣装",
+          "制服（夏、三年生）"
+        ],
+        "3d": [
+          "チェイス・チェシャ衣装"
+        ]
+      }
+    },
+    "associated_story": "WILDLAND"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4161,
+    "rarity": 3,
+    "character_id": 25,
+    "type": 3,
+    "substat_type": 1,
+    "title": "ワイルド・ドライブ",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-09-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 308
+    },
+    "stats": {
+      "ir": {
+        "da": 10994,
+        "vo": 19286,
+        "pf": 12313
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "激走テクニック",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "チェイスインパルス",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "見参ヒーロー",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "チェイス・チェシャ衣装"
+        ],
+        "3d": [
+          "チェイス・チェシャ衣装"
+        ]
+      }
+    },
+    "associated_story": "WILDLAND"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4162,
     "rarity": 5,
     "character_id": 17,
@@ -190173,30 +190472,10 @@
       "id": 520
     },
     "stats": {
-      "min": {
-        "da": 5780,
-        "vo": 11190,
-        "pf": 5830
-      },
       "ir": {
         "da": 20319,
         "vo": 47992,
         "pf": 23182
-      },
-      "ir1": {
-        "da": 22010,
-        "vo": 53572,
-        "pf": 23948
-      },
-      "ir2": {
-        "da": 22351,
-        "vo": 57852,
-        "pf": 24716
-      },
-      "ir4": {
-        "da": 24473,
-        "vo": 67992,
-        "pf": 27331
       }
     },
     "skills": {
@@ -190259,11 +190538,6 @@
       "id": 520
     },
     "stats": {
-      "min": {
-        "da": 5060,
-        "vo": 2740,
-        "pf": 3100
-      },
       "ir": {
         "da": 28542,
         "vo": 15815,
@@ -190325,11 +190599,6 @@
       "id": 520
     },
     "stats": {
-      "min": {
-        "da": 2720,
-        "vo": 2480,
-        "pf": 5380
-      },
       "ir": {
         "da": 15801,
         "vo": 12500,
@@ -190391,11 +190660,6 @@
       "id": 520
     },
     "stats": {
-      "min": {
-        "da": 1940,
-        "vo": 2420,
-        "pf": 1840
-      },
       "ir": {
         "da": 10815,
         "vo": 19506,
