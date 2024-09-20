@@ -11756,31 +11756,36 @@
     "compliant": "TRUE",
     "id": 2702,
     "title": "Burning Rock",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2703,
     "title": "Wave-Swept Rock",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2704,
     "title": "Dauntless Rock",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2705,
     "title": "Rocking Freely",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2706,
     "title": "Ninja's Rock",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "releaseDate": "2024-09-22"
   },
   {
     "compliant": "TRUE",
@@ -11970,61 +11975,71 @@
     "compliant": "TRUE",
     "id": 2717,
     "title": "Mischievous Rock",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2718,
     "title": "Elated Rock",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2719,
     "title": "Peculiar Rock",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2720,
     "title": "Determined Rock",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2721,
     "title": "Tenacity of Rock",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2722,
     "title": "Tasty Rock",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "releaseDate": "2024-09-22"
   },
   {
     "compliant": "TRUE",
     "id": 2723,
     "title": "Instinct of Rock",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2724,
     "title": "Flexible Rock",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2725,
     "title": "Pure Rock",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2726,
     "title": "Resonating Rock",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "releaseDate": "2024-09-22"
   },
   {
     "compliant": "TRUE",
@@ -12102,49 +12117,57 @@
     "compliant": "TRUE",
     "id": 2731,
     "title": "Unyielding Rock",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2732,
     "title": "Gallant Rock",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2733,
     "title": "Samurai's Rock",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2734,
     "title": "Chivalrous Rock",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "releaseDate": "2024-09-01"
   },
   {
     "compliant": "TRUE",
     "id": 2735,
     "title": "Rock is Composition",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "releaseDate": "2024-09-08"
   },
   {
     "compliant": "TRUE",
     "id": 2736,
     "title": "Career in Rock",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "releaseDate": "2024-09-15"
   },
   {
     "compliant": "TRUE",
     "id": 2737,
     "title": "Casual Rock",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "releaseDate": "2024-09-22"
   },
   {
     "compliant": "TRUE",
     "id": 2738,
     "title": "Stunning Rock",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "releaseDate": "2024-09-22"
   },
   {
     "compliant": "TRUE",
@@ -19372,7 +19395,8 @@
       "support": {
         "name": "Seiza Explanation"
       }
-    }
+    },
+    "releaseDate": "2024-08-12"
   },
   {
     "compliant": "TRUE",
@@ -19389,7 +19413,8 @@
       "support": {
         "name": "Sighing at the Counter"
       }
-    }
+    },
+    "releaseDate": "2024-08-12"
   },
   {
     "compliant": "TRUE",
@@ -19406,7 +19431,8 @@
       "support": {
         "name": "Beach Cleanup"
       }
-    }
+    },
+    "releaseDate": "2024-08-12"
   },
   {
     "compliant": "TRUE",
@@ -19423,7 +19449,8 @@
       "support": {
         "name": "Island Cuisine"
       }
-    }
+    },
+    "releaseDate": "2024-08-17"
   },
   {
     "compliant": "TRUE",
@@ -19440,7 +19467,8 @@
       "support": {
         "name": "Island Music"
       }
-    }
+    },
+    "releaseDate": "2024-08-17"
   },
   {
     "compliant": "TRUE",
@@ -19457,7 +19485,8 @@
       "support": {
         "name": "Island Popularity"
       }
-    }
+    },
+    "releaseDate": "2024-08-17"
   },
   {
     "compliant": "TRUE",
@@ -19474,7 +19503,8 @@
       "support": {
         "name": "Island Atmosphere"
       }
-    }
+    },
+    "releaseDate": "2024-08-17"
   },
   {
     "compliant": "TRUE",
@@ -19491,7 +19521,8 @@
       "support": {
         "name": "Island Winning Outfit"
       }
-    }
+    },
+    "releaseDate": "2024-08-17"
   },
   {
     "compliant": "TRUE",
@@ -19508,7 +19539,8 @@
       "support": {
         "name": "ANIMALS Member"
       }
-    }
+    },
+    "releaseDate": "2024-08-16"
   },
   {
     "compliant": "TRUE",
@@ -19525,7 +19557,8 @@
       "support": {
         "name": "Meeting a Penguin"
       }
-    }
+    },
+    "releaseDate": "2024-08-16"
   },
   {
     "compliant": "TRUE",
@@ -19542,7 +19575,8 @@
       "support": {
         "name": "The Strange Truth"
       }
-    }
+    },
+    "releaseDate": "2024-08-16"
   },
   {
     "compliant": "TRUE",
@@ -19559,7 +19593,8 @@
       "support": {
         "name": "A Gift from the Sea"
       }
-    }
+    },
+    "releaseDate": "2024-08-16"
   },
   {
     "compliant": "TRUE",
@@ -19576,7 +19611,8 @@
       "support": {
         "name": "Penguin Care Manual"
       }
-    }
+    },
+    "releaseDate": "2024-08-16"
   },
   {
     "compliant": "TRUE",
@@ -19593,7 +19629,8 @@
       "support": {
         "name": "Approach Advice"
       }
-    }
+    },
+    "releaseDate": "2024-08-26"
   },
   {
     "compliant": "TRUE",
@@ -19610,7 +19647,8 @@
       "support": {
         "name": "Set in Stone"
       }
-    }
+    },
+    "releaseDate": "2024-08-26"
   },
   {
     "compliant": "TRUE",
@@ -19627,7 +19665,8 @@
       "support": {
         "name": "Tearoom Guest"
       }
-    }
+    },
+    "releaseDate": "2024-08-26"
   },
   {
     "compliant": "TRUE",
@@ -19644,7 +19683,8 @@
       "support": {
         "name": "Contest on Display"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19661,7 +19701,8 @@
       "support": {
         "name": "Choosing Violence"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19678,7 +19719,8 @@
       "support": {
         "name": "Agency's Plan"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19695,7 +19737,8 @@
       "support": {
         "name": "Priorities"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19712,7 +19755,8 @@
       "support": {
         "name": "Energetic Cheers"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19729,7 +19773,8 @@
       "support": {
         "name": "Salty Snacks"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19746,7 +19791,8 @@
       "support": {
         "name": "Occult Info"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19763,7 +19809,8 @@
       "support": {
         "name": "Switching In"
       }
-    }
+    },
+    "releaseDate": "2024-08-31"
   },
   {
     "compliant": "TRUE",
@@ -19780,7 +19827,8 @@
       "support": {
         "name": "Eager Assistant"
       }
-    }
+    },
+    "releaseDate": "2024-08-30"
   },
   {
     "compliant": "TRUE",
@@ -19797,7 +19845,8 @@
       "support": {
         "name": "Hospital Memories"
       }
-    }
+    },
+    "releaseDate": "2024-08-30"
   },
   {
     "compliant": "TRUE",
@@ -19814,7 +19863,8 @@
       "support": {
         "name": "Suspicious Invitation"
       }
-    }
+    },
+    "releaseDate": "2024-08-30"
   },
   {
     "compliant": "TRUE",
@@ -19831,55 +19881,64 @@
       "support": {
         "name": "The Wrong Swimsuit"
       }
-    }
+    },
+    "releaseDate": "2024-08-30"
   },
   {
     "compliant": "TRUE",
     "id": 3224,
     "title": "Natural Eye Contact",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "releaseDate": "2024-09-09"
   },
   {
     "compliant": "TRUE",
     "id": 3225,
     "title": "The Touchstones",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "releaseDate": "2024-09-09"
   },
   {
     "compliant": "TRUE",
     "id": 3226,
     "title": "Manga Talk",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "releaseDate": "2024-09-09"
   },
   {
     "compliant": "TRUE",
     "id": 3227,
     "title": "Flame Residing in Fists",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "releaseDate": "2024-09-14"
   },
   {
     "compliant": "TRUE",
     "id": 3228,
     "title": "Flame of Warrior's Soul",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "releaseDate": "2024-09-14"
   },
   {
     "compliant": "TRUE",
     "id": 3229,
     "title": "Flame of Intrepidity",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "releaseDate": "2024-09-14"
   },
   {
     "compliant": "TRUE",
     "id": 3230,
     "title": "Upbeat Dancing Flame",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "releaseDate": "2024-09-13"
   },
   {
     "compliant": "TRUE",
     "id": 3231,
     "title": "Flame of Integrity",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "releaseDate": "2024-09-13"
   },
   {
     "compliant": "TRUE",
@@ -19908,5 +19967,12 @@
     "title": "Graceful Trainer",
     "name": "Izumi Sena",
     "releaseDate": "2023-11-07"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3693,
+    "title": "Burning Soul",
+    "name": "Koga Oogami",
+    "releaseDate": "2024-09-21"
   }
 ]
