@@ -181247,6 +181247,1686 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3804,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 4,
+    "substat_type": 1,
+    "title": "天使の翼",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "皇帝メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 120％up"
+      },
+      "live": {
+        "name": "輝く星を抱いて",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "お茶会の準備",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "天使衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3805,
+    "rarity": 5,
+    "character_id": 27,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ダンスフロア",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "愛と驚きメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "フロアマスター",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "Amazingな遊戯",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ダンス練習着",
+          "ダンスフロア衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3806,
+    "rarity": 5,
+    "character_id": 6,
+    "type": 2,
+    "substat_type": 1,
+    "title": "プリティパーティ",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "雛鳥メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "パーティーテーブル",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "びしょ濡れガーデン",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "私服（春）",
+          "パーティ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3807,
+    "rarity": 5,
+    "character_id": 19,
+    "type": 4,
+    "substat_type": 2,
+    "title": "夕闇館の主人",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "執事メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 120％up"
+      },
+      "live": {
+        "name": "主人のしつけ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "迅速な対応",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "姫宮家使用人衣装",
+          "名家の礼装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3808,
+    "rarity": 5,
+    "character_id": 12,
+    "type": 2,
+    "substat_type": 1,
+    "title": "愛情とサイエンス",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "情熱メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "化学反応",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "お弁当ジャッジ",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "サイエンス衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3809,
+    "rarity": 5,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 2,
+    "title": "橙色の赤鬼",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "一等星メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "欲心の鬼",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "暗い駐輪場",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "鬼火衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3810,
+    "rarity": 5,
+    "character_id": 13,
+    "type": 3,
+    "substat_type": 0,
+    "title": "朝顔の君",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "情報通メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "朝陽の輝き",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "Bダッシュ",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（夏、二年生、VRゴーグル）",
+          "制服（夏、二年生、裸眼）",
+          "夏の花衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3811,
+    "rarity": 5,
+    "character_id": 18,
+    "type": 2,
+    "substat_type": 0,
+    "title": "エースエージェント",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "世話焼きメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 120％up"
+      },
+      "live": {
+        "name": "ハードミッション",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "機密事項",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、二年生、マフラー）",
+          "エージェント"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3812,
+    "rarity": 5,
+    "character_id": 1,
+    "type": 4,
+    "substat_type": 1,
+    "title": "クッキングアイドル",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "不屈メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 120％up"
+      },
+      "live": {
+        "name": "クッキングタイム",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "火加減と手加減",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（夏、一年生、エプロン）",
+          "クッキング衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3813,
+    "rarity": 5,
+    "character_id": 5,
+    "type": 3,
+    "substat_type": 0,
+    "title": "彩りペインター",
+    "name": "高峯翠",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "憂鬱メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 120％up"
+      },
+      "live": {
+        "name": "秋色ペイント",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "新手のゆるキャラ",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "彩りオーバーオール"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3814,
+    "rarity": 5,
+    "character_id": 7,
+    "type": 1,
+    "substat_type": 1,
+    "title": "封印のナイトレイド",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "憧れメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "禁断の魔眼",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "ひ伝の書",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "中二病衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3815,
+    "rarity": 5,
+    "character_id": 25,
+    "type": 2,
+    "substat_type": 0,
+    "title": "太陽のシューター",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "正義メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 120％up"
+      },
+      "live": {
+        "name": "高気圧アタック",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "情熱ドリブル",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "飛行士ジャケット"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3816,
+    "rarity": 5,
+    "character_id": 28,
+    "type": 1,
+    "substat_type": 1,
+    "title": "しれんのもんばん",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "ぷかぷかめもりある",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "りゅうのいぶき",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "こいのうんめい",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "登竜門衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3825,
+    "rarity": 5,
+    "character_id": 35,
+    "type": 3,
+    "substat_type": 1,
+    "title": "スノウドーム",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "独奏者メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "氷土の世界",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "疲労の蓄積",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "スノウドーム衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3826,
+    "rarity": 5,
+    "character_id": 34,
+    "type": 4,
+    "substat_type": 0,
+    "title": "ビッグベア",
+    "name": "影片みか",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "敬愛メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "ペアルック",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "クマと家出",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ベアとお揃い衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3827,
+    "rarity": 5,
+    "character_id": 4,
+    "type": 3,
+    "substat_type": 2,
+    "title": "橙の昇り竜",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "いたずら太陽メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "カンフーマスター",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "雑技団の技",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "カンフー衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3828,
+    "rarity": 5,
+    "character_id": 8,
+    "type": 2,
+    "substat_type": 0,
+    "title": "ラビリンスレーサー",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "いたずら月メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 120％up"
+      },
+      "live": {
+        "name": "迷宮の走者",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "水浴び修行",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、一年生、濡れ透け）",
+          "ラビリンス衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3833,
+    "rarity": 5,
+    "character_id": 29,
+    "type": 4,
+    "substat_type": 1,
+    "title": "紫陽花の頃",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "魔王メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "花橋の袂",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "夕暮れの探し物",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（夏、三年生、濡れ透け）",
+          "梅雨の着物衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3834,
+    "rarity": 5,
+    "character_id": 23,
+    "type": 3,
+    "substat_type": 2,
+    "title": "ブライダルフラワー",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "愛の使者メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "花婿の笑顔",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "潮風の名残",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "花婿衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3835,
+    "rarity": 5,
+    "character_id": 16,
+    "type": 1,
+    "substat_type": 0,
+    "title": "フィールドの勝負師",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "孤高メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 120％up"
+      },
+      "live": {
+        "name": "満月に吠える狼",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "渾身のデッキ",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "カードバトラー衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3836,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 2,
+    "substat_type": 2,
+    "title": "扇の初舞",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "守り抜くメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 120％up"
+      },
+      "live": {
+        "name": "破邪の長刀",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "温もりの共有",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "神社衣装",
+          "初夢衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3837,
+    "rarity": 5,
+    "character_id": 3,
+    "type": 2,
+    "substat_type": 2,
+    "title": "姫と騎士",
+    "name": "真白友也",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "普通メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 120％up"
+      },
+      "live": {
+        "name": "騎士の心",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "お姫さまの心",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "お姫さま衣装",
+          "王子さま衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3838,
+    "rarity": 5,
+    "character_id": 30,
+    "type": 4,
+    "substat_type": 0,
+    "title": "複雑マーブルアイス",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "可憐メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "アイスウェイター",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "境界のカーテン",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アイスショップ衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3839,
+    "rarity": 5,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 1,
+    "title": "いけない少年",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "ダッシュメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "全力の悪い子",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "ご機嫌ななめ",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "BADBOYS衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3840,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ジャスミンティー",
+    "name": "紫之創",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "はにかみメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "静かなティータイム",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "愛情の仕上げ",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フェアエプロン",
+          "サロン店員衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3841,
+    "rarity": 5,
+    "character_id": 21,
+    "type": 4,
+    "substat_type": 2,
+    "title": "チャイナタウンの首領",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "インテリメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 120％up"
+      },
+      "live": {
+        "name": "裏社会タウン",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "レシピと実践",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（夏、三年生、エプロン）",
+          "チャイナタウン衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3842,
+    "rarity": 5,
+    "character_id": 26,
+    "type": 1,
+    "substat_type": 2,
+    "title": "アンダードクトア",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "任侠メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "死神の手",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "写真映えドリンク",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アンダードクトア衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3843,
+    "rarity": 5,
+    "character_id": 14,
+    "type": 3,
+    "substat_type": 1,
+    "title": "花の色札",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "新星メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "紅葉に鹿",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "こいこい勝負",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "花札衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3844,
+    "rarity": 5,
+    "character_id": 10,
+    "type": 4,
+    "substat_type": 1,
+    "title": "甘味の王さま",
+    "name": "朱桜司",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "新入りメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "スイーツキング",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "シャボンの景色",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "王さま衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3845,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 3,
+    "substat_type": 2,
+    "title": "青の境界",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "王さまメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "海の延長線",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "波の刺激",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ブルーフィラメント衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3846,
+    "rarity": 5,
+    "character_id": 24,
+    "type": 3,
+    "substat_type": 0,
+    "title": "夢と現の蝶",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "シニカルメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "オオオビクジャクの羽",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "寝ぼけ眼の隣",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "胡蝶の衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3847,
+    "rarity": 5,
+    "character_id": 17,
+    "type": 3,
+    "substat_type": 0,
+    "title": "アールグレイ",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "冷笑メモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "ベルガモットの香り",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "沈む紅茶色",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "紅茶衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3848,
+    "rarity": 5,
+    "character_id": 20,
+    "type": 4,
+    "substat_type": 2,
+    "title": "乙女の花園",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "輝きメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 120％up"
+      },
+      "live": {
+        "name": "ドリームローズ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "かわいい絆創膏",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "白薔薇の衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3849,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 1,
+    "title": "ジュエル・ルビー",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "嘘と本音のメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 120％up"
+      },
+      "live": {
+        "name": "赤い神秘の輝き",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "炎の雫石",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "宝石の化身衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3850,
+    "rarity": 5,
+    "character_id": 39,
+    "type": 1,
+    "substat_type": 2,
+    "title": "ビブリオフィリア",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "幸せ紡ぐメモリアル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "書架の番人",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "雨の日図書館",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（夏、三年生）",
+          "司書衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3851,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 3,
+    "substat_type": 0,
+    "title": "ショウタイム",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "春色メモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 120％up"
+      },
+      "live": {
+        "name": "イリュージョンタイム",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "鳩マジック",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "マジックショウ衣装",
+          "ショウタイム衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3852,
+    "rarity": 5,
+    "character_id": 40,
+    "type": 3,
+    "substat_type": 1,
+    "title": "テンボール",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "jp": "2024-09-13"
+    },
+    "obtain": {
+      "type": "campaign",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "笑顔咲くメモリアル",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "キスショット",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "放課後の約束",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ビリヤード衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4000,
     "rarity": 1,
     "character_id": 81,
