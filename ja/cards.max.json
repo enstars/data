@@ -181261,6 +181261,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 5160,
+        "vo": 11500,
+        "pf": 6420
+      },
+      "ir": {
+        "da": 17535,
+        "vo": 40216,
+        "pf": 23475
+      }
+    },
     "skills": {
       "center": {
         "name": "皇帝メモリアル",
@@ -181305,6 +181317,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 7450,
+        "vo": 6610,
+        "pf": 9510
+      },
+      "ir": {
+        "da": 22933,
+        "vo": 20074,
+        "pf": 39248
+      }
     },
     "skills": {
       "center": {
@@ -181352,6 +181376,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 5450,
+        "vo": 11180,
+        "pf": 6400
+      },
+      "ir": {
+        "da": 18516,
+        "vo": 40263,
+        "pf": 22479
+      }
+    },
     "skills": {
       "center": {
         "name": "雛鳥メモリアル",
@@ -181397,6 +181433,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 6470,
+        "vo": 6620,
+        "pf": 9990
+      },
+      "ir": {
+        "da": 23702,
+        "vo": 19300,
+        "pf": 39206
+      }
     },
     "skills": {
       "center": {
@@ -181444,6 +181492,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 5970,
+        "vo": 11910,
+        "pf": 5920
+      },
+      "ir": {
+        "da": 18739,
+        "vo": 40273,
+        "pf": 22256
+      }
+    },
     "skills": {
       "center": {
         "name": "情熱メモリアル",
@@ -181489,6 +181549,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 7120,
+        "vo": 6650,
+        "pf": 10850
+      },
+      "ir": {
+        "da": 24465,
+        "vo": 18529,
+        "pf": 39216
+      }
+    },
     "skills": {
       "center": {
         "name": "一等星メモリアル",
@@ -181533,6 +181605,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 12910,
+        "vo": 6240,
+        "pf": 5900
+      },
+      "ir": {
+        "da": 40254,
+        "vo": 22916,
+        "pf": 18080
+      }
     },
     "skills": {
       "center": {
@@ -181581,6 +181665,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 11430,
+        "vo": 7080,
+        "pf": 6430
+      },
+      "ir": {
+        "da": 39226,
+        "vo": 23480,
+        "pf": 19516
+      }
+    },
     "skills": {
       "center": {
         "name": "世話焼きメモリアル",
@@ -181626,6 +181722,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 6870,
+        "vo": 12390,
+        "pf": 5990
+      },
+      "ir": {
+        "da": 17635,
+        "vo": 40276,
+        "pf": 23362
+      }
     },
     "skills": {
       "center": {
@@ -181673,6 +181781,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 10940,
+        "vo": 7290,
+        "pf": 5840
+      },
+      "ir": {
+        "da": 39204,
+        "vo": 24796,
+        "pf": 18199
+      }
+    },
     "skills": {
       "center": {
         "name": "憂鬱メモリアル",
@@ -181717,6 +181837,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 5850,
+        "vo": 11500,
+        "pf": 6620
+      },
+      "ir": {
+        "da": 17965,
+        "vo": 40206,
+        "pf": 23029
+      }
     },
     "skills": {
       "center": {
@@ -181763,6 +181895,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 9930,
+        "vo": 6750,
+        "pf": 7100
+      },
+      "ir": {
+        "da": 39272,
+        "vo": 24803,
+        "pf": 18197
+      }
+    },
     "skills": {
       "center": {
         "name": "正義メモリアル",
@@ -181807,6 +181951,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 5520,
+        "vo": 12710,
+        "pf": 6030
+      },
+      "ir": {
+        "da": 17203,
+        "vo": 40262,
+        "pf": 23799
+      }
     },
     "skills": {
       "center": {
@@ -181853,6 +182009,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6000,
+        "vo": 11270,
+        "pf": 6700
+      },
+      "ir": {
+        "da": 18645,
+        "vo": 39258,
+        "pf": 24356
+      }
+    },
     "skills": {
       "center": {
         "name": "独奏者メモリアル",
@@ -181897,6 +182065,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 12090,
+        "vo": 5910,
+        "pf": 5540
+      },
+      "ir": {
+        "da": 40274,
+        "vo": 22153,
+        "pf": 18851
+      }
     },
     "skills": {
       "center": {
@@ -181943,6 +182123,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6960,
+        "vo": 7180,
+        "pf": 10300
+      },
+      "ir": {
+        "da": 24362,
+        "vo": 18641,
+        "pf": 39238
+      }
+    },
     "skills": {
       "center": {
         "name": "いたずら太陽メモリアル",
@@ -181987,6 +182179,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 12050,
+        "vo": 6410,
+        "pf": 5730
+      },
+      "ir": {
+        "da": 40231,
+        "vo": 23906,
+        "pf": 17087
+      }
     },
     "skills": {
       "center": {
@@ -182034,6 +182238,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6970,
+        "vo": 11160,
+        "pf": 6320
+      },
+      "ir": {
+        "da": 20838,
+        "vo": 39284,
+        "pf": 22163
+      }
+    },
     "skills": {
       "center": {
         "name": "魔王メモリアル",
@@ -182080,6 +182296,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6400,
+        "vo": 5410,
+        "pf": 12280
+      },
+      "ir": {
+        "da": 23907,
+        "vo": 17090,
+        "pf": 40250
+      }
+    },
     "skills": {
       "center": {
         "name": "愛の使者メモリアル",
@@ -182125,6 +182353,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 10950,
+        "vo": 6440,
+        "pf": 6800
+      },
+      "ir": {
+        "da": 39263,
+        "vo": 23585,
+        "pf": 19413
+      }
+    },
     "skills": {
       "center": {
         "name": "孤高メモリアル",
@@ -182169,6 +182409,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 7910,
+        "vo": 6990,
+        "pf": 9690
+      },
+      "ir": {
+        "da": 22488,
+        "vo": 20511,
+        "pf": 39218
+      }
     },
     "skills": {
       "center": {
@@ -182216,6 +182468,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6250,
+        "vo": 6410,
+        "pf": 12340
+      },
+      "ir": {
+        "da": 22588,
+        "vo": 18407,
+        "pf": 40216
+      }
+    },
     "skills": {
       "center": {
         "name": "普通メモリアル",
@@ -182262,6 +182526,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 10050,
+        "vo": 8170,
+        "pf": 7610
+      },
+      "ir": {
+        "da": 39262,
+        "vo": 23042,
+        "pf": 19964
+      }
+    },
     "skills": {
       "center": {
         "name": "可憐メモリアル",
@@ -182307,6 +182583,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 17195,
+        "vo": 40241,
+        "pf": 23802
+      },
+      "ir": {
+        "da": 17195,
+        "vo": 40241,
+        "pf": 23802
+      }
+    },
     "skills": {
       "center": {
         "name": "ダッシュメモリアル",
@@ -182351,6 +182639,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 7890,
+        "vo": 7700,
+        "pf": 9900
+      },
+      "ir": {
+        "da": 24249,
+        "vo": 18749,
+        "pf": 39261
+      }
     },
     "skills": {
       "center": {
@@ -182398,6 +182698,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6370,
+        "vo": 5240,
+        "pf": 12240
+      },
+      "ir": {
+        "da": 22806,
+        "vo": 18193,
+        "pf": 40276
+      }
+    },
     "skills": {
       "center": {
         "name": "インテリメモリアル",
@@ -182444,6 +182756,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 7010,
+        "vo": 5740,
+        "pf": 10630
+      },
+      "ir": {
+        "da": 22605,
+        "vo": 20396,
+        "pf": 39275
+      }
+    },
     "skills": {
       "center": {
         "name": "任侠メモリアル",
@@ -182488,6 +182812,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 6100,
+        "vo": 11680,
+        "pf": 5960
+      },
+      "ir": {
+        "da": 18081,
+        "vo": 40295,
+        "pf": 22921
+      }
     },
     "skills": {
       "center": {
@@ -182534,6 +182870,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 7320,
+        "vo": 9310,
+        "pf": 6230
+      },
+      "ir": {
+        "da": 19082,
+        "vo": 39218,
+        "pf": 23919
+      }
+    },
     "skills": {
       "center": {
         "name": "新入りメモリアル",
@@ -182578,6 +182926,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 5750,
+        "vo": 5270,
+        "pf": 12450
+      },
+      "ir": {
+        "da": 23359,
+        "vo": 17635,
+        "pf": 40267
+      }
     },
     "skills": {
       "center": {
@@ -182624,6 +182984,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 10510,
+        "vo": 7170,
+        "pf": 7810
+      },
+      "ir": {
+        "da": 39289,
+        "vo": 24688,
+        "pf": 18307
+      }
+    },
     "skills": {
       "center": {
         "name": "シニカルメモリアル",
@@ -182668,6 +183040,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 13320,
+        "vo": 6670,
+        "pf": 5680
+      },
+      "ir": {
+        "da": 40224,
+        "vo": 22587,
+        "pf": 18407
+      }
     },
     "skills": {
       "center": {
@@ -182714,6 +183098,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 8090,
+        "vo": 7540,
+        "pf": 9550
+      },
+      "ir": {
+        "da": 22378,
+        "vo": 20615,
+        "pf": 39260
+      }
+    },
     "skills": {
       "center": {
         "name": "輝きメモリアル",
@@ -182759,6 +183155,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 6590,
+        "vo": 12570,
+        "pf": 6180
+      },
+      "ir": {
+        "da": 17745,
+        "vo": 40217,
+        "pf": 23251
+      }
+    },
     "skills": {
       "center": {
         "name": "嘘と本音のメモリアル",
@@ -182803,6 +183211,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 6650,
+        "vo": 6850,
+        "pf": 11750
+      },
+      "ir": {
+        "da": 22818,
+        "vo": 20179,
+        "pf": 39301
+      }
     },
     "skills": {
       "center": {
@@ -182850,6 +183270,18 @@
       "type": "campaign",
       "subType": "anniv"
     },
+    "stats": {
+      "min": {
+        "da": 12020,
+        "vo": 5620,
+        "pf": 6390
+      },
+      "ir": {
+        "da": 40241,
+        "vo": 21706,
+        "pf": 19289
+      }
+    },
     "skills": {
       "center": {
         "name": "春色メモリアル",
@@ -182895,6 +183327,18 @@
     "obtain": {
       "type": "campaign",
       "subType": "anniv"
+    },
+    "stats": {
+      "min": {
+        "da": 6870,
+        "vo": 9380,
+        "pf": 6350
+      },
+      "ir": {
+        "da": 19850,
+        "vo": 39243,
+        "pf": 23154
+      }
     },
     "skills": {
       "center": {
