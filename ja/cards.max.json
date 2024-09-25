@@ -177922,7 +177922,8 @@
       "jp": "2024-01-31"
     },
     "obtain": {
-      "type": "special"
+      "type": "campaign",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -181287,7 +181288,8 @@
       "jp": "2024-03-15"
     },
     "obtain": {
-      "type": "special"
+      "type": "campaign",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -193037,5 +193039,171 @@
       }
     },
     "associated_story": "JANUS"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4166,
+    "rarity": 5,
+    "character_id": 35,
+    "type": 2,
+    "substat_type": 1,
+    "title": "到達VANQUISH",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 521
+    },
+    "stats": {
+      "ir": {
+        "da": 22151,
+        "vo": 46503,
+        "pf": 25450
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "克服する強さ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "あの日の棘",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "成長した今",
+        "type_id": 2,
+        "description": "BAD/MISSを1回までGREATにする"
+      }
+    },
+    "spp": {
+      "name": "麗しのナイチンゲール"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VANQUISH衣装",
+          "VANQUISH衣装 (SCR)"
+        ],
+        "3d": [
+          "VANQUISH衣装",
+          "VANQUISH衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4167,
+    "rarity": 4,
+    "character_id": 25,
+    "type": 1,
+    "substat_type": 2,
+    "title": "熱意VANQUISH",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "jp": "2024-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 521
+    },
+    "stats": {
+      "ir": {
+        "da": 15583,
+        "vo": 12723,
+        "pf": 29072
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "克服する闘志",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "抜き取る棘",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "検証モード",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "WILDLAND SURVIVOR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VANQUISH衣装"
+        ]
+      }
+    },
+    "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4168,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 3,
+    "substat_type": 0,
+    "title": "行動VANQUISH",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2024-09-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 521
+    },
+    "stats": {
+      "ir": {
+        "da": 21506,
+        "vo": 10771,
+        "pf": 9225
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "克服する底力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 80％up"
+      },
+      "live": {
+        "name": "刺さらない棘",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "目隠しの先",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "VANQUISH"
   }
 ]
