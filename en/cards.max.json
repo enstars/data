@@ -19960,6 +19960,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3240,
+    "title": "Card of Resolution",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3241,
+    "title": "Card of Rumination",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3242,
+    "title": "Card of Resonance",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3243,
+    "title": "Card of Reflection",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3244,
     "title": "Illusory Silhouette",
     "name": "Yuta Aoi"
