@@ -6405,6 +6405,7 @@
     "type": "scout",
     "story_name": "JANUS",
     "story_author": "-",
+    "story_season": "春",
     "event_id": 308,
     "banner_id": 4162,
     "cards": [
@@ -6431,12 +6432,41 @@
     "type": "scout",
     "story_name": "VANQUISH",
     "story_author": "-",
+    "story_season": "春",
+    "related_id": 522,
     "event_id": 309,
     "banner_id": 4166,
     "cards": [
       4166,
       4167,
       4168
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 522,
+    "name": "VANQUISH／破錠",
+    "start_date": "2026-08-15T17:00:00Z",
+    "end_date": "2026-08-29T17:00:00Z",
+    "start": {
+      "en": "2026-08-15T17:00:00Z",
+      "jp": "2024-09-29T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-08-29T17:00:00Z",
+      "jp": "2024-10-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "VANQUISH",
+    "story_author": "-",
+    "story_season": "春",
+    "related_id": 521,
+    "event_id": 309,
+    "banner_id": 4169,
+    "cards": [
+      4169,
+      4170,
+      4171
     ]
   }
 ]

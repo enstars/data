@@ -193058,11 +193058,6 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 7870,
-        "vo": 10130,
-        "pf": 6350
-      },
       "ir": {
         "da": 22151,
         "vo": 46503,
@@ -193125,11 +193120,6 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 2500,
-        "vo": 3160,
-        "pf": 5650
-      },
       "ir": {
         "da": 15583,
         "vo": 12723,
@@ -193187,11 +193177,6 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 3090,
-        "vo": 1690,
-        "pf": 1640
-      },
       "ir": {
         "da": 21506,
         "vo": 10771,
@@ -193217,6 +193202,172 @@
         "name": "目隠しの先",
         "type_id": 5,
         "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4169,
+    "rarity": 5,
+    "character_id": 26,
+    "type": 3,
+    "substat_type": 2,
+    "title": "成長VANQUISH",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "jp": "2024-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 522
+    },
+    "stats": {
+      "ir": {
+        "da": 23072,
+        "vo": 20432,
+        "pf": 47928
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "征服する意思",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "こじ開ける錠",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "幼馴染の距離",
+        "type_id": 3,
+        "description": "GREAT・GOODを3回までPERFECTに"
+      }
+    },
+    "spp": {
+      "name": "ROCK ROAR"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VANQUISH衣装",
+          "VANQUISH衣装 (SCR)"
+        ],
+        "3d": [
+          "VANQUISH衣装",
+          "VANQUISH衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4170,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 4,
+    "substat_type": 0,
+    "title": "充実VANQUISH",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "jp": "2024-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 522
+    },
+    "stats": {
+      "ir": {
+        "da": 28555,
+        "vo": 15931,
+        "pf": 13070
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "征服する愉悦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "絡み合う錠",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "気ままな食レポ",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Genuine Revelation"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VANQUISH衣装"
+        ]
+      }
+    },
+    "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4171,
+    "rarity": 3,
+    "character_id": 23,
+    "type": 1,
+    "substat_type": 1,
+    "title": "衡平VANQUISH",
+    "name": "羽風薫",
+    "releaseDate": {
+      "jp": "2024-09-29"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 522
+    },
+    "stats": {
+      "ir": {
+        "da": 11589,
+        "vo": 19585,
+        "pf": 11807
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "征服する自由",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "外していく錠",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "撮れ高未定",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
       }
     },
     "associated_story": "VANQUISH"
