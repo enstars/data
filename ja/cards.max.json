@@ -193073,11 +193073,6 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 7870,
-        "vo": 10130,
-        "pf": 6350
-      },
       "ir": {
         "da": 22151,
         "vo": 46503,
@@ -193140,35 +193135,10 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 2500,
-        "vo": 3160,
-        "pf": 5650
-      },
       "ir": {
         "da": 15583,
         "vo": 12723,
         "pf": 29072
-      },
-      "ir1": {
-        "da": 16325,
-        "vo": 13077,
-        "pf": 33520
-      },
-      "ir2": {
-        "da": 17068,
-        "vo": 15642,
-        "pf": 35339
-      },
-      "ir3": {
-        "da": 18800,
-        "vo": 17166,
-        "pf": 36987
-      },
-      "ir4": {
-        "da": 20383,
-        "vo": 17522,
-        "pf": 41677
       }
     },
     "skills": {
@@ -193222,35 +193192,10 @@
       "id": 521
     },
     "stats": {
-      "min": {
-        "da": 3090,
-        "vo": 1690,
-        "pf": 1640
-      },
       "ir": {
         "da": 21506,
         "vo": 10771,
         "pf": 9225
-      },
-      "ir1": {
-        "da": 24469,
-        "vo": 11944,
-        "pf": 10208
-      },
-      "ir2": {
-        "da": 27543,
-        "vo": 12307,
-        "pf": 11213
-      },
-      "ir3": {
-        "da": 30336,
-        "vo": 12670,
-        "pf": 12247
-      },
-      "ir4": {
-        "da": 35010,
-        "vo": 13973,
-        "pf": 12432
       }
     },
     "skills": {
@@ -193294,20 +193239,10 @@
       "id": 522
     },
     "stats": {
-      "min": {
-        "da": 5780,
-        "vo": 5480,
-        "pf": 12200
-      },
       "ir": {
         "da": 23072,
         "vo": 20432,
         "pf": 47928
-      },
-      "ir4": {
-        "da": 27221,
-        "vo": 24585,
-        "pf": 67930
       }
     },
     "skills": {
@@ -193366,11 +193301,6 @@
       "id": 522
     },
     "stats": {
-      "min": {
-        "da": 4080,
-        "vo": 3410,
-        "pf": 3030
-      },
       "ir": {
         "da": 28555,
         "vo": 15931,
@@ -193428,11 +193358,6 @@
       "id": 522
     },
     "stats": {
-      "min": {
-        "da": 1990,
-        "vo": 2760,
-        "pf": 1690
-      },
       "ir": {
         "da": 11589,
         "vo": 19585,
@@ -193461,5 +193386,349 @@
       }
     },
     "associated_story": "VANQUISH"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4172,
+    "rarity": 5,
+    "character_id": 42,
+    "type": 1,
+    "substat_type": 0,
+    "title": "決断の闘技場",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 43726,
+        "vo": 26871,
+        "pf": 24235
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "信じるpiece",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 120％up"
+      },
+      "live": {
+        "name": "躍進GLADIATOR",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "やりがい労働",
+        "type_id": 24,
+        "description": "育成チケットのドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Psyche’s Butterfly"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "VS★GLADIATOR衣装 (SCR)",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4173,
+    "rarity": 5,
+    "character_id": 37,
+    "type": 4,
+    "substat_type": 1,
+    "title": "本音の闘技場",
+    "name": "春川宙",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 27165,
+        "vo": 40416,
+        "pf": 29135
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "感じるpiece",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 120％up"
+      },
+      "live": {
+        "name": "撃破GLADIATOR",
+        "type_id": 2,
+        "duration": 5,
+        "description": "5秒間フリックのスコア100％アップ、それ以外が30％アップ"
+      },
+      "support": {
+        "name": "見えない迷い",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "A little bit UP!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "VS★GLADIATOR衣装 (SCR)",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4174,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 2,
+    "substat_type": 2,
+    "title": "呼応の闘技場",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 14417,
+        "vo": 11780,
+        "pf": 31069
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "通じるpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "結託GLADIATOR",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "箱庭バトル",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Mischievous Party Time!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4175,
+    "rarity": 4,
+    "character_id": 83,
+    "type": 3,
+    "substat_type": 0,
+    "title": "無心の闘技場",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 30204,
+        "vo": 14776,
+        "pf": 13024
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "散じるpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "GlitterタイプのDa 80％up"
+      },
+      "live": {
+        "name": "洗礼GLADIATOR",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "子供の体力",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "BRAND NEW STARS!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4176,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 1,
+    "substat_type": 2,
+    "title": "発破の闘技場",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 11697,
+        "vo": 8402,
+        "pf": 21471
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "乱れるpiece",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "先導GLADIATOR",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "探る本心",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4177,
+    "rarity": 3,
+    "character_id": 8,
+    "type": 4,
+    "substat_type": 1,
+    "title": "連帯の闘技場",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2024-09-30"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "tour",
+      "id": 309
+    },
+    "stats": {
+      "ir": {
+        "da": 10129,
+        "vo": 19407,
+        "pf": 12768
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "絡まるpiece",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 80％up"
+      },
+      "live": {
+        "name": "転変GLADIATOR",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "双子の約束",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "VS★GLADIATOR衣装",
+          "オーディション練習着"
+        ]
+      }
+    },
+    "associated_story": "VS★GLADIATOR"
   }
 ]

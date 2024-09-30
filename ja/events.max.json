@@ -4441,6 +4441,7 @@
     "name": "オーディション VS AUDIENCE -Third piece-",
     "event_gacha": "ドミナント／Chaotic",
     "gacha_id": 515,
+    "intro_lines": "注目を集めるオーディション番組【4piece】！　第三会場『双鶏塔』に配属された渉や泉。最終日のライブ審査に参加するには、毎日入れ替わる『百人の聴衆』から好印象を獲得することが重要で……？",
     "story_name": "VS★AUDIENCE",
     "story_author": "-",
     "story_season": "春",
@@ -4509,6 +4510,7 @@
     "song_name": "WILDLAND SURVIVOR",
     "story_name": "WILDLAND",
     "story_author": "-",
+    "story_season": "春",
     "banner_id": 4157,
     "unit_id": [
       5
@@ -4519,6 +4521,40 @@
       4159,
       4160,
       4161
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 309,
+    "start_date": "2026-08-15T17:00:00Z",
+    "end_date": "2026-08-24T03:00:00Z",
+    "start": {
+      "en": "2026-08-15T17:00:00Z",
+      "jp": "2024-09-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-08-24T03:00:00Z",
+      "jp": "2024-10-08T13:00:00Z"
+    },
+    "type": "tour",
+    "name": "オーディション VS GLADIATOR -Fourth piece-",
+    "event_gacha": "VANQUISH／荊棘",
+    "gacha_id": 521,
+    "intro_lines": "注目を集めるオーディション番組【4piece】！　第四会場『闘技場』に配属されたジュンや宙。アイドル業界の箱庭と称された会場で“最強の剣闘士”を目指すが、アイドルたちはそれぞれ思い悩むことがあり……",
+    "story_name": "VS★GLADIATOR",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4172,
+    "unit_id": [
+      0
+    ],
+    "cards": [
+      4172,
+      4173,
+      4174,
+      4175,
+      4176,
+      4177
     ]
   }
 ]
