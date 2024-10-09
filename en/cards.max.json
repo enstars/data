@@ -11785,6 +11785,17 @@
     "id": 2706,
     "title": "Ninja's Rock",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Vow of SOUL"
+      },
+      "live": {
+        "name": "Resilient Soul"
+      },
+      "support": {
+        "name": "Passion Spoken in Songs"
+      }
+    },
     "releaseDate": "2024-09-22"
   },
   {
@@ -12011,6 +12022,17 @@
     "id": 2722,
     "title": "Tasty Rock",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Satiated SOUL"
+      },
+      "live": {
+        "name": "Food-Fueled Soul"
+      },
+      "support": {
+        "name": "Joy Delivered by Songs"
+      }
+    },
     "releaseDate": "2024-09-22"
   },
   {
@@ -12039,6 +12061,17 @@
     "id": 2726,
     "title": "Resonating Rock",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Earnest SOUL"
+      },
+      "live": {
+        "name": "Connecting Souls"
+      },
+      "support": {
+        "name": "Songs Connecting the World"
+      }
+    },
     "releaseDate": "2024-09-22"
   },
   {
@@ -12160,6 +12193,17 @@
     "id": 2737,
     "title": "Casual Rock",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Protective SOUL"
+      },
+      "live": {
+        "name": "Cuddling Soul"
+      },
+      "support": {
+        "name": "Songs: My Cradle"
+      }
+    },
     "releaseDate": "2024-09-22"
   },
   {
@@ -12167,6 +12211,17 @@
     "id": 2738,
     "title": "Stunning Rock",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Beautiful SOUL"
+      },
+      "live": {
+        "name": "Unwavering Soul"
+      },
+      "support": {
+        "name": "Resonating Songs"
+      }
+    },
     "releaseDate": "2024-09-22"
   },
   {
@@ -19917,6 +19972,17 @@
     "id": 3228,
     "title": "Flame of Warrior's Soul",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Persistent Flame"
+      },
+      "live": {
+        "name": "The Desired Match"
+      },
+      "support": {
+        "name": "Following Cheers"
+      }
+    },
     "releaseDate": "2024-09-14"
   },
   {
@@ -19924,6 +19990,17 @@
     "id": 3229,
     "title": "Flame of Intrepidity",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Defensive Flame"
+      },
+      "live": {
+        "name": "Pitching & Reaction Speed"
+      },
+      "support": {
+        "name": "Meeting of the Strong"
+      }
+    },
     "releaseDate": "2024-09-14"
   },
   {
@@ -19962,67 +20039,212 @@
     "compliant": "TRUE",
     "id": 3240,
     "title": "Card of Resolution",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Card Soldiers of Searching"
+      },
+      "live": {
+        "name": "Red: Answering Your Call"
+      },
+      "support": {
+        "name": "Classroom Napping"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3241,
     "title": "Card of Rumination",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Card Soldiers of Helping"
+      },
+      "live": {
+        "name": "Black: Fulfilling My Duty"
+      },
+      "support": {
+        "name": "Chats among the Roses"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3242,
     "title": "Card of Resonance",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Card Soldiers of Supporting"
+      },
+      "live": {
+        "name": "Red: True to Myself"
+      },
+      "support": {
+        "name": "Pilgrimage Road"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3243,
     "title": "Card of Reflection",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Card Soldiers of Caring"
+      },
+      "live": {
+        "name": "Black: Cautious but Bold"
+      },
+      "support": {
+        "name": "Eager Driver"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3244,
     "title": "Illusory Silhouette",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Twinkling Mirage"
+      },
+      "live": {
+        "name": "Brother Byakuya"
+      },
+      "support": {
+        "name": "In the Mirror"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3245,
     "title": "Wish Within the Illusion",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Glittering Mirage"
+      },
+      "live": {
+        "name": "Self-Taught Strength"
+      },
+      "support": {
+        "name": "Sharing Ice Cream"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3246,
     "title": "Illusion and Hesitation",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Dissolving Mirage"
+      },
+      "live": {
+        "name": "Trying to Understand"
+      },
+      "support": {
+        "name": "Role of the Caretaker"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3247,
     "title": "Illusion and Recollection",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Guiding Mirage"
+      },
+      "live": {
+        "name": "Imaginary Nightmare"
+      },
+      "support": {
+        "name": "Adolescent Emotions"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3248,
     "title": "Where Stars Feel Close",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Rooftop Omens"
+      },
+      "live": {
+        "name": "Bright Nightscape"
+      },
+      "support": {
+        "name": "A Friend's Wish"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3249,
     "title": "A New Taste",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Sweet Creations"
+      },
+      "live": {
+        "name": "Another Attempt"
+      },
+      "support": {
+        "name": "Taste Testers"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3250,
     "title": "Eye-Catching Moves",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Mysteries of Movement"
+      },
+      "live": {
+        "name": "Sexy Training"
+      },
+      "support": {
+        "name": "Colorful Observation"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3259,
+    "title": "Chill Yellow",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3260,
+    "title": "Chill Spot",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3261,
+    "title": "Chill Time",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3262,
+    "title": "Chill Out",
+    "name": "Tsukasa Suou"
   },
   {
     "compliant": "TRUE",
@@ -20057,6 +20279,17 @@
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Boiling Moment"
+      },
+      "live": {
+        "name": "Thrilling Passion"
+      },
+      "support": {
+        "name": "Cheer with Rock"
+      }
+    },
     "releaseDate": "2024-09-21"
   }
 ]
