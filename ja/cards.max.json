@@ -194065,5 +194065,171 @@
       }
     },
     "associated_story": "VS★GLADIATOR"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4178,
+    "rarity": 5,
+    "character_id": 28,
+    "type": 2,
+    "substat_type": 1,
+    "title": "もてなし＠ほーむ",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "jp": "2024-10-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 523
+    },
+    "stats": {
+      "ir": {
+        "da": 22041,
+        "vo": 46423,
+        "pf": 25556
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "うとうとするじかん",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 120％up"
+      },
+      "live": {
+        "name": "はりきりfish",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "げすとのしめい",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "ムーンライトディスコ"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アットホーム衣装",
+          "アットホーム衣装 (SCR)"
+        ],
+        "3d": [
+          "アットホーム衣装",
+          "アットホーム衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4179,
+    "rarity": 4,
+    "character_id": 16,
+    "type": 1,
+    "substat_type": 2,
+    "title": "くつろぎ＠ホーム",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "jp": "2024-10-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 523
+    },
+    "stats": {
+      "ir": {
+        "da": 15579,
+        "vo": 12720,
+        "pf": 29023
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "うとうとする部屋",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "せっかちfish",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "至福の風呂上がり",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "SWINGIN' PARONIRIA"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アットホーム衣装"
+        ]
+      }
+    },
+    "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4180,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 4,
+    "substat_type": 0,
+    "title": "どきどき＠ホーム",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-10-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 523
+    },
+    "stats": {
+      "ir": {
+        "da": 21582,
+        "vo": 10108,
+        "pf": 9886
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "うとうとする場所",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "きんちょうfish",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "アイドルの自宅",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "アットホーム"
   }
 ]
