@@ -20021,19 +20021,22 @@
     "compliant": "TRUE",
     "id": 3232,
     "title": "The Aspired One",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "releaseDate": "2024-09-23"
   },
   {
     "compliant": "TRUE",
     "id": 3233,
     "title": "Sweets Circulation",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "releaseDate": "2024-09-23"
   },
   {
     "compliant": "TRUE",
     "id": 3234,
     "title": "Laundry Time",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "releaseDate": "2024-09-23"
   },
   {
     "compliant": "TRUE",
@@ -20050,7 +20053,8 @@
       "support": {
         "name": "Classroom Napping"
       }
-    }
+    },
+    "releaseDate": "2024-09-28"
   },
   {
     "compliant": "TRUE",
@@ -20067,7 +20071,8 @@
       "support": {
         "name": "Chats among the Roses"
       }
-    }
+    },
+    "releaseDate": "2024-09-28"
   },
   {
     "compliant": "TRUE",
@@ -20084,7 +20089,8 @@
       "support": {
         "name": "Pilgrimage Road"
       }
-    }
+    },
+    "releaseDate": "2024-09-28"
   },
   {
     "compliant": "TRUE",
@@ -20101,7 +20107,8 @@
       "support": {
         "name": "Eager Driver"
       }
-    }
+    },
+    "releaseDate": "2024-09-28"
   },
   {
     "compliant": "TRUE",
@@ -20118,7 +20125,8 @@
       "support": {
         "name": "In the Mirror"
       }
-    }
+    },
+    "releaseDate": "2024-09-27"
   },
   {
     "compliant": "TRUE",
@@ -20135,7 +20143,8 @@
       "support": {
         "name": "Sharing Ice Cream"
       }
-    }
+    },
+    "releaseDate": "2024-09-27"
   },
   {
     "compliant": "TRUE",
@@ -20152,7 +20161,8 @@
       "support": {
         "name": "Role of the Caretaker"
       }
-    }
+    },
+    "releaseDate": "2024-09-27"
   },
   {
     "compliant": "TRUE",
@@ -20169,7 +20179,8 @@
       "support": {
         "name": "Adolescent Emotions"
       }
-    }
+    },
+    "releaseDate": "2024-09-27"
   },
   {
     "compliant": "TRUE",
@@ -20186,7 +20197,8 @@
       "support": {
         "name": "A Friend's Wish"
       }
-    }
+    },
+    "releaseDate": "2024-10-07"
   },
   {
     "compliant": "TRUE",
@@ -20203,7 +20215,8 @@
       "support": {
         "name": "Taste Testers"
       }
-    }
+    },
+    "releaseDate": "2024-10-07"
   },
   {
     "compliant": "TRUE",
@@ -20220,31 +20233,92 @@
       "support": {
         "name": "Colorful Observation"
       }
-    }
+    },
+    "releaseDate": "2024-10-07"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3251,
+    "title": "Land and Continent",
+    "name": "Midori Takamine",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3252,
+    "title": "Land and Sun",
+    "name": "Mitsuru Tenma",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3253,
+    "title": "Land and Trip",
+    "name": "Tetora Nagumo",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3254,
+    "title": "Land and Abroad",
+    "name": "Hajime Shino",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3255,
+    "title": "Harsh Land",
+    "name": "Tori Himemiya",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3256,
+    "title": "Separated Land",
+    "name": "Hinata Aoi",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3257,
+    "title": "Changing Land",
+    "name": "Tomoya Mashiro",
+    "releaseDate": "2024-10-12"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3258,
+    "title": "Unrestrained Land",
+    "name": "Sora Harukawa",
+    "releaseDate": "2024-10-12"
   },
   {
     "compliant": "TRUE",
     "id": 3259,
     "title": "Chill Yellow",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "releaseDate": "2024-10-11"
   },
   {
     "compliant": "TRUE",
     "id": 3260,
     "title": "Chill Spot",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "releaseDate": "2024-10-11"
   },
   {
     "compliant": "TRUE",
     "id": 3261,
     "title": "Chill Time",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "releaseDate": "2024-10-11"
   },
   {
     "compliant": "TRUE",
     "id": 3262,
     "title": "Chill Out",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "releaseDate": "2024-10-11"
   },
   {
     "compliant": "TRUE",
