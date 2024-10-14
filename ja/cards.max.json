@@ -194199,25 +194199,10 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 7700,
-        "vo": 9550,
-        "pf": 7990
-      },
       "ir": {
         "da": 22041,
         "vo": 46423,
         "pf": 25556
-      },
-      "ir1": {
-        "da": 24067,
-        "vo": 52370,
-        "pf": 26227
-      },
-      "ir4": {
-        "da": 27240,
-        "vo": 65423,
-        "pf": 30760
       }
     },
     "skills": {
@@ -194276,11 +194261,6 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 3110,
-        "vo": 2630,
-        "pf": 5860
-      },
       "ir": {
         "da": 15579,
         "vo": 12720,
@@ -194338,11 +194318,6 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 3390,
-        "vo": 1720,
-        "pf": 1620
-      },
       "ir": {
         "da": 21582,
         "vo": 10108,
@@ -194368,6 +194343,172 @@
         "name": "アイドルの自宅",
         "type_id": 4,
         "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4181,
+    "rarity": 5,
+    "character_id": 20,
+    "type": 4,
+    "substat_type": 0,
+    "title": "気づかい＠ホーム",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-10-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 524
+    },
+    "stats": {
+      "ir": {
+        "da": 47974,
+        "vo": 22847,
+        "pf": 20653
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "のびのびする姿",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "まんぞくcat",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "ふれあいの池",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Castle of my Heart"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アットホーム衣装",
+          "アットホーム衣装 (SCR)"
+        ],
+        "3d": [
+          "アットホーム衣装",
+          "アットホーム衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4182,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 2,
+    "substat_type": 2,
+    "title": "緊張＠ホーム",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-10-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 524
+    },
+    "stats": {
+      "ir": {
+        "da": 16588,
+        "vo": 12410,
+        "pf": 28529
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "のびのびする気持ち",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "どぎまぎcat",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "気になる視線",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "うさぎの森の音楽会"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アットホーム衣装"
+        ]
+      }
+    },
+    "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4183,
+    "rarity": 3,
+    "character_id": 11,
+    "type": 1,
+    "substat_type": 1,
+    "title": "爽快＠ホーム",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-10-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 524
+    },
+    "stats": {
+      "ir": {
+        "da": 10820,
+        "vo": 19590,
+        "pf": 12580
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "のびのびする空間",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "おさんぽcat",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "走り回れる庭",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
       }
     },
     "associated_story": "アットホーム"
