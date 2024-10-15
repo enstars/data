@@ -194199,25 +194199,10 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 7700,
-        "vo": 9550,
-        "pf": 7990
-      },
       "ir": {
         "da": 22041,
         "vo": 46423,
         "pf": 25556
-      },
-      "ir1": {
-        "da": 24067,
-        "vo": 52370,
-        "pf": 26227
-      },
-      "ir4": {
-        "da": 27240,
-        "vo": 65423,
-        "pf": 30760
       }
     },
     "skills": {
@@ -194276,11 +194261,6 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 3110,
-        "vo": 2630,
-        "pf": 5860
-      },
       "ir": {
         "da": 15579,
         "vo": 12720,
@@ -194338,11 +194318,6 @@
       "id": 523
     },
     "stats": {
-      "min": {
-        "da": 3390,
-        "vo": 1720,
-        "pf": 1620
-      },
       "ir": {
         "da": 21582,
         "vo": 10108,
@@ -194390,11 +194365,6 @@
       "id": 524
     },
     "stats": {
-      "min": {
-        "da": 11640,
-        "vo": 5510,
-        "pf": 6170
-      },
       "ir": {
         "da": 47974,
         "vo": 22847,
@@ -194457,11 +194427,6 @@
       "id": 524
     },
     "stats": {
-      "min": {
-        "da": 2850,
-        "vo": 3440,
-        "pf": 4750
-      },
       "ir": {
         "da": 16588,
         "vo": 12410,
@@ -194519,11 +194484,6 @@
       "id": 524
     },
     "stats": {
-      "min": {
-        "da": 1880,
-        "vo": 2830,
-        "pf": 1620
-      },
       "ir": {
         "da": 10820,
         "vo": 19590,
@@ -194552,5 +194512,235 @@
       }
     },
     "associated_story": "アットホーム"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4184,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 2,
+    "title": "寓言フェアリーテイル",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-10-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 310
+    },
+    "stats": {
+      "ir": {
+        "da": 24015,
+        "vo": 20279,
+        "pf": 48026
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "読みかけの物語",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "忘れられた夢",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "語る本音",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フェアリーテイル衣装",
+          "フェアリーテイル衣装 (SCR)"
+        ],
+        "3d": [
+          "フェアリーテイル衣装",
+          "フェアリーテイル衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "フェアリーテイル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4185,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 2,
+    "substat_type": 0,
+    "title": "夢想フェアリーテイル",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-10-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 310
+    },
+    "stats": {
+      "ir": {
+        "da": 31004,
+        "vo": 14531,
+        "pf": 11667
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "読みかけの未来",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "忘れられた弱さ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "向き合う今",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フェアリーテイル衣装"
+        ],
+        "3d": [
+          "フェアリーテイル衣装"
+        ]
+      }
+    },
+    "associated_story": "フェアリーテイル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4186,
+    "rarity": 3,
+    "character_id": 27,
+    "type": 4,
+    "substat_type": 1,
+    "title": "空想フェアリーテイル",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-10-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 310
+    },
+    "stats": {
+      "ir": {
+        "da": 8273,
+        "vo": 21523,
+        "pf": 10030
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "読みかけの台本",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 80％up"
+      },
+      "live": {
+        "name": "忘れられた想い",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "二つの境目",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フェアリーテイル衣装"
+        ],
+        "3d": [
+          "フェアリーテイル衣装"
+        ]
+      }
+    },
+    "associated_story": "フェアリーテイル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4187,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 1,
+    "substat_type": 2,
+    "title": "構想フェアリーテイル",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "jp": "2024-10-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 310
+    },
+    "stats": {
+      "ir": {
+        "da": 12533,
+        "vo": 10774,
+        "pf": 19228
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "読みかけの現在",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "SparkleタイプのPf 80％up"
+      },
+      "live": {
+        "name": "忘れられた望み",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "執事の皮肉",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "フェアリーテイル衣装"
+        ],
+        "3d": [
+          "フェアリーテイル衣装"
+        ]
+      }
+    },
+    "associated_story": "フェアリーテイル"
   }
 ]

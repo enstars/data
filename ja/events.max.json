@@ -4558,5 +4558,38 @@
       4176,
       4177
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 310,
+    "start_date": "2026-08-29T17:00:00Z",
+    "end_date": "2026-09-07T03:00:00Z",
+    "start": {
+      "en": "2026-08-28T17:00:00Z",
+      "jp": "2024-10-15T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-09-06T03:00:00Z",
+      "jp": "2024-10-23T13:00:00Z"
+    },
+    "type": "song",
+    "name": "forgotten＊読みかけのフェアリーテイル",
+    "event_gacha": "アットホーム／うとうとfish",
+    "gacha_id": 523,
+    "intro_lines": "『ATLANTIS』の建設企画を進める桃李のことを、側で見守る英智。桃李はとある本との出会いをきっかけに企画書を完成させるが、その企画は英智の感情を激しく揺さぶることになってしまう。",
+    "song_name": "Fairy Tale Library",
+    "story_name": "フェアリーテイル",
+    "story_author": "-",
+    "story_season": "春",
+    "banner_id": 4184,
+    "unit_id": [
+      2
+    ],
+    "cards": [
+      4184,
+      4185,
+      4186,
+      4187
+    ]
   }
 ]
