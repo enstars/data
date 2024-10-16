@@ -20241,6 +20241,17 @@
     "id": 3251,
     "title": "Land and Continent",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Courage in a Pinch"
+      },
+      "live": {
+        "name": "Relaxing Koala"
+      },
+      "support": {
+        "name": "A Whole New World"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20248,6 +20259,17 @@
     "id": 3252,
     "title": "Land and Sun",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Dashing Round the World"
+      },
+      "live": {
+        "name": "Energetic Kangaroo"
+      },
+      "support": {
+        "name": "Following in Circles"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20255,6 +20277,17 @@
     "id": 3253,
     "title": "Land and Trip",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Competitive Journey"
+      },
+      "live": {
+        "name": "Majestic Tasmanian Devil"
+      },
+      "support": {
+        "name": "Outdoor Cooking"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20262,6 +20295,17 @@
     "id": 3254,
     "title": "Land and Abroad",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Fear and Worry"
+      },
+      "live": {
+        "name": "Mischevious Possom"
+      },
+      "support": {
+        "name": "Big Little Brother"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20269,6 +20313,17 @@
     "id": 3255,
     "title": "Harsh Land",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Unexpected Travels"
+      },
+      "live": {
+        "name": "Overseas Live"
+      },
+      "support": {
+        "name": "Cheap Hotels and Friends"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20276,6 +20331,17 @@
     "id": 3256,
     "title": "Separated Land",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Truth of Travel"
+      },
+      "live": {
+        "name": "Advertising in a New Land"
+      },
+      "support": {
+        "name": "The Situation down South"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20283,6 +20349,17 @@
     "id": 3257,
     "title": "Changing Land",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Cultural Exchange"
+      },
+      "live": {
+        "name": "Friendship on the World Stage"
+      },
+      "support": {
+        "name": "Pulling the Reins"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20290,6 +20367,17 @@
     "id": 3258,
     "title": "Unrestrained Land",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Unfamiliar Surroundings"
+      },
+      "live": {
+        "name": "Bright, Shiny Smile"
+      },
+      "support": {
+        "name": "Safe Lifestyle"
+      }
+    },
     "releaseDate": "2024-10-12"
   },
   {
@@ -20297,6 +20385,17 @@
     "id": 3259,
     "title": "Chill Yellow",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Yellow Light"
+      },
+      "live": {
+        "name": "Relaxing View"
+      },
+      "support": {
+        "name": "Distressing Knowledge"
+      }
+    },
     "releaseDate": "2024-10-11"
   },
   {
@@ -20304,6 +20403,17 @@
     "id": 3260,
     "title": "Chill Spot",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Yellow Judgment"
+      },
+      "live": {
+        "name": "Relaxing Location"
+      },
+      "support": {
+        "name": "Vicious Cycle"
+      }
+    },
     "releaseDate": "2024-10-11"
   },
   {
@@ -20311,6 +20421,17 @@
     "id": 3261,
     "title": "Chill Time",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Yellow Line"
+      },
+      "live": {
+        "name": "Relaxing Time"
+      },
+      "support": {
+        "name": "Villainous Definition"
+      }
+    },
     "releaseDate": "2024-10-11"
   },
   {
@@ -20318,6 +20439,17 @@
     "id": 3262,
     "title": "Chill Out",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Yellow Level"
+      },
+      "live": {
+        "name": "Relaxing Moment"
+      },
+      "support": {
+        "name": "Evil Prank"
+      }
+    },
     "releaseDate": "2024-10-11"
   },
   {
