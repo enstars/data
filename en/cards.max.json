@@ -20456,19 +20456,52 @@
     "compliant": "TRUE",
     "id": 3263,
     "title": "Thrilling City Lights",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "The Importance of Image"
+      },
+      "live": {
+        "name": "Good Face, Bad Face"
+      },
+      "support": {
+        "name": "Special Memo"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3264,
     "title": "Things Unseen",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Inferred Miracles"
+      },
+      "live": {
+        "name": "Dangerous Aura"
+      },
+      "support": {
+        "name": "The Safe Route"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3265,
     "title": "Grateful Sherbet",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Reciprocated Love"
+      },
+      "live": {
+        "name": "Homemade Sherbet"
+      },
+      "support": {
+        "name": "Something Special"
+      }
+    }
   },
   {
     "compliant": "TRUE",
