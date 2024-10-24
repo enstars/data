@@ -20505,6 +20505,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3270,
+    "title": "Childhood PORTRAIT",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3271,
+    "title": "Pure PORTRAIT",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3272,
+    "title": "Fleeting PORTRAIT",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3273,
+    "title": "Nostalgic PORTRAIT",
+    "name": "Akiomi Kunugi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
