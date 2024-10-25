@@ -20505,6 +20505,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3266,
+    "title": "Ghostic Phenomenon",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3267,
+    "title": "Ghostic Experience",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3268,
+    "title": "Elaborate on the Ghostic",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3269,
+    "title": "Observe the Ghostic",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3270,
     "title": "Childhood PORTRAIT",
     "name": "Makoto Yuuki"
