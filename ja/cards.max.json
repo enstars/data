@@ -194987,5 +194987,168 @@
       }
     },
     "associated_story": "フェアリーテイル"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4188,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 4,
+    "substat_type": 0,
+    "title": "キラーの疑心",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "jp": "2024-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 525
+    },
+    "stats": {
+      "ir": {
+        "da": 46427,
+        "vo": 26003,
+        "pf": 21603
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "マジックウィンク",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 120％up"
+      },
+      "live": {
+        "name": "影に潜む真実",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "警戒アラーム",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Chocola-Tic After School"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウィンクキラー衣装",
+          "ウィンクキラー衣装 (SCR)"
+        ],
+        "3d": [
+          "ウィンクキラー衣装",
+          "ウィンクキラー衣装 (SCR)"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4189,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 2,
+    "substat_type": 1,
+    "title": "キラーの特技",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 525
+    },
+    "stats": {
+      "ir": {
+        "da": 12280,
+        "vo": 29088,
+        "pf": 16018
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "バトルウィンク",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 80％up"
+      },
+      "live": {
+        "name": "影に潜む実力",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "ネットの怪談",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "1st SING-ALONG☆"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "ウィンクキラー衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4190,
+    "rarity": 3,
+    "character_id": 67,
+    "type": 3,
+    "substat_type": 2,
+    "title": "キラーの関心",
+    "name": "天城一彩",
+    "releaseDate": {
+      "jp": "2024-10-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 525
+    },
+    "stats": {
+      "ir": {
+        "da": 10442,
+        "vo": 9557,
+        "pf": 21595
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ファイトウィンク",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "影に潜む姿",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "禁じられた箱",
+        "type_id": 13,
+        "description": "ステータスピース（黄小）のドロップ率を1.3倍にする"
+      }
+    }
   }
 ]
