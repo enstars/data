@@ -20531,25 +20531,69 @@
     "compliant": "TRUE",
     "id": 3270,
     "title": "Childhood PORTRAIT",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Confident Grin"
+      },
+      "live": {
+        "name": "Prodigious Smile"
+      },
+      "support": {
+        "name": "Innocent Gaze"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3271,
     "title": "Pure PORTRAIT",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Cool Expression"
+      },
+      "live": {
+        "name": "Prim Face"
+      },
+      "support": {
+        "name": "Clumsy Sensation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3272,
     "title": "Fleeting PORTRAIT",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Unaffected Gaze"
+      },
+      "live": {
+        "name": "Overreaching Eye"
+      },
+      "support": {
+        "name": "Industry Rival"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3273,
     "title": "Nostalgic PORTRAIT",
-    "name": "Akiomi Kunugi"
+    "name": "Akiomi Kunugi",
+    "skills": {
+      "center": {
+        "name": "Soft Smile"
+      },
+      "live": {
+        "name": "Princely Aura"
+      },
+      "support": {
+        "name": "Memorable Interview"
+      }
+    }
   },
   {
     "compliant": "TRUE",
