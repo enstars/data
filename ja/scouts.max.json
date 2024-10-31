@@ -6522,5 +6522,59 @@
       4182,
       4183
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 525,
+    "name": "ウィンクキラー／Shadows",
+    "start_date": "2026-09-08T17:00:00Z",
+    "end_date": "2026-09-22T17:00:00Z",
+    "start": {
+      "en": "2026-09-08T17:00:00Z",
+      "jp": "2024-10-25T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-09-22T17:00:00Z",
+      "jp": "2024-11-10T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ウィンクキラー",
+    "story_author": "-",
+    "story_season": "春",
+    "related_id": 526,
+    "event_id": 311,
+    "banner_id": 4188,
+    "cards": [
+      4188,
+      4189,
+      4190
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 526,
+    "name": "ウィンクキラー／Jumping",
+    "start_date": "2026-09-12T17:00:00Z",
+    "end_date": "2026-09-26T17:00:00Z",
+    "start": {
+      "en": "2026-09-12T17:00:00Z",
+      "jp": "2024-10-30T06:00:00Z"
+    },
+    "end": {
+      "en": "2026-09-26T17:00:00Z",
+      "jp": "2024-11-14T6:00:00Z"
+    },
+    "type": "scout",
+    "story_name": "ウィンクキラー",
+    "story_author": "-",
+    "story_season": "春",
+    "related_id": 525,
+    "event_id": 311,
+    "banner_id": 4191,
+    "cards": [
+      4191,
+      4192,
+      4193
+    ]
   }
 ]
