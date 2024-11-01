@@ -184578,6 +184578,116 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4011,
+    "rarity": 4,
+    "character_id": 22,
+    "type": 3,
+    "substat_type": 2,
+    "title": "理想的SPARK",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16717,
+        "vo": 14085,
+        "pf": 27043
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "まだ見ぬ夢への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "野望LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界に諦めない",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4013,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 1,
+    "substat_type": 1,
+    "title": "ときめくSPARK",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 14125,
+        "vo": 27513,
+        "pf": 15665
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "憧れへの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "我が儘LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界でも挑み続けて",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4014,
     "rarity": 4,
     "character_id": 19,
@@ -184758,6 +184868,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4018,
+    "rarity": 4,
+    "character_id": 18,
+    "type": 2,
+    "substat_type": 2,
+    "title": "眩しさSPARK",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16325,
+        "vo": 13466,
+        "pf": 27542
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "努力を続ける挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "耐久性LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に負けず",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4019,
     "rarity": 4,
     "character_id": 1,
@@ -184803,6 +184968,61 @@
         "name": "限界を突き進んで",
         "type_id": 10,
         "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4021,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 1,
+    "substat_type": 0,
+    "title": "大胆さSPARK",
+    "name": "仙石忍",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27033,
+        "vo": 15835,
+        "pf": 14963
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "可能性広げる挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "前向きLIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に臆せず",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
@@ -185248,6 +185468,116 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4030,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 2,
+    "substat_type": 1,
+    "title": "不意打ちのSPARK",
+    "name": "七種茨",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13906,
+        "vo": 27554,
+        "pf": 15888
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "手に入れ続ける挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "知略LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界は自分で見極める",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4031,
+    "rarity": 4,
+    "character_id": 42,
+    "type": 2,
+    "substat_type": 1,
+    "title": "バチバチSPARK",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 13581,
+        "vo": 27581,
+        "pf": 16224
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "広い世界へ挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "腕試しLIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界とぶつかり合って",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4032,
     "rarity": 4,
     "character_id": 35,
@@ -185433,6 +185763,116 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4035,
+    "rarity": 4,
+    "character_id": 8,
+    "type": 4,
+    "substat_type": 0,
+    "title": "抵抗のSPARK",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27585,
+        "vo": 16224,
+        "pf": 13581
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "自分らしさの挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "内面LIMIT BREAK",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "限界を抜け出して",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4036,
+    "rarity": 4,
+    "character_id": 71,
+    "type": 3,
+    "substat_type": 0,
+    "title": "突き刺すSPARK",
+    "name": "天城燐音",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27094,
+        "vo": 15615,
+        "pf": 15178
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "攻め続ける挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "争奪LIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界を切り抜ける",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4038,
     "rarity": 4,
     "character_id": 72,
@@ -185478,6 +185918,61 @@
         "name": "限界は知らない顔で",
         "type_id": 14,
         "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4040,
+    "rarity": 4,
+    "character_id": 29,
+    "type": 2,
+    "substat_type": 0,
+    "title": "眠れるSPARK",
+    "name": "朔間零",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27037,
+        "vo": 16725,
+        "pf": 14082
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "緩やかな挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "静観LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界を翻す",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
@@ -185663,6 +186158,116 @@
         "name": "限界を目標に見立てて",
         "type_id": 10,
         "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4045,
+    "rarity": 4,
+    "character_id": 30,
+    "type": 3,
+    "substat_type": 0,
+    "title": "明るさSPARK",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 27594,
+        "vo": 16105,
+        "pf": 13691
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ステップアップ挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "Glitterタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "足踏みLIMIT BREAK",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界に目を逸らさない",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4046,
+    "rarity": 4,
+    "character_id": 9,
+    "type": 2,
+    "substat_type": 2,
+    "title": "溢れるSPARK",
+    "name": "天満光",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 16834,
+        "vo": 13973,
+        "pf": 27005
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "進化への挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "前進LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界は追い越す",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
@@ -186058,6 +186663,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4055,
+    "rarity": 4,
+    "character_id": 20,
+    "type": 4,
+    "substat_type": 2,
+    "title": "激しさSPARK",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 17049,
+        "vo": 13750,
+        "pf": 27001
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "磨きをかけた挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "魅力LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界なんて気にしない",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4056,
     "rarity": 4,
     "character_id": 38,
@@ -186223,6 +186883,61 @@
         "name": "限界に怯まない",
         "type_id": 10,
         "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "LIMIT BREAK DREAMERS"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "アニバーサリーチャレンジ"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4061,
+    "rarity": 4,
+    "character_id": 82,
+    "type": 1,
+    "substat_type": 2,
+    "title": "不敵にSPARK",
+    "name": "滝維吹",
+    "releaseDate": {
+      "jp": "2024-11-01"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "anniv"
+    },
+    "stats": {
+      "ir": {
+        "da": 15673,
+        "vo": 14132,
+        "pf": 27529
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "新しい環境で挑戦",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "有用性LIMIT BREAK",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "限界はまだ知らず",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
       }
     },
     "spp": {
