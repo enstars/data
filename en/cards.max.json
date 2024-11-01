@@ -20507,25 +20507,69 @@
     "compliant": "TRUE",
     "id": 3266,
     "title": "Ghostic Phenomenon",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Nightmarish Hospitality"
+      },
+      "live": {
+        "name": "Hall of Grief"
+      },
+      "support": {
+        "name": "Bizarre Experience"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3267,
     "title": "Ghostic Experience",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Dance of Eternity"
+      },
+      "live": {
+        "name": "Horrific Performance"
+      },
+      "support": {
+        "name": "Uncomfortable Evening"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3268,
     "title": "Elaborate on the Ghostic",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Enticing Table"
+      },
+      "live": {
+        "name": "Frightening Attraction"
+      },
+      "support": {
+        "name": "House of Tricks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3269,
     "title": "Observe the Ghostic",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Delightful Feast"
+      },
+      "live": {
+        "name": "Eerie Expression"
+      },
+      "support": {
+        "name": "Gimmick Check"
+      }
+    }
   },
   {
     "compliant": "TRUE",
