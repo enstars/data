@@ -15,7 +15,9 @@
     "type": "song",
     "name": "新星団★輝きのBIGBANG！",
     "event_gacha": "ニャン銃士",
-    "gacha_id": 305,
+    "gacha_id": [
+      305
+    ],
     "intro_lines": "英智からESを紹介するという仕事の依頼を受けた『Trickstar』。しかし、いつもと様子が違うスバル。自分でも何が原因かわからず、真緒は違和感の原因を探っていく…",
     "song_name": "BIGBANG REFLECTION!!",
     "story_name": "BIGBANG",
@@ -61,7 +63,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×恋の√はAtoZ",
     "event_gacha": "√AtoZ",
-    "gacha_id": 307,
+    "gacha_id": [
+      307
+    ],
     "intro_lines": "『ES横断計画』で、シャッフルユニットを組むことになった千秋たち。デートプランを考えてくれそうなメンバーが集められるが難航。メンバーは薫にアドバイスを求めるが、どうやら調子がいつもどおりでない様子。",
     "song_name": "デートプランA to Z",
     "story_name": "デートプラン",
@@ -107,7 +111,9 @@
     "type": "tour",
     "name": "交差する／モーターショウ",
     "event_gacha": "ハニービー",
-    "gacha_id": 309,
+    "gacha_id": [
+      309
+    ],
     "intro_lines": "【モーターショウ】の仕事で『流星隊N』と『ALKALOID』は共演することになるが、後輩たちとの接し方に悩んでいる鉄虎。先輩としてお手本を見せてほしいと一彩に頼まれ、立場に戸惑いながらも忍や緑と方針を相談していく。",
     "story_name": "モーターショウ",
     "story_author": "日日日",
@@ -161,7 +167,9 @@
     "type": "song",
     "name": "春雷＊謳歌のテンペスト",
     "event_gacha": "風来坊",
-    "gacha_id": 311,
+    "gacha_id": [
+      311
+    ],
     "intro_lines": "個人の活動が増えつつあり、『fine』としての仕事を望む桃李。そんな中、弓弦の様子がぼんやりとしているようで、英智たちに相談することにする。",
     "song_name": "The Tempest Night",
     "story_name": "テンペスト",
@@ -207,7 +215,9 @@
     "type": "song",
     "name": "軋轢◆内なるコンクエスト",
     "event_gacha": "お菓子の家",
-    "gacha_id": 313,
+    "gacha_id": [
+      313
+    ],
     "intro_lines": "『Eden』が分裂し、『Adam』と『Eve』で対決！ というコズプロの企画に憤慨する日和。『Eden』の仕事も拒否するようになり、凪砂は日和に追放宣言を言い渡す……",
     "song_name": "楽園追放 -Faith Conquest-",
     "story_name": "コンクエスト",
@@ -253,7 +263,9 @@
     "type": "tour",
     "name": "召しませ／ナイトクラブ",
     "event_gacha": "盗賊王",
-    "gacha_id": 315,
+    "gacha_id": [
+      315
+    ],
     "intro_lines": "『2wink』としての自分と、個人である自分との見られ方に思い悩むゆうた。そんな折、燐音につれられて『大人』な店にひなたが入っていくところを目撃してしまう。",
     "story_name": "ナイトクラブ",
     "story_author": "日日日",
@@ -306,7 +318,9 @@
     "type": "song",
     "name": "再開＊成長見せてハイタッチ！",
     "event_gacha": "ケモノサバイバル",
-    "gacha_id": 318,
+    "gacha_id": [
+      318
+    ],
     "intro_lines": "なずな復帰のライブに向けて意気込んでいた『Ra*bits』。ところがライブは中止の危機に。上手くいかないことに苛立ち、焦る友也はなずなの元へ謝りに行くが…",
     "song_name": "Love it Love it",
     "story_name": "ハイタッチ！",
@@ -352,7 +366,9 @@
     "type": "tour",
     "name": "温故知新／継承の御前試合",
     "event_gacha": "ドールハウス",
-    "gacha_id": 320,
+    "gacha_id": [
+      320
+    ],
     "intro_lines": "零と敬人が幼いころに観ていた痛快娯楽番組『ばんぱいあ将軍』。リズリンが製作に関わっていたことからライブハウスのリニューアル公演で演じてみようという話になり、時を経て蘇ることになる。",
     "story_name": "温故知新",
     "story_author": "日日日",
@@ -405,7 +421,9 @@
     "type": "song",
     "name": "新参！目覚めの暗夜行路",
     "event_gacha": "デッドエンドランド",
-    "gacha_id": 322,
+    "gacha_id": [
+      322
+    ],
     "intro_lines": "とある事情で情報を集めていたこはく。手がかりを元に追っていると、感づいた斑と遭遇する。こはくの追っている人物にレオが関係していると知った斑は、捜査に加わろうとして……",
     "song_name": "/=EYE/=",
     "story_name": "暗夜行路",
@@ -451,7 +469,9 @@
     "type": "tour",
     "name": "踏み出す行き先／ネクストドア",
     "event_gacha": "サマースノー",
-    "gacha_id": 324,
+    "gacha_id": [
+      324
+    ],
     "intro_lines": "事務所の仕事で過労気味のつむぎ。その様子をレオは心配するが、ニューディの置かれた状況は厳しく、かつて身を削った自分の境遇を思い出す。",
     "story_name": "ネクストドア",
     "story_author": "日日日",
@@ -504,7 +524,9 @@
     "type": "song",
     "name": "降臨！紡ぎ始めるネヴァーランド",
     "event_gacha": "荒野の花",
-    "gacha_id": 326,
+    "gacha_id": [
+      326
+    ],
     "intro_lines": "芸術的なミュージシャンの祭典【日本ネヴァーランド杯】に向けて準備のため帰国した宗。みかも宗の帰りに合わせて準備をしていたが、行き詰まり路頭で迷っていた。",
     "song_name": "Eternal Weaving",
     "story_name": "ネヴァーランド",
@@ -550,7 +572,9 @@
     "type": "song",
     "name": "陽炎◆夏の名残とホットリミット",
     "event_gacha": "月見語り",
-    "gacha_id": 328,
+    "gacha_id": [
+      328
+    ],
     "intro_lines": "正式な仕事を取ってきたと、『シナモン』で時間を潰していたメンバーに意気揚々と告げる燐音。しかしニキにはニキの都合があり、燐音と出会った頃の記憶が蘇るのだった。",
     "song_name": "Honeycomb Summer",
     "story_name": "ホットリミット",
@@ -609,7 +633,9 @@
     "type": "tour",
     "name": "銀幕死闘の／桃源郷偶像拳",
     "event_gacha": "ジンロウ",
-    "gacha_id": 330,
+    "gacha_id": [
+      330
+    ],
     "intro_lines": "カンフー映画の主演を決めるオーディションが開かれることになり、参加する『Trickstar』。オーディション会場では『fine』が審査員として演技をジャッジするが、即興の演技を求められ苦戦することに。",
     "story_name": "桃源郷偶像拳",
     "story_author": "日日日",
@@ -662,7 +688,9 @@
     "type": "song",
     "name": "羨望♦小さな翼のフェザータッチ",
     "event_gacha": "スパイTHEミッション",
-    "gacha_id": 332,
+    "gacha_id": [
+      332
+    ],
     "intro_lines": "ライブでの失敗や練習におけるメンバーとの実力差に落ち込む藍良。理想と現実の間を埋めようともがく姿を見た巽は、揺らぐ後輩の心に寄り添い、自身の中にある不安について打ち明けるのだった。",
     "song_name": "Living on the edge",
     "story_name": "フェザータッチ",
@@ -708,7 +736,9 @@
     "type": "song",
     "name": "Howl！魂を燃やす不夜城",
     "event_gacha": "ハロウィンBOX",
-    "gacha_id": 334,
+    "gacha_id": [
+      334
+    ],
     "intro_lines": "不安定な様子の晃牙。薫が話を聞こうとするが、突っぱねられてしまう。先輩ふたりに頼まれてアドニスがそれとなく伺ってみると、ライブハウスに悩みの元があると言う。",
     "song_name": "Nightless World",
     "story_name": "不夜城ライブ",
@@ -754,7 +784,9 @@
     "type": "tour",
     "name": "バラエティとタッグ／ボギータイム！",
     "event_gacha": "世紀末ウォーズ",
-    "gacha_id": 336,
+    "gacha_id": [
+      336
+    ],
     "intro_lines": "バラエティ番組に凪砂の一存で『Eden』の出演を決められ、予定が狂った茨。その上日和と凪砂によって台本も変えられてしまう。",
     "story_name": "ボギータイム",
     "story_author": "日日日",
@@ -807,7 +839,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×夜の帳とバトラー",
     "event_gacha": "XXVeil",
-    "gacha_id": 338,
+    "gacha_id": [
+      338
+    ],
     "intro_lines": "事務所横断企画で映画の撮影に挑むことになり、白亜館にやってきた真たち。撮影は順調に進んでいくと思いきや、泉のこだわりがでてしまい…",
     "song_name": "Midnight Butlers",
     "story_name": "バトラー",
@@ -853,7 +887,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×白雪たちのMerryXmas",
     "event_gacha": "Branco",
-    "gacha_id": 340,
+    "gacha_id": [
+      340
+    ],
     "intro_lines": "『シャッフルユニット』の企画で集められた桃李たち。楽しみにしながら集まるが、企画担当者がいなくなるという事態に見舞われてしまう。",
     "song_name": "Sweet Sweet White Song",
     "story_name": "Merry Xmas",
@@ -897,7 +933,9 @@
     "type": "song",
     "name": "変身！星々を繋ぐコメットショウ",
     "event_gacha": "丑参り（前編）",
-    "gacha_id": 342,
+    "gacha_id": [
+      342
+    ],
     "intro_lines": "再構成されることになった『流星隊』。統合し改めて『流星隊』と他の分隊に姿を変えるが、その際千秋たちは次のライブで脱退すると言い…",
     "song_name": "彗星Halation",
     "story_name": "コメットショウ",
@@ -945,7 +983,9 @@
     "type": "song",
     "name": "Beyond！共鳴するツインピークス",
     "event_gacha": "丑参り（後編）",
-    "gacha_id": 344,
+    "gacha_id": [
+      344
+    ],
     "intro_lines": "ふたりの間で擦り合わせながらもすれ違う『2wink』。そんな中、茨から登竜門のひとつとされる音楽番組への出演依頼をされる。しかし、出場枠は一人分しか用意されておらず…",
     "song_name": "Fighting Dreamers",
     "story_name": "ツインピークス",
@@ -991,7 +1031,9 @@
     "type": "tour",
     "name": "秘宝紐解く／骨董綺譚",
     "event_gacha": "ホワイトリリー",
-    "gacha_id": 346,
+    "gacha_id": [
+      346
+    ],
     "intro_lines": "ESの近くで行われた【骨董市】。しかし、そこにキナ臭さを感じ取った『Double Face』は情報を吐き出させようと『Valkyrie』に一方的に勝負を仕掛ける…",
     "story_name": "骨董綺譚",
     "story_author": "日日日",
@@ -1042,7 +1084,9 @@
     "type": "song",
     "name": "一戦！矜持示す天下布武",
     "event_gacha": "スイートハント",
-    "gacha_id": 348,
+    "gacha_id": [
+      348
+    ],
     "intro_lines": "紅郎と敬人が口論する現場に遭遇した颯馬。喧嘩の理由は聞けず仕舞いとなるが、事務所内で『紅月』の立場が危ういという話を聞く…",
     "song_name": "紅月いろは唄",
     "story_name": "天下布武",
@@ -1088,7 +1132,9 @@
     "type": "song",
     "name": "白昼夢＊微睡みのユーサネイジア",
     "event_gacha": "怪盗フェイク",
-    "gacha_id": 350,
+    "gacha_id": [
+      350
+    ],
     "intro_lines": "『Knights』の方針で論争する泉と司。纏まる様子のない状況を見た凛月は決闘裁判を提案し、敗者にも『幸福な死』が訪れる勝負を目論むのだった。",
     "song_name": "Little Romance",
     "story_name": "euthanasia",
@@ -1136,7 +1182,9 @@
     "type": "song",
     "name": "投影★心を映す幻灯機",
     "event_gacha": "スプリングベッド",
-    "gacha_id": 352,
+    "gacha_id": [
+      352
+    ],
     "intro_lines": "星奏館の中庭で機械らしきものを見つけたスバルと宙。宙は話の種にしようと夏目の元へ持っていくがあまり興味がないようで…",
     "song_name": "オモイノカケラ",
     "story_name": "幻灯機",
@@ -1182,7 +1230,9 @@
     "type": "song",
     "name": "ショコラ♥甘風そよぐプリマヴェーラ",
     "event_gacha": "RELOADED",
-    "gacha_id": 354,
+    "gacha_id": [
+      354
+    ],
     "intro_lines": "【ショコラフェス】の開催が企画されていたが、ある事情で危ぶまれてしまう。英智と弓弦は事情を伏せることにするが、桃李は気がかりで…",
     "song_name": "恋はプリマヴェーラ！",
     "story_name": "プリマヴェーラ",
@@ -1228,7 +1278,9 @@
     "type": "tour",
     "name": "『SS』編／1st Stageサテライト",
     "event_gacha": "あそび部",
-    "gacha_id": 356,
+    "gacha_id": [
+      356
+    ],
     "intro_lines": "『SS』の予選会が始まり、『Trickstar』と『ALKALOID』はそれぞれ北海道の会場に向かっていた。しかし、『Trickstar』は何故かジャングルを彷徨っており……",
     "story_name": "サテライト",
     "story_author": "日日日",
@@ -1281,7 +1333,9 @@
     "type": "song",
     "name": "Wander！ブラックバニー in UNDERLAND",
     "event_gacha": "プリティ5",
-    "gacha_id": 358,
+    "gacha_id": [
+      358
+    ],
     "intro_lines": "次のライブの打ち合わせを控えていた『Ra*bits』。しかし、部活終わりの光に飛んできたボールが直撃し記憶が飛んでしまう…",
     "song_name": "FALLIN’LOVE=IT’S WONDERLAND",
     "story_name": "ブラックバニー",
@@ -1327,7 +1381,9 @@
     "type": "song",
     "name": "攻略！迷宮結ぶアリアドネの糸",
     "event_gacha": "ハルサキRide→ON！",
-    "gacha_id": 360,
+    "gacha_id": [
+      360
+    ],
     "intro_lines": "茨によってロケ先を迷宮に変えられた『Crazy:B』。挑戦型のバラエティ番組で、景品とペナルティをそれぞれ用意されているらしい。",
     "song_name": "指先のアリアドネ",
     "story_name": "アリアドネ",
@@ -1373,7 +1429,9 @@
     "type": "tour",
     "name": "『SS』編／2nd Stageサブマリン",
     "event_gacha": "ツツジ燃ゆる",
-    "gacha_id": 362,
+    "gacha_id": [
+      362
+    ],
     "intro_lines": "『紅月』と『流星隊』は沖縄に上陸すると現地のアイドルに囲まれてしまう。争いが活発な中、『指令』も重くのし掛かってくるのだった。",
     "story_name": "サブマリン",
     "story_author": "日日日",
@@ -1426,7 +1484,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×Ringが誘う鐘の音",
     "event_gacha": "Ring.A.Bell",
-    "gacha_id": 364,
+    "gacha_id": [
+      364
+    ],
     "intro_lines": "真緒と翠は『結婚情報誌』を嬉しそうに手に取る『プロデューサー』を目撃する。ふたりは結婚しようとしていることを悟るのだった……",
     "song_name": "Aisle, be with you",
     "story_name": "Ring",
@@ -1472,7 +1532,9 @@
     "type": "tour",
     "name": "『SS』編／3rd Stageシークレットサービス",
     "event_gacha": "ジェムスフィア",
-    "gacha_id": 366,
+    "gacha_id": [
+      366
+    ],
     "intro_lines": "九州で気ままに過ごしていた『Eden』。斑から送られた暗号を察知した茨は単身四国に乗り込むが、その先では予想外の人物が待っていた。",
     "story_name": "シークレットサービス",
     "story_author": "日日日",
@@ -1523,7 +1585,9 @@
     "type": "song",
     "name": "芳香＊忍ばせたフレグランス",
     "event_gacha": "プリズンブレイカーズ",
-    "gacha_id": 368,
+    "gacha_id": [
+      368
+    ],
     "intro_lines": "有名ブランドの香水開発に関わる仕事の依頼が来た『Knights』。嵐の愛用するブランドで大喜びするが、少し考えさせてほしいと消極的で…",
     "song_name": "Mystic Fragrance",
     "story_name": "フレグランス",
@@ -1571,7 +1635,9 @@
     "type": "tour",
     "name": "『SS』編／4th Stageシンセカイ",
     "event_gacha": "前線の番犬",
-    "gacha_id": 370,
+    "gacha_id": [
+      370
+    ],
     "intro_lines": "東北地方では『Switch』の提案により〝優勝者決定戦〟が行われ、『Valkyrie』が勝利したが、翌日外に出ると目の前にはジャングルが広がっていた…",
     "story_name": "シンセカイ",
     "story_author": "日日日",
@@ -1623,7 +1689,9 @@
     "type": "tour",
     "name": "『SS』編／5th Stageサンドストーム",
     "event_gacha": "潮騒マリーナ",
-    "gacha_id": 372,
+    "gacha_id": [
+      372
+    ],
     "intro_lines": "中国地方の予選会には『UNDEAD』と『2wink』が参加することになっていた…のだが、ひなたと薫は朝起きたら砂漠に放り出されていたのだった。",
     "story_name": "サンドストーム",
     "story_author": "日日日",
@@ -1674,7 +1742,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×月光ミラーボール",
     "event_gacha": "月都スペクタクル",
-    "gacha_id": 374,
+    "gacha_id": [
+      374
+    ],
     "intro_lines": "『かぐや姫』を題材にタイアップとなった『シャッフル企画』。しかし五人の足並みが揃わない。そこへ日和はあることを明かし…",
     "song_name": "ムーンライトディスコ",
     "story_name": "かぐや姫",
@@ -1720,7 +1790,9 @@
     "type": "tour",
     "name": "『SS』編／6th Stageサンクチュアリ",
     "event_gacha": "一騎当千",
-    "gacha_id": 376,
+    "gacha_id": [
+      376
+    ],
     "intro_lines": "悪夢にうなされていた友也が目覚めると旅館ではなく、どこかの路地裏だった。困惑しながらも辺りを歩いていると、倒れている渉を発見し…",
     "story_name": "サンクチュアリ",
     "story_author": "日日日",
@@ -1773,7 +1845,9 @@
     "type": "song",
     "name": "羽撃き◆雲散らすソリッドステージ",
     "event_gacha": "実りのOCTOBER",
-    "gacha_id": 378,
+    "gacha_id": [
+      378
+    ],
     "intro_lines": "仕事中、気の迷いからミスをしてしまったジュン。その後も調子がなかなか戻らない様子を見た茨は、予定していた新曲にある変更を加えて…",
     "song_name": "EXCEED",
     "story_name": "ソリッド",
@@ -1819,7 +1893,9 @@
     "type": "tour",
     "name": "『SS』編／7th Stageサドンデス",
     "event_gacha": "ドラマティカ",
-    "gacha_id": 380,
+    "gacha_id": [
+      380
+    ],
     "intro_lines": "関西の予選会に参加する『Knights』と『Crazy:B』、ある日それぞれの『指令』の内容が公開されてしまい、ESのアイドルたちは窮地に立たされるのだった",
     "story_name": "サドンデス",
     "story_author": "日日日",
@@ -1873,7 +1949,9 @@
     "type": "song",
     "name": "悠久の鬼◆スカーレットハロウィン",
     "event_gacha": "ソレイユ",
-    "gacha_id": 382,
+    "gacha_id": [
+      382
+    ],
     "intro_lines": "同日にあるESのイベントと事務所主催のライブで出演を迷う『紅月』。一方、颯馬も夢ノ咲学院の【ハロウィンパーティ】を控えており…",
     "song_name": "月光奇譚",
     "story_name": "スカーレットハロウィソ",
@@ -1919,7 +1997,9 @@
     "type": "song",
     "name": "深層＊裏腹に潜んだBeast",
     "event_gacha": "刑事DANCE",
-    "gacha_id": 384,
+    "gacha_id": [
+      384
+    ],
     "intro_lines": "『サスペンスと恋愛』もののドラマに出演することになった『UNDEAD』。しかし、脚本は未完で結末はまだ明かされていないことを知り…",
     "song_name": "FORBIDDEN RAIN",
     "story_name": "ビースト",
@@ -1965,7 +2045,9 @@
     "type": "song",
     "name": "ピンチ!?ズバッと両断！忍者団",
     "event_gacha": "ホットウィンター",
-    "gacha_id": 386,
+    "gacha_id": [
+      386
+    ],
     "intro_lines": "真緒から『忍者同好会』の活動停止を告げられてしまった忍。解決策を模索するが名案は浮かばない。鉄虎から初心に戻ってみようと言われ…",
     "song_name": "熱血☆流星忍法帖",
     "story_name": "忍者団",
@@ -2013,7 +2095,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×静寂の黒雪",
     "event_gacha": "La Mort",
-    "gacha_id": 388,
+    "gacha_id": [
+      388
+    ],
     "intro_lines": "映画のオーディションで選ばれた五人。しかし、凛月は零と共演することに対して複雑な様子。零も撮影が始まるとよそよそしくなり…",
     "song_name": "Noir Neige",
     "story_name": "黑雪",
@@ -2059,7 +2143,9 @@
     "type": "special",
     "name": "『SS』編／Final Stage 『SS』",
     "event_gacha": "五黄の寅",
-    "gacha_id": 390,
+    "gacha_id": [
+      390
+    ],
     "intro_lines": "『SS』の本戦が近付き、『fine』と『Eden』が総大将として特番収録に臨んでいた。様々な思惑、高まる緊張感と共にいよいよ大晦日を迎える…",
     "song_name": "Feathers of Ark;Deep of Eclipse",
     "story_name": "SS",
@@ -2119,7 +2205,9 @@
     "type": "song",
     "name": "Focus＊ファイソダー越しの四季",
     "event_gacha": "白虎舞",
-    "gacha_id": 392,
+    "gacha_id": [
+      392
+    ],
     "intro_lines": "『Trickstar』の次の新曲をそれぞれで考えることになり、企画書に頭を悩ませていた真緒。そんな折、思い出の桜の木が伐採されるという話を聞き…",
     "song_name": "Finder Girl",
     "story_name": "恋色四季",
@@ -2165,7 +2253,9 @@
     "type": "song",
     "name": "航海◆心を渡る幻影飛行船",
     "event_gacha": "アストレアの工房",
-    "gacha_id": 394,
+    "gacha_id": [
+      394
+    ],
     "intro_lines": "『SSVRS』の新ステージ【幻影飛行船】にテスト参加することになった『ALKALOID』。練習用ステージと聞いていたが、そこでは試練が待ち構えており…",
     "song_name": "Believe 4 leaves",
     "story_name": "幻影飛行船",
@@ -2211,7 +2301,9 @@
     "type": "song",
     "name": "ショコラ❤ハートで彩るLove Letter",
     "event_gacha": "ロマンチック？デイト",
-    "gacha_id": 396,
+    "gacha_id": [
+      396
+    ],
     "intro_lines": "【ショコラフェス】の諸問題で、『2wink』はライブの企画を自分たちで考えることに。余裕だった二人だが、段々意見が合わなくなっていき…",
     "song_name": "Swee2wink Love Letter",
     "story_name": "ラブレター",
@@ -2257,7 +2349,9 @@
     "type": "song",
     "name": "Shine▲多面体のトライライツ",
     "event_gacha": "色彩百花",
-    "gacha_id": 398,
+    "gacha_id": [
+      398
+    ],
     "intro_lines": "『Switch』が発足したての頃につくられた企画書が時を経て動くことになるが、『魔法使い』ではなく『スポーティ』な側面を打ち出す方向で…",
     "song_name": "Brilliant Smile",
     "story_name": "トライライツ",
@@ -2303,7 +2397,9 @@
     "type": "song",
     "name": "萌芽＊うつろいゆくエルミタージュ",
     "event_gacha": "ホワイトブリム",
-    "gacha_id": 400,
+    "gacha_id": [
+      400
+    ],
     "intro_lines": "宗は新曲のMVをみかと分担して制作を始めるが、『人形』をモチーフにした表現に難航する。苦戦するみかは貰った人形に悩みを打ち明け…",
     "song_name": "Acanthe",
     "story_name": "エルミタージュ",
@@ -2349,7 +2445,9 @@
     "type": "song",
     "name": "咲き初め＊つかの間の春宵一刻",
     "event_gacha": "きまぐれシティライダー",
-    "gacha_id": 402,
+    "gacha_id": [
+      402
+    ],
     "intro_lines": "茨に呼び出され事務所へ足を運んだこはく。裏の仕事かと思いきや、ライブ企画を依頼され引き受けることに。ひなたに相談し、打ち合わせをしていた斑に「ゲーセンに行きたい」と告げるのだった。",
     "song_name": "No name yet",
     "story_name": "春宵一刻",
@@ -2395,7 +2493,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×Easter to you☆",
     "event_gacha": "Puffy☆Bunny",
-    "gacha_id": 404,
+    "gacha_id": [
+      404
+    ],
     "intro_lines": "【イースターフェス】に『シャッフルユニット』の参加も予定していると聞いた忍たち。チャンスと思ったひなたはメンバーを提案することに。",
     "song_name": "パラダイム・リバーシ！",
     "story_name": "イースター",
@@ -2441,7 +2541,9 @@
     "type": "tour",
     "name": "追憶＊遊色が奏でるオブリガート",
     "event_gacha": "バンド『BB』",
-    "gacha_id": 406,
+    "gacha_id": [
+      406
+    ],
     "intro_lines": "コズプロ系列校の盛り上げを図った企画『COMP』によって集まったメンバー。話題は彼らの学園生活の思い出となり、過去の扉が開いていく…",
     "story_name": "オブリガート",
     "story_author": "日日日",
@@ -2491,7 +2593,9 @@
     "type": "song",
     "name": "Attack！孤軍奮闘のVS GAME",
     "event_gacha": "Orient",
-    "gacha_id": 408,
+    "gacha_id": [
+      408
+    ],
     "intro_lines": "新作ゲーム『VS』のプロモーションに『Trickstar』が起用され喜ぶ真。ところが北斗とゲーム実況対決を行うことに。真優位のまま進むと思われたが…",
     "song_name": "Daydream×Reality",
     "story_name": "VS GAME",
@@ -2537,7 +2641,9 @@
     "type": "song",
     "name": "祝辞＊爪弾くブライドライト",
     "event_gacha": "甜々ハングリー",
-    "gacha_id": 410,
+    "gacha_id": [
+      410
+    ],
     "intro_lines": "ある悩みを抱えていた薫をアドニスが見かけるが、うまく話を聞き出すことができずにいた。そこで他のメンバーを呼び出し相談することに。",
     "song_name": "Sustain Memories",
     "story_name": "ブライドライト",
@@ -2583,7 +2689,9 @@
     "type": "song",
     "name": "光明◆大空を仰ぐ三光鳥",
     "event_gacha": "バンカラグラフィティ",
-    "gacha_id": 412,
+    "gacha_id": [
+      412
+    ],
     "intro_lines": "なずなとの会話の中で、敬人が進学を考えていたことを知る颯馬。自分の進むべき道はアイドル以外の選択肢もあるのだと気づき…",
     "song_name": "夏鳥の詩 -サマーバード-",
     "story_name": "サマーバード",
@@ -2629,7 +2737,9 @@
     "type": "tour",
     "name": "分断夢ノ咲／希望を架ける七夕祭",
     "event_gacha": "敬人塾",
-    "gacha_id": 414,
+    "gacha_id": [
+      414
+    ],
     "intro_lines": "【七夕祭】の企画を今年も出した『プロデューサー』は、真緒から問題があると呼び出される。ひつぎは『平和党』に脅されたのだと説明し…",
     "story_name": "セブンブリッジ",
     "story_author": "日日日",
@@ -2681,7 +2791,9 @@
     "type": "song",
     "name": "船旅！海と出会うクルーズ",
     "event_gacha": "みずたま模様",
-    "gacha_id": 416,
+    "gacha_id": [
+      416
+    ],
     "intro_lines": "バカンスも楽しめる南の島での仕事を取って来たつむぎ。つかの間の休息と思いきや、うっかり島に取り残されてしまうのだった。",
     "song_name": "Romancing Cruise",
     "story_name": "クルーズ",
@@ -2727,7 +2839,9 @@
     "type": "song",
     "name": "夏風！異国で煌めくサンシャイン",
     "event_gacha": "アニマルズ",
-    "gacha_id": 418,
+    "gacha_id": [
+      418
+    ],
     "intro_lines": "レオがスランプに陥って曲が書けなくなってしまったと言う。それもこれも働き詰めのせいで、夏の休暇がほしいと訴えるのだった。",
     "song_name": "Coruscate Breeze",
     "story_name": "サンシャイン",
@@ -2775,7 +2889,9 @@
     "type": "tour",
     "name": "激闘夢ノ咲／存在示す体育祭！",
     "event_gacha": "レッドホットアイランド",
-    "gacha_id": 420,
+    "gacha_id": [
+      420
+    ],
     "intro_lines": "事務所での対抗戦となった夢ノ咲学院の【古式体育祭】。藍良は\"スタプロ組”の大将となるが、プレッシャーに押しつぶされそうになり――",
     "story_name": "グランドスラム",
     "story_author": "日日日",
@@ -2827,7 +2943,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×烈火の舞闘祭",
     "event_gacha": "舞闘会",
-    "gacha_id": 422,
+    "gacha_id": [
+      422
+    ],
     "intro_lines": "力自慢のアイドルを集め、肉体派の『シャッフルユニット』を結成することに。最強の男たちの戦いが、今始まる――！",
     "song_name": "FIST OF SOUL",
     "story_name": "CROSS FIRE",
@@ -2873,7 +2991,9 @@
     "type": "song",
     "name": "Fantasy♠トランプ in UNDERLAND",
     "event_gacha": "MIRAGE",
-    "gacha_id": 424,
+    "gacha_id": [
+      424
+    ],
     "intro_lines": "『ALKALOID』の今後を問われ、即答できない一彩。答えを探すため『不思議の国のアリス』をテーマにしたライブへ出演することに…",
     "song_name": "VERMILION",
     "story_name": "トランプ",
@@ -2919,7 +3039,9 @@
     "type": "tour",
     "name": "放浪夢ノ咲／大陸へ修学旅行！",
     "event_gacha": "Chill Yellow",
-    "gacha_id": 426,
+    "gacha_id": [
+      426
+    ],
     "intro_lines": "修学旅行でオーストラリアを訪れることになった光たち。“先発組”が豪華旅行を楽しむなか、“後発組”は名も知らぬ町に運ばれてしまう。",
     "story_name": "ハイアンドロー",
     "story_author": "日日日",
@@ -2971,7 +3093,9 @@
     "type": "song",
     "name": "朧な影＊ゴースティックハロウィン",
     "event_gacha": "PORTRAIT - Look back - ",
-    "gacha_id": 428,
+    "gacha_id": [
+      428
+    ],
     "intro_lines": "【ESハロウィン】に向け、気合充分の弓弦たち。豪華なお化け屋敷を開催しようと計画を進めるが、不可解な現象が起こりはじめ――",
     "song_name": "Ghostic Treat House",
     "story_name": "ゴースティック",
@@ -3017,7 +3141,9 @@
     "type": "song",
     "name": "悪戯心◆スパイダーハロウィン",
     "event_gacha": "ドーリーナイト",
-    "gacha_id": 430,
+    "gacha_id": [
+      430
+    ],
     "intro_lines": "【ESハロウィン】に参加を決めた『Crazy:B』。子供騙しのイベントと乗り切れずにいるこはくは、怖いと評判のお化け屋敷を訪れる。",
     "song_name": "Helter-Spider",
     "story_name": "スパイダー",
@@ -3063,7 +3189,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×憩う一杯とカフェテリア",
     "event_gacha": "BLEND+",
-    "gacha_id": 432,
+    "gacha_id": [
+      432
+    ],
     "intro_lines": "つむぎからお気に入りのカフェが閉店の危機にあると知らされた宗。安らげる場所を守るため、カフェ存続の道を探ることになるが……",
     "song_name": "Heart aid Cafeteria",
     "story_name": "オータムカフェテリア",
@@ -3095,7 +3223,9 @@
     "type": "tour",
     "name": "誓願夢ノ咲／最後の七不思議とスタフェス",
     "event_gacha": "秘密の宝石商",
-    "gacha_id": 434,
+    "gacha_id": [
+      434
+    ],
     "intro_lines": "夢ノ咲学園 ・一年を締めくくる最後のイベントとして【スターライトフェスティバル】の準備が始まる。平和なクリスマスイベントとなりそうだったが、忍はマヨイの姿が見えないことが気がかりで…",
     "story_name": "ブラックジャック",
     "story_author": "日日日",
@@ -3131,7 +3261,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×未知の聖夜とナイトヘッド！",
     "event_gacha": "Flambé！",
-    "gacha_id": 436,
+    "gacha_id": [
+      436
+    ],
     "intro_lines": "馴染みのメンバーでの『シャッフルユニット』企画の連絡を受け喜ぶ友也。しかし、本当の『ユニット』は曲者揃いなことが発覚し……!?",
     "song_name": "Have you been naughty or nice?",
     "story_name": "ナイトヘッド",
@@ -3163,7 +3295,9 @@
     "type": "song",
     "name": "Vision＊新たな景色を描くNEW COLOR",
     "event_gacha": "強運SCRAMBLE",
-    "gacha_id": 438,
+    "gacha_id": [
+      438
+    ],
     "intro_lines": "所長から『どんな願いでも叶えてやろう』と言われ、『MaM』の仕事をしたいと申し出た斑。何をするかわからぬまま、山奥に向かうが……",
     "song_name": "HELLO, NEW YEAR!",
     "story_name": "ポルターガイスト",
@@ -3196,7 +3330,9 @@
     "type": "song",
     "name": "社会人☆門出を出発新GO！",
     "event_gacha": "乱雲FUMBLE",
-    "gacha_id": 440,
+    "gacha_id": [
+      440
+    ],
     "intro_lines": "『社会人体験』の番組企画に参加する『Ra*bits』。不慣れな仕事に四苦八苦するなか、創は勤め先の新人の様子が気になるようで……",
     "song_name": "ハレノヒSugar Wave",
     "story_name": "出発新GO！",
@@ -3229,7 +3365,9 @@
     "type": "song",
     "name": "彩星！全てを包むthe Universe",
     "event_gacha": "フェアなワルツ",
-    "gacha_id": 442,
+    "gacha_id": [
+      442
+    ],
     "intro_lines": "稽古中のアクシデントで亀裂が生じてしまった『流星隊』 。それから半年、鉄虎が脱退し新しい団体のリーダーになるニュースが流れて…!?",
     "song_name": "Colors Arise",
     "story_name": "スーパーヴィラン",
@@ -3263,7 +3401,9 @@
     "type": "song",
     "name": "ショコラ◆格別な一粒Rouge&Ruby",
     "event_gacha": "クラフトモンスター",
-    "gacha_id": 444,
+    "gacha_id": [
+      444
+    ],
     "intro_lines": "今年からＥＳでも開催されることになった【ショコラフェス】。茨は『Adam』・『Eve』としてのステージも披露することを発表する。",
     "song_name": "Melting Rouge Soul;Ruby Love",
     "story_name": "Rouge&Ruby",
@@ -3296,7 +3436,9 @@
     "type": "song",
     "name": "独創◆先行くマキナの回廊",
     "event_gacha": "赤面フラッシュ",
-    "gacha_id": 446,
+    "gacha_id": [
+      446
+    ],
     "intro_lines": "作品の構想に悩みアイディアの源を求めるみかは、『SSVRS』に新設された『テストワールド』に案内され、次第にのめり込んでいく。",
     "song_name": "迷宮電子回廊",
     "story_name": "マキナ",
@@ -3329,7 +3471,9 @@
     "type": "tour",
     "name": "波乱の夢の先／君と立つグラデュエーション",
     "event_gacha": "共に進む先",
-    "gacha_id": 448,
+    "gacha_id": [
+      448
+    ],
     "intro_lines": "『――本年度を最後に、夢ノ咲は事実上廃校になる』と告げられる生徒たち。スバルは賛成派、北斗は反対派として意見を主張するが……",
     "story_name": "グラデュエーション",
     "story_author": "日日日",
@@ -3365,7 +3509,9 @@
     "type": "song",
     "name": "謝儀！寄せては返すBig Ocean",
     "event_gacha": "スコルピオの毒",
-    "gacha_id": 450,
+    "gacha_id": [
+      450
+    ],
     "intro_lines": "【返礼祭】に向け、計画を練るひなた。ゆうたと共に準備を始めるが、今年は【ホワイトショコラフェス】に変わってしまうことが発覚し……",
     "song_name": "Turbulent Storm",
     "story_name": "Big Ocean",
@@ -3398,7 +3544,9 @@
     "type": "special",
     "name": "Origin★星空を歌うAltered",
     "event_gacha": "風変わりな終止たち",
-    "gacha_id": 452,
+    "gacha_id": [
+      452
+    ],
     "song_name": "Twilight Pentagram, Dawning Angels",
     "story_name": "オルタード",
     "story_author": "日日日",
@@ -3431,7 +3579,9 @@
     "type": "song",
     "name": "ひと雫＊特別を選んだMad Party in UNDERLAND",
     "event_gacha": "バツ×バッテン",
-    "gacha_id": 454,
+    "gacha_id": [
+      454
+    ],
     "song_name": "Or the Beautiful Golden Drop",
     "story_name": "Mad Party",
     "story_author": "木野誠太郎",
@@ -3462,7 +3612,9 @@
     "type": "tour",
     "name": "花婿修行？／ウェディングマーチ！",
     "event_gacha": "漫画会",
-    "gacha_id": 456,
+    "gacha_id": [
+      456
+    ],
     "story_name": "ウェディングマーチ",
     "story_author": "ゆーます",
     "story_season": "秋",
@@ -3496,7 +3648,9 @@
     "type": "song",
     "name": "スゴロク旅！BGMはナンバーエイト",
     "event_gacha": "ビブリオン",
-    "gacha_id": 458,
+    "gacha_id": [
+      458
+    ],
     "song_name": "Crazy Anthem",
     "story_name": "ナンバーエイト",
     "story_author": "木野誠太郎",
@@ -3528,7 +3682,9 @@
     "type": "song",
     "name": "無限大★僕らの可能性パラレルワールド",
     "event_gacha": "雨垂れショーウィンドウ",
-    "gacha_id": 460,
+    "gacha_id": [
+      460
+    ],
     "song_name": "パラレルメイズ",
     "story_name": "パラレルワールド",
     "story_author": "日日日",
@@ -3560,7 +3716,9 @@
     "type": "song",
     "name": "ぎゅっと☆好きを詰めたトロピカルパラダイス",
     "event_gacha": "サンタンSUMMER",
-    "gacha_id": 462,
+    "gacha_id": [
+      462
+    ],
     "song_name": "RELAX PARADISE",
     "story_name": "トロピカル",
     "story_author": "木野誠太郎",
@@ -3593,7 +3751,9 @@
     "type": "tour",
     "name": "料理対決／漂流？アイランド",
     "event_gacha": "夕立のパドル",
-    "gacha_id": 464,
+    "gacha_id": [
+      464
+    ],
     "story_name": "ゲットアイランド",
     "story_author": "西岡麻衣子",
     "story_season": "夏",
@@ -3627,7 +3787,9 @@
     "type": "song",
     "name": "ガーディアンズ◆アイとラストミッション",
     "event_gacha": "幻想夜光",
-    "gacha_id": 466,
+    "gacha_id": [
+      466
+    ],
     "song_name": "Bye-Bye Buddy",
     "story_name": "ラストミッション",
     "story_author": "日日日",
@@ -3659,7 +3821,9 @@
     "type": "song",
     "name": "蒼海＊輝く真実のアトランティス",
     "event_gacha": "ナイトキラーズ",
-    "gacha_id": 468,
+    "gacha_id": [
+      468
+    ],
     "song_name": "Dreaming Ocean",
     "story_name": "アトランティス",
     "story_author": "日日日",
@@ -3691,7 +3855,9 @@
     "type": "song",
     "name": "Remplacer＊語る人形とレゾンデートル",
     "event_gacha": "海の鼓動 - Look back -",
-    "gacha_id": 470,
+    "gacha_id": [
+      470
+    ],
     "song_name": "Le temps des fleurs",
     "story_name": "レゾンデートル",
     "story_author": "日日日",
@@ -3723,7 +3889,9 @@
     "type": "tour",
     "name": "謎・解／エスケープマンション",
     "event_gacha": "スポーツサバイバー",
-    "gacha_id": 472,
+    "gacha_id": [
+      472
+    ],
     "story_name": "エスケープマンション",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -3757,7 +3925,9 @@
     "type": "song",
     "name": "表裏◆LiesアンドTruthの2×2",
     "event_gacha": "プライベートルーム",
-    "gacha_id": 474,
+    "gacha_id": [
+      474
+    ],
     "song_name": "Love×me⇄monsteR",
     "story_name": "２×２",
     "story_author": "日日日",
@@ -3789,7 +3959,9 @@
     "type": "song",
     "name": "明ける夜＊ホリスティックハロウィン",
     "event_gacha": "月隠れの宴",
-    "gacha_id": 476,
+    "gacha_id": [
+      476
+    ],
     "song_name": "UNDYING HOLY LOVE",
     "story_name": "HOLISTIC HOLIC",
     "story_author": "木野誠太郎",
@@ -3821,7 +3993,9 @@
     "type": "tour",
     "name": "シンケン勝負／チャンバラナイト",
     "event_gacha": "君の依代",
-    "gacha_id": 478,
+    "gacha_id": [
+      478
+    ],
     "story_name": "CHANCE×伐折羅×NIGHT",
     "story_author": "西岡麻衣子",
     "story_season": "秋",
@@ -3855,7 +4029,9 @@
     "type": "song",
     "name": "分かれ道＊憧れた姿とフラッシュバック",
     "event_gacha": "Made Me",
-    "gacha_id": 480,
+    "gacha_id": [
+      480
+    ],
     "song_name": "Resurrection of Soul",
     "story_name": "フラッシュバック",
     "story_author": "日日日",
@@ -3887,7 +4063,9 @@
     "type": "song",
     "name": "昇華＊天地鳴動の晴レ舞台",
     "event_gacha": "カラーコード",
-    "gacha_id": 482,
+    "gacha_id": [
+      482
+    ],
     "song_name": "金色千夜夢舞台",
     "story_name": "天と地と",
     "story_author": "日日日",
@@ -3919,7 +4097,9 @@
     "type": "song",
     "name": "贈り物★子供たちのためのXday！",
     "event_gacha": "ホワイトベア",
-    "gacha_id": 484,
+    "gacha_id": [
+      484
+    ],
     "song_name": "Romantic Xday!",
     "story_name": "Xday",
     "story_author": "日日日",
@@ -3951,7 +4131,9 @@
     "type": "tour",
     "name": "探り合いの出目／双六盤上戦",
     "event_gacha": "黄金天",
-    "gacha_id": 486,
+    "gacha_id": [
+      486
+    ],
     "story_name": "双六盤上戦",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -3985,7 +4167,9 @@
     "type": "song",
     "name": "Reverb★水平線を渡るステラマリス",
     "event_gacha": "宝相華",
-    "gacha_id": 488,
+    "gacha_id": [
+      488
+    ],
     "song_name": "僕らのステラ",
     "story_name": "ステラマリス",
     "story_author": "日日日",
@@ -4018,7 +4202,9 @@
     "type": "song",
     "name": "ショコラ△瞳の中のキャンディーハウス",
     "event_gacha": "恋こい喫茶",
-    "gacha_id": 490,
+    "gacha_id": [
+      490
+    ],
     "song_name": "Chocola-Tic After School",
     "story_name": "キャンディーハウス",
     "story_author": "日日日",
@@ -4050,7 +4236,9 @@
     "type": "tour",
     "name": "応えたい想い／つぶらな梅花雪花",
     "event_gacha": "グルマンの香り",
-    "gacha_id": 492,
+    "gacha_id": [
+      492
+    ],
     "story_name": "梅花雪花",
     "story_author": "ゆーます",
     "story_season": "冬",
@@ -4084,7 +4272,9 @@
     "type": "song",
     "name": "楽園へ＊無垢なる望みのアブソリュート",
     "event_gacha": "刹那の白",
-    "gacha_id": 494,
+    "gacha_id": [
+      494
+    ],
     "song_name": "Absolute Perfection",
     "story_name": "アブソリュート",
     "story_author": "日日日",
@@ -4116,7 +4306,9 @@
     "type": "song",
     "name": "戴く冠◆決意のギャンビット",
     "event_gacha": "瞬ぎと展覧会",
-    "gacha_id": 496,
+    "gacha_id": [
+      496
+    ],
     "song_name": "Luminous Crown",
     "story_name": "ギャンビット",
     "story_author": "日日日",
@@ -4149,7 +4341,9 @@
     "type": "tour",
     "name": "双頭×流儀／ドラゴンズヘッド",
     "event_gacha": "フィーチャースカウト 斑編2",
-    "gacha_id": 498,
+    "gacha_id": [
+      498
+    ],
     "story_name": "ドラゴンズヘッド",
     "story_author": "-",
     "story_season": "冬",
@@ -4183,7 +4377,9 @@
     "type": "special",
     "name": "Answer★星と惹かれ合うマトリックス",
     "event_gacha": "蜂と飛び回るスート",
-    "gacha_id": 500,
+    "gacha_id": [
+      500
+    ],
     "song_name": "SAKE OF LOVE",
     "story_name": "マトリックス",
     "story_author": "日日日",
@@ -4216,7 +4412,9 @@
     "type": "shuffle",
     "name": "SHUFFLE×囁くイービルTELEPHONE",
     "event_gacha": "EVIL NUM+",
-    "gacha_id": 502,
+    "gacha_id": [
+      502
+    ],
     "song_name": "Ringing evil phone",
     "story_name": "イービルTELEPHONE",
     "story_author": "-",
@@ -4246,8 +4444,10 @@
     },
     "type": "tour",
     "name": "オーディション VS PRINCESS -First piece-",
-    "event_gacha": "インテリジェンス／Reasoning",
-    "gacha_id": 503,
+    "gacha_id": [
+      503,
+      504
+    ],
     "intro_lines": "ついに始動するオーディション番組【4piece】！　第一会場『王子城』に配属された真緒やレオは、挑戦者全員で協力し、一週間後に“『最高の舞踏会』を開催せよ”という課題へ挑むことになる。",
     "story_name": "VS★PRINCESS",
     "story_author": "-",
@@ -4280,8 +4480,10 @@
     },
     "type": "song",
     "name": "ロマンス★歌に乗せるSWING NIGHT",
-    "event_gacha": "華一滴／凛然",
-    "gacha_id": 505,
+    "gacha_id": [
+      505,
+      506
+    ],
     "song_name": "SWINGIN' PARONIRIA",
     "story_name": "SWING NIGHT",
     "story_author": "-",
@@ -4312,8 +4514,10 @@
     },
     "type": "song",
     "name": "ココロネ＊ふたりを繋ぐ天音色",
-    "event_gacha": "プロメッサ／Regola",
-    "gacha_id": 507,
+    "gacha_id": [
+      507,
+      508
+    ],
     "song_name": "Twin Wedding Vows",
     "story_name": "天音色",
     "story_author": "-",
@@ -4344,8 +4548,10 @@
     },
     "type": "tour",
     "name": "オーディション VS GOURMET -Second piece-",
-    "event_gacha": "ハッピーチャーム／Sunny Side",
-    "gacha_id": 509,
+    "gacha_id": [
+      509,
+      510
+    ],
     "intro_lines": "注目を集めるオーディション番組【4piece】！　第二会場『美食街』に配属された千秋や光は、ひとりずつ店を与えられ“レストラン経営勝負”へ挑むことに。まずは課題メニューに挑戦する一同だが……",
     "story_name": "VS★GOURMET",
     "story_author": "-",
@@ -4378,8 +4584,10 @@
     },
     "type": "song",
     "name": "夏香る！黄色いサマースパークル",
-    "event_gacha": "パープレックス／惑溺",
-    "gacha_id": 511,
+    "gacha_id": [
+      511,
+      512
+    ],
     "song_name": "SunnyTrip Summer",
     "story_name": "スパークル",
     "story_author": "-",
@@ -4410,8 +4618,10 @@
     },
     "type": "shuffle",
     "name": "SHUFFLE×永久の迷い子バラッド",
-    "event_gacha": "M∀N∀",
-    "gacha_id": 514,
+    "gacha_id": [
+      513,
+      514
+    ],
     "song_name": "喪失寓意 -LOST BALLADE-",
     "story_name": "迷い子バラッド",
     "story_author": "-",
@@ -4441,8 +4651,10 @@
     },
     "type": "tour",
     "name": "オーディション VS AUDIENCE -Third piece-",
-    "event_gacha": "ドミナント／Chaotic",
-    "gacha_id": 515,
+    "gacha_id": [
+      515,
+      516
+    ],
     "intro_lines": "注目を集めるオーディション番組【4piece】！　第三会場『双鶏塔』に配属された渉や泉。最終日のライブ審査に参加するには、毎日入れ替わる『百人の聴衆』から好印象を獲得することが重要で……？",
     "story_name": "VS★AUDIENCE",
     "story_author": "-",
@@ -4475,8 +4687,10 @@
     },
     "type": "song",
     "name": "夜遊び★ウタカタらう瞬祭礼",
-    "event_gacha": "ブリリアンスプリンス／starlight",
-    "gacha_id": 517,
+    "gacha_id": [
+      517,
+      518
+    ],
     "song_name": "UTAKATA DANCE FLOOR",
     "story_name": "瞬祭礼",
     "story_author": "-",
@@ -4507,8 +4721,10 @@
     },
     "type": "song",
     "name": "激走◆チェイス・チェシャ in WILDLAND",
-    "event_gacha": "フィーチャースカウト 冬芽編",
-    "gacha_id": 519,
+    "gacha_id": [
+      519,
+      520
+    ],
     "song_name": "WILDLAND SURVIVOR",
     "story_name": "WILDLAND",
     "story_author": "-",
@@ -4540,8 +4756,10 @@
     },
     "type": "tour",
     "name": "オーディション VS GLADIATOR -Fourth piece-",
-    "event_gacha": "VANQUISH／荊棘",
-    "gacha_id": 521,
+    "gacha_id": [
+      521,
+      522
+    ],
     "intro_lines": "注目を集めるオーディション番組【4piece】！　第四会場『闘技場』に配属されたジュンや宙。アイドル業界の箱庭と称された会場で“最強の剣闘士”を目指すが、アイドルたちはそれぞれ思い悩むことがあり……",
     "story_name": "VS★GLADIATOR",
     "story_author": "-",
@@ -4574,8 +4792,10 @@
     },
     "type": "song",
     "name": "forgotten＊読みかけのフェアリーテイル",
-    "event_gacha": "アットホーム／うとうとfish",
-    "gacha_id": 523,
+    "gacha_id": [
+      523,
+      524
+    ],
     "intro_lines": "『ATLANTIS』の建設企画を進める桃李のことを、側で見守る英智。桃李はとある本との出会いをきっかけに企画書を完成させるが、その企画は英智の感情を激しく揺さぶることになってしまう。",
     "song_name": "Fairy Tale Library",
     "story_name": "フェアリーテイル",
@@ -4607,7 +4827,10 @@
     },
     "type": "song",
     "name": "遠吠えの森★ルーピンハロウィン",
-    "gacha_id": "#N/A",
+    "gacha_id": [
+      525,
+      526
+    ],
     "intro_lines": "勢いに乗って、『MaM』の新しい一歩を踏み出し張り切る斑。微妙な関係が続いている『プロデューサー』と一緒に何か大きい企画をしたいと考えていたところ、昨年度に没となったとある企画書を発見する。",
     "song_name": "ハロウィン・ランデブー",
     "story_name": "ルーピンハロウィン",
