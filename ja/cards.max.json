@@ -196514,6 +196514,9 @@
         "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
       }
     },
+    "spp": {
+      "name": "Fairy Tale Library"
+    },
     "items": {
       "outfit": {
         "l2d": [
@@ -196577,6 +196580,9 @@
         "type_id": 6,
         "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
       }
+    },
+    "spp": {
+      "name": "Fairy Tale Library"
     },
     "items": {
       "outfit": {
