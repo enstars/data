@@ -20467,7 +20467,8 @@
       "support": {
         "name": "Special Memo"
       }
-    }
+    },
+    "releaseDate": "2024-10-21"
   },
   {
     "compliant": "TRUE",
@@ -20484,7 +20485,8 @@
       "support": {
         "name": "The Safe Route"
       }
-    }
+    },
+    "releaseDate": "2024-10-21"
   },
   {
     "compliant": "TRUE",
@@ -20501,7 +20503,8 @@
       "support": {
         "name": "Something Special"
       }
-    }
+    },
+    "releaseDate": "2024-10-21"
   },
   {
     "compliant": "TRUE",
@@ -20518,7 +20521,8 @@
       "support": {
         "name": "Bizarre Experience"
       }
-    }
+    },
+    "releaseDate": "2024-10-26"
   },
   {
     "compliant": "TRUE",
@@ -20535,7 +20539,8 @@
       "support": {
         "name": "Uncomfortable Evening"
       }
-    }
+    },
+    "releaseDate": "2024-10-26"
   },
   {
     "compliant": "TRUE",
@@ -20552,7 +20557,8 @@
       "support": {
         "name": "House of Tricks"
       }
-    }
+    },
+    "releaseDate": "2024-10-26"
   },
   {
     "compliant": "TRUE",
@@ -20569,7 +20575,8 @@
       "support": {
         "name": "Gimmick Check"
       }
-    }
+    },
+    "releaseDate": "2024-10-26"
   },
   {
     "compliant": "TRUE",
@@ -20586,7 +20593,8 @@
       "support": {
         "name": "Innocent Gaze"
       }
-    }
+    },
+    "releaseDate": "2024-10-25"
   },
   {
     "compliant": "TRUE",
@@ -20603,7 +20611,8 @@
       "support": {
         "name": "Clumsy Sensation"
       }
-    }
+    },
+    "releaseDate": "2024-10-25"
   },
   {
     "compliant": "TRUE",
@@ -20620,7 +20629,8 @@
       "support": {
         "name": "Industry Rival"
       }
-    }
+    },
+    "releaseDate": "2024-10-25"
   },
   {
     "compliant": "TRUE",
@@ -20637,25 +20647,29 @@
       "support": {
         "name": "Memorable Interview"
       }
-    }
+    },
+    "releaseDate": "2024-10-25"
   },
   {
     "compliant": "TRUE",
     "id": 3274,
     "title": "Tender Touch",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "releaseDate": "2024-11-04"
   },
   {
     "compliant": "TRUE",
     "id": 3275,
     "title": "A Fluttering Day",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "releaseDate": "2024-11-04"
   },
   {
     "compliant": "TRUE",
     "id": 3276,
     "title": "The Surgeon",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "releaseDate": "2024-11-04"
   },
   {
     "compliant": "TRUE",
