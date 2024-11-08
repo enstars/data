@@ -65079,6 +65079,86 @@
   },
   {
     "compliant": "TRUE",
+    "id": 90001,
+    "rarity": 4,
+    "character_id": 67,
+    "title": "懵懂的舞台",
+    "name": "天城一彩",
+    "releaseDate": {
+      "cn": "2020-11-27",
+      "tw": "2021-02-05",
+      "en": "2022-06-16"
+    },
+    "obtain": {
+      "type": "special"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90002,
+    "rarity": 3,
+    "character_id": 68,
+    "title": "稚羽的舞台",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "cn": "2020-11-27",
+      "tw": "2021-02-05",
+      "en": "2022-06-16"
+    },
+    "obtain": {
+      "type": "special"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90003,
+    "rarity": 3,
+    "character_id": 69,
+    "title": "逆光的舞台",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "cn": "2020-11-27",
+      "tw": "2021-02-05",
+      "en": "2022-06-16"
+    },
+    "obtain": {
+      "type": "special"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90004,
+    "rarity": 3,
+    "character_id": 70,
+    "title": "重生的舞台",
+    "name": "風早巽",
+    "releaseDate": {
+      "cn": "2020-11-27",
+      "tw": "2021-02-05",
+      "en": "2022-06-16"
+    },
+    "obtain": {
+      "type": "special"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90005,
+    "rarity": 3,
+    "character_id": 11,
+    "title": "群星的旋律",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2020-11-27",
+      "tw": "2021-02-05",
+      "en": "2022-06-16"
+    },
+    "obtain": {
+      "type": "special"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 2597,
     "rarity": 5,
     "character_id": 24,
