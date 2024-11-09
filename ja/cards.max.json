@@ -199807,6 +199807,1083 @@
   },
   {
     "compliant": "TRUE",
+    "id": 90006,
+    "rarity": 5,
+    "character_id": 71,
+    "type": 1,
+    "title": "鸿运当头",
+    "name": "天城燐音",
+    "releaseDate": {
+      "cn": "2021-02-09"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90007,
+    "rarity": 4,
+    "character_id": 10,
+    "type": 4,
+    "title": "幸运点心",
+    "name": "朱桜司",
+    "releaseDate": {
+      "cn": "2021-02-09"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90008,
+    "rarity": 3,
+    "character_id": 38,
+    "type": 2,
+    "title": "幸运魔法",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2021-02-09"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90009,
+    "rarity": 3,
+    "character_id": 26,
+    "type": 3,
+    "title": "幸运玩偶",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "cn": "2021-02-09"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90010,
+    "rarity": 4,
+    "character_id": 74,
+    "type": 1,
+    "title": "拿手好菜",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "cn": "2021-02-11"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90013,
+    "rarity": 5,
+    "character_id": 25,
+    "type": 2,
+    "title": "跃动之辉",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "cn": "2021-04-03",
+      "tw": "2021-05-02",
+      "en": "2023-02-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90014,
+    "rarity": 4,
+    "character_id": 1,
+    "type": 4,
+    "title": "憧憬之辉",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "cn": "2021-04-03",
+      "tw": "2021-05-02",
+      "en": "2023-02-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90015,
+    "rarity": 3,
+    "character_id": 7,
+    "type": 3,
+    "title": "机敏之辉",
+    "name": "仙石忍",
+    "releaseDate": {
+      "cn": "2021-04-03",
+      "tw": "2021-05-02",
+      "en": "2023-02-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90016,
+    "rarity": 3,
+    "character_id": 8,
+    "type": 1,
+    "title": "活力之辉",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "cn": "2021-04-03",
+      "tw": "2021-05-02",
+      "en": "2023-02-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90017,
+    "rarity": 5,
+    "character_id": 29,
+    "type": 1,
+    "title": "谧影之神",
+    "name": "朔間零",
+    "releaseDate": {
+      "cn": "2021-05-28",
+      "en": "2022-12-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90018,
+    "rarity": 4,
+    "character_id": 50,
+    "type": 3,
+    "title": "明察之神",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "cn": "2021-05-28",
+      "en": "2022-12-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90019,
+    "rarity": 3,
+    "character_id": 15,
+    "type": 2,
+    "title": "求知之神",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "cn": "2021-05-28",
+      "en": "2022-12-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90020,
+    "rarity": 3,
+    "character_id": 51,
+    "type": 4,
+    "title": "狡黠之神",
+    "name": "七種茨",
+    "releaseDate": {
+      "cn": "2021-05-28",
+      "en": "2022-12-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90021,
+    "rarity": 5,
+    "character_id": 41,
+    "type": 3,
+    "title": "晴日之歌",
+    "name": "巴日和",
+    "releaseDate": {
+      "cn": "2021-08-12",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90022,
+    "rarity": 4,
+    "character_id": 6,
+    "type": 2,
+    "title": "逐浪之歌",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "cn": "2021-08-12",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90023,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 1,
+    "title": "活力之夏",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2021-08-12",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90024,
+    "rarity": 3,
+    "character_id": 19,
+    "type": 4,
+    "title": "悠闲之夏",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "cn": "2021-08-12",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90025,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 3,
+    "title": "奇思妙想",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2021-10-02",
+      "tw": "2021-11-10"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90026,
+    "rarity": 4,
+    "character_id": 40,
+    "type": 1,
+    "title": "神机妙术",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "cn": "2021-10-02",
+      "tw": "2021-11-10"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90027,
+    "rarity": 3,
+    "character_id": 22,
+    "type": 2,
+    "title": "妙趣横生",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "cn": "2021-10-02",
+      "tw": "2021-11-10"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90028,
+    "rarity": 3,
+    "character_id": 21,
+    "type": 4,
+    "title": "妙言要道",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "cn": "2021-10-02",
+      "tw": "2021-11-10"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90029,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 2,
+    "title": "璀璨的前方",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2021-10-02",
+      "tw": "2021-11-10"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90030,
+    "rarity": 5,
+    "character_id": 67,
+    "type": 2,
+    "title": "无瑕的祝福",
+    "name": "天城一彩",
+    "releaseDate": {
+      "cn": "2021-11-27",
+      "en": "2023-06-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90031,
+    "rarity": 4,
+    "character_id": 38,
+    "type": 3,
+    "title": "真意与祝福",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2021-11-27",
+      "en": "2023-06-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90032,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 4,
+    "title": "陪伴与祝福",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "cn": "2021-11-27",
+      "en": "2023-06-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90033,
+    "rarity": 3,
+    "character_id": 37,
+    "type": 1,
+    "title": "成长与祝福",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2021-11-27",
+      "en": "2023-06-16"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90034,
+    "rarity": 5,
+    "character_id": 2,
+    "type": 4,
+    "title": "惬意时光",
+    "name": "紫之創",
+    "releaseDate": {
+      "cn": "2021-11-27",
+      "tw": "2022-01-30",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90035,
+    "rarity": 5,
+    "character_id": 22,
+    "type": 2,
+    "title": "繁华春景",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "cn": "2022-01-30",
+      "tw": "2022-01-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90036,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 4,
+    "title": "晴朗春景",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2022-01-30",
+      "tw": "2022-01-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90037,
+    "rarity": 3,
+    "character_id": 18,
+    "type": 1,
+    "title": "和煦春景",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "cn": "2022-01-30",
+      "tw": "2022-01-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90038,
+    "rarity": 3,
+    "character_id": 68,
+    "type": 3,
+    "title": "和暖春景",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "cn": "2022-01-30",
+      "tw": "2022-01-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90039,
+    "rarity": 4,
+    "character_id": 4,
+    "type": 1,
+    "title": "笑语迎春",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "cn": "2022-01-30",
+      "tw": "2023-02-21"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90040,
+    "rarity": 5,
+    "character_id": 34,
+    "type": 4,
+    "title": "如影随形",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2022-04-15",
+      "tw": "2022-05-08",
+      "en": "2022-08-13"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90042,
+    "rarity": 5,
+    "character_id": 13,
+    "type": 2,
+    "title": "定格时光",
+    "name": "遊木真",
+    "releaseDate": {
+      "cn": "2022-04-15",
+      "tw": "2022-05-08",
+      "en": "2022-08-13"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90043,
+    "rarity": 4,
+    "character_id": 39,
+    "type": 1,
+    "title": "适如其分",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "cn": "2022-04-15",
+      "tw": "2022-05-08",
+      "en": "2022-08-13"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90044,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 2,
+    "title": "称心如意",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2022-04-15",
+      "tw": "2022-05-08",
+      "en": "2022-08-13"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90070,
+    "rarity": 5,
+    "character_id": 11,
+    "type": 1,
+    "title": "激流奇遇",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2023-04-08",
+      "tw": "2023-04-08",
+      "en": "2023-04-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90071,
+    "rarity": 4,
+    "character_id": 7,
+    "type": 3,
+    "title": "林间奇遇",
+    "name": "仙石忍",
+    "releaseDate": {
+      "cn": "2023-04-08",
+      "tw": "2023-04-08",
+      "en": "2023-04-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90072,
+    "rarity": 3,
+    "character_id": 71,
+    "type": 4,
+    "title": "营地奇遇",
+    "name": "天城燐音",
+    "releaseDate": {
+      "cn": "2023-04-08",
+      "tw": "2023-04-08",
+      "en": "2023-04-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90073,
+    "rarity": 3,
+    "character_id": 28,
+    "type": 2,
+    "title": "水中奇遇",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "cn": "2023-04-08",
+      "tw": "2023-04-08",
+      "en": "2023-04-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90074,
+    "rarity": 4,
+    "character_id": 15,
+    "type": 4,
+    "title": "笑意与舞台",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "cn": "2023-04-08",
+      "tw": "2023-04-08",
+      "en": "2023-04-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90075,
+    "rarity": 5,
+    "character_id": 6,
+    "type": 1,
+    "title": "黑羽夜曲",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "cn": "2023-06-05",
+      "kr": "2023-06-05",
+      "tw": "2023-06-05",
+      "en": "2023-07-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90076,
+    "rarity": 4,
+    "character_id": 22,
+    "type": 4,
+    "title": "优雅夜曲",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "cn": "2023-06-05",
+      "kr": "2023-06-05",
+      "tw": "2023-06-05",
+      "en": "2023-07-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90077,
+    "rarity": 3,
+    "character_id": 13,
+    "type": 3,
+    "title": "协助夜曲",
+    "name": "遊木真",
+    "releaseDate": {
+      "cn": "2023-06-05",
+      "kr": "2023-06-05",
+      "tw": "2023-06-05",
+      "en": "2023-07-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90078,
+    "rarity": 5,
+    "character_id": 38,
+    "type": 4,
+    "title": "密涅瓦之歌",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2023-06-05",
+      "tw": "2023-06-05",
+      "en": "2023-07-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90079,
+    "rarity": 5,
+    "character_id": 73,
+    "type": 3,
+    "title": "白羽乐章",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "cn": "2023-07-22",
+      "kr": "2023-07-22",
+      "tw": "2023-07-22",
+      "en": "2023-08-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90080,
+    "rarity": 4,
+    "character_id": 51,
+    "type": 1,
+    "title": "指挥乐章",
+    "name": "七種茨",
+    "releaseDate": {
+      "cn": "2023-07-22",
+      "kr": "2023-07-22",
+      "tw": "2023-07-22",
+      "en": "2023-08-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90081,
+    "rarity": 3,
+    "character_id": 42,
+    "type": 2,
+    "title": "协奏乐章",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2023-07-22",
+      "kr": "2023-07-22",
+      "tw": "2023-07-22",
+      "en": "2023-08-30"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90082,
+    "rarity": 5,
+    "character_id": 3,
+    "type": 4,
+    "title": "演绎推理",
+    "name": "真白友也",
+    "releaseDate": {
+      "cn": "2023-10-02",
+      "tw": "2023-10-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90083,
+    "rarity": 4,
+    "character_id": 12,
+    "type": 1,
+    "title": "逻辑推理",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "cn": "2023-10-02",
+      "tw": "2023-10-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90084,
+    "rarity": 3,
+    "character_id": 72,
+    "type": 3,
+    "title": "线索推理",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2023-10-02",
+      "tw": "2023-10-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90085,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 2,
+    "title": "出格推理",
+    "name": "巴日和",
+    "releaseDate": {
+      "cn": "2023-10-02",
+      "tw": "2023-10-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90086,
+    "rarity": 4,
+    "character_id": 37,
+    "type": 2,
+    "title": "推理的魔法",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2023-10-02",
+      "tw": "2023-10-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90087,
+    "rarity": 3,
+    "character_id": 33,
+    "type": 2,
+    "title": "快乐旅途",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2023-08-08",
+      "tw": "2023-11-13",
+      "en": "2023-09-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90088,
+    "rarity": 3,
+    "character_id": 10,
+    "type": 3,
+    "title": "甜蜜旅途",
+    "name": "朱桜司",
+    "releaseDate": {
+      "cn": "2023-08-08",
+      "tw": "2023-11-13",
+      "en": "2023-09-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90089,
+    "rarity": 3,
+    "character_id": 24,
+    "type": 1,
+    "title": "回味旅途",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "cn": "2023-08-08",
+      "tw": "2023-11-13",
+      "en": "2023-09-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90090,
+    "rarity": 3,
+    "character_id": 17,
+    "type": 4,
+    "title": "浓郁旅途",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "cn": "2023-08-08",
+      "tw": "2023-11-13",
+      "en": "2023-09-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90091,
+    "rarity": 3,
+    "character_id": 20,
+    "type": 1,
+    "title": "缤纷旅途",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2023-08-08",
+      "tw": "2023-11-13",
+      "en": "2023-09-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90092,
+    "rarity": 5,
+    "character_id": 23,
+    "type": 2,
+    "title": "温柔绽放",
+    "name": "羽風薫",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-07",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90093,
+    "rarity": 4,
+    "character_id": 34,
+    "type": 4,
+    "title": "悠然绽放",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-07",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90094,
+    "rarity": 3,
+    "character_id": 70,
+    "type": 3,
+    "title": "祈祷绽放",
+    "name": "風早巽",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-07",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90095,
+    "rarity": 3,
+    "character_id": 5,
+    "type": 1,
+    "title": "治愈绽放",
+    "name": "高峯翠",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-07",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90096,
+    "rarity": 5,
+    "character_id": 50,
+    "type": 3,
+    "title": "春起苍空",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "cn": "2024-02-03",
+      "kr": "2024-02-03",
+      "tw": "2024-02-09",
+      "en": "2024-02-03"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90097,
+    "rarity": 4,
+    "character_id": 28,
+    "type": 2,
+    "title": "游鱼寻春",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "cn": "2024-02-03",
+      "kr": "2024-02-03",
+      "tw": "2024-02-09",
+      "en": "2024-02-03"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90098,
+    "rarity": 3,
+    "character_id": 2,
+    "type": 1,
+    "title": "拾枝吟春",
+    "name": "紫之創",
+    "releaseDate": {
+      "cn": "2024-02-03",
+      "kr": "2024-02-03",
+      "tw": "2024-02-09",
+      "en": "2024-02-03"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90099,
+    "rarity": 3,
+    "character_id": 39,
+    "type": 4,
+    "title": "待晴邀春",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "cn": "2024-02-03",
+      "kr": "2024-02-03",
+      "tw": "2024-02-09",
+      "en": "2024-02-03"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90100,
+    "rarity": 4,
+    "character_id": 19,
+    "type": 1,
+    "title": "折梅赠春",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "cn": "2024-02-03",
+      "kr": "2024-02-03",
+      "tw": "2024-02-09",
+      "en": "2024-02-03"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90101,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 3,
+    "title": "编织绮愿",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "cn": "2024-01-19",
+      "kr": "2024-02-22",
+      "tw": "2024-03-23",
+      "en": "2024-01-19"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90102,
+    "rarity": 3,
+    "character_id": 34,
+    "type": 2,
+    "title": "收集绮愿",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2024-01-19",
+      "kr": "2024-02-22",
+      "tw": "2024-03-23",
+      "en": "2024-01-19"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90103,
+    "rarity": 3,
+    "character_id": 72,
+    "type": 1,
+    "title": "邂逅绮愿",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2024-01-19",
+      "kr": "2024-02-22",
+      "tw": "2024-03-23",
+      "en": "2024-01-19"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90104,
+    "rarity": 3,
+    "character_id": 74,
+    "type": 4,
+    "title": "烘焙绮愿",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "cn": "2024-01-19",
+      "kr": "2024-02-22",
+      "tw": "2024-03-23",
+      "en": "2024-01-19"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90105,
+    "rarity": 5,
+    "character_id": 30,
+    "type": 4,
+    "title": "烈阳绯色",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "cn": "2024-04-07",
+      "kr": "2024-04-07",
+      "tw": "2024-04-07",
+      "en": "2024-04-07"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90106,
+    "rarity": 4,
+    "character_id": 14,
+    "type": 1,
+    "title": "辉映绯色",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "cn": "2024-04-07",
+      "kr": "2024-04-07",
+      "tw": "2024-04-07",
+      "en": "2024-04-07"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90107,
+    "rarity": 3,
+    "character_id": 9,
+    "type": 2,
+    "title": "跃然绯色",
+    "name": "天満光",
+    "releaseDate": {
+      "cn": "2024-04-07",
+      "kr": "2024-04-07",
+      "tw": "2024-04-07",
+      "en": "2024-04-07"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90108,
+    "rarity": 5,
+    "character_id": 72,
+    "type": 3,
+    "title": "云霭薄暮",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2024-04-07",
+      "kr": "2024-04-07",
+      "tw": "2024-04-07",
+      "en": "2024-04-07"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90109,
+    "rarity": 5,
+    "character_id": 20,
+    "type": 2,
+    "title": "黛月皎色",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2024-05-25",
+      "kr": "2024-05-25",
+      "tw": "2024-05-25",
+      "en": "2024-05-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90110,
+    "rarity": 4,
+    "character_id": 24,
+    "type": 4,
+    "title": "回眸皎色",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "cn": "2024-05-25",
+      "kr": "2024-05-25",
+      "tw": "2024-05-25",
+      "en": "2024-05-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90111,
+    "rarity": 3,
+    "character_id": 37,
+    "type": 1,
+    "title": "展颜皎色",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2024-05-25",
+      "kr": "2024-05-25",
+      "tw": "2024-05-25",
+      "en": "2024-05-25"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90112,
     "rarity": 3,
     "character_id": 15,
@@ -199998,6 +201075,35 @@
   },
   {
     "compliant": "TRUE",
+    "id": 97001,
+    "rarity": 5,
+    "character_id": 42,
+    "type": 1,
+    "title": "自深渊而来",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "tw": "2023-12-23",
+      "en": "2023-12-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97002,
+    "rarity": 5,
+    "character_id": 33,
+    "type": 2,
+    "title": "漫游银河",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2024-03-09",
+      "kr": "2024-03-09",
+      "tw": "2024-03-09",
+      "en": "2024-03-09"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97003,
     "rarity": 5,
     "character_id": 74,
@@ -200039,6 +201145,1815 @@
       "kr": "2024-10-30",
       "tw": "2024-10-26",
       "en": "2024-10-26"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99050,
+    "rarity": 2,
+    "character_id": 1,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99051,
+    "rarity": 2,
+    "character_id": 2,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "紫之創",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99052,
+    "rarity": 2,
+    "character_id": 3,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "真白友也",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99053,
+    "rarity": 2,
+    "character_id": 4,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99054,
+    "rarity": 2,
+    "character_id": 5,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "高峯翠",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99055,
+    "rarity": 2,
+    "character_id": 6,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99056,
+    "rarity": 2,
+    "character_id": 7,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "仙石忍",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99057,
+    "rarity": 2,
+    "character_id": 8,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99058,
+    "rarity": 2,
+    "character_id": 9,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "天満光",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99059,
+    "rarity": 2,
+    "character_id": 10,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "朱桜司",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99060,
+    "rarity": 2,
+    "character_id": 37,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99061,
+    "rarity": 2,
+    "character_id": 11,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99062,
+    "rarity": 2,
+    "character_id": 12,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99063,
+    "rarity": 2,
+    "character_id": 13,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "遊木真",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99064,
+    "rarity": 2,
+    "character_id": 14,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99065,
+    "rarity": 2,
+    "character_id": 15,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99066,
+    "rarity": 2,
+    "character_id": 16,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99067,
+    "rarity": 2,
+    "character_id": 17,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99068,
+    "rarity": 2,
+    "character_id": 18,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99069,
+    "rarity": 2,
+    "character_id": 19,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99070,
+    "rarity": 2,
+    "character_id": 20,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99071,
+    "rarity": 2,
+    "character_id": 34,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99072,
+    "rarity": 2,
+    "character_id": 38,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99073,
+    "rarity": 2,
+    "character_id": 21,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99074,
+    "rarity": 2,
+    "character_id": 22,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99075,
+    "rarity": 2,
+    "character_id": 23,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "羽風薫",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99076,
+    "rarity": 2,
+    "character_id": 24,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99077,
+    "rarity": 2,
+    "character_id": 25,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99078,
+    "rarity": 2,
+    "character_id": 26,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99079,
+    "rarity": 2,
+    "character_id": 27,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99080,
+    "rarity": 2,
+    "character_id": 28,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99081,
+    "rarity": 2,
+    "character_id": 29,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "朔間零",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99082,
+    "rarity": 2,
+    "character_id": 30,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "cn": "2022-02-21",
+      "tw": "2022-05-02"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99083,
+    "rarity": 2,
+    "character_id": 33,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99084,
+    "rarity": 2,
+    "character_id": 35,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99085,
+    "rarity": 2,
+    "character_id": 39,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99086,
+    "rarity": 2,
+    "character_id": 40,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "cn": "2022-04-04",
+      "tw": "2022-06-13",
+      "en": "2023-11-20"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99087,
+    "rarity": 2,
+    "character_id": 50,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99088,
+    "rarity": 2,
+    "character_id": 41,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "巴日和",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99089,
+    "rarity": 2,
+    "character_id": 51,
+    "type": 2,
+    "title": "与你相遇的奇迹",
+    "name": "七種茨",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99090,
+    "rarity": 2,
+    "character_id": 42,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99091,
+    "rarity": 2,
+    "character_id": 67,
+    "type": 4,
+    "title": "与你相遇的奇迹",
+    "name": "天城一彩",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99092,
+    "rarity": 2,
+    "character_id": 68,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99093,
+    "rarity": 2,
+    "character_id": 69,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99094,
+    "rarity": 2,
+    "character_id": 70,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "風早巽",
+    "releaseDate": {
+      "cn": "2021-11-26",
+      "tw": "2022-02-04",
+      "en": "2023-06-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99095,
+    "rarity": 2,
+    "character_id": 71,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "天城燐音",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99096,
+    "rarity": 2,
+    "character_id": 73,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99097,
+    "rarity": 2,
+    "character_id": 72,
+    "type": 3,
+    "title": "与你相遇的奇迹",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99098,
+    "rarity": 2,
+    "character_id": 74,
+    "type": 1,
+    "title": "与你相遇的奇迹",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "cn": "2022-01-12",
+      "tw": "2022-04-18",
+      "en": "2023-08-14"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99151,
+    "rarity": 2,
+    "character_id": 2,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "紫之創",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99152,
+    "rarity": 2,
+    "character_id": 3,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "真白友也",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99153,
+    "rarity": 2,
+    "character_id": 4,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99157,
+    "rarity": 2,
+    "character_id": 8,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99158,
+    "rarity": 2,
+    "character_id": 9,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "天満光",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99159,
+    "rarity": 2,
+    "character_id": 10,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "朱桜司",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99160,
+    "rarity": 2,
+    "character_id": 37,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99164,
+    "rarity": 2,
+    "character_id": 14,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99165,
+    "rarity": 2,
+    "character_id": 15,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99166,
+    "rarity": 2,
+    "character_id": 16,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99167,
+    "rarity": 2,
+    "character_id": 17,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99170,
+    "rarity": 2,
+    "character_id": 20,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99171,
+    "rarity": 2,
+    "character_id": 34,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99172,
+    "rarity": 2,
+    "character_id": 38,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99173,
+    "rarity": 2,
+    "character_id": 21,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99175,
+    "rarity": 2,
+    "character_id": 23,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "羽風薫",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99176,
+    "rarity": 2,
+    "character_id": 24,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99178,
+    "rarity": 2,
+    "character_id": 26,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99181,
+    "rarity": 2,
+    "character_id": 29,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "朔間零",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99182,
+    "rarity": 2,
+    "character_id": 30,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "cn": "2023-03-04",
+      "tw": "2023-04-08",
+      "en": "2024-08-08"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99183,
+    "rarity": 2,
+    "character_id": 33,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99184,
+    "rarity": 2,
+    "character_id": 35,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99185,
+    "rarity": 2,
+    "character_id": 39,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99186,
+    "rarity": 2,
+    "character_id": 40,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "cn": "2023-03-24",
+      "tw": "2023-05-01",
+      "en": "2024-08-28"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99187,
+    "rarity": 2,
+    "character_id": 50,
+    "type": 3,
+    "title": "予你惊喜的协奏曲",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99188,
+    "rarity": 2,
+    "character_id": 41,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "巴日和",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99189,
+    "rarity": 2,
+    "character_id": 51,
+    "type": 1,
+    "title": "予你惊喜的协奏曲",
+    "name": "七種茨",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99190,
+    "rarity": 2,
+    "character_id": 42,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99195,
+    "rarity": 2,
+    "character_id": 71,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "天城燐音",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99196,
+    "rarity": 2,
+    "character_id": 73,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99197,
+    "rarity": 2,
+    "character_id": 72,
+    "type": 2,
+    "title": "予你惊喜的协奏曲",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99198,
+    "rarity": 2,
+    "character_id": 74,
+    "type": 4,
+    "title": "予你惊喜的协奏曲",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "cn": "2023-02-08",
+      "tw": "2023-03-06",
+      "en": "2024-07-15"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99250,
+    "rarity": 2,
+    "character_id": 1,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "南雲鉄虎",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99251,
+    "rarity": 2,
+    "character_id": 2,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "紫之創",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99252,
+    "rarity": 2,
+    "character_id": 3,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "真白友也",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99253,
+    "rarity": 2,
+    "character_id": 4,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "葵ひなた",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99254,
+    "rarity": 2,
+    "character_id": 5,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "高峯翠",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99255,
+    "rarity": 2,
+    "character_id": 6,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99256,
+    "rarity": 2,
+    "character_id": 7,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "仙石忍",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99257,
+    "rarity": 2,
+    "character_id": 8,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "葵ゆうた",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99258,
+    "rarity": 2,
+    "character_id": 9,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "天満光",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99259,
+    "rarity": 2,
+    "character_id": 10,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "朱桜司",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99260,
+    "rarity": 2,
+    "character_id": 37,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "春川宙",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99261,
+    "rarity": 2,
+    "character_id": 11,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "明星スバル",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99262,
+    "rarity": 2,
+    "character_id": 12,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99263,
+    "rarity": 2,
+    "character_id": 13,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "遊木真",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99264,
+    "rarity": 2,
+    "character_id": 14,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "神崎颯馬",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99265,
+    "rarity": 2,
+    "character_id": 15,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99266,
+    "rarity": 2,
+    "character_id": 16,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "大神晃牙",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99267,
+    "rarity": 2,
+    "character_id": 17,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "朔間凛月",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99268,
+    "rarity": 2,
+    "character_id": 18,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99269,
+    "rarity": 2,
+    "character_id": 19,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "伏見弓弦",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99270,
+    "rarity": 2,
+    "character_id": 20,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "鳴上嵐",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99271,
+    "rarity": 2,
+    "character_id": 34,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "影片みか",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99272,
+    "rarity": 2,
+    "character_id": 38,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "逆先夏目",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99273,
+    "rarity": 2,
+    "character_id": 21,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "蓮巳敬人",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99274,
+    "rarity": 2,
+    "character_id": 22,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "天祥院英智",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99275,
+    "rarity": 2,
+    "character_id": 23,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "羽風薫",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99276,
+    "rarity": 2,
+    "character_id": 24,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99277,
+    "rarity": 2,
+    "character_id": 25,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "守沢千秋",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99278,
+    "rarity": 2,
+    "character_id": 26,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "鬼龍紅郎",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99279,
+    "rarity": 2,
+    "character_id": 27,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99280,
+    "rarity": 2,
+    "character_id": 28,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "深海奏汰",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99281,
+    "rarity": 2,
+    "character_id": 29,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "朔間零",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99282,
+    "rarity": 2,
+    "character_id": 30,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "仁兎なずな",
+    "releaseDate": {
+      "cn": "2024-01-20",
+      "kr": "2024-02-18",
+      "tw": "2024-03-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99283,
+    "rarity": 2,
+    "character_id": 33,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "月永レオ",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99284,
+    "rarity": 2,
+    "character_id": 35,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99285,
+    "rarity": 2,
+    "character_id": 39,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "青葉つむぎ",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99286,
+    "rarity": 2,
+    "character_id": 40,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "三毛縞斑",
+    "releaseDate": {
+      "cn": "2024-02-23",
+      "kr": "2024-03-21",
+      "tw": "2024-04-29"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99287,
+    "rarity": 2,
+    "character_id": 50,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "乱凪砂",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99288,
+    "rarity": 2,
+    "character_id": 41,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "巴日和",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99289,
+    "rarity": 2,
+    "character_id": 51,
+    "type": 4,
+    "title": "为你停留的绽放一刻",
+    "name": "七種茨",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99290,
+    "rarity": 2,
+    "character_id": 42,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "漣ジュン",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99291,
+    "rarity": 2,
+    "character_id": 67,
+    "type": 2,
+    "title": "为你停留的绽放一刻",
+    "name": "天城一彩",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99292,
+    "rarity": 2,
+    "character_id": 68,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99293,
+    "rarity": 2,
+    "character_id": 69,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "礼瀬マヨイ",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99294,
+    "rarity": 2,
+    "character_id": 70,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "風早巽",
+    "releaseDate": {
+      "cn": "2023-11-26",
+      "kr": "2023-12-23",
+      "tw": "2024-01-23"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99295,
+    "rarity": 2,
+    "character_id": 71,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "天城燐音",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99296,
+    "rarity": 2,
+    "character_id": 73,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "桜河こはく",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99297,
+    "rarity": 2,
+    "character_id": 72,
+    "type": 3,
+    "title": "为你停留的绽放一刻",
+    "name": "HiMERU",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99298,
+    "rarity": 2,
+    "character_id": 74,
+    "type": 1,
+    "title": "为你停留的绽放一刻",
+    "name": "椎名ニキ",
+    "releaseDate": {
+      "cn": "2023-12-23",
+      "kr": "2024-01-03",
+      "tw": "2024-02-24"
     }
   }
 ]
