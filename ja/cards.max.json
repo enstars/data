@@ -65082,6 +65082,7 @@
     "id": 90001,
     "rarity": 4,
     "character_id": 67,
+    "type": 2,
     "title": "懵懂的舞台",
     "name": "天城一彩",
     "releaseDate": {
@@ -65098,6 +65099,7 @@
     "id": 90002,
     "rarity": 3,
     "character_id": 68,
+    "substat_type": 2,
     "title": "稚羽的舞台",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -65117,6 +65119,7 @@
     "title": "逆光的舞台",
     "name": "礼瀬マヨイ",
     "releaseDate": {
+      "jp": "2020-11-30",
       "cn": "2020-11-27",
       "tw": "2021-02-05",
       "en": "2022-06-16"
@@ -65146,6 +65149,8 @@
     "id": 90005,
     "rarity": 3,
     "character_id": 11,
+    "type": 3,
+    "substat_type": 2,
     "title": "群星的旋律",
     "name": "明星スバル",
     "releaseDate": {
