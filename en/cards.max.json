@@ -20764,5 +20764,1157 @@
       }
     },
     "releaseDate": "2024-09-21"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90001,
+    "title": "Stage of Novice",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90002,
+    "title": "Stage of Fledgling",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90003,
+    "title": "Stage of Backlight",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90004,
+    "title": "Stage of Rebirth",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90005,
+    "title": "Melody of Stars",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90013,
+    "title": "The Leaping Light",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90014,
+    "title": "Promising Light",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90015,
+    "title": "Agile Light",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90016,
+    "title": "Energetic Light",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90017,
+    "title": "Entrancing Myth",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90018,
+    "title": "Perspicacious Myth",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90019,
+    "title": "Erudite Myth",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90020,
+    "title": "Guileful Myth",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90021,
+    "title": "Sunlit Ballad",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90022,
+    "title": "Chorus of Tides",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90023,
+    "title": "Vigorous Summer",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90024,
+    "title": "Peaceful Summer",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90030,
+    "title": "Pure Wishes",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90031,
+    "title": "Sincere Wishes",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90032,
+    "title": "Accompanying Wishes",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90033,
+    "title": "Growing Wishes",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90034,
+    "title": "Joyful Days",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90040,
+    "title": "Accompanying Shadow",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90041,
+    "title": "Glistening Ephemera",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90042,
+    "title": "Splendid Snapshot",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90043,
+    "title": "Timely Perfection",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90044,
+    "title": "Surprising Satisfaction",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90045,
+    "title": "Brightening Sight",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90046,
+    "title": "Cheerful Sunshine",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90047,
+    "title": "Teatime Fairy Tales",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90048,
+    "title": "Reversed Fairy Tales",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90049,
+    "title": "Witness of Fairy Tales",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90050,
+    "title": "Listener of Fairy Tales",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90051,
+    "title": "Mesmerizing Fairytale",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90052,
+    "title": "Alluring Fairytale",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90053,
+    "title": "Melodious Fairytale",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90054,
+    "title": "Colorful Fairytale",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90055,
+    "title": "Innocent Heart",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90056,
+    "title": "Ode to The Rose",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90057,
+    "title": "Ode to Elegance",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90058,
+    "title": "Ode to Splendor",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90059,
+    "title": "Ode to Melody",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90062,
+    "title": "Ballad of Spring Tales",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90063,
+    "title": "Bouncing Spring Moon",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90064,
+    "title": "Captivating Spring Breeze",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90065,
+    "title": "Walk with Spring Steps",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90066,
+    "title": "Bunny Herald of Spring",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90070,
+    "title": "Breathtaking Adventure",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90071,
+    "title": "Fascinating Adventure",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90072,
+    "title": "Fun-Filled Adventure",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90073,
+    "title": "Aquatic Adventure",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90074,
+    "title": "Joyous Stage",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90075,
+    "title": "Nocturne of Wings",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90076,
+    "title": "Nocturne of Elegance",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90077,
+    "title": "Nocturne of Assistance",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90078,
+    "title": "Song of Minerva",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90079,
+    "title": "Sonata of Wings",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90080,
+    "title": "Sonata of Direction",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90081,
+    "title": "Sonata of Cooperation",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90087,
+    "title": "Joyful Journey",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90088,
+    "title": "Pleasant Journey",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90089,
+    "title": "Memorable Journey",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90090,
+    "title": "Mellow Journey",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90091,
+    "title": "Colorful Journey",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90096,
+    "title": "Astral Echoes of Spring",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90097,
+    "title": "Gentle Ripple of Spring",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90098,
+    "title": "Vibrant Spring Blossoms",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90099,
+    "title": "Cheerful Sky of Spring",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90100,
+    "title": "Tender Invitation of Spring",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90101,
+    "title": "Weaving Wishes",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90102,
+    "title": "Collecting Wishes",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90103,
+    "title": "Meeting Wishes",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90104,
+    "title": "Baking Wishes",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90105,
+    "title": "Sun-Kissed Ruby",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90106,
+    "title": "Glistening Ruby",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90107,
+    "title": "Leaping Ruby",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90108,
+    "title": "Twilight Haze",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90109,
+    "title": "Moonlit Lavender",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90110,
+    "title": "Dauntless Lavender",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90111,
+    "title": "Blithe Lavender",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90116,
+    "title": "Unreal Tear",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90117,
+    "title": "Unreal Riddle",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90118,
+    "title": "Unreal Feeling",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90119,
+    "title": "Unreal Memory",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90120,
+    "title": "Light Up the Time",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90121,
+    "title": "Sizzling Moonlit Trek",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90122,
+    "title": "Sizzling Teatime",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90123,
+    "title": "Sizzling Jubilation",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90124,
+    "title": "Sizzling Merriment",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97001,
+    "title": "From the Abyss",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97002,
+    "title": "Galaxy Wanderer",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97003,
+    "title": "Into the New World",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97004,
+    "title": "Cherished Time",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97005,
+    "title": "Essence of Eternity",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99050,
+    "title": "Miracle of Meeting You",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99051,
+    "title": "Miracle of Meeting You",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99052,
+    "title": "Miracle of Meeting You",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99053,
+    "title": "Miracle of Meeting You",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99054,
+    "title": "Miracle of Meeting You",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99055,
+    "title": "Miracle of Meeting You",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99056,
+    "title": "Miracle of Meeting You",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99057,
+    "title": "Miracle of Meeting You",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99058,
+    "title": "Miracle of Meeting You",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99059,
+    "title": "Miracle of Meeting You",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99060,
+    "title": "Miracle of Meeting You",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99061,
+    "title": "Miracle of Meeting You",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99062,
+    "title": "Miracle of Meeting You",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99063,
+    "title": "Miracle of Meeting You",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99064,
+    "title": "Miracle of Meeting You",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99065,
+    "title": "Miracle of Meeting You",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99066,
+    "title": "Miracle of Meeting You",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99067,
+    "title": "Miracle of Meeting You",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99068,
+    "title": "Miracle of Meeting You",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99069,
+    "title": "Miracle of Meeting You",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99070,
+    "title": "Miracle of Meeting You",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99071,
+    "title": "Miracle of Meeting You",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99072,
+    "title": "Miracle of Meeting You",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99073,
+    "title": "Miracle of Meeting You",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99074,
+    "title": "Miracle of Meeting You",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99075,
+    "title": "Miracle of Meeting You",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99076,
+    "title": "Miracle of Meeting You",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99077,
+    "title": "Miracle of Meeting You",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99078,
+    "title": "Miracle of Meeting You",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99079,
+    "title": "Miracle of Meeting You",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99080,
+    "title": "Miracle of Meeting You",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99081,
+    "title": "Miracle of Meeting You",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99082,
+    "title": "Miracle of Meeting You",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99083,
+    "title": "Miracle of Meeting You",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99084,
+    "title": "Miracle of Meeting You",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99085,
+    "title": "Miracle of Meeting You",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99086,
+    "title": "Miracle of Meeting You",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99087,
+    "title": "Miracle of Meeting You",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99088,
+    "title": "Miracle of Meeting You",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99089,
+    "title": "Miracle of Meeting You",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99090,
+    "title": "Miracle of Meeting You",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99091,
+    "title": "Miracle of Meeting You",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99092,
+    "title": "Miracle of Meeting You",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99093,
+    "title": "Miracle of Meeting You",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99094,
+    "title": "Miracle of Meeting You",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99095,
+    "title": "Miracle of Meeting You",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99096,
+    "title": "Miracle of Meeting You",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99097,
+    "title": "Miracle of Meeting You",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99098,
+    "title": "Miracle of Meeting You",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99150,
+    "title": "Amazing Ensemble",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99151,
+    "title": "Amazing Ensemble",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99152,
+    "title": "Amazing Ensemble",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99153,
+    "title": "Amazing Ensemble",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99154,
+    "title": "Amazing Ensemble",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99155,
+    "title": "Amazing Ensemble",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99156,
+    "title": "Amazing Ensemble",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99157,
+    "title": "Amazing Ensemble",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99158,
+    "title": "Amazing Ensemble",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99159,
+    "title": "Amazing Ensemble",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99160,
+    "title": "Amazing Ensemble",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99161,
+    "title": "Amazing Ensemble",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99162,
+    "title": "Amazing Ensemble",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99163,
+    "title": "Amazing Ensemble",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99164,
+    "title": "Amazing Ensemble",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99165,
+    "title": "Amazing Ensemble",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99166,
+    "title": "Amazing Ensemble",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99167,
+    "title": "Amazing Ensemble",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99168,
+    "title": "Amazing Ensemble",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99169,
+    "title": "Amazing Ensemble",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99170,
+    "title": "Amazing Ensemble",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99171,
+    "title": "Amazing Ensemble",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99172,
+    "title": "Amazing Ensemble",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99173,
+    "title": "Amazing Ensemble",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99174,
+    "title": "Amazing Ensemble",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99175,
+    "title": "Amazing Ensemble",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99176,
+    "title": "Amazing Ensemble",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99177,
+    "title": "Amazing Ensemble",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99178,
+    "title": "Amazing Ensemble",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99179,
+    "title": "Amazing Ensemble",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99180,
+    "title": "Amazing Ensemble",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99181,
+    "title": "Amazing Ensemble",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99182,
+    "title": "Amazing Ensemble",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99183,
+    "title": "Amazing Ensemble",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99184,
+    "title": "Amazing Ensemble",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99185,
+    "title": "Amazing Ensemble",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99186,
+    "title": "Amazing Ensemble",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99187,
+    "title": "Amazing Ensemble",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99188,
+    "title": "Amazing Ensemble",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99189,
+    "title": "Amazing Ensemble",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99190,
+    "title": "Amazing Ensemble",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99191,
+    "title": "Amazing Ensemble",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99192,
+    "title": "Amazing Ensemble",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99193,
+    "title": "Amazing Ensemble",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99194,
+    "title": "Amazing Ensemble",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99195,
+    "title": "Amazing Ensemble",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99196,
+    "title": "Amazing Ensemble",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99197,
+    "title": "Amazing Ensemble",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 99198,
+    "title": "Amazing Ensemble",
+    "name": "Niki Shiina"
   }
 ]
