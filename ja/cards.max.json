@@ -199771,6 +199771,696 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4204,
+    "rarity": 2,
+    "character_id": 81,
+    "type": 3,
+    "substat_type": 2,
+    "title": "ESのアイドル",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 790,
+        "vo": 780,
+        "pf": 1080
+      },
+      "ir": {
+        "da": 3385,
+        "vo": 6067,
+        "pf": 8077
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表現力グリッター",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
+      },
+      "support": {
+        "name": "キープボルテージ",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!衣装"
+        ],
+        "3d": [
+          "Special for Princess!衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4205,
+    "rarity": 2,
+    "character_id": 83,
+    "type": 1,
+    "substat_type": 0,
+    "title": "ESのアイドル",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 1010,
+        "vo": 950,
+        "pf": 820
+      },
+      "ir": {
+        "da": 8061,
+        "vo": 4214,
+        "pf": 5295
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ダンススパークル",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間7％スコアアップ"
+      },
+      "support": {
+        "name": "チアダンス",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!衣装"
+        ],
+        "3d": [
+          "Special for Princess!衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4206,
+    "rarity": 2,
+    "character_id": 84,
+    "type": 4,
+    "substat_type": 1,
+    "title": "ESのアイドル",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 870,
+        "vo": 990,
+        "pf": 740
+      },
+      "ir": {
+        "da": 5084,
+        "vo": 8011,
+        "pf": 4477
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声フラッシュ",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
+      },
+      "support": {
+        "name": "フォーリンステージ",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!衣装"
+        ],
+        "3d": [
+          "Special for Princess!衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4207,
+    "rarity": 2,
+    "character_id": 85,
+    "type": 2,
+    "substat_type": 2,
+    "title": "ESのアイドル",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 860,
+        "vo": 790,
+        "pf": 980
+      },
+      "ir": {
+        "da": 3289,
+        "vo": 6221,
+        "pf": 8044
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表現力ブリリアント",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 50％up"
+      },
+      "live": {
+        "name": "スコアアップ",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
+      },
+      "support": {
+        "name": "ブリリアントチア",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!衣装"
+        ],
+        "3d": [
+          "Special for Princess!衣装"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4208,
+    "rarity": 3,
+    "character_id": 81,
+    "type": 4,
+    "substat_type": 0,
+    "title": "練習風景",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 3160,
+        "vo": 1770,
+        "pf": 1600
+      },
+      "ir": {
+        "da": 21503,
+        "vo": 10823,
+        "pf": 9284
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ダンスフラッシュ",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "アイドルの挑戦",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "ユニットの見せ方",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!練習着"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4209,
+    "rarity": 3,
+    "character_id": 83,
+    "type": 2,
+    "substat_type": 1,
+    "title": "練習風景",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 1730,
+        "vo": 3180,
+        "pf": 1540
+      },
+      "ir": {
+        "da": 10643,
+        "vo": 19402,
+        "pf": 13058
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "ブリリアントアンサンブル",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "アイドルの知識",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "ユニットの基本",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!練習着"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4210,
+    "rarity": 3,
+    "character_id": 84,
+    "type": 2,
+    "substat_type": 2,
+    "title": "練習風景",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 1640,
+        "vo": 1660,
+        "pf": 3240
+      },
+      "ir": {
+        "da": 11365,
+        "vo": 8730,
+        "pf": 21516
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表現力ブリリアント",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "BrilliantタイプのPf 80％up"
+      },
+      "live": {
+        "name": "アイドルの見せ方",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "ユニットの性格",
+        "type_id": 4,
+        "description": "あんさんぶるタイムゲージの上昇量が少しアップ"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!練習着"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4211,
+    "rarity": 3,
+    "character_id": 85,
+    "type": 3,
+    "substat_type": 2,
+    "title": "練習風景",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 1460,
+        "vo": 1700,
+        "pf": 3380
+      },
+      "ir": {
+        "da": 12622,
+        "vo": 11076,
+        "pf": 19422
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表現力グリッター",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 80％up"
+      },
+      "live": {
+        "name": "アイドルの生活",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "ユニットの歌声",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "Special for Princess!練習着"
+        ]
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4212,
+    "rarity": 5,
+    "character_id": 81,
+    "type": 3,
+    "substat_type": 1,
+    "title": "二面性リーダー",
+    "name": "冴霧笑主",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 6020,
+        "vo": 11820,
+        "pf": 5220
+      },
+      "ir": {
+        "da": 25226,
+        "vo": 43061,
+        "pf": 27868
+      },
+      "ir1": {
+        "da": 26479,
+        "vo": 47913,
+        "pf": 28711
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "強気なカメラアピール",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "虜にする視線",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "集合レッスン",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "しょーがいゼッタイそーあい宣言♥"
+    },
+    "items": {
+      "backgrounds": [
+        "『エスプリ』お披露目ライブステージ"
+      ]
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4213,
+    "rarity": 4,
+    "character_id": 83,
+    "type": 1,
+    "substat_type": 2,
+    "title": "戦略的デビュー",
+    "name": "名都神無",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 3040,
+        "vo": 2560,
+        "pf": 5040
+      },
+      "ir": {
+        "da": 14083,
+        "vo": 12318,
+        "pf": 30968
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "機械的な笑み",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "Sparkleタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "一式インプット",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "冷静な評価",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "しょーがいゼッタイそーあい宣言♥"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4214,
+    "rarity": 4,
+    "character_id": 84,
+    "type": 2,
+    "substat_type": 1,
+    "title": "計算高い幕開け",
+    "name": "花群冬芽",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 2730,
+        "vo": 5410,
+        "pf": 2460
+      },
+      "ir": {
+        "da": 12095,
+        "vo": 30953,
+        "pf": 14298
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "世界観との相性",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "BrilliantタイプのVo 80％up"
+      },
+      "live": {
+        "name": "拘りのポーズ",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "協調性の認識",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "しょーがいゼッタイそーあい宣言♥"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4215,
+    "rarity": 4,
+    "character_id": 85,
+    "type": 4,
+    "substat_type": 0,
+    "title": "無邪気な登場",
+    "name": "宝丈萊香",
+    "releaseDate": {
+      "jp": "2024-11-09"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "initial"
+    },
+    "stats": {
+      "min": {
+        "da": 5270,
+        "vo": 2630,
+        "pf": 2500
+      },
+      "ir": {
+        "da": 30962,
+        "vo": 13971,
+        "pf": 12434
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "天然の微笑み",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "FlashタイプのDa 80％up"
+      },
+      "live": {
+        "name": "切り替わりの一瞬",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "和ませる空気",
+        "type_id": 6,
+        "description": "ステータスピース（赤中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "しょーがいゼッタイそーあい宣言♥"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90001,
     "rarity": 4,
     "character_id": 67,
