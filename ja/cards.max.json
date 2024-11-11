@@ -115602,7 +115602,7 @@
       }
     },
     "associated_story": "SS",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -115757,7 +115757,7 @@
       }
     },
     "associated_story": "SS",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -115912,7 +115912,7 @@
       }
     },
     "associated_story": "SS",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -116067,7 +116067,7 @@
       }
     },
     "associated_story": "SS",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -185717,7 +185717,7 @@
       }
     },
     "associated_story": "マトリックス",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -185808,7 +185808,7 @@
       }
     },
     "associated_story": "マトリックス",
-    "useFrameless": "FALSE"
+    "useFrameless": "TRUE"
   },
   {
     "compliant": "TRUE",
