@@ -162584,8 +162584,14 @@
     },
     "items": {
       "outfit": {
-        "l2d": "[\"かじかむじか\",[かじかむじか (SCR)\"]",
-        "3d": "[\"かじかむじか\",[かじかむじか (SCR)\"]"
+        "l2d": [
+          "かじかむじか",
+          "かじかむじか (SCR)"
+        ],
+        "3d": [
+          "かじかむじか",
+          "かじかむじか (SCR)"
+        ]
       }
     },
     "associated_story": "雨の日のニン情話",
@@ -201832,6 +201838,175 @@
         "name": "変わらないこだわり",
         "type_id": 9,
         "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4201,
+    "rarity": 5,
+    "character_id": 24,
+    "type": 3,
+    "substat_type": 1,
+    "title": "シーカーの気概",
+    "name": "瀬名泉",
+    "releaseDate": {
+      "jp": "2024-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 528
+    },
+    "stats": {
+      "ir": {
+        "da": 19768,
+        "vo": 47940,
+        "pf": 23732
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "可能性の探求",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 120％up"
+      },
+      "live": {
+        "name": "探す目的地",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "悪くない味",
+        "type_id": 11,
+        "description": "ステータスピース（青大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Castle of my Heart"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "シーカー衣装",
+          "シーカー衣装 (SCR)"
+        ],
+        "3d": [
+          "シーカー衣装",
+          "シーカー衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4202,
+    "rarity": 4,
+    "character_id": 27,
+    "type": 4,
+    "substat_type": 2,
+    "title": "シーカーの技",
+    "name": "日々樹渉",
+    "releaseDate": {
+      "jp": "2024-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 528
+    },
+    "stats": {
+      "ir": {
+        "da": 16146,
+        "vo": 12847,
+        "pf": 28519
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "喜びの探求",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 80％up"
+      },
+      "live": {
+        "name": "辿る目的地",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "飾り付けの妙",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Fairy Tale Library"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "シーカー衣装"
+        ]
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4203,
+    "rarity": 3,
+    "character_id": 41,
+    "type": 1,
+    "substat_type": 0,
+    "title": "シーカーの目的",
+    "name": "巴日和",
+    "releaseDate": {
+      "jp": "2024-11-14"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 528
+    },
+    "stats": {
+      "ir": {
+        "da": 19578,
+        "vo": 12802,
+        "pf": 10598
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "流行の探求",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "知る目的地",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "珍しい食卓",
+        "type_id": 1,
+        "description": "VOLTAGEの下降量が少しダウン"
       }
     },
     "associated_story": "シーカー",
