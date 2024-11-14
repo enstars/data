@@ -201670,6 +201670,175 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4198,
+    "rarity": 5,
+    "character_id": 15,
+    "type": 4,
+    "substat_type": 0,
+    "title": "シーカーの意地",
+    "name": "乙狩アドニス",
+    "releaseDate": {
+      "jp": "2024-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 527
+    },
+    "stats": {
+      "ir": {
+        "da": 46471,
+        "vo": 25117,
+        "pf": 22481
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "強さの探求",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "Flashタイプの全パラメーター50％up"
+      },
+      "live": {
+        "name": "目的と秘密",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "山林ハンティング",
+        "type_id": 7,
+        "description": "ステータスピース（赤大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Nightless World"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "シーカー衣装",
+          "シーカー衣装 (SCR)"
+        ],
+        "3d": [
+          "シーカー衣装",
+          "シーカー衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4199,
+    "rarity": 4,
+    "character_id": 72,
+    "type": 2,
+    "substat_type": 2,
+    "title": "シーカーの策",
+    "name": "HiMERU",
+    "releaseDate": {
+      "jp": "2024-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 527
+    },
+    "stats": {
+      "ir": {
+        "da": 15693,
+        "vo": 12612,
+        "pf": 29060
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "期待の探求",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "追従と秘密",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "おすすめの仕事",
+        "type_id": 14,
+        "description": "ステータスピース（黄中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Be The Party Bee!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "シーカー衣装"
+        ]
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4200,
+    "rarity": 3,
+    "character_id": 35,
+    "type": 3,
+    "substat_type": 1,
+    "title": "シーカーの思い出",
+    "name": "斎宮宗",
+    "releaseDate": {
+      "jp": "2024-11-10"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 527
+    },
+    "stats": {
+      "ir": {
+        "da": 8788,
+        "vo": 21529,
+        "pf": 11214
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "不変の探求",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "GlitterタイプのVo 80％up"
+      },
+      "live": {
+        "name": "過去と秘密",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "変わらないこだわり",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "シーカー",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 4204,
     "rarity": 2,
     "character_id": 81,
