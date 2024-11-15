@@ -202945,8 +202945,11 @@
     "skills": {
       "center": {
         "name": "果てしない理想",
-        "effect_value": "#N/A",
-        "description": "FlashタイプのVo 80％up"
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "FlashタイプのVo 80％up"
       },
       "live": {
         "name": "詰め込む自由",
@@ -203000,8 +203003,11 @@
     "skills": {
       "center": {
         "name": "実現する理想",
-        "effect_value": "#N/A",
-        "description": "SparkleタイプのDa 80％up"
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "SparkleタイプのDa 80％up"
       },
       "live": {
         "name": "詰め込む期待",
@@ -203059,13 +203065,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "划破长空的飞燕"
       },
       "support": {
-        "name": "颠覆者之歌"
+        "name": "颠覆者之歌",
+        "type_id": 1,
+        "description": "降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203096,13 +203109,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "挚情之所在"
       },
       "support": {
-        "name": "神往者之歌"
+        "name": "神往者之歌",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203138,13 +203158,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "幽邃的注视"
       },
       "support": {
-        "name": "引导者之歌"
+        "name": "引导者之歌",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203175,13 +203202,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "礼圣者之姿"
       },
       "support": {
-        "name": "圣职者之歌"
+        "name": "圣职者之歌",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203217,13 +203251,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "星辉的祝福"
       },
       "support": {
-        "name": "喧响的群星"
+        "name": "喧响的群星",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203277,13 +203318,19 @@
     },
     "skills": {
       "center": {
-        "name": "欢闹喧响"
+        "name": "欢闹喧响",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "幸运女神的指引"
       },
       "support": {
-        "name": "叠加的巧合"
+        "name": "叠加的巧合",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203317,13 +203364,19 @@
     },
     "skills": {
       "center": {
-        "name": "美好愿景"
+        "name": "美好愿景",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 16,
+        "description": "闪耀（黄）的综合数值提升{0}％"
       },
       "live": {
         "name": "甜蜜点心的诱惑"
       },
       "support": {
-        "name": "坚定的意志"
+        "name": "坚定的意志",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203352,13 +203405,19 @@
     },
     "skills": {
       "center": {
-        "name": "神秘之光"
+        "name": "神秘之光",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "魔法之外的幸福"
       },
       "support": {
-        "name": "魔法的效力"
+        "name": "魔法的效力",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203387,13 +203446,19 @@
     },
     "skills": {
       "center": {
-        "name": "意外赠礼"
+        "name": "意外赠礼",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "满含心意的玩偶"
       },
       "support": {
-        "name": "可爱的元素"
+        "name": "可爱的元素",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203410,6 +203475,9 @@
     "releaseDate": {
       "cn": "2021-02-11"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 3030,
@@ -203419,13 +203487,20 @@
     },
     "skills": {
       "center": {
-        "name": "大显身手"
+        "name": "大显身手",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "香气四溢的佳肴"
       },
       "support": {
-        "name": "美味的助力"
+        "name": "美味的助力",
+        "type_id": 1,
+        "description": "降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203481,13 +203556,19 @@
     },
     "skills": {
       "center": {
-        "name": "隐忍关怀"
+        "name": "隐忍关怀",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "守望的目光"
       },
       "support": {
-        "name": "拭目以待"
+        "name": "拭目以待",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203523,13 +203604,19 @@
     },
     "skills": {
       "center": {
-        "name": "短暂休憩"
+        "name": "短暂休憩",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "注视的前方"
       },
       "support": {
-        "name": "积少成多"
+        "name": "积少成多",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203565,13 +203652,20 @@
     },
     "skills": {
       "center": {
-        "name": "灵巧辅助"
+        "name": "灵巧辅助",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "默契的配合"
       },
       "support": {
-        "name": "出其不意"
+        "name": "出其不意",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203607,13 +203701,20 @@
     },
     "skills": {
       "center": {
-        "name": "熟练协作"
+        "name": "熟练协作",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "愉快的邀请"
       },
       "support": {
-        "name": "诱敌之计"
+        "name": "诱敌之计",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -203668,13 +203769,19 @@
     },
     "skills": {
       "center": {
-        "name": "隐于黑暗之声"
+        "name": "隐于黑暗之声",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "最为珍视的宝物"
       },
       "support": {
-        "name": "小小恶作剧"
+        "name": "小小恶作剧",
+        "description": "红色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203729,13 +203836,19 @@
     },
     "skills": {
       "center": {
-        "name": "惟妙惟肖之形"
+        "name": "惟妙惟肖之形",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "全情投入的表演"
       },
       "support": {
-        "name": "主动提议"
+        "name": "主动提议",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203775,13 +203888,19 @@
     },
     "skills": {
       "center": {
-        "name": "探求真相之瞳"
+        "name": "探求真相之瞳",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "保护弱小的决心"
       },
       "support": {
-        "name": "满怀期待"
+        "name": "满怀期待",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203816,13 +203935,19 @@
     },
     "skills": {
       "center": {
-        "name": "能言善道之舌"
+        "name": "能言善道之舌",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "预料之外的问题"
       },
       "support": {
-        "name": "待客之道"
+        "name": "待客之道",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -203877,13 +204002,19 @@
     },
     "skills": {
       "center": {
-        "name": "如阳光般耀眼"
+        "name": "如阳光般耀眼",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "好奇心旺盛"
       },
       "support": {
-        "name": "寻找人鱼"
+        "name": "寻找人鱼",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203923,13 +204054,19 @@
     },
     "skills": {
       "center": {
-        "name": "浪花与心跳"
+        "name": "浪花与心跳",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "可爱大比拼"
       },
       "support": {
-        "name": "购物巧遇"
+        "name": "购物巧遇",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -203964,13 +204101,20 @@
     },
     "skills": {
       "center": {
-        "name": "摇曳海面"
+        "name": "摇曳海面",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "可靠的助力"
       },
       "support": {
-        "name": "海边探查"
+        "name": "海边探查",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -204025,13 +204169,20 @@
     },
     "skills": {
       "center": {
-        "name": "海风轻拂"
+        "name": "海风轻拂",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "独特的果汁"
       },
       "support": {
-        "name": "提升厨艺"
+        "name": "提升厨艺",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -204086,13 +204237,19 @@
     },
     "skills": {
       "center": {
-        "name": "共同编织的旋律"
+        "name": "共同编织的旋律",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "音乐家的宇宙飞行"
       },
       "support": {
-        "name": "喵之和弦"
+        "name": "喵之和弦",
+        "description": "黄色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204114,13 +204271,19 @@
     },
     "skills": {
       "center": {
-        "name": "暴雨之中的保护"
+        "name": "暴雨之中的保护",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "妈妈的分身术"
       },
       "support": {
-        "name": "喵之和声"
+        "name": "喵之和声",
+        "description": "红色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204142,13 +204305,19 @@
     },
     "skills": {
       "center": {
-        "name": "怀中的小憩"
+        "name": "怀中的小憩",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "心想事成"
       },
       "support": {
-        "name": "喵之合唱"
+        "name": "喵之合唱",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -204170,13 +204339,19 @@
     },
     "skills": {
       "center": {
-        "name": "电影的探讨"
+        "name": "电影的探讨",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "感应物品"
       },
       "support": {
-        "name": "喵之合奏"
+        "name": "喵之合奏",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -204198,13 +204373,19 @@
     },
     "skills": {
       "center": {
-        "name": "携手的舞台"
+        "name": "携手的舞台",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "特邀嘉宾"
       },
       "support": {
-        "name": "悦动音符"
+        "name": "悦动音符",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204259,13 +204440,19 @@
     },
     "skills": {
       "center": {
-        "name": "承载心意的礼物"
+        "name": "承载心意的礼物",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "无可替代的相遇"
       },
       "support": {
-        "name": "投其所好"
+        "name": "投其所好",
+        "description": "将{0}改为{2}{1}次"
       }
     },
     "useFrameless": "FALSE"
@@ -204305,13 +204492,19 @@
     },
     "skills": {
       "center": {
-        "name": "注入魔法的礼物"
+        "name": "注入魔法的礼物",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "引力的相遇"
       },
       "support": {
-        "name": "制作魔药"
+        "name": "制作魔药",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204346,13 +204539,20 @@
     },
     "skills": {
       "center": {
-        "name": "默默关切的礼物"
+        "name": "默默关切的礼物",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "星群的相遇"
       },
       "support": {
-        "name": "拍照风波"
+        "name": "拍照风波",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -204387,13 +204587,20 @@
     },
     "skills": {
       "center": {
-        "name": "传递幸运的礼物"
+        "name": "传递幸运的礼物",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "愉快的相遇"
       },
       "support": {
-        "name": "转运之物"
+        "name": "转运之物",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -204449,13 +204656,19 @@
     },
     "skills": {
       "center": {
-        "name": "香甜的邀约"
+        "name": "香甜的邀约",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "悠闲午后"
       },
       "support": {
-        "name": "分享甜点"
+        "name": "分享甜点",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204504,13 +204717,19 @@
     },
     "skills": {
       "center": {
-        "name": "祥和之春"
+        "name": "祥和之春",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "春风的展望"
       },
       "support": {
-        "name": "品尝与分享"
+        "name": "品尝与分享",
+        "description": "全部黄色宝石的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204532,13 +204751,19 @@
     },
     "skills": {
       "center": {
-        "name": "繁星之春"
+        "name": "繁星之春",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "闪闪发光的吸引"
       },
       "support": {
-        "name": "记录瞬间"
+        "name": "记录瞬间",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204568,13 +204793,19 @@
     },
     "skills": {
       "center": {
-        "name": "思绪之春"
+        "name": "思绪之春",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "体谅之心"
       },
       "support": {
-        "name": "活动主持人"
+        "name": "活动主持人",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -204596,13 +204827,19 @@
     },
     "skills": {
       "center": {
-        "name": "良时之春"
+        "name": "良时之春",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "关切之心"
       },
       "support": {
-        "name": "日常观察者"
+        "name": "日常观察者",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -204632,13 +204869,19 @@
     },
     "skills": {
       "center": {
-        "name": "蓬勃春意"
+        "name": "蓬勃春意",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "摇曳春灯"
       },
       "support": {
-        "name": "寻访春迹"
+        "name": "寻访春迹",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204694,13 +204937,19 @@
     },
     "skills": {
       "center": {
-        "name": "灿烂笑颜"
+        "name": "灿烂笑颜",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "创作时光"
       },
       "support": {
-        "name": "筹备惊喜"
+        "name": "筹备惊喜",
+        "description": "将{0}改为{2}{1}次"
       }
     },
     "useFrameless": "FALSE"
@@ -204756,13 +205005,19 @@
     },
     "skills": {
       "center": {
-        "name": "过山车的勇气"
+        "name": "过山车的勇气",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "过去与未来"
       },
       "support": {
-        "name": "挑战时光"
+        "name": "挑战时光",
+        "description": "将GREAT・GOOD改为PERFECT{0}次"
       }
     },
     "useFrameless": "FALSE"
@@ -204808,13 +205063,19 @@
     },
     "skills": {
       "center": {
-        "name": "捕捉笑容"
+        "name": "捕捉笑容",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 8,
+        "description": "璀璨（蓝）的综合数值提升{0}％"
       },
       "live": {
         "name": "幕后嘉宾"
       },
       "support": {
-        "name": "完美合影"
+        "name": "完美合影",
+        "description": "黄色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204850,13 +205111,19 @@
     },
     "skills": {
       "center": {
-        "name": "轻松笑意"
+        "name": "轻松笑意",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "纺织时光"
       },
       "support": {
-        "name": "设计建议"
+        "name": "设计建议",
+        "description": "红色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204912,13 +205179,19 @@
     },
     "skills": {
       "center": {
-        "name": "幸福笑容"
+        "name": "幸福笑容",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "调配时光"
       },
       "support": {
-        "name": "小鸣特调"
+        "name": "小鸣特调",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -204959,13 +205232,19 @@
     },
     "skills": {
       "center": {
-        "name": "玩偶服的温柔"
+        "name": "玩偶服的温柔",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "游玩与工作"
       },
       "support": {
-        "name": "认真时光"
+        "name": "认真时光",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205006,13 +205285,19 @@
     },
     "skills": {
       "center": {
-        "name": "游乐园的关切"
+        "name": "游乐园的关切",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "援手与求助"
       },
       "support": {
-        "name": "治愈时光"
+        "name": "治愈时光",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205068,13 +205353,19 @@
     },
     "skills": {
       "center": {
-        "name": "温暖的白雪"
+        "name": "温暖的白雪",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "安心的梦"
       },
       "support": {
-        "name": "「特制」苹果派"
+        "name": "「特制」苹果派",
+        "description": "红色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205120,13 +205411,19 @@
     },
     "skills": {
       "center": {
-        "name": "善良的王后"
+        "name": "善良的王后",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "倾诉真心"
       },
       "support": {
-        "name": "美的追求"
+        "name": "美的追求",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205162,13 +205459,19 @@
     },
     "skills": {
       "center": {
-        "name": "报信的猎人"
+        "name": "报信的猎人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "热心声援"
       },
       "support": {
-        "name": "不变的守护"
+        "name": "不变的守护",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205204,13 +205507,19 @@
     },
     "skills": {
       "center": {
-        "name": "陪伴的小矮人"
+        "name": "陪伴的小矮人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "细心体谅"
       },
       "support": {
-        "name": "共同的秘密"
+        "name": "共同的秘密",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205266,13 +205575,19 @@
     },
     "skills": {
       "center": {
-        "name": "沉浸的幸福"
+        "name": "沉浸的幸福",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "珍藏可爱"
       },
       "support": {
-        "name": "交换玩偶"
+        "name": "交换玩偶",
+        "description": "黄色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205328,13 +205643,19 @@
     },
     "skills": {
       "center": {
-        "name": "糖果屋梦想"
+        "name": "糖果屋梦想",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "晚餐邀约"
       },
       "support": {
-        "name": "食材清单"
+        "name": "食材清单",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205365,13 +205686,19 @@
     },
     "skills": {
       "center": {
-        "name": "用心的礼物"
+        "name": "用心的礼物",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "甜品试吃"
       },
       "support": {
-        "name": "紧急采购"
+        "name": "紧急采购",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205402,13 +205729,19 @@
     },
     "skills": {
       "center": {
-        "name": "手作的乐趣"
+        "name": "手作的乐趣",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "初次制作"
       },
       "support": {
-        "name": "寻求建议"
+        "name": "寻求建议",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205459,13 +205792,19 @@
     },
     "skills": {
       "center": {
-        "name": "拥抱可爱"
+        "name": "拥抱可爱",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "满满治愈"
       },
       "support": {
-        "name": "幸福的舞台"
+        "name": "幸福的舞台",
+        "description": "红色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205521,13 +205860,19 @@
     },
     "skills": {
       "center": {
-        "name": "幻想重奏"
+        "name": "幻想重奏",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "浪漫的琉特琴"
       },
       "support": {
-        "name": "神秘邀请函"
+        "name": "神秘邀请函",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205563,13 +205908,19 @@
     },
     "skills": {
       "center": {
-        "name": "月下和声"
+        "name": "月下和声",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "诗意的小提琴"
       },
       "support": {
-        "name": "眼镜争夺战"
+        "name": "眼镜争夺战",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205605,13 +205956,19 @@
     },
     "skills": {
       "center": {
-        "name": "艺术交响"
+        "name": "艺术交响",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "引领的指挥棒"
       },
       "support": {
-        "name": "转角的邂逅"
+        "name": "转角的邂逅",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205667,13 +206024,19 @@
     },
     "skills": {
       "center": {
-        "name": "欢乐共鸣"
+        "name": "欢乐共鸣",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "轻快的三角铁"
       },
       "support": {
-        "name": "绝佳的契机"
+        "name": "绝佳的契机",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205727,13 +206090,19 @@
     },
     "skills": {
       "center": {
-        "name": "天使的早餐"
+        "name": "天使的早餐",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "汉堡诱惑"
       },
       "support": {
-        "name": "星动邀约"
+        "name": "星动邀约",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205787,13 +206156,19 @@
     },
     "skills": {
       "center": {
-        "name": "魔王的宵夜"
+        "name": "魔王的宵夜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "番茄诱惑"
       },
       "support": {
-        "name": "唱享美味"
+        "name": "唱享美味",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205849,13 +206224,19 @@
     },
     "skills": {
       "center": {
-        "name": "始终闪耀的宝藏"
+        "name": "始终闪耀的宝藏",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "时差与借口"
       },
       "support": {
-        "name": "张宿之鹿"
+        "name": "张宿之鹿",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205911,13 +206292,19 @@
     },
     "skills": {
       "center": {
-        "name": "笑容灿烂的宝藏"
+        "name": "笑容灿烂的宝藏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "璀璨的道路"
       },
       "support": {
-        "name": "房宿之兔"
+        "name": "房宿之兔",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205953,13 +206340,19 @@
     },
     "skills": {
       "center": {
-        "name": "轻松的宝藏"
+        "name": "轻松的宝藏",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 4,
+        "description": "绚烂（红）的综合数值提升{0}％"
       },
       "live": {
         "name": "星座运势"
       },
       "support": {
-        "name": "心宿之狐"
+        "name": "心宿之狐",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -205995,13 +206388,19 @@
     },
     "skills": {
       "center": {
-        "name": "认真的宝藏"
+        "name": "认真的宝藏",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 12,
+        "description": "辉煌（绿）的综合数值提升{0}％"
       },
       "live": {
         "name": "小小误会"
       },
       "support": {
-        "name": "星宿之马"
+        "name": "星宿之马",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -206020,6 +206419,9 @@
       "tw": "2023-01-17",
       "en": "2023-01-17"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 3420,
@@ -206034,13 +206436,19 @@
     },
     "skills": {
       "center": {
-        "name": "跃动春色"
+        "name": "跃动春色",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "春意烂漫"
       },
       "support": {
-        "name": "岁岁新桃"
+        "name": "岁岁新桃",
+        "description": "红色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206056,15 +206464,24 @@
     "releaseDate": {
       "kr": "2022-12-20"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "skills": {
       "center": {
-        "name": "디저트의 정의"
+        "name": "디저트의 정의",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "불타오르는 용기"
       },
       "support": {
-        "name": "열정을 그대에게"
+        "name": "열정을 그대에게",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206081,6 +206498,9 @@
     "releaseDate": {
       "kr": "2022-12-20"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 2060,
@@ -206090,13 +206510,20 @@
     },
     "skills": {
       "center": {
-        "name": "달콤한 음표"
+        "name": "달콤한 음표",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "내 마음대로 지시"
       },
       "support": {
-        "name": "모두 힘을 합쳐"
+        "name": "모두 힘을 합쳐",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -206113,6 +206540,9 @@
     "releaseDate": {
       "kr": "2022-12-20"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 2760,
@@ -206122,13 +206552,20 @@
     },
     "skills": {
       "center": {
-        "name": "향기로운 연주"
+        "name": "향기로운 연주",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "전력의 리드"
       },
       "support": {
-        "name": "실력 발휘"
+        "name": "실력 발휘",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -206184,13 +206621,19 @@
     },
     "skills": {
       "center": {
-        "name": "闪闪发光的冒险"
+        "name": "闪闪发光的冒险",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "孤岛的一等星"
       },
       "support": {
-        "name": "积极闯关"
+        "name": "积极闯关",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206246,13 +206689,19 @@
     },
     "skills": {
       "center": {
-        "name": "尽力完成的冒险"
+        "name": "尽力完成的冒险",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "冒险中的成长"
       },
       "support": {
-        "name": "认真修行"
+        "name": "认真修行",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206283,13 +206732,19 @@
     },
     "skills": {
       "center": {
-        "name": "来自森林的协助"
+        "name": "来自森林的协助",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "未知障碍的惊喜"
       },
       "support": {
-        "name": "笼中解救"
+        "name": "笼中解救",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206320,13 +206775,19 @@
     },
     "skills": {
       "center": {
-        "name": "水之精灵的协助"
+        "name": "水之精灵的协助",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "对后辈的关怀"
       },
       "support": {
-        "name": "水中解救"
+        "name": "水中解救",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206372,13 +206833,19 @@
     },
     "skills": {
       "center": {
-        "name": "开心欢笑的舞台"
+        "name": "开心欢笑的舞台",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "来自右肩的喝彩"
       },
       "support": {
-        "name": "舞台上的新朋友"
+        "name": "舞台上的新朋友",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206415,13 +206882,19 @@
     },
     "skills": {
       "center": {
-        "name": "奥杰利亚变奏"
+        "name": "奥杰利亚变奏",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "投身暗夜的天使"
       },
       "support": {
-        "name": "追寻自我的成长"
+        "name": "追寻自我的成长",
+        "description": "红色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206468,13 +206941,20 @@
     },
     "skills": {
       "center": {
-        "name": "操纵者变奏"
+        "name": "操纵者变奏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "静观其变"
       },
       "support": {
-        "name": "顺水推舟的计划"
+        "name": "顺水推舟的计划",
+        "type_id": 1,
+        "description": "降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -206531,13 +207011,19 @@
     },
     "skills": {
       "center": {
-        "name": "助演者变奏"
+        "name": "助演者变奏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "缜密调查"
       },
       "support": {
-        "name": "意料之外的出演"
+        "name": "意料之外的出演",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206593,13 +207079,19 @@
     },
     "skills": {
       "center": {
-        "name": "罗特巴特变奏"
+        "name": "罗特巴特变奏",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "闪耀（黄）的综合数值提升{0}％"
       },
       "live": {
         "name": "穿越黄昏的魔法师"
       },
       "support": {
-        "name": "守护幸福的帕拉迪昂"
+        "name": "守护幸福的帕拉迪昂",
+        "description": "红色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206656,13 +207148,19 @@
     },
     "skills": {
       "center": {
-        "name": "奥杰塔变奏"
+        "name": "奥杰塔变奏",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "绽放光辉的原石"
       },
       "support": {
-        "name": "自由飞舞的羽翼"
+        "name": "自由飞舞的羽翼",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206704,13 +207202,20 @@
     },
     "skills": {
       "center": {
-        "name": "决策者变奏"
+        "name": "决策者变奏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "情报分析"
       },
       "support": {
-        "name": "暗中参与的计划"
+        "name": "暗中参与的计划",
+        "type_id": 1,
+        "description": "降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -206767,13 +207272,19 @@
     },
     "skills": {
       "center": {
-        "name": "援护者变奏"
+        "name": "援护者变奏",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "经验之谈"
       },
       "support": {
-        "name": "突如其来的出演"
+        "name": "突如其来的出演",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206828,13 +207339,19 @@
     },
     "skills": {
       "center": {
-        "name": "孤注一掷的抉择"
+        "name": "孤注一掷的抉择",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "真相证明"
       },
       "support": {
-        "name": "高中生侦探"
+        "name": "高中生侦探",
+        "description": "将GREAT・GOOD改为PERFECT{0}次"
       }
     },
     "useFrameless": "FALSE"
@@ -206856,13 +207373,19 @@
     },
     "skills": {
       "center": {
-        "name": "最初的泪水"
+        "name": "最初的泪水",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "真相探求"
       },
       "support": {
-        "name": "仿生人侦探"
+        "name": "仿生人侦探",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206884,13 +207407,19 @@
     },
     "skills": {
       "center": {
-        "name": "咖啡的支援"
+        "name": "咖啡的支援",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "真相挑战"
       },
       "support": {
-        "name": "安乐椅侦探"
+        "name": "安乐椅侦探",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -206920,13 +207449,20 @@
     },
     "skills": {
       "center": {
-        "name": "金钱的力量"
+        "name": "金钱的力量",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "真相旅途"
       },
       "support": {
-        "name": "富豪侦探"
+        "name": "富豪侦探",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -206944,6 +207480,9 @@
       "cn": "2023-10-02",
       "tw": "2023-10-02"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 2810,
@@ -206958,13 +207497,19 @@
     },
     "skills": {
       "center": {
-        "name": "打破不可能"
+        "name": "打破不可能",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "璀璨（蓝）的综合数值提升{0}％"
       },
       "live": {
         "name": "思维碰撞的火星"
       },
       "support": {
-        "name": "小小侦探"
+        "name": "小小侦探",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207020,13 +207565,19 @@
     },
     "skills": {
       "center": {
-        "name": "甜润诱人的旋律"
+        "name": "甜润诱人的旋律",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "独出心裁"
       },
       "support": {
-        "name": "别出新意"
+        "name": "别出新意",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207082,13 +207633,19 @@
     },
     "skills": {
       "center": {
-        "name": "香甜可口的旋律"
+        "name": "香甜可口的旋律",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "自得其乐"
       },
       "support": {
-        "name": "抵挡诱惑"
+        "name": "抵挡诱惑",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207144,13 +207701,20 @@
     },
     "skills": {
       "center": {
-        "name": "风味独特的旋律"
+        "name": "风味独特的旋律",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "自由不羁"
       },
       "support": {
-        "name": "随心所欲"
+        "name": "随心所欲",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -207186,13 +207750,20 @@
     },
     "skills": {
       "center": {
-        "name": "醇香甘美的旋律"
+        "name": "醇香甘美的旋律",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "悠哉游哉"
       },
       "support": {
-        "name": "率性而为"
+        "name": "率性而为",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -207223,13 +207794,20 @@
     },
     "skills": {
       "center": {
-        "name": "酸甜眷恋的旋律"
+        "name": "酸甜眷恋的旋律",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "随遇而安"
       },
       "support": {
-        "name": "享受当下"
+        "name": "享受当下",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -207285,13 +207863,19 @@
     },
     "skills": {
       "center": {
-        "name": "蒲公英的轻语"
+        "name": "蒲公英的轻语",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "雪夜的温暖"
       },
       "support": {
-        "name": "鲜花编织的戒指"
+        "name": "鲜花编织的戒指",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207322,13 +207906,19 @@
     },
     "skills": {
       "center": {
-        "name": "雏菊的微笑"
+        "name": "雏菊的微笑",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "迷宫的旋律"
       },
       "support": {
-        "name": "精心准备的行李"
+        "name": "精心准备的行李",
+        "description": "提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -207364,13 +207954,19 @@
     },
     "skills": {
       "center": {
-        "name": "绣球的祝福"
+        "name": "绣球的祝福",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "贴心的陪伴"
       },
       "support": {
-        "name": "交通安全护身符"
+        "name": "交通安全护身符",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207406,13 +208002,19 @@
     },
     "skills": {
       "center": {
-        "name": "铃兰的羞涩"
+        "name": "铃兰的羞涩",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "邂逅的惊喜"
       },
       "support": {
-        "name": "异国的小熊布偶"
+        "name": "异国的小熊布偶",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207469,13 +208071,19 @@
     },
     "skills": {
       "center": {
-        "name": "聚焦耀眼的辰光"
+        "name": "聚焦耀眼的辰光",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "修行成果"
       },
       "support": {
-        "name": "不可思议的宝石"
+        "name": "不可思议的宝石",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207517,13 +208125,19 @@
     },
     "skills": {
       "center": {
-        "name": "倒映澄澈的辰光"
+        "name": "倒映澄澈的辰光",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "天然治愈"
       },
       "support": {
-        "name": "天与海的连接点"
+        "name": "天与海的连接点",
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207580,13 +208194,19 @@
     },
     "skills": {
       "center": {
-        "name": "拂晓初露的辰光"
+        "name": "拂晓初露的辰光",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "共时巧合"
       },
       "support": {
-        "name": "交错的心意"
+        "name": "交错的心意",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207623,13 +208243,19 @@
     },
     "skills": {
       "center": {
-        "name": "拨云重现的辰光"
+        "name": "拨云重现的辰光",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "转运执念"
       },
       "support": {
-        "name": "迂回的幸运"
+        "name": "迂回的幸运",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207648,6 +208274,9 @@
       "kr": "2024-02-03",
       "tw": "2024-02-09",
       "en": "2024-02-03"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -207683,13 +208312,19 @@
     },
     "skills": {
       "center": {
-        "name": "势不可挡的时运"
+        "name": "势不可挡的时运",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "际会风云"
       },
       "support": {
-        "name": "折扇聚春风"
+        "name": "折扇聚春风",
+        "description": "蓝色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207726,13 +208361,19 @@
     },
     "skills": {
       "center": {
-        "name": "传递甜蜜"
+        "name": "传递甜蜜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "圆满的终局"
       },
       "support": {
-        "name": "温柔职人"
+        "name": "温柔职人",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207769,13 +208410,19 @@
     },
     "skills": {
       "center": {
-        "name": "包装甜蜜"
+        "name": "包装甜蜜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "细腻的展开"
       },
       "support": {
-        "name": "天真职人"
+        "name": "天真职人",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207812,13 +208459,19 @@
     },
     "skills": {
       "center": {
-        "name": "洞察甜蜜"
+        "name": "洞察甜蜜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "期待的变化"
       },
       "support": {
-        "name": "浪漫职人"
+        "name": "浪漫职人",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207855,13 +208508,20 @@
     },
     "skills": {
       "center": {
-        "name": "制造甜蜜"
+        "name": "制造甜蜜",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "怦然的开始"
       },
       "support": {
-        "name": "热情职人"
+        "name": "热情职人",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -207918,13 +208578,19 @@
     },
     "skills": {
       "center": {
-        "name": "暖阳的石榴石"
+        "name": "暖阳的石榴石",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "温柔坚定的红玉"
       },
       "support": {
-        "name": "辰砂之主演"
+        "name": "辰砂之主演",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -207961,13 +208627,20 @@
     },
     "skills": {
       "center": {
-        "name": "朝阳的石榴石"
+        "name": "朝阳的石榴石",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "高洁忠诚的红玉"
       },
       "support": {
-        "name": "辰砂之友人"
+        "name": "辰砂之友人",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -208024,13 +208697,19 @@
     },
     "skills": {
       "center": {
-        "name": "日光的石榴石"
+        "name": "日光的石榴石",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "活力满满的红玉"
       },
       "support": {
-        "name": "辰砂之后辈"
+        "name": "辰砂之后辈",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208087,13 +208766,19 @@
     },
     "skills": {
       "center": {
-        "name": "迷雾中的蜃景"
+        "name": "迷雾中的蜃景",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "辉煌（绿）的综合数值提升{0}％"
       },
       "live": {
         "name": "混沌昼夜的边界"
       },
       "support": {
-        "name": "隐秘的灵药"
+        "name": "隐秘的灵药",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208150,13 +208835,19 @@
     },
     "skills": {
       "center": {
-        "name": "明月的紫水晶"
+        "name": "明月的紫水晶",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "追寻梦想的萤石"
       },
       "support": {
-        "name": "堇青石之主演"
+        "name": "堇青石之主演",
+        "description": "黄色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208193,13 +208884,20 @@
     },
     "skills": {
       "center": {
-        "name": "冷月的紫水晶"
+        "name": "冷月的紫水晶",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "坚持自我的萤石"
       },
       "support": {
-        "name": "堇青石之友人"
+        "name": "堇青石之友人",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -208236,13 +208934,19 @@
     },
     "skills": {
       "center": {
-        "name": "朗月的紫水晶"
+        "name": "朗月的紫水晶",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "助人幸福的萤石"
       },
       "support": {
-        "name": "堇青石之少年"
+        "name": "堇青石之少年",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208298,13 +209002,19 @@
     },
     "skills": {
       "center": {
-        "name": "心满意足的客人"
+        "name": "心满意足的客人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "认真绘制"
       },
       "support": {
-        "name": "内部导览图"
+        "name": "内部导览图",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208360,13 +209070,19 @@
     },
     "skills": {
       "center": {
-        "name": "尽情玩闹的客人"
+        "name": "尽情玩闹的客人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "摇滚绘制"
       },
       "support": {
-        "name": "特别粉丝福利"
+        "name": "特别粉丝福利",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208422,13 +209138,20 @@
     },
     "skills": {
       "center": {
-        "name": "创造回忆的客人"
+        "name": "创造回忆的客人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "轻松绘制"
       },
       "support": {
-        "name": "友谊的击掌"
+        "name": "友谊的击掌",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -208484,13 +209207,19 @@
     },
     "skills": {
       "center": {
-        "name": "沉浸其中的客人"
+        "name": "沉浸其中的客人",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "随心绘制"
       },
       "support": {
-        "name": "坏心眼的提醒"
+        "name": "坏心眼的提醒",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208547,13 +209276,19 @@
     },
     "skills": {
       "center": {
-        "name": "无意识的主人公"
+        "name": "无意识的主人公",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "热闹的晨间时光"
       },
       "support": {
-        "name": "肆意的水珠"
+        "name": "肆意的水珠",
+        "description": "将GREAT・GOOD改为PERFECT{0}次"
       }
     },
     "useFrameless": "FALSE"
@@ -208590,13 +209325,19 @@
     },
     "skills": {
       "center": {
-        "name": "再次登场的英雄"
+        "name": "再次登场的英雄",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "惬意的午间时光"
       },
       "support": {
-        "name": "未知的朋友"
+        "name": "未知的朋友",
+        "description": "红色宝石（中）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208633,13 +209374,19 @@
     },
     "skills": {
       "center": {
-        "name": "锐意前行的后辈"
+        "name": "锐意前行的后辈",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "迷茫的晚间时光"
       },
       "support": {
-        "name": "直白的问候"
+        "name": "直白的问候",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208676,13 +209423,19 @@
     },
     "skills": {
       "center": {
-        "name": "意料外的破局者"
+        "name": "意料外的破局者",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "休闲的夜间时光"
       },
       "support": {
-        "name": "感恩的早餐"
+        "name": "感恩的早餐",
+        "description": "黄色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208739,13 +209492,20 @@
     },
     "skills": {
       "center": {
-        "name": "突发漂流计划"
+        "name": "突发漂流计划",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "飞行的终点"
       },
       "support": {
-        "name": "降落舞台"
+        "name": "降落舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -208802,13 +209562,19 @@
     },
     "skills": {
       "center": {
-        "name": "一击即中"
+        "name": "一击即中",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 16,
+        "description": "闪耀（黄）的综合数值提升{0}％"
       },
       "live": {
         "name": "难得轻松的假日"
       },
       "support": {
-        "name": "精英继承人"
+        "name": "精英继承人",
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208845,13 +209611,20 @@
     },
     "skills": {
       "center": {
-        "name": "读书茶会"
+        "name": "读书茶会",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "陪伴友人的假日"
       },
       "support": {
-        "name": "暖心管家"
+        "name": "暖心管家",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -208908,13 +209681,19 @@
     },
     "skills": {
       "center": {
-        "name": "出谋划策"
+        "name": "出谋划策",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "悠闲度过的假日"
       },
       "support": {
-        "name": "机灵秘书"
+        "name": "机灵秘书",
+        "description": "红色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -208951,13 +209730,19 @@
     },
     "skills": {
       "center": {
-        "name": "即兴演出"
+        "name": "即兴演出",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "开心度过的假日"
       },
       "support": {
-        "name": "灵巧保镖"
+        "name": "灵巧保镖",
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209013,13 +209798,19 @@
     },
     "skills": {
       "center": {
-        "name": "梦境中的王者"
+        "name": "梦境中的王者",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "重构出的故事"
       },
       "support": {
-        "name": "成为漫画的主人公"
+        "name": "成为漫画的主人公",
+        "description": "红色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209076,13 +209867,19 @@
     },
     "skills": {
       "center": {
-        "name": "伯利恒之星"
+        "name": "伯利恒之星",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "无垠想象"
       },
       "support": {
-        "name": "灵感指引的方向"
+        "name": "灵感指引的方向",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209139,13 +209936,19 @@
     },
     "skills": {
       "center": {
-        "name": "进击的三桅船"
+        "name": "进击的三桅船",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "转动罗盘"
       },
       "support": {
-        "name": "通往未来的航海图"
+        "name": "通往未来的航海图",
+        "description": "经验券的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209202,13 +210005,19 @@
     },
     "skills": {
       "center": {
-        "name": "「魔法科」的「转校生」"
+        "name": "「魔法科」的「转校生」",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "永远幸福的祝愿"
       },
       "support": {
-        "name": "无比快乐的一天"
+        "name": "无比快乐的一天",
+        "description": "蓝色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209265,13 +210074,19 @@
     },
     "skills": {
       "center": {
-        "name": "皮格马利翁之爱"
+        "name": "皮格马利翁之爱",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "迈达斯之手"
       },
       "support": {
-        "name": "标本馆奇妙夜"
+        "name": "标本馆奇妙夜",
+        "description": "黄色宝石（大）的掉落率变为{0}倍"
       }
     },
     "useFrameless": "FALSE"
@@ -209291,8 +210106,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209308,13 +210122,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209333,8 +210154,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209350,13 +210170,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209375,8 +210202,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209392,13 +210218,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209418,8 +210251,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209430,13 +210262,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209456,8 +210295,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209473,13 +210311,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209499,8 +210344,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209516,13 +210360,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209542,8 +210393,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209554,13 +210404,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209580,8 +210437,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209592,13 +210448,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209617,8 +210480,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209634,13 +210496,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209660,8 +210529,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209677,13 +210545,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209703,8 +210578,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209715,13 +210589,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209741,8 +210622,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209753,13 +210633,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209779,8 +210666,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209791,13 +210677,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209817,8 +210710,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209829,13 +210721,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209854,8 +210753,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209866,13 +210764,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209891,8 +210796,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209903,13 +210807,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -209928,8 +210839,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209940,13 +210850,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -209966,8 +210883,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -209983,13 +210899,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210009,8 +210932,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210021,13 +210943,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210047,8 +210976,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210084,13 +211012,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210110,8 +211045,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210127,13 +211061,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210153,8 +211094,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210165,13 +211105,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210191,8 +211138,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210208,13 +211154,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210233,8 +211186,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210245,13 +211197,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210271,8 +211230,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210288,13 +211246,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210313,8 +211278,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210325,13 +211289,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210351,8 +211322,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210388,13 +211358,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210414,8 +211391,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210431,13 +211407,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210456,8 +211439,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210468,13 +211450,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210494,8 +211483,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210511,13 +211499,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210537,8 +211532,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210554,13 +211548,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210579,8 +211580,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210616,13 +211616,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210641,8 +211648,7 @@
       "tw": "2022-05-02"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210658,13 +211664,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210684,8 +211697,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210721,13 +211733,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210747,8 +211766,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210759,13 +211777,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210785,8 +211810,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210797,13 +211821,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210823,8 +211854,7 @@
       "en": "2023-11-20"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210835,13 +211865,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210861,8 +211898,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210873,13 +211909,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -210899,8 +211942,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210911,13 +211953,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210937,8 +211986,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210949,13 +211997,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -210975,8 +212030,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -210987,13 +212041,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211013,8 +212074,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211025,13 +212085,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211051,8 +212118,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211063,13 +212129,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211089,8 +212162,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211126,13 +212198,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211152,8 +212231,7 @@
       "en": "2023-06-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211164,13 +212242,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211190,8 +212275,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211202,13 +212286,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211228,8 +212319,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211245,13 +212335,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211271,8 +212368,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211283,13 +212379,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211309,8 +212412,7 @@
       "en": "2023-08-14"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211321,13 +212423,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211347,8 +212456,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211359,13 +212467,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211385,8 +212500,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211397,13 +212511,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211423,8 +212544,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211460,13 +212580,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211486,8 +212613,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211498,13 +212624,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211524,8 +212657,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211536,13 +212668,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211562,8 +212701,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211574,13 +212712,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211600,8 +212745,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211612,13 +212756,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211638,8 +212789,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211650,13 +212800,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211676,8 +212833,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211713,13 +212869,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211739,8 +212902,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211751,13 +212913,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211777,8 +212946,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211789,13 +212957,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211815,8 +212990,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211827,13 +213001,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211853,8 +213034,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211865,13 +213045,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -211891,8 +213078,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211903,13 +213089,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211929,8 +213122,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211941,13 +213133,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -211967,8 +213166,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -211979,13 +213177,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212005,8 +213210,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212017,13 +213221,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212043,8 +213254,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212065,13 +213275,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212091,8 +213308,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212103,13 +213319,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212129,8 +213352,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212141,13 +213363,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212167,8 +213396,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212179,13 +213407,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212205,8 +213440,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212217,13 +213451,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212243,8 +213484,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212255,13 +213495,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212281,8 +213528,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212293,13 +213539,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212319,8 +213572,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212331,13 +213583,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212357,8 +213616,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212369,13 +213627,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212395,8 +213660,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212427,13 +213691,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力闪耀"
+        "name": "表现力闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212453,8 +213724,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212465,13 +213735,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212491,8 +213768,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212503,13 +213779,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212529,8 +213812,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212541,13 +213823,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212567,8 +213856,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212584,13 +213872,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212610,8 +213905,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212647,13 +213941,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212673,8 +213974,7 @@
       "en": "2024-08-08"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212685,13 +213985,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212711,8 +214018,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212733,13 +214039,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212759,8 +214072,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212771,13 +214083,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212797,8 +214116,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212809,13 +214127,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212835,8 +214160,7 @@
       "en": "2024-08-28"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212852,13 +214176,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212878,8 +214209,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212890,13 +214220,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -212916,8 +214253,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212928,13 +214264,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212954,8 +214297,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -212966,13 +214308,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -212992,8 +214341,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213004,13 +214352,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213030,8 +214385,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213042,13 +214396,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213068,8 +214429,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213080,13 +214440,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213106,8 +214473,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213118,13 +214484,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213144,8 +214517,7 @@
       "en": "2024-06-16"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213156,13 +214528,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213182,8 +214561,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213194,13 +214572,20 @@
     },
     "skills": {
       "center": {
-        "name": "舞蹈闪耀"
+        "name": "舞蹈闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213220,8 +214605,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213232,13 +214616,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213258,8 +214649,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213270,13 +214660,20 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213296,8 +214693,7 @@
       "en": "2024-07-15"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -213308,13 +214704,20 @@
     },
     "skills": {
       "center": {
-        "name": "歌声闪耀"
+        "name": "歌声闪耀",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213333,18 +214736,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213363,18 +214772,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213393,18 +214808,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213423,18 +214844,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213453,18 +214880,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213483,18 +214916,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213513,18 +214952,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213543,18 +214988,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213573,18 +215024,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213603,18 +215060,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213633,18 +215096,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213663,18 +215132,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213693,18 +215168,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213723,18 +215204,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213753,18 +215240,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213783,18 +215276,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213813,18 +215312,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213843,18 +215348,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213873,18 +215384,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈辉煌"
+        "name": "舞蹈辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 10,
+        "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213903,18 +215420,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213933,18 +215456,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -213963,18 +215492,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -213993,18 +215528,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 13,
+        "description": "闪耀（黄）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214023,18 +215564,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "回应舞台"
+        "name": "回应舞台",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214053,18 +215600,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214083,18 +215636,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214113,18 +215672,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力绚烂"
+        "name": "表现力绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 3,
+        "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214143,18 +215708,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214173,18 +215744,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214203,18 +215780,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "极限领域"
+        "name": "极限领域",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214233,18 +215816,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "沉迷舞台"
+        "name": "沉迷舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214263,18 +215852,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214293,18 +215888,24 @@
       "tw": "2024-03-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214323,18 +215924,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214353,18 +215960,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "魅力舞台"
+        "name": "魅力舞台",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214383,18 +215996,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 6,
+        "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214413,18 +216032,24 @@
       "tw": "2024-04-29"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈璀璨"
+        "name": "舞蹈璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援舞蹈"
+        "name": "声援舞蹈",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214443,18 +216068,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪光声援"
+        "name": "闪光声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214473,18 +216104,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪耀声援"
+        "name": "闪耀声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214503,18 +216140,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨"
+        "name": "表现力璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 15,
+        "description": "闪耀（黄）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214533,18 +216176,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214563,18 +216212,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声璀璨"
+        "name": "歌声璀璨",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 5,
+        "description": "璀璨（蓝）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214593,18 +216248,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214623,18 +216284,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214653,18 +216320,24 @@
       "tw": "2024-01-23"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声辉煌"
+        "name": "歌声辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 9,
+        "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援演唱"
+        "name": "声援演唱",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214683,18 +216356,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "舞蹈绚烂"
+        "name": "舞蹈绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 2,
+        "description": "绚烂（红）的舞蹈能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪烁声援"
+        "name": "闪烁声援",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214713,18 +216392,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "闪亮声援"
+        "name": "闪亮声援",
+        "type_id": 1,
+        "description": "少量降低演唱会热度的下降量"
       }
     },
     "useFrameless": "FALSE"
@@ -214743,18 +216428,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "表现力辉煌"
+        "name": "表现力辉煌",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 11,
+        "description": "辉煌（绿）的表演能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "声援表演"
+        "name": "声援表演",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
@@ -214773,18 +216464,24 @@
       "tw": "2024-02-24"
     },
     "obtain": {
-      "type": "special",
-      "subType": "anniv"
+      "type": "special"
     },
     "skills": {
       "center": {
-        "name": "歌声绚烂"
+        "name": "歌声绚烂",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
       },
       "live": {
         "name": "得分提升"
       },
       "support": {
-        "name": "保持能量"
+        "name": "保持能量",
+        "type_id": 4,
+        "description": "少量提高合唱时间能量槽内的提升量"
       }
     },
     "useFrameless": "FALSE"
