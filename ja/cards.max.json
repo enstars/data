@@ -202796,6 +202796,240 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4216,
+    "rarity": 5,
+    "character_id": 13,
+    "type": 3,
+    "substat_type": 2,
+    "title": "FREEDOMの頂点",
+    "name": "遊木真",
+    "releaseDate": {
+      "jp": "2024-11-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 312
+    },
+    "stats": {
+      "ir": {
+        "da": 23689,
+        "vo": 20609,
+        "pf": 48078
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "辿り着いた理想",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 11,
+        "description": "GlitterタイプのPf 120％up"
+      },
+      "live": {
+        "name": "詰め込む想い",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "限界プレイ",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "ワチャガナドゥ？"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "FREEDOM衣装",
+          "FREEDOM衣装 (SCR)"
+        ],
+        "3d": [
+          "FREEDOM衣装",
+          "FREEDOM衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "FREEDOM",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4217,
+    "rarity": 4,
+    "character_id": 11,
+    "type": 2,
+    "substat_type": 1,
+    "title": "FREEDOMの輝き",
+    "name": "明星スバル",
+    "releaseDate": {
+      "jp": "2024-11-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 312
+    },
+    "stats": {
+      "ir": {
+        "da": 12219,
+        "vo": 31000,
+        "pf": 13976
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "掲げ続ける理想",
+        "effect_value": [
+          "35"
+        ],
+        "type_id": 8,
+        "description": "Brilliantタイプの全パラメーター35％up"
+      },
+      "live": {
+        "name": "詰め込む夢",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間40％スコアアップ"
+      },
+      "support": {
+        "name": "親子の時間",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "ワチャガナドゥ？"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "FREEDOM衣装"
+        ],
+        "3d": [
+          "FREEDOM衣装"
+        ]
+      }
+    },
+    "associated_story": "FREEDOM",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4218,
+    "rarity": 3,
+    "character_id": 12,
+    "type": 4,
+    "substat_type": 1,
+    "title": "FREEDOMの知恵",
+    "name": "氷鷹北斗",
+    "releaseDate": {
+      "jp": "2024-11-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 312
+    },
+    "stats": {
+      "ir": {
+        "da": 7611,
+        "vo": 21509,
+        "pf": 10695
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "果てしない理想",
+        "effect_value": "#N/A",
+        "description": "FlashタイプのVo 80％up"
+      },
+      "live": {
+        "name": "詰め込む自由",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間8％スコアアップ"
+      },
+      "support": {
+        "name": "まさかの遭遇",
+        "type_id": 9,
+        "description": "ステータスピース（青小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "FREEDOM衣装"
+        ],
+        "3d": [
+          "FREEDOM衣装"
+        ]
+      }
+    },
+    "associated_story": "FREEDOM",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4219,
+    "rarity": 3,
+    "character_id": 18,
+    "type": 1,
+    "substat_type": 0,
+    "title": "FREEDOMの攻略",
+    "name": "衣更真緒",
+    "releaseDate": {
+      "jp": "2024-11-15"
+    },
+    "obtain": {
+      "type": "event",
+      "subType": "unit",
+      "id": 312
+    },
+    "stats": {
+      "ir": {
+        "da": 19230,
+        "vo": 12636,
+        "pf": 10655
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "実現する理想",
+        "effect_value": "#N/A",
+        "description": "SparkleタイプのDa 80％up"
+      },
+      "live": {
+        "name": "詰め込む期待",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間20％スコアアップ"
+      },
+      "support": {
+        "name": "ゾンビハザード",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "FREEDOM衣装"
+        ],
+        "3d": [
+          "FREEDOM衣装"
+        ]
+      }
+    },
+    "associated_story": "FREEDOM",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 90001,
     "rarity": 4,
     "character_id": 67,
@@ -202823,6 +203057,17 @@
         "pf": 22930
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "划破长空的飞燕"
+      },
+      "support": {
+        "name": "颠覆者之歌"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -202847,6 +203092,17 @@
         "da": 2300,
         "vo": 1910,
         "pf": 2710
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "挚情之所在"
+      },
+      "support": {
+        "name": "神往者之歌"
       }
     },
     "useFrameless": "FALSE"
@@ -202880,6 +203136,17 @@
         "pf": 13882
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "幽邃的注视"
+      },
+      "support": {
+        "name": "引导者之歌"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -202906,6 +203173,17 @@
         "pf": 2280
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "礼圣者之姿"
+      },
+      "support": {
+        "name": "圣职者之歌"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -202914,7 +203192,7 @@
     "rarity": 3,
     "character_id": 11,
     "type": 3,
-    "substat_type": 2,
+    "substat_type": 1,
     "title": "群星的旋律",
     "name": "明星スバル",
     "releaseDate": {
@@ -202937,6 +203215,17 @@
         "pf": 22676
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "星辉的祝福"
+      },
+      "support": {
+        "name": "喧响的群星"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -202945,10 +203234,14 @@
     "rarity": 5,
     "character_id": 71,
     "type": 1,
+    "substat_type": 0,
     "title": "鸿运当头",
     "name": "天城燐音",
     "releaseDate": {
       "cn": "2021-02-09"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -202982,6 +203275,17 @@
         "pf": 22396
       }
     },
+    "skills": {
+      "center": {
+        "name": "欢闹喧响"
+      },
+      "live": {
+        "name": "幸运女神的指引"
+      },
+      "support": {
+        "name": "叠加的巧合"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -202990,10 +203294,14 @@
     "rarity": 4,
     "character_id": 10,
     "type": 4,
+    "substat_type": 1,
     "title": "幸运点心",
     "name": "朱桜司",
     "releaseDate": {
       "cn": "2021-02-09"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203007,6 +203315,17 @@
         "pf": 16559
       }
     },
+    "skills": {
+      "center": {
+        "name": "美好愿景"
+      },
+      "live": {
+        "name": "甜蜜点心的诱惑"
+      },
+      "support": {
+        "name": "坚定的意志"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203015,16 +203334,31 @@
     "rarity": 3,
     "character_id": 38,
     "type": 2,
+    "substat_type": 1,
     "title": "幸运魔法",
     "name": "逆先夏目",
     "releaseDate": {
       "cn": "2021-02-09"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
         "da": 2130,
         "vo": 2600,
         "pf": 1960
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "神秘之光"
+      },
+      "live": {
+        "name": "魔法之外的幸福"
+      },
+      "support": {
+        "name": "魔法的效力"
       }
     },
     "useFrameless": "FALSE"
@@ -203035,16 +203369,31 @@
     "rarity": 3,
     "character_id": 26,
     "type": 3,
+    "substat_type": 0,
     "title": "幸运玩偶",
     "name": "鬼龍紅郎",
     "releaseDate": {
       "cn": "2021-02-09"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
         "da": 3020,
         "vo": 1750,
         "pf": 1850
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "意外赠礼"
+      },
+      "live": {
+        "name": "满含心意的玩偶"
+      },
+      "support": {
+        "name": "可爱的元素"
       }
     },
     "useFrameless": "FALSE"
@@ -203055,6 +203404,7 @@
     "rarity": 4,
     "character_id": 74,
     "type": 1,
+    "substat_type": 2,
     "title": "拿手好菜",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -203067,6 +203417,17 @@
         "pf": 4590
       }
     },
+    "skills": {
+      "center": {
+        "name": "大显身手"
+      },
+      "live": {
+        "name": "香气四溢的佳肴"
+      },
+      "support": {
+        "name": "美味的助力"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203075,12 +203436,16 @@
     "rarity": 5,
     "character_id": 25,
     "type": 2,
+    "substat_type": 1,
     "title": "跃动之辉",
     "name": "守沢千秋",
     "releaseDate": {
       "cn": "2021-04-03",
       "tw": "2021-05-02",
       "en": "2023-02-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203114,6 +203479,17 @@
         "pf": 27489
       }
     },
+    "skills": {
+      "center": {
+        "name": "隐忍关怀"
+      },
+      "live": {
+        "name": "守望的目光"
+      },
+      "support": {
+        "name": "拭目以待"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203122,12 +203498,16 @@
     "rarity": 4,
     "character_id": 1,
     "type": 4,
+    "substat_type": 1,
     "title": "憧憬之辉",
     "name": "南雲鉄虎",
     "releaseDate": {
       "cn": "2021-04-03",
       "tw": "2021-05-02",
       "en": "2023-02-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203141,6 +203521,17 @@
         "pf": 13014
       }
     },
+    "skills": {
+      "center": {
+        "name": "短暂休憩"
+      },
+      "live": {
+        "name": "注视的前方"
+      },
+      "support": {
+        "name": "积少成多"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203149,12 +203540,16 @@
     "rarity": 3,
     "character_id": 7,
     "type": 3,
+    "substat_type": 2,
     "title": "机敏之辉",
     "name": "仙石忍",
     "releaseDate": {
       "cn": "2021-04-03",
       "tw": "2021-05-02",
       "en": "2023-02-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203168,6 +203563,17 @@
         "pf": 20164
       }
     },
+    "skills": {
+      "center": {
+        "name": "灵巧辅助"
+      },
+      "live": {
+        "name": "默契的配合"
+      },
+      "support": {
+        "name": "出其不意"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203176,12 +203582,16 @@
     "rarity": 3,
     "character_id": 8,
     "type": 1,
+    "substat_type": 0,
     "title": "活力之辉",
     "name": "葵ゆうた",
     "releaseDate": {
       "cn": "2021-04-03",
       "tw": "2021-05-02",
       "en": "2023-02-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203195,6 +203605,17 @@
         "pf": 8742
       }
     },
+    "skills": {
+      "center": {
+        "name": "熟练协作"
+      },
+      "live": {
+        "name": "愉快的邀请"
+      },
+      "support": {
+        "name": "诱敌之计"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203203,11 +203624,15 @@
     "rarity": 5,
     "character_id": 29,
     "type": 1,
+    "substat_type": 2,
     "title": "谧影之神",
     "name": "朔間零",
     "releaseDate": {
       "cn": "2021-05-28",
       "en": "2022-12-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203241,6 +203666,17 @@
         "pf": 63919
       }
     },
+    "skills": {
+      "center": {
+        "name": "隐于黑暗之声"
+      },
+      "live": {
+        "name": "最为珍视的宝物"
+      },
+      "support": {
+        "name": "小小恶作剧"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203249,11 +203685,15 @@
     "rarity": 4,
     "character_id": 50,
     "type": 3,
+    "substat_type": 1,
     "title": "明察之神",
     "name": "乱凪砂",
     "releaseDate": {
       "cn": "2021-05-28",
       "en": "2022-12-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203287,6 +203727,17 @@
         "pf": 22726
       }
     },
+    "skills": {
+      "center": {
+        "name": "惟妙惟肖之形"
+      },
+      "live": {
+        "name": "全情投入的表演"
+      },
+      "support": {
+        "name": "主动提议"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203295,11 +203746,15 @@
     "rarity": 3,
     "character_id": 15,
     "type": 2,
+    "substat_type": 2,
     "title": "求知之神",
     "name": "乙狩アドニス",
     "releaseDate": {
       "cn": "2021-05-28",
       "en": "2022-12-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203318,6 +203773,17 @@
         "pf": 28773
       }
     },
+    "skills": {
+      "center": {
+        "name": "探求真相之瞳"
+      },
+      "live": {
+        "name": "保护弱小的决心"
+      },
+      "support": {
+        "name": "满怀期待"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203326,11 +203792,15 @@
     "rarity": 3,
     "character_id": 51,
     "type": 4,
+    "substat_type": 0,
     "title": "狡黠之神",
     "name": "七種茨",
     "releaseDate": {
       "cn": "2021-05-28",
       "en": "2022-12-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203344,6 +203814,17 @@
         "pf": 10707
       }
     },
+    "skills": {
+      "center": {
+        "name": "能言善道之舌"
+      },
+      "live": {
+        "name": "预料之外的问题"
+      },
+      "support": {
+        "name": "待客之道"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203352,11 +203833,15 @@
     "rarity": 5,
     "character_id": 41,
     "type": 3,
+    "substat_type": 1,
     "title": "晴日之歌",
     "name": "巴日和",
     "releaseDate": {
       "cn": "2021-08-12",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203390,6 +203875,17 @@
         "pf": 20986
       }
     },
+    "skills": {
+      "center": {
+        "name": "如阳光般耀眼"
+      },
+      "live": {
+        "name": "好奇心旺盛"
+      },
+      "support": {
+        "name": "寻找人鱼"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203398,11 +203894,15 @@
     "rarity": 4,
     "character_id": 6,
     "type": 2,
+    "substat_type": 2,
     "title": "逐浪之歌",
     "name": "姫宮桃李",
     "releaseDate": {
       "cn": "2021-08-12",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203421,6 +203921,17 @@
         "pf": 39287
       }
     },
+    "skills": {
+      "center": {
+        "name": "浪花与心跳"
+      },
+      "live": {
+        "name": "可爱大比拼"
+      },
+      "support": {
+        "name": "购物巧遇"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203429,11 +203940,15 @@
     "rarity": 3,
     "character_id": 42,
     "type": 1,
+    "substat_type": 0,
     "title": "活力之夏",
     "name": "漣ジュン",
     "releaseDate": {
       "cn": "2021-08-12",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203447,6 +203962,17 @@
         "pf": 11561
       }
     },
+    "skills": {
+      "center": {
+        "name": "摇曳海面"
+      },
+      "live": {
+        "name": "可靠的助力"
+      },
+      "support": {
+        "name": "海边探查"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203455,11 +203981,15 @@
     "rarity": 3,
     "character_id": 19,
     "type": 4,
+    "substat_type": 2,
     "title": "悠闲之夏",
     "name": "伏見弓弦",
     "releaseDate": {
       "cn": "2021-08-12",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203493,6 +204023,17 @@
         "pf": 27630
       }
     },
+    "skills": {
+      "center": {
+        "name": "海风轻拂"
+      },
+      "live": {
+        "name": "独特的果汁"
+      },
+      "support": {
+        "name": "提升厨艺"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203501,11 +204042,15 @@
     "rarity": 5,
     "character_id": 33,
     "type": 3,
+    "substat_type": 2,
     "title": "奇思妙想",
     "name": "月永レオ",
     "releaseDate": {
       "cn": "2021-10-02",
       "tw": "2021-11-10"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203539,6 +204084,17 @@
         "pf": 69765
       }
     },
+    "skills": {
+      "center": {
+        "name": "共同编织的旋律"
+      },
+      "live": {
+        "name": "音乐家的宇宙飞行"
+      },
+      "support": {
+        "name": "喵之和弦"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203552,6 +204108,20 @@
     "releaseDate": {
       "cn": "2021-10-02",
       "tw": "2021-11-10"
+    },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "暴雨之中的保护"
+      },
+      "live": {
+        "name": "妈妈的分身术"
+      },
+      "support": {
+        "name": "喵之和声"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -203567,6 +204137,20 @@
       "cn": "2021-10-02",
       "tw": "2021-11-10"
     },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "怀中的小憩"
+      },
+      "live": {
+        "name": "心想事成"
+      },
+      "support": {
+        "name": "喵之合唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203580,6 +204164,20 @@
     "releaseDate": {
       "cn": "2021-10-02",
       "tw": "2021-11-10"
+    },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "电影的探讨"
+      },
+      "live": {
+        "name": "感应物品"
+      },
+      "support": {
+        "name": "喵之合奏"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -203595,6 +204193,20 @@
       "cn": "2021-10-02",
       "tw": "2021-11-10"
     },
+    "obtain": {
+      "type": "campaign"
+    },
+    "skills": {
+      "center": {
+        "name": "携手的舞台"
+      },
+      "live": {
+        "name": "特邀嘉宾"
+      },
+      "support": {
+        "name": "悦动音符"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203603,11 +204215,15 @@
     "rarity": 5,
     "character_id": 67,
     "type": 2,
+    "substat_type": 0,
     "title": "无瑕的祝福",
     "name": "天城一彩",
     "releaseDate": {
       "cn": "2021-11-27",
       "en": "2023-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203641,6 +204257,17 @@
         "pf": 22181
       }
     },
+    "skills": {
+      "center": {
+        "name": "承载心意的礼物"
+      },
+      "live": {
+        "name": "无可替代的相遇"
+      },
+      "support": {
+        "name": "投其所好"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203649,11 +204276,15 @@
     "rarity": 4,
     "character_id": 38,
     "type": 3,
+    "substat_type": 2,
     "title": "真意与祝福",
     "name": "逆先夏目",
     "releaseDate": {
       "cn": "2021-11-27",
       "en": "2023-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203672,6 +204303,17 @@
         "pf": 37093
       }
     },
+    "skills": {
+      "center": {
+        "name": "注入魔法的礼物"
+      },
+      "live": {
+        "name": "引力的相遇"
+      },
+      "support": {
+        "name": "制作魔药"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203680,11 +204322,15 @@
     "rarity": 3,
     "character_id": 12,
     "type": 4,
+    "substat_type": 1,
     "title": "陪伴与祝福",
     "name": "氷鷹北斗",
     "releaseDate": {
       "cn": "2021-11-27",
       "en": "2023-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203698,6 +204344,17 @@
         "pf": 11426
       }
     },
+    "skills": {
+      "center": {
+        "name": "默默关切的礼物"
+      },
+      "live": {
+        "name": "星群的相遇"
+      },
+      "support": {
+        "name": "拍照风波"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203706,11 +204363,15 @@
     "rarity": 3,
     "character_id": 37,
     "type": 1,
+    "substat_type": 2,
     "title": "成长与祝福",
     "name": "春川宙",
     "releaseDate": {
       "cn": "2021-11-27",
       "en": "2023-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203724,6 +204385,17 @@
         "pf": 19660
       }
     },
+    "skills": {
+      "center": {
+        "name": "传递幸运的礼物"
+      },
+      "live": {
+        "name": "愉快的相遇"
+      },
+      "support": {
+        "name": "转运之物"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203732,12 +204404,16 @@
     "rarity": 5,
     "character_id": 2,
     "type": 4,
+    "substat_type": 2,
     "title": "惬意时光",
     "name": "紫之創",
     "releaseDate": {
       "cn": "2021-11-27",
       "tw": "2022-01-30",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -203771,6 +204447,17 @@
         "pf": 65011
       }
     },
+    "skills": {
+      "center": {
+        "name": "香甜的邀约"
+      },
+      "live": {
+        "name": "悠闲午后"
+      },
+      "support": {
+        "name": "分享甜点"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203784,6 +204471,9 @@
     "releaseDate": {
       "cn": "2022-01-30",
       "tw": "2022-01-30"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "ir": {
@@ -203812,6 +204502,17 @@
         "pf": 70291
       }
     },
+    "skills": {
+      "center": {
+        "name": "祥和之春"
+      },
+      "live": {
+        "name": "春风的展望"
+      },
+      "support": {
+        "name": "品尝与分享"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203826,6 +204527,20 @@
       "cn": "2022-01-30",
       "tw": "2022-01-30"
     },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "繁星之春"
+      },
+      "live": {
+        "name": "闪闪发光的吸引"
+      },
+      "support": {
+        "name": "记录瞬间"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203834,17 +204549,32 @@
     "rarity": 3,
     "character_id": 18,
     "type": 1,
+    "substat_type": 0,
     "title": "和煦春景",
     "name": "衣更真緒",
     "releaseDate": {
       "cn": "2022-01-30",
       "tw": "2022-01-30"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 2740,
         "vo": 1920,
         "pf": 2090
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "思绪之春"
+      },
+      "live": {
+        "name": "体谅之心"
+      },
+      "support": {
+        "name": "活动主持人"
       }
     },
     "useFrameless": "FALSE"
@@ -203861,6 +204591,20 @@
       "cn": "2022-01-30",
       "tw": "2022-01-30"
     },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "良时之春"
+      },
+      "live": {
+        "name": "关切之心"
+      },
+      "support": {
+        "name": "日常观察者"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203869,17 +204613,32 @@
     "rarity": 4,
     "character_id": 4,
     "type": 1,
+    "substat_type": 2,
     "title": "笑语迎春",
     "name": "葵ひなた",
     "releaseDate": {
       "cn": "2022-01-30",
       "tw": "2023-02-21"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 3240,
         "vo": 3740,
         "pf": 4350
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "蓬勃春意"
+      },
+      "live": {
+        "name": "摇曳春灯"
+      },
+      "support": {
+        "name": "寻访春迹"
       }
     },
     "useFrameless": "FALSE"
@@ -203890,12 +204649,16 @@
     "rarity": 5,
     "character_id": 34,
     "type": 4,
+    "substat_type": 2,
     "title": "如影随形",
     "name": "影片みか",
     "releaseDate": {
       "cn": "2022-04-15",
       "tw": "2022-05-08",
       "en": "2022-08-13"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203929,6 +204692,17 @@
         "pf": 69954
       }
     },
+    "skills": {
+      "center": {
+        "name": "灿烂笑颜"
+      },
+      "live": {
+        "name": "创作时光"
+      },
+      "support": {
+        "name": "筹备惊喜"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203937,12 +204711,16 @@
     "rarity": 5,
     "character_id": 16,
     "type": 3,
+    "substat_type": 0,
     "title": "流光瞬息",
     "name": "大神晃牙",
     "releaseDate": {
       "cn": "2022-06-11",
       "tw": "2022-06-11",
       "en": "2022-09-10"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -203976,6 +204754,17 @@
         "pf": 27264
       }
     },
+    "skills": {
+      "center": {
+        "name": "过山车的勇气"
+      },
+      "live": {
+        "name": "过去与未来"
+      },
+      "support": {
+        "name": "挑战时光"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -203984,12 +204773,16 @@
     "rarity": 5,
     "character_id": 13,
     "type": 2,
+    "substat_type": 2,
     "title": "定格时光",
     "name": "遊木真",
     "releaseDate": {
       "cn": "2022-04-15",
       "tw": "2022-05-08",
       "en": "2022-08-13"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -204013,6 +204806,17 @@
         "pf": 54336
       }
     },
+    "skills": {
+      "center": {
+        "name": "捕捉笑容"
+      },
+      "live": {
+        "name": "幕后嘉宾"
+      },
+      "support": {
+        "name": "完美合影"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204021,12 +204825,16 @@
     "rarity": 4,
     "character_id": 39,
     "type": 1,
+    "substat_type": 0,
     "title": "适如其分",
     "name": "青葉つむぎ",
     "releaseDate": {
       "cn": "2022-04-15",
       "tw": "2022-05-08",
       "en": "2022-08-13"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204040,6 +204848,17 @@
         "pf": 20281
       }
     },
+    "skills": {
+      "center": {
+        "name": "轻松笑意"
+      },
+      "live": {
+        "name": "纺织时光"
+      },
+      "support": {
+        "name": "设计建议"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204048,12 +204867,16 @@
     "rarity": 3,
     "character_id": 20,
     "type": 2,
+    "substat_type": 1,
     "title": "称心如意",
     "name": "鳴上嵐",
     "releaseDate": {
       "cn": "2022-04-15",
       "tw": "2022-05-08",
       "en": "2022-08-13"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204087,6 +204910,17 @@
         "pf": 15170
       }
     },
+    "skills": {
+      "center": {
+        "name": "幸福笑容"
+      },
+      "live": {
+        "name": "调配时光"
+      },
+      "support": {
+        "name": "小鸣特调"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204095,12 +204929,16 @@
     "rarity": 4,
     "character_id": 26,
     "type": 4,
+    "substat_type": 1,
     "title": "微光渐明",
     "name": "鬼龍紅郎",
     "releaseDate": {
       "cn": "2022-06-11",
       "tw": "2022-06-11",
       "en": "2022-09-10"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204119,6 +204957,17 @@
         "pf": 19302
       }
     },
+    "skills": {
+      "center": {
+        "name": "玩偶服的温柔"
+      },
+      "live": {
+        "name": "游玩与工作"
+      },
+      "support": {
+        "name": "认真时光"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204127,12 +204976,16 @@
     "rarity": 3,
     "character_id": 30,
     "type": 1,
+    "substat_type": 2,
     "title": "晴光煦色",
     "name": "仁兎なずな",
     "releaseDate": {
       "cn": "2022-06-11",
       "tw": "2022-06-11",
       "en": "2022-09-10"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204151,6 +205004,17 @@
         "pf": 28820
       }
     },
+    "skills": {
+      "center": {
+        "name": "游乐园的关切"
+      },
+      "live": {
+        "name": "援手与求助"
+      },
+      "support": {
+        "name": "治愈时光"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204159,12 +205023,16 @@
     "rarity": 5,
     "character_id": 17,
     "type": 2,
+    "substat_type": 0,
     "title": "午后童话",
     "name": "朔間凛月",
     "releaseDate": {
       "cn": "2022-08-11",
       "tw": "2022-09-04",
       "en": "2023-10-19"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204198,6 +205066,17 @@
         "pf": 26301
       }
     },
+    "skills": {
+      "center": {
+        "name": "温暖的白雪"
+      },
+      "live": {
+        "name": "安心的梦"
+      },
+      "support": {
+        "name": "「特制」苹果派"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204206,12 +205085,16 @@
     "rarity": 4,
     "character_id": 20,
     "type": 3,
+    "substat_type": 1,
     "title": "反转童话",
     "name": "鳴上嵐",
     "releaseDate": {
       "cn": "2022-08-11",
       "tw": "2022-09-04",
       "en": "2023-10-19"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204235,6 +205118,17 @@
         "pf": 17480
       }
     },
+    "skills": {
+      "center": {
+        "name": "善良的王后"
+      },
+      "live": {
+        "name": "倾诉真心"
+      },
+      "support": {
+        "name": "美的追求"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204243,12 +205137,16 @@
     "rarity": 3,
     "character_id": 40,
     "type": 1,
+    "substat_type": 2,
     "title": "见证童话",
     "name": "三毛縞斑",
     "releaseDate": {
       "cn": "2022-08-11",
       "tw": "2022-09-04",
       "en": "2023-10-19"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204262,6 +205160,17 @@
         "pf": 20207
       }
     },
+    "skills": {
+      "center": {
+        "name": "报信的猎人"
+      },
+      "live": {
+        "name": "热心声援"
+      },
+      "support": {
+        "name": "不变的守护"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204270,12 +205179,16 @@
     "rarity": 3,
     "character_id": 2,
     "type": 4,
+    "substat_type": 1,
     "title": "聆听童话",
     "name": "紫之創",
     "releaseDate": {
       "cn": "2022-08-11",
       "tw": "2022-09-04",
       "en": "2023-10-19"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204289,6 +205202,17 @@
         "pf": 11872
       }
     },
+    "skills": {
+      "center": {
+        "name": "陪伴的小矮人"
+      },
+      "live": {
+        "name": "细心体谅"
+      },
+      "support": {
+        "name": "共同的秘密"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204297,12 +205221,16 @@
     "rarity": 5,
     "character_id": 69,
     "type": 4,
+    "substat_type": 2,
     "title": "迷梦魅影",
     "name": "礼瀬マヨイ",
     "releaseDate": {
       "cn": "2022-10-02",
       "tw": "2022-10-02",
       "en": "2022-10-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204336,6 +205264,17 @@
         "pf": 68310
       }
     },
+    "skills": {
+      "center": {
+        "name": "沉浸的幸福"
+      },
+      "live": {
+        "name": "珍藏可爱"
+      },
+      "support": {
+        "name": "交换玩偶"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204344,12 +205283,16 @@
     "rarity": 4,
     "character_id": 74,
     "type": 2,
+    "substat_type": 0,
     "title": "甜梦乐园",
     "name": "椎名ニキ",
     "releaseDate": {
       "cn": "2022-10-02",
       "tw": "2022-10-02",
       "en": "2022-10-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204383,6 +205326,17 @@
         "pf": 18320
       }
     },
+    "skills": {
+      "center": {
+        "name": "糖果屋梦想"
+      },
+      "live": {
+        "name": "晚餐邀约"
+      },
+      "support": {
+        "name": "食材清单"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204391,6 +205345,7 @@
     "rarity": 3,
     "character_id": 73,
     "type": 3,
+    "substat_type": 2,
     "title": "绮梦余音",
     "name": "桜河こはく",
     "releaseDate": {
@@ -204398,11 +205353,25 @@
       "tw": "2022-10-02",
       "en": "2022-10-02"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 2240,
         "vo": 1830,
         "pf": 2870
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "用心的礼物"
+      },
+      "live": {
+        "name": "甜品试吃"
+      },
+      "support": {
+        "name": "紧急采购"
       }
     },
     "useFrameless": "FALSE"
@@ -204413,6 +205382,7 @@
     "rarity": 3,
     "character_id": 67,
     "type": 1,
+    "substat_type": 1,
     "title": "如梦缤纷",
     "name": "天城一彩",
     "releaseDate": {
@@ -204420,11 +205390,25 @@
       "tw": "2022-10-02",
       "en": "2022-10-02"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 1670,
         "vo": 3020,
         "pf": 1990
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "手作的乐趣"
+      },
+      "live": {
+        "name": "初次制作"
+      },
+      "support": {
+        "name": "寻求建议"
       }
     },
     "useFrameless": "FALSE"
@@ -204435,12 +205419,16 @@
     "rarity": 4,
     "character_id": 5,
     "type": 3,
+    "substat_type": 0,
     "title": "纯真之心",
     "name": "高峯翠",
     "releaseDate": {
       "cn": "2022-10-02",
       "tw": "2022-10-02",
       "en": "2022-10-02"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "ir": {
@@ -204469,6 +205457,17 @@
         "pf": 20196
       }
     },
+    "skills": {
+      "center": {
+        "name": "拥抱可爱"
+      },
+      "live": {
+        "name": "满满治愈"
+      },
+      "support": {
+        "name": "幸福的舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204477,12 +205476,16 @@
     "rarity": 5,
     "character_id": 27,
     "type": 3,
+    "substat_type": 1,
     "title": "瑰色之颂",
     "name": "日々樹渉",
     "releaseDate": {
       "cn": "2022-11-26",
       "tw": "2023-02-05",
       "en": "2024-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204516,6 +205519,17 @@
         "pf": 29740
       }
     },
+    "skills": {
+      "center": {
+        "name": "幻想重奏"
+      },
+      "live": {
+        "name": "浪漫的琉特琴"
+      },
+      "support": {
+        "name": "神秘邀请函"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204524,12 +205538,16 @@
     "rarity": 4,
     "character_id": 21,
     "type": 4,
+    "substat_type": 2,
     "title": "清雅之颂",
     "name": "蓮巳敬人",
     "releaseDate": {
       "cn": "2022-11-26",
       "tw": "2023-02-05",
       "en": "2024-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204543,6 +205561,17 @@
         "pf": 29772
       }
     },
+    "skills": {
+      "center": {
+        "name": "月下和声"
+      },
+      "live": {
+        "name": "诗意的小提琴"
+      },
+      "support": {
+        "name": "眼镜争夺战"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204551,12 +205580,16 @@
     "rarity": 3,
     "character_id": 35,
     "type": 1,
+    "substat_type": 1,
     "title": "华美之颂",
     "name": "斎宮宗",
     "releaseDate": {
       "cn": "2022-11-26",
       "tw": "2023-02-05",
       "en": "2024-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204570,6 +205603,17 @@
         "pf": 11252
       }
     },
+    "skills": {
+      "center": {
+        "name": "艺术交响"
+      },
+      "live": {
+        "name": "引领的指挥棒"
+      },
+      "support": {
+        "name": "转角的邂逅"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204578,12 +205622,16 @@
     "rarity": 3,
     "character_id": 3,
     "type": 2,
+    "substat_type": 0,
     "title": "悠扬之颂",
     "name": "真白友也",
     "releaseDate": {
       "cn": "2022-11-26",
       "tw": "2023-02-05",
       "en": "2024-06-16"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204617,6 +205665,17 @@
         "pf": 12502
       }
     },
+    "skills": {
+      "center": {
+        "name": "欢乐共鸣"
+      },
+      "live": {
+        "name": "轻快的三角铁"
+      },
+      "support": {
+        "name": "绝佳的契机"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204625,10 +205684,14 @@
     "rarity": 3,
     "character_id": 22,
     "type": 1,
+    "substat_type": 0,
     "title": "美食的交响曲",
     "name": "天祥院英智",
     "releaseDate": {
       "cn": "2022-12-23"
+    },
+    "obtain": {
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -204662,6 +205725,17 @@
         "pf": 16837
       }
     },
+    "skills": {
+      "center": {
+        "name": "天使的早餐"
+      },
+      "live": {
+        "name": "汉堡诱惑"
+      },
+      "support": {
+        "name": "星动邀约"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204670,10 +205744,14 @@
     "rarity": 3,
     "character_id": 29,
     "type": 1,
+    "substat_type": 0,
     "title": "美味的合奏曲",
     "name": "朔間零",
     "releaseDate": {
       "cn": "2022-12-23"
+    },
+    "obtain": {
+      "type": "special"
     },
     "stats": {
       "min": {
@@ -204707,6 +205785,17 @@
         "pf": 17785
       }
     },
+    "skills": {
+      "center": {
+        "name": "魔王的宵夜"
+      },
+      "live": {
+        "name": "番茄诱惑"
+      },
+      "support": {
+        "name": "唱享美味"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204715,12 +205804,16 @@
     "rarity": 5,
     "character_id": 24,
     "type": 2,
+    "substat_type": 0,
     "title": "鹿鸣春野",
     "name": "瀬名泉",
     "releaseDate": {
       "cn": "2023-01-17",
       "tw": "2023-01-17",
       "en": "2023-01-17"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204754,6 +205847,17 @@
         "pf": 26161
       }
     },
+    "skills": {
+      "center": {
+        "name": "始终闪耀的宝藏"
+      },
+      "live": {
+        "name": "时差与借口"
+      },
+      "support": {
+        "name": "张宿之鹿"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204762,12 +205866,16 @@
     "rarity": 4,
     "character_id": 30,
     "type": 4,
+    "substat_type": 0,
     "title": "兔挽春月",
     "name": "仁兎なずな",
     "releaseDate": {
       "cn": "2023-01-17",
       "tw": "2023-01-17",
       "en": "2023-01-17"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204801,6 +205909,17 @@
         "pf": 15164
       }
     },
+    "skills": {
+      "center": {
+        "name": "笑容灿烂的宝藏"
+      },
+      "live": {
+        "name": "璀璨的道路"
+      },
+      "support": {
+        "name": "房宿之兔"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204809,12 +205928,16 @@
     "rarity": 3,
     "character_id": 23,
     "type": 1,
+    "substat_type": 1,
     "title": "狐面春风",
     "name": "羽風薫",
     "releaseDate": {
       "cn": "2023-01-17",
       "tw": "2023-01-17",
       "en": "2023-01-17"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204828,6 +205951,17 @@
         "pf": 10284
       }
     },
+    "skills": {
+      "center": {
+        "name": "轻松的宝藏"
+      },
+      "live": {
+        "name": "星座运势"
+      },
+      "support": {
+        "name": "心宿之狐"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204836,12 +205970,16 @@
     "rarity": 3,
     "character_id": 14,
     "type": 3,
+    "substat_type": 2,
     "title": "马踏春行",
     "name": "神崎颯馬",
     "releaseDate": {
       "cn": "2023-01-17",
       "tw": "2023-01-17",
       "en": "2023-01-17"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204855,6 +205993,17 @@
         "pf": 21426
       }
     },
+    "skills": {
+      "center": {
+        "name": "认真的宝藏"
+      },
+      "live": {
+        "name": "小小误会"
+      },
+      "support": {
+        "name": "星宿之马"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204863,6 +206012,7 @@
     "rarity": 4,
     "character_id": 9,
     "type": 1,
+    "substat_type": 2,
     "title": "玉兔报春",
     "name": "天満光",
     "releaseDate": {
@@ -204882,6 +206032,17 @@
         "pf": 37715
       }
     },
+    "skills": {
+      "center": {
+        "name": "跃动春色"
+      },
+      "live": {
+        "name": "春意烂漫"
+      },
+      "support": {
+        "name": "岁岁新桃"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204895,6 +206056,17 @@
     "releaseDate": {
       "kr": "2022-12-20"
     },
+    "skills": {
+      "center": {
+        "name": "디저트의 정의"
+      },
+      "live": {
+        "name": "불타오르는 용기"
+      },
+      "support": {
+        "name": "열정을 그대에게"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204903,6 +206075,7 @@
     "rarity": 3,
     "character_id": 6,
     "type": 4,
+    "substat_type": 1,
     "title": "달콤한 풍미",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -204915,6 +206088,17 @@
         "pf": 2000
       }
     },
+    "skills": {
+      "center": {
+        "name": "달콤한 음표"
+      },
+      "live": {
+        "name": "내 마음대로 지시"
+      },
+      "support": {
+        "name": "모두 힘을 합쳐"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204923,6 +206107,7 @@
     "rarity": 3,
     "character_id": 16,
     "type": 3,
+    "substat_type": 0,
     "title": "향긋한 풍미",
     "name": "大神晃牙",
     "releaseDate": {
@@ -204935,6 +206120,17 @@
         "pf": 2090
       }
     },
+    "skills": {
+      "center": {
+        "name": "향기로운 연주"
+      },
+      "live": {
+        "name": "전력의 리드"
+      },
+      "support": {
+        "name": "실력 발휘"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204943,12 +206139,16 @@
     "rarity": 5,
     "character_id": 11,
     "type": 1,
+    "substat_type": 1,
     "title": "激流奇遇",
     "name": "明星スバル",
     "releaseDate": {
       "cn": "2023-04-08",
       "tw": "2023-04-08",
       "en": "2023-04-08"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -204982,6 +206182,17 @@
         "pf": 30102
       }
     },
+    "skills": {
+      "center": {
+        "name": "闪闪发光的冒险"
+      },
+      "live": {
+        "name": "孤岛的一等星"
+      },
+      "support": {
+        "name": "积极闯关"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -204990,12 +206201,16 @@
     "rarity": 4,
     "character_id": 7,
     "type": 3,
+    "substat_type": 2,
     "title": "林间奇遇",
     "name": "仙石忍",
     "releaseDate": {
       "cn": "2023-04-08",
       "tw": "2023-04-08",
       "en": "2023-04-08"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205029,6 +206244,17 @@
         "pf": 39061
       }
     },
+    "skills": {
+      "center": {
+        "name": "尽力完成的冒险"
+      },
+      "live": {
+        "name": "冒险中的成长"
+      },
+      "support": {
+        "name": "认真修行"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205037,6 +206263,7 @@
     "rarity": 3,
     "character_id": 71,
     "type": 4,
+    "substat_type": 1,
     "title": "营地奇遇",
     "name": "天城燐音",
     "releaseDate": {
@@ -205044,11 +206271,25 @@
       "tw": "2023-04-08",
       "en": "2023-04-08"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 1730,
         "vo": 3160,
         "pf": 1730
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "来自森林的协助"
+      },
+      "live": {
+        "name": "未知障碍的惊喜"
+      },
+      "support": {
+        "name": "笼中解救"
       }
     },
     "useFrameless": "FALSE"
@@ -205059,6 +206300,7 @@
     "rarity": 3,
     "character_id": 28,
     "type": 2,
+    "substat_type": 0,
     "title": "水中奇遇",
     "name": "深海奏汰",
     "releaseDate": {
@@ -205066,11 +206308,25 @@
       "tw": "2023-04-08",
       "en": "2023-04-08"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 2950,
         "vo": 1990,
         "pf": 1700
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "水之精灵的协助"
+      },
+      "live": {
+        "name": "对后辈的关怀"
+      },
+      "support": {
+        "name": "水中解救"
       }
     },
     "useFrameless": "FALSE"
@@ -205081,12 +206337,16 @@
     "rarity": 4,
     "character_id": 15,
     "type": 4,
+    "substat_type": 1,
     "title": "笑意与舞台",
     "name": "乙狩アドニス",
     "releaseDate": {
       "cn": "2023-04-08",
       "tw": "2023-04-08",
       "en": "2023-04-08"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -205110,6 +206370,17 @@
         "pf": 21928
       }
     },
+    "skills": {
+      "center": {
+        "name": "开心欢笑的舞台"
+      },
+      "live": {
+        "name": "来自右肩的喝彩"
+      },
+      "support": {
+        "name": "舞台上的新朋友"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205118,6 +206389,7 @@
     "rarity": 5,
     "character_id": 6,
     "type": 1,
+    "substat_type": 0,
     "title": "黑羽夜曲",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -205125,6 +206397,9 @@
       "kr": "2023-06-05",
       "tw": "2023-06-05",
       "en": "2023-07-28"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205138,6 +206413,17 @@
         "pf": 23818
       }
     },
+    "skills": {
+      "center": {
+        "name": "奥杰利亚变奏"
+      },
+      "live": {
+        "name": "投身暗夜的天使"
+      },
+      "support": {
+        "name": "追寻自我的成长"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205146,6 +206432,7 @@
     "rarity": 4,
     "character_id": 22,
     "type": 4,
+    "substat_type": 1,
     "title": "优雅夜曲",
     "name": "天祥院英智",
     "releaseDate": {
@@ -205153,6 +206440,9 @@
       "kr": "2023-06-05",
       "tw": "2023-06-05",
       "en": "2023-07-28"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205176,6 +206466,17 @@
         "pf": 17839
       }
     },
+    "skills": {
+      "center": {
+        "name": "操纵者变奏"
+      },
+      "live": {
+        "name": "静观其变"
+      },
+      "support": {
+        "name": "顺水推舟的计划"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205184,6 +206485,7 @@
     "rarity": 3,
     "character_id": 13,
     "type": 3,
+    "substat_type": 2,
     "title": "协助夜曲",
     "name": "遊木真",
     "releaseDate": {
@@ -205191,6 +206493,9 @@
       "kr": "2023-06-05",
       "tw": "2023-06-05",
       "en": "2023-07-28"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205224,6 +206529,17 @@
         "pf": 29941
       }
     },
+    "skills": {
+      "center": {
+        "name": "助演者变奏"
+      },
+      "live": {
+        "name": "缜密调查"
+      },
+      "support": {
+        "name": "意料之外的出演"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205232,12 +206548,16 @@
     "rarity": 5,
     "character_id": 38,
     "type": 4,
+    "substat_type": 0,
     "title": "密涅瓦之歌",
     "name": "逆先夏目",
     "releaseDate": {
       "cn": "2023-06-05",
       "tw": "2023-06-05",
       "en": "2023-07-28"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -205271,6 +206591,17 @@
         "pf": 27206
       }
     },
+    "skills": {
+      "center": {
+        "name": "罗特巴特变奏"
+      },
+      "live": {
+        "name": "穿越黄昏的魔法师"
+      },
+      "support": {
+        "name": "守护幸福的帕拉迪昂"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205279,6 +206610,7 @@
     "rarity": 5,
     "character_id": 73,
     "type": 3,
+    "substat_type": 1,
     "title": "白羽乐章",
     "name": "桜河こはく",
     "releaseDate": {
@@ -205286,6 +206618,9 @@
       "kr": "2023-07-22",
       "tw": "2023-07-22",
       "en": "2023-08-30"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205319,6 +206654,17 @@
         "pf": 30486
       }
     },
+    "skills": {
+      "center": {
+        "name": "奥杰塔变奏"
+      },
+      "live": {
+        "name": "绽放光辉的原石"
+      },
+      "support": {
+        "name": "自由飞舞的羽翼"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205327,6 +206673,7 @@
     "rarity": 4,
     "character_id": 51,
     "type": 1,
+    "substat_type": 0,
     "title": "指挥乐章",
     "name": "七種茨",
     "releaseDate": {
@@ -205334,6 +206681,9 @@
       "kr": "2023-07-22",
       "tw": "2023-07-22",
       "en": "2023-08-30"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205352,6 +206702,17 @@
         "pf": 17045
       }
     },
+    "skills": {
+      "center": {
+        "name": "决策者变奏"
+      },
+      "live": {
+        "name": "情报分析"
+      },
+      "support": {
+        "name": "暗中参与的计划"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205360,6 +206721,7 @@
     "rarity": 3,
     "character_id": 42,
     "type": 2,
+    "substat_type": 2,
     "title": "协奏乐章",
     "name": "漣ジュン",
     "releaseDate": {
@@ -205367,6 +206729,9 @@
       "kr": "2023-07-22",
       "tw": "2023-07-22",
       "en": "2023-08-30"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205400,6 +206765,17 @@
         "pf": 30549
       }
     },
+    "skills": {
+      "center": {
+        "name": "援护者变奏"
+      },
+      "live": {
+        "name": "经验之谈"
+      },
+      "support": {
+        "name": "突如其来的出演"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205408,11 +206784,15 @@
     "rarity": 5,
     "character_id": 3,
     "type": 4,
+    "substat_type": 2,
     "title": "演绎推理",
     "name": "真白友也",
     "releaseDate": {
       "cn": "2023-10-02",
       "tw": "2023-10-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205446,6 +206826,17 @@
         "pf": 64022
       }
     },
+    "skills": {
+      "center": {
+        "name": "孤注一掷的抉择"
+      },
+      "live": {
+        "name": "真相证明"
+      },
+      "support": {
+        "name": "高中生侦探"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205459,6 +206850,20 @@
     "releaseDate": {
       "cn": "2023-10-02",
       "tw": "2023-10-02"
+    },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "最初的泪水"
+      },
+      "live": {
+        "name": "真相探求"
+      },
+      "support": {
+        "name": "仿生人侦探"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -205474,6 +206879,20 @@
       "cn": "2023-10-02",
       "tw": "2023-10-02"
     },
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "咖啡的支援"
+      },
+      "live": {
+        "name": "真相挑战"
+      },
+      "support": {
+        "name": "安乐椅侦探"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205482,17 +206901,32 @@
     "rarity": 3,
     "character_id": 41,
     "type": 2,
+    "substat_type": 1,
     "title": "出格推理",
     "name": "巴日和",
     "releaseDate": {
       "cn": "2023-10-02",
       "tw": "2023-10-02"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 1780,
         "vo": 2970,
         "pf": 2120
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "金钱的力量"
+      },
+      "live": {
+        "name": "真相旅途"
+      },
+      "support": {
+        "name": "富豪侦探"
       }
     },
     "useFrameless": "FALSE"
@@ -205503,6 +206937,7 @@
     "rarity": 4,
     "character_id": 37,
     "type": 2,
+    "substat_type": 2,
     "title": "推理的魔法",
     "name": "春川宙",
     "releaseDate": {
@@ -205521,6 +206956,17 @@
         "pf": 40269
       }
     },
+    "skills": {
+      "center": {
+        "name": "打破不可能"
+      },
+      "live": {
+        "name": "思维碰撞的火星"
+      },
+      "support": {
+        "name": "小小侦探"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205529,12 +206975,16 @@
     "rarity": 3,
     "character_id": 33,
     "type": 2,
+    "substat_type": 1,
     "title": "快乐旅途",
     "name": "月永レオ",
     "releaseDate": {
       "cn": "2023-08-08",
       "tw": "2023-11-13",
       "en": "2023-09-24"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -205568,6 +207018,17 @@
         "pf": 13889
       }
     },
+    "skills": {
+      "center": {
+        "name": "甜润诱人的旋律"
+      },
+      "live": {
+        "name": "独出心裁"
+      },
+      "support": {
+        "name": "别出新意"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205576,12 +207037,16 @@
     "rarity": 3,
     "character_id": 10,
     "type": 3,
+    "substat_type": 0,
     "title": "甜蜜旅途",
     "name": "朱桜司",
     "releaseDate": {
       "cn": "2023-08-08",
       "tw": "2023-11-13",
       "en": "2023-09-24"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -205615,6 +207080,17 @@
         "pf": 13202
       }
     },
+    "skills": {
+      "center": {
+        "name": "香甜可口的旋律"
+      },
+      "live": {
+        "name": "自得其乐"
+      },
+      "support": {
+        "name": "抵挡诱惑"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205623,12 +207099,16 @@
     "rarity": 3,
     "character_id": 24,
     "type": 1,
+    "substat_type": 2,
     "title": "回味旅途",
     "name": "瀬名泉",
     "releaseDate": {
       "cn": "2023-08-08",
       "tw": "2023-11-13",
       "en": "2023-09-24"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -205662,6 +207142,17 @@
         "pf": 28643
       }
     },
+    "skills": {
+      "center": {
+        "name": "风味独特的旋律"
+      },
+      "live": {
+        "name": "自由不羁"
+      },
+      "support": {
+        "name": "随心所欲"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205670,12 +207161,16 @@
     "rarity": 3,
     "character_id": 17,
     "type": 4,
+    "substat_type": 1,
     "title": "浓郁旅途",
     "name": "朔間凛月",
     "releaseDate": {
       "cn": "2023-08-08",
       "tw": "2023-11-13",
       "en": "2023-09-24"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -205689,6 +207184,17 @@
         "pf": 12255
       }
     },
+    "skills": {
+      "center": {
+        "name": "醇香甘美的旋律"
+      },
+      "live": {
+        "name": "悠哉游哉"
+      },
+      "support": {
+        "name": "率性而为"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205697,6 +207203,7 @@
     "rarity": 3,
     "character_id": 20,
     "type": 1,
+    "substat_type": 0,
     "title": "缤纷旅途",
     "name": "鳴上嵐",
     "releaseDate": {
@@ -205704,11 +207211,25 @@
       "tw": "2023-11-13",
       "en": "2023-09-24"
     },
+    "obtain": {
+      "type": "campaign"
+    },
     "stats": {
       "min": {
         "da": 2990,
         "vo": 1880,
         "pf": 1760
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "酸甜眷恋的旋律"
+      },
+      "live": {
+        "name": "随遇而安"
+      },
+      "support": {
+        "name": "享受当下"
       }
     },
     "useFrameless": "FALSE"
@@ -205719,12 +207240,16 @@
     "rarity": 5,
     "character_id": 23,
     "type": 2,
+    "substat_type": 2,
     "title": "温柔绽放",
     "name": "羽風薫",
     "releaseDate": {
       "cn": "2023-11-26",
       "kr": "2023-12-07",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205758,6 +207283,17 @@
         "pf": 65263
       }
     },
+    "skills": {
+      "center": {
+        "name": "蒲公英的轻语"
+      },
+      "live": {
+        "name": "雪夜的温暖"
+      },
+      "support": {
+        "name": "鲜花编织的戒指"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205766,6 +207302,7 @@
     "rarity": 4,
     "character_id": 34,
     "type": 4,
+    "substat_type": 0,
     "title": "悠然绽放",
     "name": "影片みか",
     "releaseDate": {
@@ -205773,11 +207310,25 @@
       "kr": "2023-12-07",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "scout"
+    },
     "stats": {
       "min": {
         "da": 4940,
         "vo": 2910,
         "pf": 2600
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "雏菊的微笑"
+      },
+      "live": {
+        "name": "迷宫的旋律"
+      },
+      "support": {
+        "name": "精心准备的行李"
       }
     },
     "useFrameless": "FALSE"
@@ -205788,12 +207339,16 @@
     "rarity": 3,
     "character_id": 70,
     "type": 3,
+    "substat_type": 1,
     "title": "祈祷绽放",
     "name": "風早巽",
     "releaseDate": {
       "cn": "2023-11-26",
       "kr": "2023-12-07",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205807,6 +207362,17 @@
         "pf": 10267
       }
     },
+    "skills": {
+      "center": {
+        "name": "绣球的祝福"
+      },
+      "live": {
+        "name": "贴心的陪伴"
+      },
+      "support": {
+        "name": "交通安全护身符"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205815,12 +207381,16 @@
     "rarity": 3,
     "character_id": 5,
     "type": 1,
+    "substat_type": 0,
     "title": "治愈绽放",
     "name": "高峯翠",
     "releaseDate": {
       "cn": "2023-11-26",
       "kr": "2023-12-07",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205834,6 +207404,17 @@
         "pf": 12618
       }
     },
+    "skills": {
+      "center": {
+        "name": "铃兰的羞涩"
+      },
+      "live": {
+        "name": "邂逅的惊喜"
+      },
+      "support": {
+        "name": "异国的小熊布偶"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205842,6 +207423,7 @@
     "rarity": 5,
     "character_id": 50,
     "type": 3,
+    "substat_type": 0,
     "title": "春起苍空",
     "name": "乱凪砂",
     "releaseDate": {
@@ -205849,6 +207431,9 @@
       "kr": "2024-02-03",
       "tw": "2024-02-09",
       "en": "2024-02-03"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205882,6 +207467,17 @@
         "pf": 31142
       }
     },
+    "skills": {
+      "center": {
+        "name": "聚焦耀眼的辰光"
+      },
+      "live": {
+        "name": "修行成果"
+      },
+      "support": {
+        "name": "不可思议的宝石"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205890,6 +207486,7 @@
     "rarity": 4,
     "character_id": 28,
     "type": 2,
+    "substat_type": 2,
     "title": "游鱼寻春",
     "name": "深海奏汰",
     "releaseDate": {
@@ -205897,6 +207494,9 @@
       "kr": "2024-02-03",
       "tw": "2024-02-09",
       "en": "2024-02-03"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205915,6 +207515,17 @@
         "pf": 45632
       }
     },
+    "skills": {
+      "center": {
+        "name": "倒映澄澈的辰光"
+      },
+      "live": {
+        "name": "天然治愈"
+      },
+      "support": {
+        "name": "天与海的连接点"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205923,6 +207534,7 @@
     "rarity": 3,
     "character_id": 2,
     "type": 1,
+    "substat_type": 0,
     "title": "拾枝吟春",
     "name": "紫之創",
     "releaseDate": {
@@ -205930,6 +207542,9 @@
       "kr": "2024-02-03",
       "tw": "2024-02-09",
       "en": "2024-02-03"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205963,6 +207578,17 @@
         "pf": 15171
       }
     },
+    "skills": {
+      "center": {
+        "name": "拂晓初露的辰光"
+      },
+      "live": {
+        "name": "共时巧合"
+      },
+      "support": {
+        "name": "交错的心意"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205971,6 +207597,7 @@
     "rarity": 3,
     "character_id": 39,
     "type": 4,
+    "substat_type": 1,
     "title": "待晴邀春",
     "name": "青葉つむぎ",
     "releaseDate": {
@@ -205978,6 +207605,9 @@
       "kr": "2024-02-03",
       "tw": "2024-02-09",
       "en": "2024-02-03"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -205991,6 +207621,17 @@
         "pf": 11582
       }
     },
+    "skills": {
+      "center": {
+        "name": "拨云重现的辰光"
+      },
+      "live": {
+        "name": "转运执念"
+      },
+      "support": {
+        "name": "迂回的幸运"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -205999,6 +207640,7 @@
     "rarity": 4,
     "character_id": 19,
     "type": 1,
+    "substat_type": 1,
     "title": "折梅赠春",
     "name": "伏見弓弦",
     "releaseDate": {
@@ -206039,6 +207681,17 @@
         "pf": 20765
       }
     },
+    "skills": {
+      "center": {
+        "name": "势不可挡的时运"
+      },
+      "live": {
+        "name": "际会风云"
+      },
+      "support": {
+        "name": "折扇聚春风"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206047,6 +207700,7 @@
     "rarity": 3,
     "character_id": 35,
     "type": 3,
+    "substat_type": 1,
     "title": "编织绮愿",
     "name": "斎宮宗",
     "releaseDate": {
@@ -206054,6 +207708,9 @@
       "kr": "2024-02-22",
       "tw": "2024-03-23",
       "en": "2024-01-19"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206067,6 +207724,17 @@
         "pf": 12098
       }
     },
+    "skills": {
+      "center": {
+        "name": "传递甜蜜"
+      },
+      "live": {
+        "name": "圆满的终局"
+      },
+      "support": {
+        "name": "温柔职人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206075,6 +207743,7 @@
     "rarity": 3,
     "character_id": 34,
     "type": 2,
+    "substat_type": 0,
     "title": "收集绮愿",
     "name": "影片みか",
     "releaseDate": {
@@ -206082,6 +207751,9 @@
       "kr": "2024-02-22",
       "tw": "2024-03-23",
       "en": "2024-01-19"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206095,6 +207767,17 @@
         "pf": 9575
       }
     },
+    "skills": {
+      "center": {
+        "name": "包装甜蜜"
+      },
+      "live": {
+        "name": "细腻的展开"
+      },
+      "support": {
+        "name": "天真职人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206103,6 +207786,7 @@
     "rarity": 3,
     "character_id": 72,
     "type": 1,
+    "substat_type": 2,
     "title": "邂逅绮愿",
     "name": "HiMERU",
     "releaseDate": {
@@ -206110,6 +207794,9 @@
       "kr": "2024-02-22",
       "tw": "2024-03-23",
       "en": "2024-01-19"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206123,6 +207810,17 @@
         "pf": 20370
       }
     },
+    "skills": {
+      "center": {
+        "name": "洞察甜蜜"
+      },
+      "live": {
+        "name": "期待的变化"
+      },
+      "support": {
+        "name": "浪漫职人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206131,6 +207829,7 @@
     "rarity": 3,
     "character_id": 74,
     "type": 4,
+    "substat_type": 0,
     "title": "烘焙绮愿",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -206138,6 +207837,9 @@
       "kr": "2024-02-22",
       "tw": "2024-03-23",
       "en": "2024-01-19"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206151,6 +207853,17 @@
         "pf": 11318
       }
     },
+    "skills": {
+      "center": {
+        "name": "制造甜蜜"
+      },
+      "live": {
+        "name": "怦然的开始"
+      },
+      "support": {
+        "name": "热情职人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206159,6 +207872,7 @@
     "rarity": 5,
     "character_id": 30,
     "type": 4,
+    "substat_type": 1,
     "title": "烈阳绯色",
     "name": "仁兎なずな",
     "releaseDate": {
@@ -206166,6 +207880,9 @@
       "kr": "2024-04-07",
       "tw": "2024-04-07",
       "en": "2024-04-07"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206199,6 +207916,17 @@
         "pf": 24833
       }
     },
+    "skills": {
+      "center": {
+        "name": "暖阳的石榴石"
+      },
+      "live": {
+        "name": "温柔坚定的红玉"
+      },
+      "support": {
+        "name": "辰砂之主演"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206207,6 +207935,7 @@
     "rarity": 4,
     "character_id": 14,
     "type": 1,
+    "substat_type": 0,
     "title": "辉映绯色",
     "name": "神崎颯馬",
     "releaseDate": {
@@ -206214,6 +207943,9 @@
       "kr": "2024-04-07",
       "tw": "2024-04-07",
       "en": "2024-04-07"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206227,6 +207959,17 @@
         "pf": 14949
       }
     },
+    "skills": {
+      "center": {
+        "name": "朝阳的石榴石"
+      },
+      "live": {
+        "name": "高洁忠诚的红玉"
+      },
+      "support": {
+        "name": "辰砂之友人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206235,6 +207978,7 @@
     "rarity": 3,
     "character_id": 9,
     "type": 2,
+    "substat_type": 2,
     "title": "跃然绯色",
     "name": "天満光",
     "releaseDate": {
@@ -206242,6 +207986,9 @@
       "kr": "2024-04-07",
       "tw": "2024-04-07",
       "en": "2024-04-07"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206275,6 +208022,17 @@
         "pf": 29543
       }
     },
+    "skills": {
+      "center": {
+        "name": "日光的石榴石"
+      },
+      "live": {
+        "name": "活力满满的红玉"
+      },
+      "support": {
+        "name": "辰砂之后辈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206283,6 +208041,7 @@
     "rarity": 5,
     "character_id": 72,
     "type": 3,
+    "substat_type": 1,
     "title": "云霭薄暮",
     "name": "HiMERU",
     "releaseDate": {
@@ -206290,6 +208049,9 @@
       "kr": "2024-04-07",
       "tw": "2024-04-07",
       "en": "2024-04-07"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -206323,6 +208085,17 @@
         "pf": 22770
       }
     },
+    "skills": {
+      "center": {
+        "name": "迷雾中的蜃景"
+      },
+      "live": {
+        "name": "混沌昼夜的边界"
+      },
+      "support": {
+        "name": "隐秘的灵药"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206331,6 +208104,7 @@
     "rarity": 5,
     "character_id": 20,
     "type": 2,
+    "substat_type": 2,
     "title": "黛月皎色",
     "name": "鳴上嵐",
     "releaseDate": {
@@ -206338,6 +208112,9 @@
       "kr": "2024-05-25",
       "tw": "2024-05-25",
       "en": "2024-05-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206371,6 +208148,17 @@
         "pf": 72008
       }
     },
+    "skills": {
+      "center": {
+        "name": "明月的紫水晶"
+      },
+      "live": {
+        "name": "追寻梦想的萤石"
+      },
+      "support": {
+        "name": "堇青石之主演"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206379,6 +208167,7 @@
     "rarity": 4,
     "character_id": 24,
     "type": 4,
+    "substat_type": 0,
     "title": "回眸皎色",
     "name": "瀬名泉",
     "releaseDate": {
@@ -206386,6 +208175,9 @@
       "kr": "2024-05-25",
       "tw": "2024-05-25",
       "en": "2024-05-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206399,6 +208191,17 @@
         "pf": 18749
       }
     },
+    "skills": {
+      "center": {
+        "name": "冷月的紫水晶"
+      },
+      "live": {
+        "name": "坚持自我的萤石"
+      },
+      "support": {
+        "name": "堇青石之友人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206407,6 +208210,7 @@
     "rarity": 3,
     "character_id": 37,
     "type": 1,
+    "substat_type": 1,
     "title": "展颜皎色",
     "name": "春川宙",
     "releaseDate": {
@@ -206414,6 +208218,9 @@
       "kr": "2024-05-25",
       "tw": "2024-05-25",
       "en": "2024-05-25"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206427,6 +208234,17 @@
         "pf": 11802
       }
     },
+    "skills": {
+      "center": {
+        "name": "朗月的紫水晶"
+      },
+      "live": {
+        "name": "助人幸福的萤石"
+      },
+      "support": {
+        "name": "堇青石之少年"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206435,12 +208253,16 @@
     "rarity": 3,
     "character_id": 15,
     "type": 3,
+    "substat_type": 2,
     "title": "绘星美食客",
     "name": "乙狩アドニス",
     "releaseDate": {
       "cn": "2024-07-29",
       "kr": "2024-07-29",
       "tw": "2024-07-29"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206474,6 +208296,17 @@
         "pf": 29323
       }
     },
+    "skills": {
+      "center": {
+        "name": "心满意足的客人"
+      },
+      "live": {
+        "name": "认真绘制"
+      },
+      "support": {
+        "name": "内部导览图"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206482,12 +208315,16 @@
     "rarity": 3,
     "character_id": 16,
     "type": 4,
+    "substat_type": 0,
     "title": "绘星探险客",
     "name": "大神晃牙",
     "releaseDate": {
       "cn": "2024-07-29",
       "kr": "2024-07-29",
       "tw": "2024-07-29"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206521,6 +208358,17 @@
         "pf": 16928
       }
     },
+    "skills": {
+      "center": {
+        "name": "尽情玩闹的客人"
+      },
+      "live": {
+        "name": "摇滚绘制"
+      },
+      "support": {
+        "name": "特别粉丝福利"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206529,12 +208377,16 @@
     "rarity": 3,
     "character_id": 23,
     "type": 2,
+    "substat_type": 2,
     "title": "绘星访客",
     "name": "羽風薫",
     "releaseDate": {
       "cn": "2024-07-29",
       "kr": "2024-07-29",
       "tw": "2024-07-29"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206568,6 +208420,17 @@
         "pf": 33707
       }
     },
+    "skills": {
+      "center": {
+        "name": "创造回忆的客人"
+      },
+      "live": {
+        "name": "轻松绘制"
+      },
+      "support": {
+        "name": "友谊的击掌"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206576,12 +208439,16 @@
     "rarity": 3,
     "character_id": 29,
     "type": 1,
+    "substat_type": 1,
     "title": "绘星旅客",
     "name": "朔間零",
     "releaseDate": {
       "cn": "2024-07-29",
       "kr": "2024-07-29",
       "tw": "2024-07-29"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206615,6 +208482,17 @@
         "pf": 12097
       }
     },
+    "skills": {
+      "center": {
+        "name": "沉浸其中的客人"
+      },
+      "live": {
+        "name": "随心绘制"
+      },
+      "support": {
+        "name": "坏心眼的提醒"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206623,6 +208501,7 @@
     "rarity": 5,
     "character_id": 70,
     "type": 3,
+    "substat_type": 1,
     "title": "Unreal Tear",
     "name": "風早巽",
     "releaseDate": {
@@ -206630,6 +208509,9 @@
       "kr": "2024-07-13",
       "tw": "2024-07-13",
       "en": "2024-08-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206663,6 +208545,17 @@
         "pf": 26531
       }
     },
+    "skills": {
+      "center": {
+        "name": "无意识的主人公"
+      },
+      "live": {
+        "name": "热闹的晨间时光"
+      },
+      "support": {
+        "name": "肆意的水珠"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206671,6 +208564,7 @@
     "rarity": 4,
     "character_id": 25,
     "type": 1,
+    "substat_type": 0,
     "title": "Unreal Riddle",
     "name": "守沢千秋",
     "releaseDate": {
@@ -206678,6 +208572,9 @@
       "kr": "2024-07-13",
       "tw": "2024-07-13",
       "en": "2024-08-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206691,6 +208588,17 @@
         "pf": 15013
       }
     },
+    "skills": {
+      "center": {
+        "name": "再次登场的英雄"
+      },
+      "live": {
+        "name": "惬意的午间时光"
+      },
+      "support": {
+        "name": "未知的朋友"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206699,6 +208607,7 @@
     "rarity": 3,
     "character_id": 67,
     "type": 4,
+    "substat_type": 2,
     "title": "Unreal Feeling",
     "name": "天城一彩",
     "releaseDate": {
@@ -206706,6 +208615,9 @@
       "kr": "2024-07-13",
       "tw": "2024-07-13",
       "en": "2024-08-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206719,6 +208631,17 @@
         "pf": 21298
       }
     },
+    "skills": {
+      "center": {
+        "name": "锐意前行的后辈"
+      },
+      "live": {
+        "name": "迷茫的晚间时光"
+      },
+      "support": {
+        "name": "直白的问候"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206727,6 +208650,7 @@
     "rarity": 3,
     "character_id": 1,
     "type": 2,
+    "substat_type": 1,
     "title": "Unreal Memory",
     "name": "南雲鉄虎",
     "releaseDate": {
@@ -206734,6 +208658,9 @@
       "kr": "2024-07-13",
       "tw": "2024-07-13",
       "en": "2024-08-02"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206747,6 +208674,17 @@
         "pf": 9332
       }
     },
+    "skills": {
+      "center": {
+        "name": "意料外的破局者"
+      },
+      "live": {
+        "name": "休闲的夜间时光"
+      },
+      "support": {
+        "name": "感恩的早餐"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206755,6 +208693,7 @@
     "rarity": 4,
     "character_id": 27,
     "type": 2,
+    "substat_type": 2,
     "title": "点亮时光",
     "name": "日々樹渉",
     "releaseDate": {
@@ -206762,6 +208701,9 @@
       "kr": "2024-07-13",
       "tw": "2024-07-13",
       "en": "2024-08-02"
+    },
+    "obtain": {
+      "type": "campaign"
     },
     "stats": {
       "min": {
@@ -206795,6 +208737,17 @@
         "pf": 38392
       }
     },
+    "skills": {
+      "center": {
+        "name": "突发漂流计划"
+      },
+      "live": {
+        "name": "飞行的终点"
+      },
+      "support": {
+        "name": "降落舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206803,6 +208756,7 @@
     "rarity": 5,
     "character_id": 51,
     "type": 4,
+    "substat_type": 1,
     "title": "热砂夜行",
     "name": "七種茨",
     "releaseDate": {
@@ -206810,6 +208764,9 @@
       "kr": "2024-09-21",
       "tw": "2024-09-21",
       "en": "2024-09-21"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206843,6 +208800,17 @@
         "pf": 28611
       }
     },
+    "skills": {
+      "center": {
+        "name": "一击即中"
+      },
+      "live": {
+        "name": "难得轻松的假日"
+      },
+      "support": {
+        "name": "精英继承人"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206851,6 +208819,7 @@
     "rarity": 4,
     "character_id": 2,
     "type": 1,
+    "substat_type": 0,
     "title": "热砂午后",
     "name": "紫之創",
     "releaseDate": {
@@ -206858,6 +208827,9 @@
       "kr": "2024-09-21",
       "tw": "2024-09-21",
       "en": "2024-09-21"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206871,6 +208843,17 @@
         "pf": 13422
       }
     },
+    "skills": {
+      "center": {
+        "name": "读书茶会"
+      },
+      "live": {
+        "name": "陪伴友人的假日"
+      },
+      "support": {
+        "name": "暖心管家"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206879,6 +208862,7 @@
     "rarity": 3,
     "character_id": 8,
     "type": 2,
+    "substat_type": 0,
     "title": "热砂游兴",
     "name": "葵ゆうた",
     "releaseDate": {
@@ -206886,6 +208870,9 @@
       "kr": "2024-09-21",
       "tw": "2024-09-21",
       "en": "2024-09-21"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206919,6 +208906,17 @@
         "pf": 12170
       }
     },
+    "skills": {
+      "center": {
+        "name": "出谋划策"
+      },
+      "live": {
+        "name": "悠闲度过的假日"
+      },
+      "support": {
+        "name": "机灵秘书"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206927,6 +208925,7 @@
     "rarity": 3,
     "character_id": 4,
     "type": 3,
+    "substat_type": 1,
     "title": "热砂行乐",
     "name": "葵ひなた",
     "releaseDate": {
@@ -206934,6 +208933,9 @@
       "kr": "2024-09-21",
       "tw": "2024-09-21",
       "en": "2024-09-21"
+    },
+    "obtain": {
+      "type": "scout"
     },
     "stats": {
       "min": {
@@ -206947,6 +208949,17 @@
         "pf": 9448
       }
     },
+    "skills": {
+      "center": {
+        "name": "即兴演出"
+      },
+      "live": {
+        "name": "开心度过的假日"
+      },
+      "support": {
+        "name": "灵巧保镖"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -206955,12 +208968,16 @@
     "rarity": 5,
     "character_id": 42,
     "type": 1,
+    "substat_type": 0,
     "title": "自深渊而来",
     "name": "漣ジュン",
     "releaseDate": {
       "cn": "2023-12-23",
       "tw": "2023-12-23",
       "en": "2023-12-23"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -206994,6 +209011,17 @@
         "pf": 32695
       }
     },
+    "skills": {
+      "center": {
+        "name": "梦境中的王者"
+      },
+      "live": {
+        "name": "重构出的故事"
+      },
+      "support": {
+        "name": "成为漫画的主人公"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207002,6 +209030,7 @@
     "rarity": 5,
     "character_id": 33,
     "type": 2,
+    "substat_type": 2,
     "title": "漫游银河",
     "name": "月永レオ",
     "releaseDate": {
@@ -207009,6 +209038,9 @@
       "kr": "2024-03-09",
       "tw": "2024-03-09",
       "en": "2024-03-09"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -207042,6 +209074,17 @@
         "pf": 66461
       }
     },
+    "skills": {
+      "center": {
+        "name": "伯利恒之星"
+      },
+      "live": {
+        "name": "无垠想象"
+      },
+      "support": {
+        "name": "灵感指引的方向"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207050,6 +209093,7 @@
     "rarity": 5,
     "character_id": 74,
     "type": 4,
+    "substat_type": 2,
     "title": "闯入新世界",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -207057,6 +209101,9 @@
       "kr": "2024-06-29",
       "tw": "2024-06-29",
       "en": "2024-07-20"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -207090,6 +209137,17 @@
         "pf": 62873
       }
     },
+    "skills": {
+      "center": {
+        "name": "进击的三桅船"
+      },
+      "live": {
+        "name": "转动罗盘"
+      },
+      "support": {
+        "name": "通往未来的航海图"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207098,6 +209156,7 @@
     "rarity": 5,
     "character_id": 29,
     "type": 2,
+    "substat_type": 1,
     "title": "追叙时刻",
     "name": "朔間零",
     "releaseDate": {
@@ -207105,6 +209164,9 @@
       "kr": "2024-08-17",
       "tw": "2024-08-17",
       "en": "2024-09-01"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -207138,6 +209200,17 @@
         "pf": 29550
       }
     },
+    "skills": {
+      "center": {
+        "name": "「魔法科」的「转校生」"
+      },
+      "live": {
+        "name": "永远幸福的祝愿"
+      },
+      "support": {
+        "name": "无比快乐的一天"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207146,6 +209219,7 @@
     "rarity": 5,
     "character_id": 35,
     "type": 3,
+    "substat_type": 2,
     "title": "永恒之真谛",
     "name": "斎宮宗",
     "releaseDate": {
@@ -207153,6 +209227,9 @@
       "kr": "2024-10-30",
       "tw": "2024-10-26",
       "en": "2024-10-26"
+    },
+    "obtain": {
+      "type": "event"
     },
     "stats": {
       "min": {
@@ -207186,6 +209263,17 @@
         "pf": 61378
       }
     },
+    "skills": {
+      "center": {
+        "name": "皮格马利翁之爱"
+      },
+      "live": {
+        "name": "迈达斯之手"
+      },
+      "support": {
+        "name": "标本馆奇妙夜"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207194,12 +209282,17 @@
     "rarity": 2,
     "character_id": 1,
     "type": 4,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "南雲鉄虎",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207213,6 +209306,17 @@
         "pf": 5324
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207221,11 +209325,16 @@
     "rarity": 2,
     "character_id": 2,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "紫之創",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207239,6 +209348,17 @@
         "pf": 13373
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207247,11 +209367,16 @@
     "rarity": 2,
     "character_id": 3,
     "type": 3,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "真白友也",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207265,6 +209390,17 @@
         "pf": 4703
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207273,6 +209409,7 @@
     "rarity": 2,
     "character_id": 4,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "葵ひなた",
     "releaseDate": {
@@ -207280,11 +209417,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 890,
         "vo": 1010,
         "pf": 1420
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -207295,12 +209447,17 @@
     "rarity": 2,
     "character_id": 5,
     "type": 1,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "高峯翠",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207314,6 +209471,17 @@
         "pf": 8835
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207322,12 +209490,17 @@
     "rarity": 2,
     "character_id": 6,
     "type": 1,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "姫宮桃李",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207341,6 +209514,17 @@
         "pf": 17116
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207349,6 +209533,7 @@
     "rarity": 2,
     "character_id": 7,
     "type": 3,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "仙石忍",
     "releaseDate": {
@@ -207356,11 +209541,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1050,
         "vo": 1700,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -207371,6 +209571,7 @@
     "rarity": 2,
     "character_id": 8,
     "type": 2,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "葵ゆうた",
     "releaseDate": {
@@ -207378,11 +209579,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1640,
         "vo": 880,
         "pf": 700
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -207393,11 +209609,16 @@
     "rarity": 2,
     "character_id": 9,
     "type": 2,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "天満光",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207411,6 +209632,17 @@
         "pf": 4011
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207419,12 +209651,17 @@
     "rarity": 2,
     "character_id": 10,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "朱桜司",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207438,6 +209675,17 @@
         "pf": 15159
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207446,6 +209694,7 @@
     "rarity": 2,
     "character_id": 37,
     "type": 2,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "春川宙",
     "releaseDate": {
@@ -207453,11 +209702,26 @@
       "tw": "2022-06-13",
       "en": "2023-11-20"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 2010,
         "vo": 800,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -207468,6 +209732,7 @@
     "rarity": 2,
     "character_id": 11,
     "type": 3,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "明星スバル",
     "releaseDate": {
@@ -207475,11 +209740,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 640,
         "vo": 2130,
         "pf": 890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -207490,6 +209770,7 @@
     "rarity": 2,
     "character_id": 12,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -207497,11 +209778,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 800,
         "vo": 710,
         "pf": 2250
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -207512,6 +209808,7 @@
     "rarity": 2,
     "character_id": 13,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "遊木真",
     "releaseDate": {
@@ -207519,11 +209816,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 940,
         "vo": 790,
         "pf": 1450
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -207534,17 +209846,33 @@
     "rarity": 2,
     "character_id": 14,
     "type": 2,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "神崎颯馬",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 770,
         "vo": 1870,
         "pf": 1040
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -207555,17 +209883,33 @@
     "rarity": 2,
     "character_id": 15,
     "type": 3,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "乙狩アドニス",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1710,
         "vo": 760,
         "pf": 980
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -207576,17 +209920,33 @@
     "rarity": 2,
     "character_id": 16,
     "type": 2,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "大神晃牙",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 2110,
         "vo": 660,
         "pf": 890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -207597,12 +209957,17 @@
     "rarity": 2,
     "character_id": 17,
     "type": 2,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "朔間凛月",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207616,6 +209981,17 @@
         "pf": 6151
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207624,6 +210000,7 @@
     "rarity": 2,
     "character_id": 18,
     "type": 3,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "衣更真緒",
     "releaseDate": {
@@ -207631,11 +210008,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1660,
         "vo": 710,
         "pf": 820
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
       }
     },
     "useFrameless": "FALSE"
@@ -207646,12 +210038,17 @@
     "rarity": 2,
     "character_id": 19,
     "type": 4,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "伏見弓弦",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207685,6 +210082,17 @@
         "pf": 5104
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207693,12 +210101,17 @@
     "rarity": 2,
     "character_id": 20,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "鳴上嵐",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207712,6 +210125,17 @@
         "pf": 14619
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207720,6 +210144,7 @@
     "rarity": 2,
     "character_id": 34,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "影片みか",
     "releaseDate": {
@@ -207727,11 +210152,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1040,
         "vo": 910,
         "pf": 1600
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -207742,12 +210182,17 @@
     "rarity": 2,
     "character_id": 38,
     "type": 2,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "逆先夏目",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207761,6 +210206,17 @@
         "pf": 3518
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207769,17 +210225,33 @@
     "rarity": 2,
     "character_id": 21,
     "type": 4,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "蓮巳敬人",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1930,
         "vo": 650,
         "pf": 780
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -207790,12 +210262,17 @@
     "rarity": 2,
     "character_id": 22,
     "type": 1,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "天祥院英智",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207809,6 +210286,17 @@
         "pf": 7823
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207817,17 +210305,33 @@
     "rarity": 2,
     "character_id": 23,
     "type": 2,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "羽風薫",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 770,
         "vo": 800,
         "pf": 1970
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -207838,12 +210342,17 @@
     "rarity": 2,
     "character_id": 24,
     "type": 1,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "瀬名泉",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207877,6 +210386,17 @@
         "pf": 15401
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207885,12 +210405,17 @@
     "rarity": 2,
     "character_id": 25,
     "type": 4,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "守沢千秋",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207904,6 +210429,17 @@
         "pf": 7554
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207912,17 +210448,33 @@
     "rarity": 2,
     "character_id": 26,
     "type": 4,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "鬼龍紅郎",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 730,
         "vo": 2160,
         "pf": 820
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -207933,12 +210485,17 @@
     "rarity": 2,
     "character_id": 27,
     "type": 4,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "日々樹渉",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207952,6 +210509,17 @@
         "pf": 15598
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207960,12 +210528,17 @@
     "rarity": 2,
     "character_id": 28,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "深海奏汰",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -207979,6 +210552,17 @@
         "pf": 16393
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -207987,11 +210571,16 @@
     "rarity": 2,
     "character_id": 29,
     "type": 1,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "朔間零",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208025,6 +210614,17 @@
         "pf": 6453
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208033,11 +210633,16 @@
     "rarity": 2,
     "character_id": 30,
     "type": 2,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "仁兎なずな",
     "releaseDate": {
       "cn": "2022-02-21",
       "tw": "2022-05-02"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208051,6 +210656,17 @@
         "pf": 6334
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208059,12 +210675,17 @@
     "rarity": 2,
     "character_id": 33,
     "type": 1,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "月永レオ",
     "releaseDate": {
       "cn": "2022-04-04",
       "tw": "2022-06-13",
       "en": "2023-11-20"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208098,6 +210719,17 @@
         "pf": 5441
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208106,6 +210738,7 @@
     "rarity": 2,
     "character_id": 35,
     "type": 1,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "斎宮宗",
     "releaseDate": {
@@ -208113,11 +210746,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1020,
         "vo": 1590,
         "pf": 750
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -208128,6 +210776,7 @@
     "rarity": 2,
     "character_id": 39,
     "type": 4,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "青葉つむぎ",
     "releaseDate": {
@@ -208135,11 +210784,26 @@
       "tw": "2022-06-13",
       "en": "2023-11-20"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1800,
         "vo": 780,
         "pf": 620
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -208150,6 +210814,7 @@
     "rarity": 2,
     "character_id": 40,
     "type": 2,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "三毛縞斑",
     "releaseDate": {
@@ -208157,11 +210822,26 @@
       "tw": "2022-06-13",
       "en": "2023-11-20"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1920,
         "vo": 800,
         "pf": 710
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
       }
     },
     "useFrameless": "FALSE"
@@ -208172,6 +210852,7 @@
     "rarity": 2,
     "character_id": 50,
     "type": 4,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "乱凪砂",
     "releaseDate": {
@@ -208179,11 +210860,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1050,
         "vo": 1570,
         "pf": 770
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208194,6 +210890,7 @@
     "rarity": 2,
     "character_id": 41,
     "type": 2,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "巴日和",
     "releaseDate": {
@@ -208201,11 +210898,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1090,
         "vo": 950,
         "pf": 1400
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208216,6 +210928,7 @@
     "rarity": 2,
     "character_id": 51,
     "type": 2,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "七種茨",
     "releaseDate": {
@@ -208223,11 +210936,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 920,
         "vo": 890,
         "pf": 1430
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -208238,6 +210966,7 @@
     "rarity": 2,
     "character_id": 42,
     "type": 1,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "漣ジュン",
     "releaseDate": {
@@ -208245,11 +210974,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1360,
         "vo": 890,
         "pf": 980
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208260,6 +211004,7 @@
     "rarity": 2,
     "character_id": 67,
     "type": 4,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "天城一彩",
     "releaseDate": {
@@ -208267,11 +211012,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 880,
         "vo": 1630,
         "pf": 800
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -208282,6 +211042,7 @@
     "rarity": 2,
     "character_id": 68,
     "type": 1,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -208289,11 +211050,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1560,
         "vo": 1070,
         "pf": 830
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -208304,12 +211080,17 @@
     "rarity": 2,
     "character_id": 69,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "礼瀬マヨイ",
     "releaseDate": {
       "cn": "2021-11-26",
       "tw": "2022-02-04",
       "en": "2023-06-15"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208343,6 +211124,17 @@
         "pf": 15523
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208351,6 +211143,7 @@
     "rarity": 2,
     "character_id": 70,
     "type": 3,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "風早巽",
     "releaseDate": {
@@ -208358,11 +211151,26 @@
       "tw": "2022-02-04",
       "en": "2023-06-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 890,
         "vo": 1840,
         "pf": 750
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -208373,6 +211181,7 @@
     "rarity": 2,
     "character_id": 71,
     "type": 1,
+    "substat_type": 0,
     "title": "与你相遇的奇迹",
     "name": "天城燐音",
     "releaseDate": {
@@ -208380,11 +211189,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1760,
         "vo": 890,
         "pf": 780
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208395,12 +211219,17 @@
     "rarity": 2,
     "character_id": 73,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "桜河こはく",
     "releaseDate": {
       "cn": "2022-01-12",
       "tw": "2022-04-18",
       "en": "2023-08-14"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208414,6 +211243,17 @@
         "pf": 7380
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208422,6 +211262,7 @@
     "rarity": 2,
     "character_id": 72,
     "type": 3,
+    "substat_type": 2,
     "title": "与你相遇的奇迹",
     "name": "HiMERU",
     "releaseDate": {
@@ -208429,11 +211270,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 810,
         "vo": 1050,
         "pf": 1530
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -208444,6 +211300,7 @@
     "rarity": 2,
     "character_id": 74,
     "type": 1,
+    "substat_type": 1,
     "title": "与你相遇的奇迹",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -208451,11 +211308,26 @@
       "tw": "2022-04-18",
       "en": "2023-08-14"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 940,
         "vo": 1870,
         "pf": 900
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -208466,6 +211338,7 @@
     "rarity": 2,
     "character_id": 1,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "南雲鉄虎",
     "releaseDate": {
@@ -208473,11 +211346,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1020,
         "vo": 1610,
         "pf": 910
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208488,6 +211376,7 @@
     "rarity": 2,
     "character_id": 2,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "紫之創",
     "releaseDate": {
@@ -208495,11 +211384,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1050,
         "vo": 870,
         "pf": 1280
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208510,12 +211414,17 @@
     "rarity": 2,
     "character_id": 3,
     "type": 2,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "真白友也",
     "releaseDate": {
       "cn": "2023-03-04",
       "tw": "2023-04-08",
       "en": "2024-08-08"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208549,6 +211458,17 @@
         "pf": 4703
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208557,6 +211477,7 @@
     "rarity": 2,
     "character_id": 4,
     "type": 3,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "葵ひなた",
     "releaseDate": {
@@ -208564,11 +211485,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 890,
         "vo": 1010,
         "pf": 1420
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -208579,6 +211515,7 @@
     "rarity": 2,
     "character_id": 5,
     "type": 4,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "高峯翠",
     "releaseDate": {
@@ -208586,11 +211523,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1490,
         "vo": 950,
         "pf": 1180
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
       }
     },
     "useFrameless": "FALSE"
@@ -208601,6 +211553,7 @@
     "rarity": 2,
     "character_id": 6,
     "type": 4,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -208608,11 +211561,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 710,
         "vo": 640,
         "pf": 2020
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -208623,6 +211591,7 @@
     "rarity": 2,
     "character_id": 7,
     "type": 2,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "仙石忍",
     "releaseDate": {
@@ -208630,11 +211599,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1050,
         "vo": 1700,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208645,6 +211629,7 @@
     "rarity": 2,
     "character_id": 8,
     "type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "葵ゆうた",
     "releaseDate": {
@@ -208652,11 +211637,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1640,
         "vo": 880,
         "pf": 700
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208667,12 +211667,17 @@
     "rarity": 2,
     "character_id": 9,
     "type": 1,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "天満光",
     "releaseDate": {
       "cn": "2023-03-04",
       "tw": "2023-04-08",
       "en": "2024-08-08"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208706,6 +211711,17 @@
         "pf": 4011
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208714,6 +211730,7 @@
     "rarity": 2,
     "character_id": 10,
     "type": 3,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "朱桜司",
     "releaseDate": {
@@ -208721,11 +211738,26 @@
       "tw": "2023-05-01",
       "en": "2024-08-28"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 830,
         "vo": 950,
         "pf": 1380
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208736,6 +211768,7 @@
     "rarity": 2,
     "character_id": 37,
     "type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "春川宙",
     "releaseDate": {
@@ -208743,11 +211776,26 @@
       "tw": "2023-05-01",
       "en": "2024-08-28"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 2010,
         "vo": 800,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208758,6 +211806,7 @@
     "rarity": 2,
     "character_id": 11,
     "type": 2,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "明星スバル",
     "releaseDate": {
@@ -208765,11 +211814,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 640,
         "vo": 2130,
         "pf": 890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -208780,6 +211844,7 @@
     "rarity": 2,
     "character_id": 12,
     "type": 3,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -208787,11 +211852,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 800,
         "vo": 710,
         "pf": 2250
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -208802,6 +211882,7 @@
     "rarity": 2,
     "character_id": 13,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "遊木真",
     "releaseDate": {
@@ -208809,11 +211890,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 640,
         "vo": 2130,
         "pf": 890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -208824,6 +211920,7 @@
     "rarity": 2,
     "character_id": 14,
     "type": 1,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "神崎颯馬",
     "releaseDate": {
@@ -208831,11 +211928,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 770,
         "vo": 1870,
         "pf": 1040
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -208846,6 +211958,7 @@
     "rarity": 2,
     "character_id": 15,
     "type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "乙狩アドニス",
     "releaseDate": {
@@ -208853,11 +211966,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1710,
         "vo": 760,
         "pf": 980
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208868,6 +211996,7 @@
     "rarity": 2,
     "character_id": 16,
     "type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "大神晃牙",
     "releaseDate": {
@@ -208875,11 +212004,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 2110,
         "vo": 660,
         "pf": 890
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208890,12 +212034,17 @@
     "rarity": 2,
     "character_id": 17,
     "type": 1,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "朔間凛月",
     "releaseDate": {
       "cn": "2023-03-24",
       "tw": "2023-05-01",
       "en": "2024-08-28"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -208914,6 +212063,17 @@
         "pf": 4809
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -208922,6 +212082,7 @@
     "rarity": 2,
     "character_id": 18,
     "type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "衣更真緒",
     "releaseDate": {
@@ -208929,11 +212090,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1660,
         "vo": 710,
         "pf": 820
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
       }
     },
     "useFrameless": "FALSE"
@@ -208944,6 +212120,7 @@
     "rarity": 2,
     "character_id": 19,
     "type": 3,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "伏見弓弦",
     "releaseDate": {
@@ -208951,11 +212128,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1900,
         "vo": 950,
         "pf": 760
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
       }
     },
     "useFrameless": "FALSE"
@@ -208966,6 +212158,7 @@
     "rarity": 2,
     "character_id": 20,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "鳴上嵐",
     "releaseDate": {
@@ -208973,11 +212166,26 @@
       "tw": "2023-05-01",
       "en": "2024-08-28"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 660,
         "vo": 680,
         "pf": 1830
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -208988,6 +212196,7 @@
     "rarity": 2,
     "character_id": 34,
     "type": 3,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "影片みか",
     "releaseDate": {
@@ -208995,11 +212204,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1040,
         "vo": 910,
         "pf": 1600
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -209010,6 +212234,7 @@
     "rarity": 2,
     "character_id": 38,
     "type": 1,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "逆先夏目",
     "releaseDate": {
@@ -209017,11 +212242,26 @@
       "tw": "2023-05-01",
       "en": "2024-08-28"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 810,
         "vo": 1920,
         "pf": 760
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209032,6 +212272,7 @@
     "rarity": 2,
     "character_id": 21,
     "type": 3,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "蓮巳敬人",
     "releaseDate": {
@@ -209039,11 +212280,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1930,
         "vo": 650,
         "pf": 780
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -209054,6 +212310,7 @@
     "rarity": 2,
     "character_id": 22,
     "type": 4,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "天祥院英智",
     "releaseDate": {
@@ -209061,11 +212318,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1040,
         "vo": 1960,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -209076,6 +212348,7 @@
     "rarity": 2,
     "character_id": 23,
     "type": 1,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "羽風薫",
     "releaseDate": {
@@ -209083,11 +212356,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 770,
         "vo": 800,
         "pf": 1970
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -209098,12 +212386,17 @@
     "rarity": 2,
     "character_id": 24,
     "type": 4,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "瀬名泉",
     "releaseDate": {
       "cn": "2023-03-24",
       "tw": "2023-05-01",
       "en": "2024-08-28"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -209132,6 +212425,17 @@
         "pf": 15401
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209140,6 +212444,7 @@
     "rarity": 2,
     "character_id": 25,
     "type": 3,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "守沢千秋",
     "releaseDate": {
@@ -209147,11 +212452,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1400,
         "vo": 880,
         "pf": 1070
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209162,6 +212482,7 @@
     "rarity": 2,
     "character_id": 26,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "鬼龍紅郎",
     "releaseDate": {
@@ -209169,11 +212490,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 730,
         "vo": 2160,
         "pf": 820
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -209184,6 +212520,7 @@
     "rarity": 2,
     "character_id": 27,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "日々樹渉",
     "releaseDate": {
@@ -209191,11 +212528,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1040,
         "vo": 1960,
         "pf": 810
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
       }
     },
     "useFrameless": "FALSE"
@@ -209206,12 +212558,17 @@
     "rarity": 2,
     "character_id": 28,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "深海奏汰",
     "releaseDate": {
       "cn": "2022-11-26",
       "tw": "2023-02-05",
       "en": "2024-06-16"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -209225,6 +212582,17 @@
         "pf": 16393
       }
     },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209233,12 +212601,17 @@
     "rarity": 2,
     "character_id": 29,
     "type": 4,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "朔間零",
     "releaseDate": {
       "cn": "2023-03-04",
       "tw": "2023-04-08",
       "en": "2024-08-08"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -209272,6 +212645,17 @@
         "pf": 6453
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209280,6 +212664,7 @@
     "rarity": 2,
     "character_id": 30,
     "type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "仁兎なずな",
     "releaseDate": {
@@ -209287,11 +212672,26 @@
       "tw": "2023-04-08",
       "en": "2024-08-08"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1840,
         "vo": 1160,
         "pf": 830
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209302,12 +212702,17 @@
     "rarity": 2,
     "character_id": 33,
     "type": 4,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "月永レオ",
     "releaseDate": {
       "cn": "2023-03-24",
       "tw": "2023-05-01",
       "en": "2024-08-28"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -209326,6 +212731,17 @@
         "pf": 4031
       }
     },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209334,6 +212750,7 @@
     "rarity": 2,
     "character_id": 35,
     "type": 4,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "斎宮宗",
     "releaseDate": {
@@ -209341,11 +212758,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1020,
         "vo": 1590,
         "pf": 750
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
       }
     },
     "useFrameless": "FALSE"
@@ -209356,6 +212788,7 @@
     "rarity": 2,
     "character_id": 39,
     "type": 3,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "青葉つむぎ",
     "releaseDate": {
@@ -209363,11 +212796,26 @@
       "tw": "2023-05-01",
       "en": "2024-08-28"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1800,
         "vo": 780,
         "pf": 620
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -209378,12 +212826,17 @@
     "rarity": 2,
     "character_id": 40,
     "type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "三毛縞斑",
     "releaseDate": {
       "cn": "2023-03-24",
       "tw": "2023-05-01",
       "en": "2024-08-28"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
     },
     "stats": {
       "min": {
@@ -209397,6 +212850,17 @@
         "pf": 6448
       }
     },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209405,6 +212869,7 @@
     "rarity": 2,
     "character_id": 50,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "乱凪砂",
     "releaseDate": {
@@ -209412,11 +212877,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1050,
         "vo": 1570,
         "pf": 770
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209427,6 +212907,7 @@
     "rarity": 2,
     "character_id": 41,
     "type": 1,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "巴日和",
     "releaseDate": {
@@ -209434,11 +212915,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1090,
         "vo": 950,
         "pf": 1400
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209449,6 +212945,7 @@
     "rarity": 2,
     "character_id": 51,
     "type": 1,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "七種茨",
     "releaseDate": {
@@ -209456,11 +212953,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 920,
         "vo": 890,
         "pf": 1430
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -209471,6 +212983,7 @@
     "rarity": 2,
     "character_id": 42,
     "type": 4,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "漣ジュン",
     "releaseDate": {
@@ -209478,11 +212991,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1360,
         "vo": 890,
         "pf": 980
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209493,6 +213021,7 @@
     "rarity": 2,
     "character_id": 67,
     "type": 3,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "天城一彩",
     "releaseDate": {
@@ -209500,11 +213029,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 880,
         "vo": 1630,
         "pf": 800
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -209515,6 +213059,7 @@
     "rarity": 2,
     "character_id": 68,
     "type": 4,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -209522,11 +213067,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1560,
         "vo": 1070,
         "pf": 830
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -209537,6 +213097,7 @@
     "rarity": 2,
     "character_id": 69,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "礼瀬マヨイ",
     "releaseDate": {
@@ -209544,11 +213105,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1230,
         "vo": 980,
         "pf": 1590
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209559,6 +213135,7 @@
     "rarity": 2,
     "character_id": 70,
     "type": 2,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "風早巽",
     "releaseDate": {
@@ -209566,11 +213143,26 @@
       "tw": "2023-02-05",
       "en": "2024-06-16"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 890,
         "vo": 1840,
         "pf": 750
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
       }
     },
     "useFrameless": "FALSE"
@@ -209581,6 +213173,7 @@
     "rarity": 2,
     "character_id": 71,
     "type": 4,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "天城燐音",
     "releaseDate": {
@@ -209588,11 +213181,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1760,
         "vo": 890,
         "pf": 780
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209603,6 +213211,7 @@
     "rarity": 2,
     "character_id": 73,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "桜河こはく",
     "releaseDate": {
@@ -209610,11 +213219,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 1140,
         "vo": 990,
         "pf": 1560
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
       }
     },
     "useFrameless": "FALSE"
@@ -209625,6 +213249,7 @@
     "rarity": 2,
     "character_id": 72,
     "type": 2,
+    "substat_type": 2,
     "title": "予你惊喜的协奏曲",
     "name": "HiMERU",
     "releaseDate": {
@@ -209632,11 +213257,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 810,
         "vo": 1050,
         "pf": 1530
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
       }
     },
     "useFrameless": "FALSE"
@@ -209647,6 +213287,7 @@
     "rarity": 2,
     "character_id": 74,
     "type": 4,
+    "substat_type": 1,
     "title": "予你惊喜的协奏曲",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -209654,11 +213295,26 @@
       "tw": "2023-03-06",
       "en": "2024-07-15"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
     "stats": {
       "min": {
         "da": 940,
         "vo": 1870,
         "pf": 900
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "歌声闪耀"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
       }
     },
     "useFrameless": "FALSE"
@@ -209676,6 +213332,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209690,6 +213361,21 @@
       "cn": "2024-01-20",
       "kr": "2024-02-18",
       "tw": "2024-03-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209706,6 +213392,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209720,6 +213421,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209736,6 +213452,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209750,6 +213481,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209766,6 +213512,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209780,6 +213541,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209796,6 +213572,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209810,6 +213601,21 @@
       "cn": "2024-02-23",
       "kr": "2024-03-21",
       "tw": "2024-04-29"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209826,6 +213632,21 @@
       "kr": "2024-03-21",
       "tw": "2024-04-29"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209840,6 +213661,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209856,6 +213692,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209870,6 +213721,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209886,6 +213752,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209900,6 +213781,21 @@
       "cn": "2024-01-20",
       "kr": "2024-02-18",
       "tw": "2024-03-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209916,6 +213812,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209930,6 +213841,21 @@
       "cn": "2024-02-23",
       "kr": "2024-03-21",
       "tw": "2024-04-29"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209946,6 +213872,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209960,6 +213901,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -209976,6 +213932,21 @@
       "kr": "2024-03-21",
       "tw": "2024-04-29"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -209990,6 +213961,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210006,6 +213992,21 @@
       "kr": "2024-03-21",
       "tw": "2024-04-29"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210020,6 +214021,21 @@
       "cn": "2024-01-20",
       "kr": "2024-02-18",
       "tw": "2024-03-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "回应舞台"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210036,6 +214052,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210050,6 +214081,21 @@
       "cn": "2024-01-20",
       "kr": "2024-02-18",
       "tw": "2024-03-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210066,6 +214112,21 @@
       "kr": "2024-03-21",
       "tw": "2024-04-29"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210080,6 +214141,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210096,6 +214172,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210110,6 +214201,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "极限领域"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210126,6 +214232,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "沉迷舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210140,6 +214261,21 @@
       "cn": "2024-01-20",
       "kr": "2024-02-18",
       "tw": "2024-03-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210156,6 +214292,21 @@
       "kr": "2024-02-18",
       "tw": "2024-03-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210170,6 +214321,21 @@
       "cn": "2024-02-23",
       "kr": "2024-03-21",
       "tw": "2024-04-29"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210186,6 +214352,21 @@
       "kr": "2024-01-03",
       "tw": "2024-02-24"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "魅力舞台"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210200,6 +214381,21 @@
       "cn": "2024-02-23",
       "kr": "2024-03-21",
       "tw": "2024-04-29"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210216,6 +214412,21 @@
       "kr": "2024-03-21",
       "tw": "2024-04-29"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援舞蹈"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210230,6 +214441,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪光声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210246,6 +214472,21 @@
       "kr": "2024-01-03",
       "tw": "2024-02-24"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪耀声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210260,6 +214501,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210276,6 +214532,21 @@
       "kr": "2024-01-03",
       "tw": "2024-02-24"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210290,6 +214561,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声璀璨"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210306,6 +214592,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210320,6 +214621,21 @@
       "cn": "2023-11-26",
       "kr": "2023-12-23",
       "tw": "2024-01-23"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210336,6 +214652,21 @@
       "kr": "2023-12-23",
       "tw": "2024-01-23"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援演唱"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210350,6 +214681,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "舞蹈绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪烁声援"
+      }
     },
     "useFrameless": "FALSE"
   },
@@ -210366,6 +214712,21 @@
       "kr": "2024-01-03",
       "tw": "2024-02-24"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "闪亮声援"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210381,6 +214742,21 @@
       "kr": "2024-01-03",
       "tw": "2024-02-24"
     },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "表现力辉煌"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "声援表演"
+      }
+    },
     "useFrameless": "FALSE"
   },
   {
@@ -210395,6 +214771,21 @@
       "cn": "2023-12-23",
       "kr": "2024-01-03",
       "tw": "2024-02-24"
+    },
+    "obtain": {
+      "type": "special",
+      "subType": "anniv"
+    },
+    "skills": {
+      "center": {
+        "name": "歌声绚烂"
+      },
+      "live": {
+        "name": "得分提升"
+      },
+      "support": {
+        "name": "保持能量"
+      }
     },
     "useFrameless": "FALSE"
   }
