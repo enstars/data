@@ -50,7 +50,7 @@
     "name": "Tomoya Mashiro",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -1018,7 +1018,7 @@
     "name": "Kohaku Oukawa",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -1718,7 +1718,7 @@
     "name": "Rei Sakuma",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -1892,7 +1892,7 @@
     "name": "Jun Sazanami",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -1932,7 +1932,7 @@
     "name": "Aira Shiratori",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -1998,7 +1998,7 @@
     "name": "Rinne Amagi",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Score Up"
@@ -2234,7 +2234,7 @@
     "name": "Mitsuru Tenma",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Perseverance of Idol"
@@ -2358,7 +2358,7 @@
     "name": "Souma Kanzaki",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Studies of Idol"
@@ -2820,7 +2820,7 @@
     "name": "Nagisa Ran",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Adjustment of Idol"
@@ -3458,7 +3458,7 @@
     "name": "Kaoru Hakaze",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Yellow Wild Hunt"
@@ -3793,7 +3793,7 @@
     "name": "Hinata Aoi",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Pink Happy Melody"
@@ -3859,7 +3859,7 @@
     "name": "Natsume Sakasaki",
     "skills": {
       "center": {
-        "name": "Dance Sparkle"
+        "name": "Dance Sparkle "
       },
       "live": {
         "name": "Red Magical Party"
@@ -11757,6 +11757,17 @@
     "id": 2702,
     "title": "Burning Rock",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Burn, My SOUL!"
+      },
+      "live": {
+        "name": "Soul of the Hero"
+      },
+      "support": {
+        "name": "Passion in Songs"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -11987,6 +11998,17 @@
     "id": 2717,
     "title": "Mischievous Rock",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Bright SOUL"
+      },
+      "live": {
+        "name": "Easygoing Soul"
+      },
+      "support": {
+        "name": "Song Sparks Smile"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -12001,6 +12023,17 @@
     "id": 2719,
     "title": "Peculiar Rock",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Yelling SOUL"
+      },
+      "live": {
+        "name": "Savior of Soul"
+      },
+      "support": {
+        "name": "Draw You Close with Song"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -12040,6 +12073,17 @@
     "id": 2723,
     "title": "Instinct of Rock",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Calm SOUL"
+      },
+      "live": {
+        "name": "Dominating Soul"
+      },
+      "support": {
+        "name": "Magic Living in Song"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -12151,6 +12195,17 @@
     "id": 2731,
     "title": "Unyielding Rock",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Unshakeable SOUL"
+      },
+      "live": {
+        "name": "Time-Honored Soul"
+      },
+      "support": {
+        "name": "Time-Surpassing Songs"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -12172,6 +12227,17 @@
     "id": 2734,
     "title": "Chivalrous Rock",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Advancing SOUL"
+      },
+      "live": {
+        "name": "Proud Soul"
+      },
+      "support": {
+        "name": "Sword within Songs"
+      }
+    },
     "releaseDate": "2024-09-01"
   },
   {
@@ -19965,6 +20031,17 @@
     "id": 3227,
     "title": "Flame Residing in Fists",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Wild Flame"
+      },
+      "live": {
+        "name": "Practice Tournament"
+      },
+      "support": {
+        "name": "Riverside Jogging"
+      }
+    },
     "releaseDate": "2024-09-14"
   },
   {
@@ -20015,6 +20092,17 @@
     "id": 3231,
     "title": "Flame of Integrity",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Straightforward Flame"
+      },
+      "live": {
+        "name": "Superb Sparring"
+      },
+      "support": {
+        "name": "White-Hot Training"
+      }
+    },
     "releaseDate": "2024-09-13"
   },
   {
@@ -20655,6 +20743,17 @@
     "id": 3274,
     "title": "Tender Touch",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Absolutely Everything!"
+      },
+      "live": {
+        "name": "Tons of Experiences"
+      },
+      "support": {
+        "name": "Warm Heartbeat"
+      }
+    },
     "releaseDate": "2024-11-04"
   },
   {
@@ -20662,6 +20761,17 @@
     "id": 3275,
     "title": "A Fluttering Day",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Switching Emotions"
+      },
+      "live": {
+        "name": "Fumbling Warmth"
+      },
+      "support": {
+        "name": "Outside Observer"
+      }
+    },
     "releaseDate": "2024-11-04"
   },
   {
@@ -20669,6 +20779,17 @@
     "id": 3276,
     "title": "The Surgeon",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Urgent Surgery"
+      },
+      "live": {
+        "name": "An Expert's Help"
+      },
+      "support": {
+        "name": "Independent Practice"
+      }
+    },
     "releaseDate": "2024-11-04"
   },
   {
@@ -20681,43 +20802,120 @@
     "compliant": "TRUE",
     "id": 3283,
     "title": "Spider of Sweet Dew",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Brimful of Spider Venom"
+      },
+      "live": {
+        "name": "Chaotic Food Festival"
+      },
+      "support": {
+        "name": "Sweets & More Sweets"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3284,
     "title": "Spider of Mischief",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Joyful Spider"
+      },
+      "live": {
+        "name": "Pranking Night"
+      },
+      "support": {
+        "name": "Ghost Story Sleepover"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3285,
     "title": "Spider of Companionship",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Nightmare-Weaving Spider"
+      },
+      "live": {
+        "name": "Awkward Interaction"
+      },
+      "support": {
+        "name": "Thankful Cookies"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3286,
     "title": "Doll & Memories",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Understanding Animism"
+      },
+      "live": {
+        "name": "Doll Carrying Memories"
+      },
+      "support": {
+        "name": "Childhood Gift"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3287,
     "title": "Doll & Cherishment",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "A New Use"
+      },
+      "live": {
+        "name": "Playing House with Dolls"
+      },
+      "support": {
+        "name": "Familiar Household Goods"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3288,
     "title": "Promoting the Doll",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Flea Market Shopping"
+      },
+      "live": {
+        "name": "Memories & Doll"
+      },
+      "support": {
+        "name": "Treasure Hunt"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3289,
     "title": "Doll & New Owner",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "New Vintage Clothes"
+      },
+      "live": {
+        "name": "Circulation & Doll"
+      },
+      "support": {
+        "name": "Dashing Shoes"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -20769,1152 +20967,3264 @@
     "compliant": "TRUE",
     "id": 90001,
     "title": "Stage of Novice",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Swallow Tearing the Sky"
+      },
+      "support": {
+        "name": "Song for Revolutionary"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90002,
     "title": "Stage of Fledgling",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Locale of Sincerity"
+      },
+      "support": {
+        "name": "Song of the Enchanted"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90003,
     "title": "Stage of Backlight",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Deep Gaze"
+      },
+      "support": {
+        "name": "Song of the Herald"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90004,
     "title": "Stage of Rebirth",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Saintly Figure"
+      },
+      "support": {
+        "name": "Song of Priest"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90005,
     "title": "Melody of Stars",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Blessings from Starlight"
+      },
+      "support": {
+        "name": "Resounding Stars"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90013,
     "title": "The Leaping Light",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Quiet Consideration"
+      },
+      "live": {
+        "name": "Watchful Gaze"
+      },
+      "support": {
+        "name": "Wait and See"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90014,
     "title": "Promising Light",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Short Break"
+      },
+      "live": {
+        "name": "Before My Sight"
+      },
+      "support": {
+        "name": "Little Makes Mickle"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90015,
     "title": "Agile Light",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Agile Support"
+      },
+      "live": {
+        "name": "Fantastic Teamwork"
+      },
+      "support": {
+        "name": "Unexpected Attack"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90016,
     "title": "Energetic Light",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Skillful Collaboration"
+      },
+      "live": {
+        "name": "Pleasant Invitation"
+      },
+      "support": {
+        "name": "Luring Enemy"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90017,
     "title": "Entrancing Myth",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Sound Hidden in the Dark"
+      },
+      "live": {
+        "name": "Most Precious Treasure"
+      },
+      "support": {
+        "name": "Little Prank"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90018,
     "title": "Perspicacious Myth",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Lively Depiction"
+      },
+      "live": {
+        "name": "All-Out Performance"
+      },
+      "support": {
+        "name": "Voluntary Proposal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90019,
     "title": "Erudite Myth",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Eyes Seeking for the Truth"
+      },
+      "live": {
+        "name": "Protective Heart"
+      },
+      "support": {
+        "name": "Full of Expectations"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90020,
     "title": "Guileful Myth",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Glib Tongue"
+      },
+      "live": {
+        "name": "Unexpected Issues"
+      },
+      "support": {
+        "name": "Hospitable Treat"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90021,
     "title": "Sunlit Ballad",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Dazzling Sunlight"
+      },
+      "live": {
+        "name": "Overflowing Curiosity"
+      },
+      "support": {
+        "name": "Seeking Mermaid"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90022,
     "title": "Chorus of Tides",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Waves and Heartbeats"
+      },
+      "live": {
+        "name": "Who's the Cutest?"
+      },
+      "support": {
+        "name": "Encounter Mermaid"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90023,
     "title": "Vigorous Summer",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "The Swaying Sea"
+      },
+      "live": {
+        "name": "Steadfast Backing"
+      },
+      "support": {
+        "name": "Seaside Exploration"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90024,
     "title": "Peaceful Summer",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Gentle Sea Breeze"
+      },
+      "live": {
+        "name": "Elaborate Juice"
+      },
+      "support": {
+        "name": "Honed Cooking Skills"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90030,
     "title": "Pure Wishes",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Heartfelt Gifts"
+      },
+      "live": {
+        "name": "Irreplaceable Encounter"
+      },
+      "support": {
+        "name": "Hearty Gratitude"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90031,
     "title": "Sincere Wishes",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Enchanted Gifts"
+      },
+      "live": {
+        "name": "Gravity of Encounter"
+      },
+      "support": {
+        "name": "Magical Potion"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90032,
     "title": "Accompanying Wishes",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Gifts of Attentiveness"
+      },
+      "live": {
+        "name": "Stars' Encounter"
+      },
+      "support": {
+        "name": "Lively Photoshoot"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90033,
     "title": "Growing Wishes",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Gifts Conveying Luck"
+      },
+      "live": {
+        "name": "Joyful Encounter"
+      },
+      "support": {
+        "name": "Luck Booster"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90034,
     "title": "Joyful Days",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Sweet Invitation"
+      },
+      "live": {
+        "name": "Leisure Teatime"
+      },
+      "support": {
+        "name": "Sharing Desserts"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90040,
     "title": "Accompanying Shadow",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Radiant Smile"
+      },
+      "live": {
+        "name": "Creating Time"
+      },
+      "support": {
+        "name": "Prepare a Surprise"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90041,
     "title": "Glistening Ephemera",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Courage on a Roller Coaster"
+      },
+      "live": {
+        "name": "Past and Future"
+      },
+      "support": {
+        "name": "Challenging Time"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90042,
     "title": "Splendid Snapshot",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Capture Your Smile"
+      },
+      "live": {
+        "name": "Guest Behind-the-scene"
+      },
+      "support": {
+        "name": "Perfect Picture"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90043,
     "title": "Timely Perfection",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Relaxed Grin"
+      },
+      "live": {
+        "name": "Weaving Time"
+      },
+      "support": {
+        "name": "Design Suggestions"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90044,
     "title": "Surprising Satisfaction",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Contented Beam"
+      },
+      "live": {
+        "name": "Blending Time"
+      },
+      "support": {
+        "name": "Narucchan Blend"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90045,
     "title": "Brightening Sight",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Kindness in a Costume"
+      },
+      "live": {
+        "name": "Play and Work"
+      },
+      "support": {
+        "name": "Serious Time"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90046,
     "title": "Cheerful Sunshine",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Care in a Theme Park"
+      },
+      "live": {
+        "name": "Help and Advice"
+      },
+      "support": {
+        "name": "Soothing Time"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90047,
     "title": "Teatime Fairy Tales",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Warm Snow"
+      },
+      "live": {
+        "name": "Reassuring Dreams"
+      },
+      "support": {
+        "name": "Special Apple Pie"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90048,
     "title": "Reversed Fairy Tales",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "The Kind Queen"
+      },
+      "live": {
+        "name": "Confiding Thoughts"
+      },
+      "support": {
+        "name": "Pursuit of Beauty"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90049,
     "title": "Witness of Fairy Tales",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Helping Huntsman"
+      },
+      "live": {
+        "name": "Heartfelt Cheering"
+      },
+      "support": {
+        "name": "Eternal Shield"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90050,
     "title": "Listener of Fairy Tales",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Accompanying Dwarf"
+      },
+      "live": {
+        "name": "Tender Consideration"
+      },
+      "support": {
+        "name": "Shared Secret"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90051,
     "title": "Mesmerizing Fairytale",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Immersion in Happiness"
+      },
+      "live": {
+        "name": "Collect Cuties"
+      },
+      "support": {
+        "name": "Exchange Dolls"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90052,
     "title": "Alluring Fairytale",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Dreamy Sweets House"
+      },
+      "live": {
+        "name": "Dinner Invitation"
+      },
+      "support": {
+        "name": "List of Ingredients"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90053,
     "title": "Melodious Fairytale",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Sincere Gift"
+      },
+      "live": {
+        "name": "Dessert Tryout"
+      },
+      "support": {
+        "name": "Urgent Purchase"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90054,
     "title": "Colorful Fairytale",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Handmade Joy"
+      },
+      "live": {
+        "name": "Firsy Handicraft"
+      },
+      "support": {
+        "name": "Seeking for Advice"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90055,
     "title": "Innocent Heart",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Embrace Cuteness"
+      },
+      "live": {
+        "name": "Soul Soothing Softness"
+      },
+      "support": {
+        "name": "Pleasant Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90056,
     "title": "Ode to The Rose",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Fantasy Ensemble"
+      },
+      "live": {
+        "name": "Romantic Lute"
+      },
+      "support": {
+        "name": "Mysterious Invitation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90057,
     "title": "Ode to Elegance",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Moonlit Harmony"
+      },
+      "live": {
+        "name": "Poetic Violin"
+      },
+      "support": {
+        "name": "Battle for Glasses"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90058,
     "title": "Ode to Splendor",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Symphony of Art"
+      },
+      "live": {
+        "name": "Leading Baton"
+      },
+      "support": {
+        "name": "Encounter at the Corner"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90059,
     "title": "Ode to Melody",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Joyful Consonance"
+      },
+      "live": {
+        "name": "Springy Triangle"
+      },
+      "support": {
+        "name": "The Perfect Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90062,
     "title": "Ballad of Spring Tales",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Treasure Shines Forever"
+      },
+      "live": {
+        "name": "Time Difference & Excuse"
+      },
+      "support": {
+        "name": "Bashful Deer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90063,
     "title": "Bouncing Spring Moon",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Treasure of Beaming Smile"
+      },
+      "live": {
+        "name": "Shiny Path"
+      },
+      "support": {
+        "name": "Cheerful Rabbit"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90064,
     "title": "Captivating Spring Breeze",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Light-hearted Treasure Hunter"
+      },
+      "live": {
+        "name": "Horoscope"
+      },
+      "support": {
+        "name": "Alluring Fox"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90065,
     "title": "Walk with Spring Steps",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Diligent Treasure Hunter"
+      },
+      "live": {
+        "name": "Little Confusion"
+      },
+      "support": {
+        "name": "Dedicated Horse"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90066,
     "title": "Bunny Herald of Spring",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Bouncy Spring Light"
+      },
+      "live": {
+        "name": "Radiating Spring"
+      },
+      "support": {
+        "name": "New Breezes"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90070,
     "title": "Breathtaking Adventure",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Sparkling Quest"
+      },
+      "live": {
+        "name": "Brightest Star on Island"
+      },
+      "support": {
+        "name": "Keep On Challenging"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90071,
     "title": "Fascinating Adventure",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Hard-won Quest"
+      },
+      "live": {
+        "name": "Growth in Adventure"
+      },
+      "support": {
+        "name": "Constant Training"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90072,
     "title": "Fun-Filled Adventure",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Aid From Forest"
+      },
+      "live": {
+        "name": "Surprises from Obstacles"
+      },
+      "support": {
+        "name": "Free From Cage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90073,
     "title": "Aquatic Adventure",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Water's Fairy's Blessing"
+      },
+      "live": {
+        "name": "Junior's Heartfelt Support"
+      },
+      "support": {
+        "name": "Savior in Water"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90074,
     "title": "Joyous Stage",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Joyful Moment"
+      },
+      "live": {
+        "name": "Cheerings from Left Shoulder"
+      },
+      "support": {
+        "name": "New Friend On Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90075,
     "title": "Nocturne of Wings",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Odile's Variation"
+      },
+      "live": {
+        "name": "Angel in the Dark"
+      },
+      "support": {
+        "name": "Pursuit of Self-Growth"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90076,
     "title": "Nocturne of Elegance",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Manipulator's Variation"
+      },
+      "live": {
+        "name": "Silent Observation"
+      },
+      "support": {
+        "name": "A Flexible Plan"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90077,
     "title": "Nocturne of Assistance",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Co-actor's Variation"
+      },
+      "live": {
+        "name": "Close Investigation"
+      },
+      "support": {
+        "name": "Unexpected Participation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90078,
     "title": "Song of Minerva",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Rothbart's Variation"
+      },
+      "live": {
+        "name": "Across the Dusk"
+      },
+      "support": {
+        "name": "Guarding Palladion"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90079,
     "title": "Sonata of Wings",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Odette's Variation"
+      },
+      "live": {
+        "name": "Shining Rough Stone"
+      },
+      "support": {
+        "name": "Wings of Freedom"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90080,
     "title": "Sonata of Direction",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Decider's Variation"
+      },
+      "live": {
+        "name": "Intelligence Analysis"
+      },
+      "support": {
+        "name": "The Covert Plan"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90081,
     "title": "Sonata of Cooperation",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Protector's Variation"
+      },
+      "live": {
+        "name": "Rule of Thumb"
+      },
+      "support": {
+        "name": "Unexpected Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90087,
     "title": "Joyful Journey",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Alluring Melody"
+      },
+      "live": {
+        "name": "Overflowing Ingenuity"
+      },
+      "support": {
+        "name": "Unique Insights"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90088,
     "title": "Pleasant Journey",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Sweet Melody"
+      },
+      "live": {
+        "name": "Leisure Moments"
+      },
+      "support": {
+        "name": "Overwhelming Temptation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90089,
     "title": "Memorable Journey",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Aromatic Melody"
+      },
+      "live": {
+        "name": "Unreined Spirit"
+      },
+      "support": {
+        "name": "Lighthearted soul"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90090,
     "title": "Mellow Journey",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Savory Melody"
+      },
+      "live": {
+        "name": "Relaxing Tour"
+      },
+      "support": {
+        "name": "Lovely Whimsy"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90091,
     "title": "Colorful Journey",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Nostalgic Melody"
+      },
+      "live": {
+        "name": "Carefree Heart"
+      },
+      "support": {
+        "name": "Here And Now"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90096,
     "title": "Astral Echoes of Spring",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Dazzling Gleam"
+      },
+      "live": {
+        "name": "Fruitful Journey"
+      },
+      "support": {
+        "name": "Fantastic Gemstone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90097,
     "title": "Gentle Ripple of Spring",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Reflected Gleam"
+      },
+      "live": {
+        "name": "Healing Nature"
+      },
+      "support": {
+        "name": "Between Heaven and Sea"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90098,
     "title": "Vibrant Spring Blossoms",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Budding Gleam"
+      },
+      "live": {
+        "name": "Fortunate Coincidence"
+      },
+      "support": {
+        "name": "Interlaced Feelings"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90099,
     "title": "Cheerful Sky of Spring",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Unveiled Gleam"
+      },
+      "live": {
+        "name": "Stroke of Luck"
+      },
+      "support": {
+        "name": "Detoured Blessing"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90100,
     "title": "Tender Invitation of Spring",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Miraculous Blessing"
+      },
+      "live": {
+        "name": "Grand Confluence"
+      },
+      "support": {
+        "name": "Folding Spring Breeze"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90101,
     "title": "Weaving Wishes",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Envoy of Sweetness"
+      },
+      "live": {
+        "name": "Joyful Conclusion"
+      },
+      "support": {
+        "name": "Gentle Chocolatier"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90102,
     "title": "Collecting Wishes",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Envelop Sweetness"
+      },
+      "live": {
+        "name": "Intricate Unfolding"
+      },
+      "support": {
+        "name": "Innocent Chocolatier"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90103,
     "title": "Meeting Wishes",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Perceive Sweetness"
+      },
+      "live": {
+        "name": "Expected Turn"
+      },
+      "support": {
+        "name": "Romantic Chocolatier"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90104,
     "title": "Baking Wishes",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Create Sweetness"
+      },
+      "live": {
+        "name": "Fluttering Prelude"
+      },
+      "support": {
+        "name": "Ardent Chocolatier"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90105,
     "title": "Sun-Kissed Ruby",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Sunlit Garnet"
+      },
+      "live": {
+        "name": "Solid Carnelian"
+      },
+      "support": {
+        "name": "Spotlit Cinnabar"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90106,
     "title": "Glistening Ruby",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Glowing Garnet"
+      },
+      "live": {
+        "name": "Pure Carnelian"
+      },
+      "support": {
+        "name": "Cinnabar of Friendship"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90107,
     "title": "Leaping Ruby",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Beaming Garnet"
+      },
+      "live": {
+        "name": "Sparky Carnelian"
+      },
+      "support": {
+        "name": "Guided Cinnabar"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90108,
     "title": "Twilight Haze",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Mirage of Mist"
+      },
+      "live": {
+        "name": "Misty Boundary"
+      },
+      "support": {
+        "name": "Secret Elixir"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90109,
     "title": "Moonlit Lavender",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Pellucid Amethyst"
+      },
+      "live": {
+        "name": "Fluorite of Dreams"
+      },
+      "support": {
+        "name": "Cordierite: Leading Role"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90110,
     "title": "Dauntless Lavender",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Crystalline Amethyst"
+      },
+      "live": {
+        "name": "Fluorite of Determination"
+      },
+      "support": {
+        "name": "Cordierite: Supportive Friend"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90111,
     "title": "Blithe Lavender",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Resplendent Amethyst"
+      },
+      "live": {
+        "name": "Fluorite of Happiness"
+      },
+      "support": {
+        "name": "Cordierite: Cheerful Lad"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90116,
     "title": "Unreal Tear",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Unwitting Protagonist"
+      },
+      "live": {
+        "name": "Leisure Morning"
+      },
+      "support": {
+        "name": "Free-Spirited Dews"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90117,
     "title": "Unreal Riddle",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Hero Returns!"
+      },
+      "live": {
+        "name": "Comfy Teatime"
+      },
+      "support": {
+        "name": "Friend Unknown"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90118,
     "title": "Unreal Feeling",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Zealous Junior"
+      },
+      "live": {
+        "name": "Confused Evening"
+      },
+      "support": {
+        "name": "Straightforward Question"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90119,
     "title": "Unreal Memory",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Accidental Intruder"
+      },
+      "live": {
+        "name": "Chill Night"
+      },
+      "support": {
+        "name": "Thankful Breakfast"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90120,
     "title": "Light Up the Time",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Drift on a Whim"
+      },
+      "live": {
+        "name": "My Destination"
+      },
+      "support": {
+        "name": "Descend on Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90121,
     "title": "Sizzling Moonlit Trek",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Perfect Strike"
+      },
+      "live": {
+        "name": "Rare Relaxing Vacation"
+      },
+      "support": {
+        "name": "Prime Successor"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90122,
     "title": "Sizzling Teatime",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Tea & Tales"
+      },
+      "live": {
+        "name": "Vacation with Friends"
+      },
+      "support": {
+        "name": "Caring Steward"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90123,
     "title": "Sizzling Jubilation",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Wisdom Forge"
+      },
+      "live": {
+        "name": "Unhurried Vacation"
+      },
+      "support": {
+        "name": "Clever Secretary"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90124,
     "title": "Sizzling Merriment",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Impromptu Act"
+      },
+      "live": {
+        "name": "Joyful Vacation"
+      },
+      "support": {
+        "name": "Agile Bodyguard"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 97001,
     "title": "From the Abyss",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Overlord in Dreamland"
+      },
+      "live": {
+        "name": "Story Retold"
+      },
+      "support": {
+        "name": "Be a Manga Hero"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 97002,
     "title": "Galaxy Wanderer",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Star of Bethlehem"
+      },
+      "live": {
+        "name": "Endless Imagination"
+      },
+      "support": {
+        "name": "Led by Inspiration"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 97003,
     "title": "Into the New World",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Dashing Barque"
+      },
+      "live": {
+        "name": "Spin the Compass!"
+      },
+      "support": {
+        "name": "Map to the Future"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Magic Course's Transfer Student"
+      },
+      "live": {
+        "name": "Happy Forever"
+      },
+      "support": {
+        "name": "The Golden Day"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Love of Pygmalion"
+      },
+      "live": {
+        "name": "The Hand of Midas"
+      },
+      "support": {
+        "name": "Night at the Specimen Museum"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99050,
     "title": "Miracle of Meeting You",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99051,
     "title": "Miracle of Meeting You",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99052,
     "title": "Miracle of Meeting You",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Call Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99053,
     "title": "Miracle of Meeting You",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99054,
     "title": "Miracle of Meeting You",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99055,
     "title": "Miracle of Meeting You",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99056,
     "title": "Miracle of Meeting You",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99057,
     "title": "Miracle of Meeting You",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99058,
     "title": "Miracle of Meeting You",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99059,
     "title": "Miracle of Meeting You",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99060,
     "title": "Miracle of Meeting You",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99061,
     "title": "Miracle of Meeting You",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99062,
     "title": "Miracle of Meeting You",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Charm Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99063,
     "title": "Miracle of Meeting You",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99064,
     "title": "Miracle of Meeting You",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99065,
     "title": "Miracle of Meeting You",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99066,
     "title": "Miracle of Meeting You",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99067,
     "title": "Miracle of Meeting You",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99068,
     "title": "Miracle of Meeting You",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Extreme Zone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99069,
     "title": "Miracle of Meeting You",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99070,
     "title": "Miracle of Meeting You",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99071,
     "title": "Miracle of Meeting You",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99072,
     "title": "Miracle of Meeting You",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99073,
     "title": "Miracle of Meeting You",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Call Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99074,
     "title": "Miracle of Meeting You",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99075,
     "title": "Miracle of Meeting You",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99076,
     "title": "Miracle of Meeting You",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99077,
     "title": "Miracle of Meeting You",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99078,
     "title": "Miracle of Meeting You",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99079,
     "title": "Miracle of Meeting You",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Extreme Zone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99080,
     "title": "Miracle of Meeting You",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99081,
     "title": "Miracle of Meeting You",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99082,
     "title": "Miracle of Meeting You",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99083,
     "title": "Miracle of Meeting You",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99084,
     "title": "Miracle of Meeting You",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Charm Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99085,
     "title": "Miracle of Meeting You",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99086,
     "title": "Miracle of Meeting You",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99087,
     "title": "Miracle of Meeting You",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99088,
     "title": "Miracle of Meeting You",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99089,
     "title": "Miracle of Meeting You",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99090,
     "title": "Miracle of Meeting You",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99091,
     "title": "Miracle of Meeting You",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99092,
     "title": "Miracle of Meeting You",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99093,
     "title": "Miracle of Meeting You",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99094,
     "title": "Miracle of Meeting You",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99095,
     "title": "Miracle of Meeting You",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99096,
     "title": "Miracle of Meeting You",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99097,
     "title": "Miracle of Meeting You",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99098,
     "title": "Miracle of Meeting You",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99150,
     "title": "Amazing Ensemble",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99151,
     "title": "Amazing Ensemble",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99152,
     "title": "Amazing Ensemble",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Call Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99153,
     "title": "Amazing Ensemble",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99154,
     "title": "Amazing Ensemble",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99155,
     "title": "Amazing Ensemble",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99156,
     "title": "Amazing Ensemble",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99157,
     "title": "Amazing Ensemble",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99158,
     "title": "Amazing Ensemble",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99159,
     "title": "Amazing Ensemble",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99160,
     "title": "Amazing Ensemble",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99161,
     "title": "Amazing Ensemble",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99162,
     "title": "Amazing Ensemble",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Charm Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99163,
     "title": "Amazing Ensemble",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99164,
     "title": "Amazing Ensemble",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99165,
     "title": "Amazing Ensemble",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99166,
     "title": "Amazing Ensemble",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99167,
     "title": "Amazing Ensemble",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99168,
     "title": "Amazing Ensemble",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Extreme Zone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99169,
     "title": "Amazing Ensemble",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99170,
     "title": "Amazing Ensemble",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99171,
     "title": "Amazing Ensemble",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99172,
     "title": "Amazing Ensemble",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99173,
     "title": "Amazing Ensemble",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Call Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99174,
     "title": "Amazing Ensemble",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99175,
     "title": "Amazing Ensemble",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99176,
     "title": "Amazing Ensemble",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99177,
     "title": "Amazing Ensemble",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99178,
     "title": "Amazing Ensemble",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99179,
     "title": "Amazing Ensemble",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Extreme Zone"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99180,
     "title": "Amazing Ensemble",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99181,
     "title": "Amazing Ensemble",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99182,
     "title": "Amazing Ensemble",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99183,
     "title": "Amazing Ensemble",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99184,
     "title": "Amazing Ensemble",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Charm Stage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99185,
     "title": "Amazing Ensemble",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99186,
     "title": "Amazing Ensemble",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99187,
     "title": "Amazing Ensemble",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Flash Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99188,
     "title": "Amazing Ensemble",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99189,
     "title": "Amazing Ensemble",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99190,
     "title": "Amazing Ensemble",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99191,
     "title": "Amazing Ensemble",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99192,
     "title": "Amazing Ensemble",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99193,
     "title": "Amazing Ensemble",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99194,
     "title": "Amazing Ensemble",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99195,
     "title": "Amazing Ensemble",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99196,
     "title": "Amazing Ensemble",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99197,
     "title": "Amazing Ensemble",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 99198,
     "title": "Amazing Ensemble",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
   }
 ]
