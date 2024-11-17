@@ -10615,7 +10615,7 @@
         "name": "Relation with Antiques"
       },
       "live": {
-        "name": "Walk with Famliy"
+        "name": "Walk with Family"
       },
       "support": {
         "name": "Conversation with Father"
@@ -11235,7 +11235,7 @@
     "name": "Mika Kagehira",
     "skills": {
       "center": {
-        "name": "Tracer of Phamtom Thief FAKE"
+        "name": "Tracer of Phantom Thief FAKE"
       },
       "live": {
         "name": "Gallery Guide"
@@ -14037,7 +14037,7 @@
     "name": "Tetora Nagumo",
     "skills": {
       "center": {
-        "name": "Love-Engraved Gemstome"
+        "name": "Love-Engraved Gemstone"
       },
       "live": {
         "name": "Memory-Filled DVD"
@@ -14315,7 +14315,7 @@
         "name": "Pursuing Commander"
       },
       "support": {
-        "name": "The Ideal Sun"
+        "name": "The Ideal Sum"
       }
     },
     "releaseDate": "2023-09-01"
@@ -14405,7 +14405,7 @@
         "name": "Puzzled Mademoiselle"
       },
       "support": {
-        "name": "VP Newbie"
+        "name": "VR Newbie"
       }
     },
     "quote": {
@@ -14554,7 +14554,7 @@
         "name": "Enemy Turf: Defense Squad"
       },
       "live": {
-        "name": "A Friends' Growth"
+        "name": "A Friend's Growth"
       },
       "support": {
         "name": "Raising a Pet"
@@ -15365,13 +15365,13 @@
     "name": "Ibara Saegusa",
     "skills": {
       "center": {
-        "name": "Whimsical Order"
+        "name": "Solid Vision"
       },
       "live": {
-        "name": "Situation Tackled with Ease"
+        "name": "Circling Stratus"
       },
       "support": {
-        "name": "Response to Darkness"
+        "name": "Working Well"
       }
     },
     "releaseDate": "2023-11-11"
@@ -16943,7 +16943,7 @@
         "name": "Pristine Scabbard"
       },
       "support": {
-        "name": "Fist Fortune Drawn"
+        "name": "First Fortune Drawn"
       }
     },
     "quote": {
@@ -21047,6 +21047,36 @@
         "name": "Resounding Stars"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90006,
+    "title": "Luck Leads the Way",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90007,
+    "title": "Lucky Treats",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90008,
+    "title": "Lucky Magic",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90009,
+    "title": "Lucky Plushies",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90010,
+    "title": "Specialty Dishes",
+    "name": "Niki Shiina"
   },
   {
     "compliant": "TRUE",
