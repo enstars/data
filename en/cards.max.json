@@ -21157,6 +21157,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3293,
+    "title": "Friendly BLEND",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3294,
+    "title": "Solacing BLEND",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3295,
+    "title": "Fresh BLEND",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3296,
     "title": "Dedicated BLEND",
     "name": "Shu Itsuki"
@@ -21352,7 +21370,18 @@
     "compliant": "TRUE",
     "id": 90007,
     "title": "Lucky Treats",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Wonderful Vision"
+      },
+      "live": {
+        "name": "Temptation of Sweets"
+      },
+      "support": {
+        "name": "Iron Determination"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -21364,7 +21393,18 @@
     "compliant": "TRUE",
     "id": 90009,
     "title": "Lucky Plushies",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Surprise Present"
+      },
+      "live": {
+        "name": "Heartfelt Doll"
+      },
+      "support": {
+        "name": "Cute Elements"
+      }
+    }
   },
   {
     "compliant": "TRUE",
