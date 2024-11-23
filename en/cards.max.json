@@ -21410,7 +21410,18 @@
     "compliant": "TRUE",
     "id": 90010,
     "title": "Specialty Dishes",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Show Time"
+      },
+      "live": {
+        "name": "Scented Delicacy"
+      },
+      "support": {
+        "name": "Delicious Support"
+      }
+    }
   },
   {
     "compliant": "TRUE",
