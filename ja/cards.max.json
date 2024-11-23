@@ -210009,6 +210009,130 @@
   },
   {
     "compliant": "TRUE",
+    "id": 90125,
+    "rarity": 5,
+    "character_id": 10,
+    "type": 3,
+    "title": "Marvelous Future",
+    "name": "朱桜司",
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "寻找的目的",
+        "effect_value": [
+          "50"
+        ],
+        "type_id": 12,
+        "description": "辉煌（绿）的综合数值提升{0}％"
+      },
+      "live": {
+        "name": "一往无前的可能性"
+      },
+      "support": {
+        "name": "与前辈和解",
+        "type_id": 28,
+        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
+      }
+    },
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90126,
+    "rarity": 4,
+    "character_id": 13,
+    "type": 2,
+    "title": "Bright Future",
+    "name": "遊木真",
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "寻找的回忆",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 7,
+        "description": "璀璨（蓝）的表演能力提升{0}％"
+      },
+      "live": {
+        "name": "剖决如流的可能性"
+      },
+      "support": {
+        "name": "意外卷入",
+        "type_id": 14,
+        "description": "黄色宝石（中）的掉落率变为{0}倍"
+      }
+    },
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90127,
+    "rarity": 3,
+    "character_id": 6,
+    "type": 4,
+    "title": "Cute Future",
+    "name": "姫宮桃李",
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "寻找的计划",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 14,
+        "description": "闪耀（黄）的舞蹈能力提升{0}％"
+      },
+      "live": {
+        "name": "带来捷径的可能性"
+      },
+      "support": {
+        "name": "整蛊对手",
+        "type_id": 5,
+        "description": "红色宝石（小）的掉落率变为{0}倍"
+      }
+    },
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90128,
+    "rarity": 3,
+    "character_id": 16,
+    "type": 1,
+    "title": "Rock Future",
+    "name": "大神晃牙",
+    "obtain": {
+      "type": "scout"
+    },
+    "skills": {
+      "center": {
+        "name": "寻找的助力",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "绚烂（红）的声乐能力提升{0}％"
+      },
+      "live": {
+        "name": "共同游玩的可能性"
+      },
+      "support": {
+        "name": "提供帮助",
+        "type_id": 9,
+        "description": "蓝色宝石（小）的掉落率变为{0}倍"
+      }
+    },
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 97001,
     "rarity": 5,
     "character_id": 42,
