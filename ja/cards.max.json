@@ -206700,18 +206700,13 @@
     },
     "skills": {
       "center": {
-        "name": "디저트의 정의",
         "effect_value": [
           "80"
         ],
         "type_id": 3,
         "description": "绚烂（红）的表演能力提升{0}％"
       },
-      "live": {
-        "name": "불타오르는 용기"
-      },
       "support": {
-        "name": "열정을 그대에게",
         "type_id": 14,
         "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
@@ -206742,18 +206737,13 @@
     },
     "skills": {
       "center": {
-        "name": "달콤한 음표",
         "effect_value": [
           "80"
         ],
         "type_id": 13,
         "description": "闪耀（黄）的声乐能力提升{0}％"
       },
-      "live": {
-        "name": "내 마음대로 지시"
-      },
       "support": {
-        "name": "모두 힘을 합쳐",
         "type_id": 1,
         "description": "少量降低演唱会热度的下降量"
       }
@@ -206784,18 +206774,13 @@
     },
     "skills": {
       "center": {
-        "name": "향기로운 연주",
         "effect_value": [
           "80"
         ],
         "type_id": 10,
         "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
-      "live": {
-        "name": "전력의 리드"
-      },
       "support": {
-        "name": "실력 발휘",
         "type_id": 1,
         "description": "少量降低演唱会热度的下降量"
       }
@@ -210024,118 +210009,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": 90125,
-    "rarity": 5,
-    "character_id": 10,
-    "type": 3,
-    "title": "Marvelous Future",
-    "name": "朱桜司",
-    "skills": {
-      "center": {
-        "name": "寻找的目的",
-        "effect_value": [
-          "50"
-        ],
-        "type_id": 12,
-        "description": "辉煌（绿）的综合数值提升{0}％"
-      },
-      "live": {
-        "name": "一往无前的可能性"
-      },
-      "support": {
-        "name": "与前辈和解",
-        "type_id": 28,
-        "description": "全部宝石（所有颜色和大小）的掉落率变为{0}倍"
-      }
-    },
-    "useFrameless": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 90126,
-    "rarity": 4,
-    "character_id": 13,
-    "type": 2,
-    "title": "Bright Future",
-    "name": "遊木真",
-    "skills": {
-      "center": {
-        "name": "寻找的回忆",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 7,
-        "description": "璀璨（蓝）的表演能力提升{0}％"
-      },
-      "live": {
-        "name": "剖决如流的可能性"
-      },
-      "support": {
-        "name": "意外卷入",
-        "type_id": 14,
-        "description": "黄色宝石（中）的掉落率变为{0}倍"
-      }
-    },
-    "useFrameless": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 90127,
-    "rarity": 3,
-    "character_id": 6,
-    "type": 4,
-    "title": "Cute Future",
-    "name": "姫宮桃李",
-    "skills": {
-      "center": {
-        "name": "寻找的计划",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 14,
-        "description": "闪耀（黄）的舞蹈能力提升{0}％"
-      },
-      "live": {
-        "name": "带来捷径的可能性"
-      },
-      "support": {
-        "name": "整蛊对手",
-        "type_id": 5,
-        "description": "红色宝石（小）的掉落率变为{0}倍"
-      }
-    },
-    "useFrameless": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": 90128,
-    "rarity": 3,
-    "character_id": 16,
-    "type": 1,
-    "title": "Rock Future",
-    "name": "大神晃牙",
-    "skills": {
-      "center": {
-        "name": "寻找的助力",
-        "effect_value": [
-          "80"
-        ],
-        "type_id": 1,
-        "description": "绚烂（红）的声乐能力提升{0}％"
-      },
-      "live": {
-        "name": "共同游玩的可能性"
-      },
-      "support": {
-        "name": "提供帮助",
-        "type_id": 9,
-        "description": "蓝色宝石（小）的掉落率变为{0}倍"
-      }
-    },
-    "useFrameless": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": 97001,
     "rarity": 5,
     "character_id": 42,
@@ -211891,7 +211764,7 @@
     },
     "skills": {
       "center": {
-        "name": "表现力璀璨",
+        "name": "表现力闪耀",
         "effect_value": [
           "50"
         ],
