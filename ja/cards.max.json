@@ -203439,7 +203439,7 @@
     "rarity": 3,
     "character_id": 11,
     "type": 3,
-    "substat_type": 1,
+    "substat_type": 2,
     "title": "群星的旋律",
     "name": "明星スバル",
     "releaseDate": {
@@ -204521,6 +204521,7 @@
     "rarity": 4,
     "character_id": 40,
     "type": 1,
+    "substat_type": 0,
     "title": "神机妙术",
     "name": "三毛縞斑",
     "releaseDate": {
@@ -204556,6 +204557,7 @@
     "rarity": 3,
     "character_id": 22,
     "type": 2,
+    "substat_type": 1,
     "title": "妙趣横生",
     "name": "天祥院英智",
     "releaseDate": {
@@ -204591,6 +204593,7 @@
     "rarity": 3,
     "character_id": 21,
     "type": 4,
+    "substat_type": 2,
     "title": "妙言要道",
     "name": "蓮巳敬人",
     "releaseDate": {
@@ -204626,6 +204629,7 @@
     "rarity": 4,
     "character_id": 11,
     "type": 2,
+    "substat_type": 1,
     "title": "璀璨的前方",
     "name": "明星スバル",
     "releaseDate": {
@@ -204947,6 +204951,7 @@
     "rarity": 5,
     "character_id": 22,
     "type": 2,
+    "substat_type": 2,
     "title": "繁华春景",
     "name": "天祥院英智",
     "releaseDate": {
@@ -205009,6 +205014,7 @@
     "rarity": 4,
     "character_id": 11,
     "type": 4,
+    "substat_type": 1,
     "title": "晴朗春景",
     "name": "明星スバル",
     "releaseDate": {
@@ -205087,6 +205093,7 @@
     "rarity": 3,
     "character_id": 68,
     "type": 3,
+    "substat_type": 1,
     "title": "和暖春景",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -206340,7 +206347,7 @@
     "rarity": 3,
     "character_id": 22,
     "type": 1,
-    "substat_type": 0,
+    "substat_type": 1,
     "title": "美食的交响曲",
     "name": "天祥院英智",
     "releaseDate": {
@@ -206407,7 +206414,7 @@
     "rarity": 3,
     "character_id": 29,
     "type": 1,
-    "substat_type": 0,
+    "substat_type": 1,
     "title": "美味的合奏曲",
     "name": "朔間零",
     "releaseDate": {
@@ -206759,6 +206766,7 @@
     "rarity": 4,
     "character_id": 25,
     "type": 1,
+    "substat_type": 2,
     "title": "영웅과 용기",
     "name": "守沢千秋",
     "releaseDate": {
@@ -206769,13 +206777,18 @@
     },
     "skills": {
       "center": {
+        "name": "디저트의 정의",
         "effect_value": [
           "80"
         ],
         "type_id": 3,
         "description": "绚烂（红）的表演能力提升{0}％"
       },
+      "live": {
+        "name": "불타오르는 용기"
+      },
       "support": {
+        "name": "열정을 그대에게",
         "type_id": 14,
         "description": "黄色宝石（中）的掉落率变为{0}倍"
       }
@@ -206806,13 +206819,18 @@
     },
     "skills": {
       "center": {
+        "name": "달콤한 음표",
         "effect_value": [
           "80"
         ],
         "type_id": 13,
         "description": "闪耀（黄）的声乐能力提升{0}％"
       },
+      "live": {
+        "name": "내 마음대로 지시"
+      },
       "support": {
+        "name": "모두 힘을 합쳐",
         "type_id": 1,
         "description": "少量降低演唱会热度的下降量"
       }
@@ -206843,13 +206861,18 @@
     },
     "skills": {
       "center": {
+        "name": "향기로운 연주",
         "effect_value": [
           "80"
         ],
         "type_id": 10,
         "description": "辉煌（绿）的舞蹈能力提升{0}％"
       },
+      "live": {
+        "name": "전력의 리드"
+      },
       "support": {
+        "name": "실력 발휘",
         "type_id": 1,
         "description": "少量降低演唱会热度的下降量"
       }
@@ -207659,6 +207682,7 @@
     "rarity": 4,
     "character_id": 12,
     "type": 1,
+    "substat_type": 1,
     "title": "逻辑推理",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -207694,6 +207718,7 @@
     "rarity": 3,
     "character_id": 72,
     "type": 3,
+    "substat_type": 2,
     "title": "线索推理",
     "name": "HiMERU",
     "releaseDate": {
@@ -210120,6 +210145,7 @@
     "rarity": 4,
     "character_id": 13,
     "type": 2,
+    "substat_type": 2,
     "title": "Bright Future",
     "name": "遊木真",
     "releaseDate": {
@@ -210154,6 +210180,7 @@
     "rarity": 3,
     "character_id": 6,
     "type": 4,
+    "substat_type": 0,
     "title": "Cute Future",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -210188,6 +210215,7 @@
     "rarity": 3,
     "character_id": 16,
     "type": 1,
+    "substat_type": 1,
     "title": "Rock Future",
     "name": "大神晃牙",
     "releaseDate": {
@@ -213088,7 +213116,7 @@
     "rarity": 2,
     "character_id": 4,
     "type": 3,
-    "substat_type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "葵ひなた",
     "releaseDate": {
@@ -213377,7 +213405,7 @@
     "rarity": 2,
     "character_id": 10,
     "type": 3,
-    "substat_type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "朱桜司",
     "releaseDate": {
@@ -213509,7 +213537,7 @@
     "rarity": 2,
     "character_id": 12,
     "type": 3,
-    "substat_type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -213553,7 +213581,7 @@
     "rarity": 2,
     "character_id": 13,
     "type": 3,
-    "substat_type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "遊木真",
     "releaseDate": {
@@ -213915,7 +213943,7 @@
     "rarity": 2,
     "character_id": 34,
     "type": 3,
-    "substat_type": 2,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "影片みか",
     "releaseDate": {
@@ -214287,7 +214315,7 @@
     "rarity": 2,
     "character_id": 27,
     "type": 3,
-    "substat_type": 1,
+    "substat_type": 0,
     "title": "予你惊喜的协奏曲",
     "name": "日々樹渉",
     "releaseDate": {
@@ -215212,6 +215240,7 @@
     "rarity": 2,
     "character_id": 1,
     "type": 2,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "南雲鉄虎",
     "releaseDate": {
@@ -215248,6 +215277,7 @@
     "rarity": 2,
     "character_id": 2,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "紫之創",
     "releaseDate": {
@@ -215284,6 +215314,7 @@
     "rarity": 2,
     "character_id": 3,
     "type": 3,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "真白友也",
     "releaseDate": {
@@ -215320,6 +215351,7 @@
     "rarity": 2,
     "character_id": 4,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "葵ひなた",
     "releaseDate": {
@@ -215356,6 +215388,7 @@
     "rarity": 2,
     "character_id": 5,
     "type": 1,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "高峯翠",
     "releaseDate": {
@@ -215392,6 +215425,7 @@
     "rarity": 2,
     "character_id": 6,
     "type": 1,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -215428,6 +215462,7 @@
     "rarity": 2,
     "character_id": 7,
     "type": 3,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "仙石忍",
     "releaseDate": {
@@ -215464,6 +215499,7 @@
     "rarity": 2,
     "character_id": 8,
     "type": 4,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "葵ゆうた",
     "releaseDate": {
@@ -215500,6 +215536,7 @@
     "rarity": 2,
     "character_id": 9,
     "type": 4,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "天満光",
     "releaseDate": {
@@ -215536,6 +215573,7 @@
     "rarity": 2,
     "character_id": 10,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "朱桜司",
     "releaseDate": {
@@ -215572,6 +215610,7 @@
     "rarity": 2,
     "character_id": 37,
     "type": 4,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "春川宙",
     "releaseDate": {
@@ -215608,6 +215647,7 @@
     "rarity": 2,
     "character_id": 11,
     "type": 3,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "明星スバル",
     "releaseDate": {
@@ -215644,6 +215684,7 @@
     "rarity": 2,
     "character_id": 12,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -215680,6 +215721,7 @@
     "rarity": 2,
     "character_id": 13,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "遊木真",
     "releaseDate": {
@@ -215716,6 +215758,7 @@
     "rarity": 2,
     "character_id": 14,
     "type": 4,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "神崎颯馬",
     "releaseDate": {
@@ -215752,6 +215795,7 @@
     "rarity": 2,
     "character_id": 15,
     "type": 3,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "乙狩アドニス",
     "releaseDate": {
@@ -215788,6 +215832,7 @@
     "rarity": 2,
     "character_id": 16,
     "type": 4,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "大神晃牙",
     "releaseDate": {
@@ -215824,6 +215869,7 @@
     "rarity": 2,
     "character_id": 17,
     "type": 4,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "朔間凛月",
     "releaseDate": {
@@ -215860,6 +215906,7 @@
     "rarity": 2,
     "character_id": 18,
     "type": 3,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "衣更真緒",
     "releaseDate": {
@@ -215896,6 +215943,7 @@
     "rarity": 2,
     "character_id": 19,
     "type": 2,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "伏見弓弦",
     "releaseDate": {
@@ -215932,6 +215980,7 @@
     "rarity": 2,
     "character_id": 20,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "鳴上嵐",
     "releaseDate": {
@@ -215968,6 +216017,7 @@
     "rarity": 2,
     "character_id": 34,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "影片みか",
     "releaseDate": {
@@ -216004,6 +216054,7 @@
     "rarity": 2,
     "character_id": 38,
     "type": 4,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "逆先夏目",
     "releaseDate": {
@@ -216040,6 +216091,7 @@
     "rarity": 2,
     "character_id": 21,
     "type": 2,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "蓮巳敬人",
     "releaseDate": {
@@ -216076,6 +216128,7 @@
     "rarity": 2,
     "character_id": 22,
     "type": 1,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "天祥院英智",
     "releaseDate": {
@@ -216112,6 +216165,7 @@
     "rarity": 2,
     "character_id": 23,
     "type": 4,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "羽風薫",
     "releaseDate": {
@@ -216148,6 +216202,7 @@
     "rarity": 2,
     "character_id": 24,
     "type": 1,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "瀬名泉",
     "releaseDate": {
@@ -216184,6 +216239,7 @@
     "rarity": 2,
     "character_id": 25,
     "type": 2,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "守沢千秋",
     "releaseDate": {
@@ -216220,6 +216276,7 @@
     "rarity": 2,
     "character_id": 26,
     "type": 2,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "鬼龍紅郎",
     "releaseDate": {
@@ -216256,6 +216313,7 @@
     "rarity": 2,
     "character_id": 27,
     "type": 2,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "日々樹渉",
     "releaseDate": {
@@ -216292,6 +216350,7 @@
     "rarity": 2,
     "character_id": 28,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "深海奏汰",
     "releaseDate": {
@@ -216328,6 +216387,7 @@
     "rarity": 2,
     "character_id": 29,
     "type": 1,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "朔間零",
     "releaseDate": {
@@ -216364,6 +216424,7 @@
     "rarity": 2,
     "character_id": 30,
     "type": 4,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "仁兎なずな",
     "releaseDate": {
@@ -216400,6 +216461,7 @@
     "rarity": 2,
     "character_id": 33,
     "type": 1,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "月永レオ",
     "releaseDate": {
@@ -216436,6 +216498,7 @@
     "rarity": 2,
     "character_id": 35,
     "type": 1,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "斎宮宗",
     "releaseDate": {
@@ -216472,6 +216535,7 @@
     "rarity": 2,
     "character_id": 39,
     "type": 2,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "青葉つむぎ",
     "releaseDate": {
@@ -216508,6 +216572,7 @@
     "rarity": 2,
     "character_id": 40,
     "type": 4,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "三毛縞斑",
     "releaseDate": {
@@ -216544,6 +216609,7 @@
     "rarity": 2,
     "character_id": 50,
     "type": 2,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "乱凪砂",
     "releaseDate": {
@@ -216580,6 +216646,7 @@
     "rarity": 2,
     "character_id": 41,
     "type": 4,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "巴日和",
     "releaseDate": {
@@ -216616,6 +216683,7 @@
     "rarity": 2,
     "character_id": 51,
     "type": 4,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "七種茨",
     "releaseDate": {
@@ -216652,6 +216720,7 @@
     "rarity": 2,
     "character_id": 42,
     "type": 1,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "漣ジュン",
     "releaseDate": {
@@ -216688,6 +216757,7 @@
     "rarity": 2,
     "character_id": 67,
     "type": 2,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "天城一彩",
     "releaseDate": {
@@ -216724,6 +216794,7 @@
     "rarity": 2,
     "character_id": 68,
     "type": 1,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -216760,6 +216831,7 @@
     "rarity": 2,
     "character_id": 69,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "礼瀬マヨイ",
     "releaseDate": {
@@ -216796,6 +216868,7 @@
     "rarity": 2,
     "character_id": 70,
     "type": 3,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "風早巽",
     "releaseDate": {
@@ -216832,6 +216905,7 @@
     "rarity": 2,
     "character_id": 71,
     "type": 1,
+    "substat_type": 0,
     "title": "为你停留的绽放一刻",
     "name": "天城燐音",
     "releaseDate": {
@@ -216868,6 +216942,7 @@
     "rarity": 2,
     "character_id": 73,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "桜河こはく",
     "releaseDate": {
@@ -216904,6 +216979,7 @@
     "rarity": 2,
     "character_id": 72,
     "type": 3,
+    "substat_type": 2,
     "title": "为你停留的绽放一刻",
     "name": "HiMERU",
     "releaseDate": {
@@ -216940,6 +217016,7 @@
     "rarity": 2,
     "character_id": 74,
     "type": 1,
+    "substat_type": 1,
     "title": "为你停留的绽放一刻",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -216976,6 +217053,7 @@
     "rarity": 2,
     "character_id": 1,
     "type": 2,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "南雲鉄虎",
     "releaseDate": {
@@ -217010,6 +217088,7 @@
     "rarity": 2,
     "character_id": 2,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "紫之創",
     "releaseDate": {
@@ -217044,6 +217123,7 @@
     "rarity": 2,
     "character_id": 3,
     "type": 3,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "真白友也",
     "releaseDate": {
@@ -217078,6 +217158,7 @@
     "rarity": 2,
     "character_id": 4,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "葵ひなた",
     "releaseDate": {
@@ -217112,6 +217193,7 @@
     "rarity": 2,
     "character_id": 5,
     "type": 1,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "高峯翠",
     "releaseDate": {
@@ -217146,6 +217228,7 @@
     "rarity": 2,
     "character_id": 6,
     "type": 1,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "姫宮桃李",
     "releaseDate": {
@@ -217180,6 +217263,7 @@
     "rarity": 2,
     "character_id": 7,
     "type": 3,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "仙石忍",
     "releaseDate": {
@@ -217214,6 +217298,7 @@
     "rarity": 2,
     "character_id": 8,
     "type": 4,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "葵ゆうた",
     "releaseDate": {
@@ -217248,6 +217333,7 @@
     "rarity": 2,
     "character_id": 9,
     "type": 4,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "天満光",
     "releaseDate": {
@@ -217282,6 +217368,7 @@
     "rarity": 2,
     "character_id": 10,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "朱桜司",
     "releaseDate": {
@@ -217316,6 +217403,7 @@
     "rarity": 2,
     "character_id": 37,
     "type": 4,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "春川宙",
     "releaseDate": {
@@ -217350,6 +217438,7 @@
     "rarity": 2,
     "character_id": 11,
     "type": 3,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "明星スバル",
     "releaseDate": {
@@ -217384,6 +217473,7 @@
     "rarity": 2,
     "character_id": 12,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "氷鷹北斗",
     "releaseDate": {
@@ -217418,6 +217508,7 @@
     "rarity": 2,
     "character_id": 13,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "遊木真",
     "releaseDate": {
@@ -217452,6 +217543,7 @@
     "rarity": 2,
     "character_id": 14,
     "type": 4,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "神崎颯馬",
     "releaseDate": {
@@ -217486,6 +217578,7 @@
     "rarity": 2,
     "character_id": 15,
     "type": 3,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "乙狩アドニス",
     "releaseDate": {
@@ -217520,6 +217613,7 @@
     "rarity": 2,
     "character_id": 16,
     "type": 4,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "大神晃牙",
     "releaseDate": {
@@ -217554,6 +217648,7 @@
     "rarity": 2,
     "character_id": 17,
     "type": 4,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "朔間凛月",
     "releaseDate": {
@@ -217588,6 +217683,7 @@
     "rarity": 2,
     "character_id": 18,
     "type": 3,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "衣更真緒",
     "releaseDate": {
@@ -217622,6 +217718,7 @@
     "rarity": 2,
     "character_id": 19,
     "type": 2,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "伏見弓弦",
     "releaseDate": {
@@ -217656,6 +217753,7 @@
     "rarity": 2,
     "character_id": 20,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "鳴上嵐",
     "releaseDate": {
@@ -217690,6 +217788,7 @@
     "rarity": 2,
     "character_id": 34,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "影片みか",
     "releaseDate": {
@@ -217724,6 +217823,7 @@
     "rarity": 2,
     "character_id": 38,
     "type": 4,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "逆先夏目",
     "releaseDate": {
@@ -217758,6 +217858,7 @@
     "rarity": 2,
     "character_id": 21,
     "type": 2,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "蓮巳敬人",
     "releaseDate": {
@@ -217792,6 +217893,7 @@
     "rarity": 2,
     "character_id": 22,
     "type": 1,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "天祥院英智",
     "releaseDate": {
@@ -217826,6 +217928,7 @@
     "rarity": 2,
     "character_id": 23,
     "type": 4,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "羽風薫",
     "releaseDate": {
@@ -217860,6 +217963,7 @@
     "rarity": 2,
     "character_id": 24,
     "type": 1,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "瀬名泉",
     "releaseDate": {
@@ -217894,6 +217998,7 @@
     "rarity": 2,
     "character_id": 25,
     "type": 2,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "守沢千秋",
     "releaseDate": {
@@ -217928,6 +218033,7 @@
     "rarity": 2,
     "character_id": 26,
     "type": 2,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "鬼龍紅郎",
     "releaseDate": {
@@ -217962,6 +218068,7 @@
     "rarity": 2,
     "character_id": 27,
     "type": 2,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "日々樹渉",
     "releaseDate": {
@@ -217996,6 +218103,7 @@
     "rarity": 2,
     "character_id": 28,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "深海奏汰",
     "releaseDate": {
@@ -218030,6 +218138,7 @@
     "rarity": 2,
     "character_id": 29,
     "type": 1,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "朔間零",
     "releaseDate": {
@@ -218064,6 +218173,7 @@
     "rarity": 2,
     "character_id": 30,
     "type": 4,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "仁兎なずな",
     "releaseDate": {
@@ -218098,6 +218208,7 @@
     "rarity": 2,
     "character_id": 33,
     "type": 1,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "月永レオ",
     "releaseDate": {
@@ -218132,6 +218243,7 @@
     "rarity": 2,
     "character_id": 35,
     "type": 1,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "斎宮宗",
     "releaseDate": {
@@ -218166,6 +218278,7 @@
     "rarity": 2,
     "character_id": 39,
     "type": 2,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "青葉つむぎ",
     "releaseDate": {
@@ -218200,6 +218313,7 @@
     "rarity": 2,
     "character_id": 40,
     "type": 4,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "三毛縞斑",
     "releaseDate": {
@@ -218234,6 +218348,7 @@
     "rarity": 2,
     "character_id": 50,
     "type": 2,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "乱凪砂",
     "releaseDate": {
@@ -218268,6 +218383,7 @@
     "rarity": 2,
     "character_id": 41,
     "type": 4,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "巴日和",
     "releaseDate": {
@@ -218302,6 +218418,7 @@
     "rarity": 2,
     "character_id": 51,
     "type": 4,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "七種茨",
     "releaseDate": {
@@ -218336,6 +218453,7 @@
     "rarity": 2,
     "character_id": 42,
     "type": 1,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "漣ジュン",
     "releaseDate": {
@@ -218370,6 +218488,7 @@
     "rarity": 2,
     "character_id": 67,
     "type": 2,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "天城一彩",
     "releaseDate": {
@@ -218404,6 +218523,7 @@
     "rarity": 2,
     "character_id": 68,
     "type": 1,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "白鳥藍良",
     "releaseDate": {
@@ -218438,6 +218558,7 @@
     "rarity": 2,
     "character_id": 69,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "礼瀬マヨイ",
     "releaseDate": {
@@ -218472,6 +218593,7 @@
     "rarity": 2,
     "character_id": 70,
     "type": 3,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "風早巽",
     "releaseDate": {
@@ -218506,6 +218628,7 @@
     "rarity": 2,
     "character_id": 71,
     "type": 1,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "天城燐音",
     "releaseDate": {
@@ -218540,6 +218663,7 @@
     "rarity": 2,
     "character_id": 73,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "桜河こはく",
     "releaseDate": {
@@ -218574,6 +218698,7 @@
     "rarity": 2,
     "character_id": 72,
     "type": 3,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "HiMERU",
     "releaseDate": {
@@ -218608,6 +218733,7 @@
     "rarity": 2,
     "character_id": 74,
     "type": 1,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "椎名ニキ",
     "releaseDate": {
@@ -218642,6 +218768,7 @@
     "rarity": 2,
     "character_id": 81,
     "type": 3,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "冴霧笑主",
     "releaseDate": {
@@ -218660,7 +218787,10 @@
         "description": "辉煌（绿）的声乐能力提升{0}％"
       },
       "live": {
-        "name": "得分提升"
+        "name": "得分提升",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間5％スコアアップ"
       },
       "support": {
         "name": "闪烁声援",
@@ -218676,6 +218806,7 @@
     "rarity": 2,
     "character_id": 82,
     "type": 1,
+    "substat_type": 2,
     "title": "Infinity ∞ I",
     "name": "滝維吹",
     "releaseDate": {
@@ -218694,7 +218825,10 @@
         "description": "绚烂（红）的表演能力提升{0}％"
       },
       "live": {
-        "name": "得分提升"
+        "name": "得分提升",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
       },
       "support": {
         "name": "闪亮声援",
@@ -218710,6 +218844,7 @@
     "rarity": 2,
     "character_id": 83,
     "type": 2,
+    "substat_type": 0,
     "title": "Infinity ∞ I",
     "name": "名都神無",
     "releaseDate": {
@@ -218728,7 +218863,10 @@
         "description": "璀璨（蓝）的舞蹈能力提升{0}％"
       },
       "live": {
-        "name": "得分提升"
+        "name": "得分提升",
+        "type_id": 1,
+        "duration": 5,
+        "description": "5秒間10％スコアアップ"
       },
       "support": {
         "name": "闪烁声援",
@@ -218744,6 +218882,7 @@
     "rarity": 2,
     "character_id": 84,
     "type": 4,
+    "substat_type": 1,
     "title": "Infinity ∞ I",
     "name": "花群冬芽",
     "releaseDate": {

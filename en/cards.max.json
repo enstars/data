@@ -12144,7 +12144,7 @@
         "name": "Calm SOUL"
       },
       "live": {
-        "name": "Dominating Soul"
+        "name": "Dominating soul"
       },
       "support": {
         "name": "Magic Living in Song"
@@ -12920,7 +12920,7 @@
         "name": "Apprehensive Planet"
       },
       "live": {
-        "name": "Undesirable Brothers"
+        "name": "Undesirable Bothers"
       },
       "support": {
         "name": "Order and Reality"
@@ -21141,49 +21141,137 @@
     "compliant": "TRUE",
     "id": 3290,
     "title": "New Experience and Discovery",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Analysis and Strategies"
+      },
+      "live": {
+        "name": "Unerring Ability"
+      },
+      "support": {
+        "name": "Gifts for Friends"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3291,
     "title": "Substitute Caregiver",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Personal Style Support"
+      },
+      "live": {
+        "name": "Energetic Morning"
+      },
+      "support": {
+        "name": "Lunchbox with Love"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3292,
     "title": "Learning through Play",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Reaction Training"
+      },
+      "live": {
+        "name": "Training for the Job"
+      },
+      "support": {
+        "name": "Dreaded Attractions"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3293,
     "title": "Friendly BLEND",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Revitalizing Aroma"
+      },
+      "live": {
+        "name": "A Cup for Connections"
+      },
+      "support": {
+        "name": "Beloved Bread"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3294,
     "title": "Solacing BLEND",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Special Aroma"
+      },
+      "live": {
+        "name": "A Cup for Support"
+      },
+      "support": {
+        "name": "Hole in the Wall"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3295,
     "title": "Fresh BLEND",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Accenting Aroma"
+      },
+      "live": {
+        "name": "A Cup for Memories"
+      },
+      "support": {
+        "name": "Sweets Creation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3296,
     "title": "Dedicated BLEND",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Aroma of Inspiration"
+      },
+      "live": {
+        "name": "An Irreplaceable Cup"
+      },
+      "support": {
+        "name": "A Place for Inner Peace"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3297,
     "title": "Casual BLEND",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Aroma of Openness"
+      },
+      "live": {
+        "name": "A Lingering Cup"
+      },
+      "support": {
+        "name": "A Calming Place"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -21364,7 +21452,18 @@
     "compliant": "TRUE",
     "id": 90006,
     "title": "Luck Leads the Way",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Hustle and Bustle"
+      },
+      "live": {
+        "name": "Guide of Fortuna"
+      },
+      "support": {
+        "name": "Series of Coincidences"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -21387,7 +21486,18 @@
     "compliant": "TRUE",
     "id": 90008,
     "title": "Lucky Magic",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Mysterious Light"
+      },
+      "live": {
+        "name": "Happiness Beyond Magic"
+      },
+      "support": {
+        "name": "Power of Magic"
+      }
+    }
   },
   {
     "compliant": "TRUE",
