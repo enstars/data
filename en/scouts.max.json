@@ -348,5 +348,95 @@
     "name": "Winks of Fortune",
     "story_name": "Jubilation",
     "story_author": "Mitsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000010,
+    "name": "Leap☆Into The Future"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000011,
+    "name": "Mysterious Myths"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000012,
+    "name": "Song of Mermaid"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000015,
+    "name": "Timeless Promises"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000023,
+    "name": "Shards of Time: Black"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000024,
+    "name": "Shards of Time: White"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000028,
+    "name": "Dreamscape Fairytales"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000030,
+    "name": "Cherished Cutie"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000031,
+    "name": "Amazing Voyage"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000036,
+    "name": "Whisper of Spring"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000043,
+    "name": "Unbelievable Adventure"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000044,
+    "name": "Secret Swan: Part A"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000045,
+    "name": "Secret Swan: Part B"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000055,
+    "name": "PULSING SPRING"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000058,
+    "name": "Jewel of Jekyll"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000059,
+    "name": "Hide-and-seek of Hyde"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000060,
+    "name": "Unfading Memories"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000063,
+    "name": "Alluring Aspiration"
   }
 ]
