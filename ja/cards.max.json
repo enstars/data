@@ -203259,6 +203259,176 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4220,
+    "rarity": 5,
+    "character_id": 6,
+    "type": 4,
+    "substat_type": 2,
+    "title": "体験エゴイスト",
+    "name": "姫宮桃李",
+    "releaseDate": {
+      "jp": "2024-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 531
+    },
+    "stats": {
+      "ir": {
+        "da": 25008,
+        "vo": 22585,
+        "pf": 46467
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "子供の流行",
+        "effect_value": [
+          "120"
+        ],
+        "type_id": 15,
+        "description": "FlashタイプのPf 120％up"
+      },
+      "live": {
+        "name": "自分の価値",
+        "type_id": 1,
+        "duration": 12,
+        "description": "12秒間16％スコアアップ"
+      },
+      "support": {
+        "name": "おすすめコーデ",
+        "type_id": 15,
+        "description": "ステータスピース（黄大）のドロップ率を1.7倍にする"
+      }
+    },
+    "spp": {
+      "name": "Never-ending Stage!!!!"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "エゴイスト衣装",
+          "エゴイスト衣装 (SCR)"
+        ],
+        "3d": [
+          "エゴイスト衣装",
+          "エゴイスト衣装 (SCR)"
+        ]
+      }
+    },
+    "associated_story": "エゴイスト",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4221,
+    "rarity": 4,
+    "character_id": 68,
+    "type": 1,
+    "substat_type": 1,
+    "title": "追従エゴイスト",
+    "name": "白鳥藍良",
+    "releaseDate": {
+      "jp": "2024-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 531
+    },
+    "stats": {
+      "ir": {
+        "da": 12945,
+        "vo": 29067,
+        "pf": 15356
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "子供らしい遊び",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 1,
+        "description": "SparkleタイプのVo 80％up"
+      },
+      "live": {
+        "name": "自分の評価",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間26％スコアアップ"
+      },
+      "support": {
+        "name": "最新トレンド",
+        "type_id": 10,
+        "description": "ステータスピース（青中）のドロップ率を1.5倍にする"
+      }
+    },
+    "spp": {
+      "name": "Hysteric Humanoid"
+    },
+    "items": {
+      "outfit": {
+        "l2d": [
+          "制服（冬、二年生）",
+          "エゴイスト衣装"
+        ]
+      }
+    },
+    "associated_story": "エゴイスト",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4222,
+    "rarity": 3,
+    "character_id": 33,
+    "type": 2,
+    "substat_type": 0,
+    "title": "悠々エゴイスト",
+    "name": "月永レオ",
+    "releaseDate": {
+      "jp": "2024-11-25"
+    },
+    "obtain": {
+      "type": "gacha",
+      "subType": "event",
+      "id": 531
+    },
+    "stats": {
+      "ir": {
+        "da": 21510,
+        "vo": 10443,
+        "pf": 9561
+      }
+    },
+    "skills": {
+      "center": {
+        "name": "子供からの脱却",
+        "effect_value": [
+          "80"
+        ],
+        "type_id": 6,
+        "description": "BrilliantタイプのDa 80％up"
+      },
+      "live": {
+        "name": "自分の感覚",
+        "type_id": 1,
+        "duration": 8,
+        "description": "8秒間14％スコアアップ"
+      },
+      "support": {
+        "name": "大人の体験",
+        "type_id": 5,
+        "description": "ステータスピース（赤小）のドロップ率を1.3倍にする"
+      }
+    },
+    "associated_story": "エゴイスト",
+    "useFrameless": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 90001,
     "rarity": 4,
     "character_id": 67,
