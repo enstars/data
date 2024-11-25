@@ -6790,6 +6790,26 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 5000010,
+    "name": "潜跃☆未来之辉",
+    "start": {
+      "en": "2023-02-25T12:00:00-05:00"
+    },
+    "end": {
+      "en": "2023-03-12T23:59:59-05:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90013,
+    "cards": [
+      90013,
+      90014,
+      90015,
+      90016
+    ]
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000011,
     "name": "Mysterious Myths",
     "start": {
@@ -6806,6 +6826,84 @@
       90018,
       90019,
       90020
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000012,
+    "name": "人鱼之歌",
+    "start": {
+      "en": "2023-11-20T12:00:00-05:00"
+    },
+    "end": {
+      "en": "2023-12-04T23:59:59-05:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90021,
+    "cards": [
+      90021,
+      90022,
+      90023,
+      90024
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000015,
+    "name": "时光之约",
+    "start": {
+      "en": "2023-06-16T12:00:00-05:00"
+    },
+    "end": {
+      "en": "2023-06-30T23:59:59-05:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90030,
+    "cards": [
+      90030,
+      90031,
+      90032,
+      90033
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000023,
+    "name": "光影碎片・Black篇",
+    "start": {
+      "en": "2022-08-13T12:00:00-05:00"
+    },
+    "end": {
+      "en": "2022-08-26T23:59:59-05:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90040,
+    "cards": [
+      90040,
+      90043,
+      90044
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000024,
+    "name": "光影碎片・White篇",
+    "start": {
+      "en": "2022-09-10T12:00:00-05:00"
+    },
+    "end": {
+      "en": "2022-09-23T23:59:59-05:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90041,
+    "cards": [
+      90041,
+      90045,
+      90046
     ]
   }
 ]
