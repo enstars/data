@@ -1,6 +1,13 @@
 [
   {
     "compliant": "TRUE",
+    "gacha_id": 5000002,
+    "name": "Winks of Fortune",
+    "story_name": "Jubilation",
+    "story_author": "Mitsuki"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 304,
     "name": "Mika Kagehira",
     "story_name": "The First Outfit",
