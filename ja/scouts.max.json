@@ -6878,5 +6878,281 @@
       90049,
       90050
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000030,
+    "name": "Cherished Cutie",
+    "start": {
+      "kr": "2022-10-02T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2022-10-16T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90051,
+    "cards": [
+      90051,
+      90052,
+      90053,
+      90054
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000031,
+    "name": "惊奇之旅",
+    "start": {
+      "kr": "2022-12-17T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2022-12-31T11:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90056,
+    "cards": [
+      90056,
+      90057,
+      90058,
+      90059
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000036,
+    "name": "携春归",
+    "start": {
+      "kr": "2023-01-17T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-01-31T11:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90062,
+    "cards": [
+      90062,
+      90063,
+      90064,
+      90065
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000043,
+    "name": "荒野奇遇",
+    "start": {
+      "kr": "2023-04-08T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-04-23T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90070,
+    "cards": [
+      90070,
+      90071,
+      90072,
+      90073
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000044,
+    "name": "Secret Swan・前篇",
+    "start": {
+      "kr": "2023-06-05T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-06-20T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90075,
+    "cards": [
+      90075,
+      90076,
+      90077
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000045,
+    "name": "Secret Swan・后篇",
+    "start": {
+      "kr": "2023-07-22T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-08-06T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90079,
+    "cards": [
+      90079,
+      90080,
+      90081
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000046,
+    "name": "第X位侦探",
+    "start": {
+      "kr": "2023-10-02T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-10-16T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90082,
+    "cards": [
+      90082,
+      90083,
+      90084,
+      90085
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000053,
+    "name": "繁花轻语",
+    "start": {
+      "kr": "2023-12-07T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2023-12-21T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90092,
+    "cards": [
+      90092,
+      90093,
+      90094,
+      90095
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000055,
+    "name": "启春辰",
+    "start": {
+      "kr": "2024-02-03T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2024-02-17T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90096,
+    "cards": [
+      90096,
+      90097,
+      90098,
+      90099
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000058,
+    "name": "Jewel of Jekyll",
+    "start": {
+      "kr": "2024-04-07T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2024-04-22T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90105,
+    "cards": [
+      90105,
+      90106,
+      90107
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000059,
+    "name": "Hide-and-seek of Hyde",
+    "start": {
+      "kr": "2024-05-25T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2024-06-09T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90109,
+    "cards": [
+      90109,
+      90110,
+      90111
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000060,
+    "name": "延时追想",
+    "start": {
+      "kr": "2024-07-13T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2024-07-28T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90116,
+    "cards": [
+      90116,
+      90117,
+      90118,
+      90119
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000063,
+    "name": "Alluring Aspiration",
+    "start": {
+      "kr": "2024-09-21T12:00:00+09:00"
+    },
+    "end": {
+      "kr": "2024-10-06T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90121,
+    "cards": [
+      90121,
+      90122,
+      90123,
+      90124
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000067,
+    "name": "Unlimited ∞ U",
+    "start": {
+      "cn": "2024-11-23T12:00:00+09:00"
+    },
+    "end": {
+      "cn": "2024-12-09T23:59:59+09:00"
+    },
+    "type": "original",
+    "story_author": "-",
+    "banner_id": 90125,
+    "cards": [
+      90125,
+      90126,
+      90127,
+      90128
+    ]
   }
 ]
