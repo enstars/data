@@ -6931,6 +6931,13 @@
     "gacha_id": 5000030,
     "name": "Cherished Cutie",
     "type": "original",
-    "story_author": "-"
+    "story_author": "-",
+    "banner_id": 90051,
+    "cards": [
+      90051,
+      90052,
+      90053,
+      90054
+    ]
   }
 ]
