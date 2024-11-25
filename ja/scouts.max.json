@@ -6853,26 +6853,6 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 5000014,
-    "name": "黑猫狂想曲",
-    "start": {
-      "kr": "2021-11-10T12:00:00+09:00"
-    },
-    "end": {
-      "kr": "2021-11-25T11:59:59+09:00"
-    },
-    "type": "original",
-    "story_author": "-",
-    "banner_id": 90025,
-    "cards": [
-      90025,
-      90026,
-      90027,
-      90028
-    ]
-  },
-  {
-    "compliant": "TRUE",
     "gacha_id": 5000015,
     "name": "时光之约",
     "start": {
