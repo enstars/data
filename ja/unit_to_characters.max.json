@@ -528,5 +528,33 @@
     "created_at": "2020-03-31T14:35:45.958+09:00",
     "updated_at": "2024-11-11T00:29:28.622+01:00",
     "order_num_in_unit_as_list": 1
+  },
+  {
+    "compliant": "TRUE",
+    "id": 50,
+    "unit_id": 18,
+    "character_id": 81,
+    "order_num_in_unit": 1
+  },
+  {
+    "compliant": "TRUE",
+    "id": 51,
+    "unit_id": 18,
+    "character_id": 83,
+    "order_num_in_unit": 2
+  },
+  {
+    "compliant": "TRUE",
+    "id": 52,
+    "unit_id": 18,
+    "character_id": 84,
+    "order_num_in_unit": 3
+  },
+  {
+    "compliant": "TRUE",
+    "id": 53,
+    "unit_id": 18,
+    "character_id": 85,
+    "order_num_in_unit": 4
   }
 ]
