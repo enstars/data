@@ -14,13 +14,11 @@
     "image_color": "#fff3b8",
     "height": 179,
     "heights": [
-      null,
       179,
       179
     ],
     "weight": 59,
     "weights": [
-      null,
       59,
       59
     ],
@@ -28,20 +26,17 @@
     "horoscope": 9,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "ティーカップ収集",
     "hobbies": [
-      null,
       "ティーカップ収集",
       "紅茶、ピアノ"
     ],
     "specialty": "社交ダンス",
     "specialties": [
-      null,
       "社交ダンス",
       "チェス、技能の模倣"
     ],
@@ -80,13 +75,11 @@
     "image_color": "#a1d8e2",
     "height": 180,
     "heights": [
-      null,
       180,
       180
     ],
     "weight": 63,
     "weights": [
-      null,
       63,
       63
     ],
@@ -94,20 +87,17 @@
     "horoscope": 11,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "AB",
     "hobby": "他人の物まね",
     "hobbies": [
-      null,
       "他人の物まね",
       "驚かすこと、読書、映画鑑賞、俳譜、写真、散歩（地上、上空）、工芸品収集"
     ],
     "specialty": "手品",
     "specialties": [
-      null,
       "手品",
       "声帯模写、手品、変装"
     ],
@@ -146,13 +136,11 @@
     "image_color": "#f5b2b2",
     "height": 153,
     "heights": [
-      null,
       153,
       154
     ],
     "weight": 49,
     "weights": [
-      null,
       49,
       49
     ],
@@ -160,20 +148,17 @@
     "horoscope": 9,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "B",
     "hobby": "カラオケ",
     "hobbies": [
-      null,
       "カラオケ",
       "ぬいぐるみ集め、テニス、読書（漫画）"
     ],
     "specialty": "速記",
     "specialties": [
-      null,
       "速記",
       "かわいいポーズ"
     ],
@@ -213,13 +198,11 @@
     "image_color": "#3e62ad",
     "height": 175,
     "heights": [
-      null,
       175,
       175
     ],
     "weight": 60,
     "weights": [
-      null,
       60,
       60
     ],
@@ -227,20 +210,17 @@
     "horoscope": 6,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "掃除",
     "hobbies": [
-      null,
       "掃除",
       "掃除、整理整頓、絵画（勉強中）"
     ],
     "specialty": "体術",
     "specialties": [
-      null,
       "体術",
       "早着替え、体術、射撃"
     ],
@@ -280,13 +260,11 @@
     "image_color": "#0068b7",
     "height": 173,
     "heights": [
-      null,
       173,
       173
     ],
     "weight": 55,
     "weights": [
-      null,
       55,
       56
     ],
@@ -294,20 +272,17 @@
     "horoscope": 8,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "クロスワードパズル",
     "hobbies": [
-      null,
       "クロスワードパズル",
       "映画鑑賞、クロスワードパズル"
     ],
     "specialty": "歌",
     "specialties": [
-      null,
       "歌",
       "トランプ、パズル、暗記"
     ],
@@ -348,13 +323,11 @@
     "image_color": "#f3981d",
     "height": 171,
     "heights": [
-      null,
       171,
       172
     ],
     "weight": 55,
     "weights": [
-      null,
       55,
       56
     ],
@@ -362,20 +335,17 @@
     "horoscope": 3,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "大吉の散歩、渾名の命名",
     "hobbies": [
-      null,
       "大吉の散歩、渾名の命名",
       "キラキラしたもの集め、大吉と遊ぶこと"
     ],
     "specialty": "ヒップホップダンス",
     "specialties": [
-      null,
       "ヒップホップダンス",
       "ヒップホップダンス、料理"
     ],
@@ -415,13 +385,11 @@
     "image_color": "#65ab31",
     "height": 174,
     "heights": [
-      null,
       174,
       174
     ],
     "weight": 58,
     "weights": [
-      null,
       58,
       58
     ],
@@ -429,20 +397,17 @@
     "horoscope": 1,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "UFOキャッチャー、格ゲー",
     "hobbies": [
-      null,
       "UFOキャッチャー、格ゲー",
       "ゲーム全般、情報収集、写真撮影"
     ],
     "specialty": "電子機器いじり",
     "specialties": [
-      null,
       "電子機器いじり",
       "機械操作、映像編集"
     ],
@@ -482,13 +447,11 @@
     "image_color": "#941f57",
     "height": 169,
     "heights": [
-      null,
       169,
       171
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -496,20 +459,17 @@
     "horoscope": 11,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "O",
     "hobby": "TV鑑賞、マンガ",
     "hobbies": [
-      null,
       "TV観賞、マンガ",
       "読書（漫画）、ドラマ鑑賞、シルバーアクセ集め"
     ],
     "specialty": "ギター",
     "specialties": [
-      null,
       "ギター",
       "ギター演奏、ダンス"
     ],
@@ -549,13 +509,11 @@
     "image_color": "#e60033",
     "height": 175,
     "heights": [
-      null,
       175,
       175
     ],
     "weight": 60,
     "weights": [
-      null,
       60,
       61
     ],
@@ -563,20 +521,17 @@
     "horoscope": 5,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "特撮番組鑑賞",
     "hobbies": [
-      null,
       "特撮番組鑑賞",
       "特撮番組鑑賞、フィギュア集め、人助け"
     ],
     "specialty": "スタント技",
     "specialties": [
-      null,
       "スタント技",
       "スタント、テーピング、元気な挨拶"
     ],
@@ -614,13 +569,11 @@
     "image_color": "#008db7",
     "height": 176,
     "heights": [
-      null,
       176,
       176
     ],
     "weight": 60,
     "weights": [
-      null,
       60,
       60
     ],
@@ -628,20 +581,17 @@
     "horoscope": 5,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "B",
     "hobby": "海辺の散歩",
     "hobbies": [
-      null,
       "海辺の散歩",
       "水浴び、手作りグッズプレゼント"
     ],
     "specialty": "手刀",
     "specialties": [
-      null,
       "手刀",
       "イラスト、魚料理、力仕事"
     ],
@@ -679,13 +629,11 @@
     "image_color": "#302833",
     "height": 170,
     "heights": [
-      null,
       170,
       172
     ],
     "weight": 55,
     "weights": [
-      null,
       55,
       57
     ],
@@ -693,20 +641,17 @@
     "horoscope": 2,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "筋トレ",
     "hobbies": [
-      null,
       "筋トレ",
       "筋トレ、フライパン料理（勉強中）、ドラマ鑑賞"
     ],
     "specialty": "炎を使った漢の料理",
     "specialties": [
-      null,
       "炎を使った漢の料理",
       "格闘技（空手）"
     ],
@@ -746,13 +691,11 @@
     "image_color": "#00533f",
     "height": 179,
     "heights": [
-      null,
       179,
       179
     ],
     "weight": 64,
     "weights": [
-      null,
       64,
       63
     ],
@@ -760,20 +703,17 @@
     "horoscope": 5,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "O",
     "hobby": "ゆるキャラグッズ集め",
     "hobbies": [
-      null,
       "ゆるキャラグッズ集め",
       "ゆるキャラグッズ集め、DIY"
     ],
     "specialty": "逆立ち",
     "specialties": [
-      null,
       "逆立ち",
       "野菜の目利き、イラスト"
     ],
@@ -813,13 +753,11 @@
     "image_color": "#ffdc00",
     "height": 160,
     "heights": [
-      null,
       160,
       161
     ],
     "weight": 50,
     "weights": [
-      null,
       50,
       50
     ],
@@ -827,20 +765,17 @@
     "horoscope": 2,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "AB",
     "hobby": "カエルの飼育",
     "hobbies": [
-      null,
       "カエルの飼育",
       "忍者修行、忍者道具収集、読書（漫画）"
     ],
     "specialty": "火の輪くぐり",
     "specialties": [
-      null,
       "火の輪くぐり",
       "アクロバット、壁登り、隠密行動"
     ],
@@ -880,13 +815,11 @@
     "image_color": "#ba2636",
     "height": 174,
     "heights": [
-      null,
       174,
       174
     ],
     "weight": 57,
     "weights": [
-      null,
       57,
       57
     ],
@@ -894,20 +827,17 @@
     "horoscope": 9,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "A",
     "hobby": "シルバー集め",
     "hobbies": [
-      null,
       "シルバー集め",
       "社会勉強"
     ],
     "specialty": "格闘技やスポーツ全般",
     "specialties": [
-      null,
       "格闘技やスポーツ全般",
       "武術、狩り"
     ],
@@ -944,13 +874,11 @@
     "image_color": "#fff1cf",
     "height": 167,
     "heights": [
-      null,
       167,
       167
     ],
     "weight": 53,
     "weights": [
-      null,
       53,
       53
     ],
@@ -958,20 +886,17 @@
     "horoscope": 8,
     "age": 15,
     "ages": [
-      null,
       15,
       16
     ],
     "blood_type": "B",
     "hobby": "アイドル研究",
     "hobbies": [
-      null,
       "アイドル研究",
       "アイドル研究、グッズ集め、SNS更新"
     ],
     "specialty": "アイドルに関する知識",
     "specialties": [
-      null,
       "アイドルに関する知識",
       "アイドルに関する知識"
     ],
@@ -1007,13 +932,11 @@
     "image_color": "#522f60",
     "height": 174,
     "heights": [
-      null,
       174,
       174
     ],
     "weight": 55,
     "weights": [
-      null,
       55,
       54
     ],
@@ -1021,20 +944,17 @@
     "horoscope": 2,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "ジオラマづくり",
     "hobbies": [
-      null,
       "ジオラマづくり",
       "ジオラマ制作、デザイン"
     ],
     "specialty": "細かい手仕事",
     "specialties": [
-      null,
       "細かい手仕事",
       "細かい手作業、隠し通路探し"
     ],
@@ -1069,13 +989,11 @@
     "image_color": "#7ebea5",
     "height": 177,
     "heights": [
-      null,
       177,
       177
     ],
     "weight": 58,
     "weights": [
-      null,
       58,
       58
     ],
@@ -1083,20 +1001,17 @@
     "horoscope": 9,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "A",
     "hobby": "整理整頓、文筆",
     "hobbies": [
-      null,
       "整理整頓、文筆",
       "悩み相談"
     ],
     "specialty": "探しもの、物覚え",
     "specialties": [
-      null,
       "探しもの、物覚え",
       "家事全般、霊感"
     ],
@@ -1131,13 +1046,11 @@
     "image_color": "#a73836",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 62,
     "weights": [
-      null,
       62,
       62
     ],
@@ -1145,20 +1058,17 @@
     "horoscope": 7,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "B",
     "hobby": "人との関わり",
     "hobbies": [
-      null,
       "人との関わり",
       "交流、読書（考古学）、発掘"
     ],
     "specialty": "何でもできる",
     "specialties": [
-      null,
       "何でもできる",
       "演技"
     ],
@@ -1192,13 +1102,11 @@
     "image_color": "#b8d200",
     "height": 177,
     "heights": [
-      null,
       177,
       177
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       61
     ],
@@ -1206,20 +1114,17 @@
     "horoscope": 4,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "AB",
     "hobby": "買い物",
     "hobbies": [
-      null,
       "買い物",
       "ショッピング、喫茶"
     ],
     "specialty": "記憶力",
     "specialties": [
-      null,
       "記憶力",
       "愛されること、愛すること、見極めること"
     ],
@@ -1252,13 +1157,11 @@
     "image_color": "#74325c",
     "height": 172,
     "heights": [
-      null,
       172,
       173
     ],
     "weight": 60,
     "weights": [
-      null,
       60,
       61
     ],
@@ -1266,20 +1169,17 @@
     "horoscope": 7,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "戦略",
     "hobbies": [
-      null,
       "戦略",
       "戦略、投資"
     ],
     "specialty": "褒め殺し",
     "specialties": [
-      null,
       "褒め殺し",
       "情報収集、サバイバル"
     ],
@@ -1315,13 +1215,11 @@
     "image_color": "#192f60",
     "height": 173,
     "heights": [
-      null,
       173,
       174
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       62
     ],
@@ -1329,20 +1227,17 @@
     "horoscope": 4,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "O",
     "hobby": "嫌み",
     "hobbies": [
-      null,
       "嫌み",
       "筋トレ、釣り、ゲーム、読書（漫画）"
     ],
     "specialty": "即興のポージング",
     "specialties": [
-      null,
       "即興のポージング",
       "即興（ポージング、ダンス）"
     ],
@@ -1377,13 +1272,11 @@
     "image_color": "#e3acae",
     "height": 177,
     "heights": [
-      null,
       177,
       177
     ],
     "weight": 59,
     "weights": [
-      null,
       59,
       60
     ],
@@ -1391,20 +1284,17 @@
     "horoscope": 7,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "A",
     "hobby": "人形の洋服作り",
     "hobbies": [
-      null,
       "人形の洋服作り",
       "展覧会・美術館巡り、作家交流、トレーニング"
     ],
     "specialty": "レース編み",
     "specialties": [
-      null,
       "レース編み",
       "裁縫、レース編み"
     ],
@@ -1437,13 +1327,11 @@
     "image_color": "#006a6c",
     "height": 171,
     "heights": [
-      null,
       171,
       172
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -1451,20 +1339,17 @@
     "horoscope": 9,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "B",
     "hobby": "ぬいぐるみ収集",
     "hobbies": [
-      null,
       "ぬいぐるみ収集",
       "がらくた収集、アート制作"
     ],
     "specialty": "あやとり",
     "specialties": [
-      null,
       "あやとり",
       "裁縫、修理、あやとり"
     ],
@@ -1500,13 +1385,11 @@
     "image_color": "#eb6ea0",
     "height": 170,
     "heights": [
-      null,
       170,
       170
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -1514,20 +1397,17 @@
     "horoscope": 11,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
     "hobbies": [
-      null,
       "音楽鑑賞、ライブごっこ",
       "お菓子づくり、音楽鑑賞、園芸"
     ],
     "specialty": "シンクロ（水泳）",
     "specialties": [
-      null,
       "水泳（シンクロ）",
       "楽器演奏、曲芸、最高の笑顔"
     ],
@@ -1563,13 +1443,11 @@
     "image_color": "#00a1e9",
     "height": 170,
     "heights": [
-      null,
       170,
       170
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -1577,20 +1455,17 @@
     "horoscope": 11,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
     "hobbies": [
-      null,
       "音楽鑑賞、ライブごっこ",
       "音楽鑑賞、激辛グルメ研究、ファッション"
     ],
     "specialty": "シンクロ（水泳）",
     "specialties": [
-      null,
       "水泳（シンクロ）",
       "楽器演奏、曲芸、大食い競争"
     ],
@@ -1626,13 +1501,11 @@
     "image_color": "#b7282e",
     "height": 181,
     "heights": [
-      null,
       181,
       181
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       63
     ],
@@ -1640,20 +1513,17 @@
     "horoscope": 1,
     "age": 21,
     "ages": [
-      null,
       21,
       22
     ],
     "blood_type": "A",
     "hobby": "ギャンブル",
     "hobbies": [
-      null,
       "ギャンブル",
       "ギャンブル"
     ],
     "specialty": "アドリブ",
     "specialties": [
-      null,
       "アドリブ",
       "勝負、アドリブ"
     ],
@@ -1684,13 +1554,11 @@
     "image_color": "#89c3eb",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 56,
     "weights": [
-      null,
       56,
       57
     ],
@@ -1698,20 +1566,17 @@
     "horoscope": 3,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "O",
     "hobby": "帽子集め",
     "hobbies": [
-      null,
       "帽子集め",
       "読書（小説）、美容、トレーニング"
     ],
     "specialty": "推理",
     "specialties": [
-      null,
       "推理",
       "推理、情報収集"
     ],
@@ -1748,13 +1613,11 @@
     "image_color": "#f4b3c2",
     "height": 168,
     "heights": [
-      null,
       168,
       168
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       52
     ],
@@ -1762,20 +1625,17 @@
     "horoscope": 10,
     "age": 15,
     "ages": [
-      null,
       15,
       16
     ],
     "blood_type": "B",
     "hobby": "習い事",
     "hobbies": [
-      null,
       "習い事",
       "和菓子、ショッピング"
     ],
     "specialty": "古典芸能",
     "specialties": [
-      null,
       "古典芸能",
       "隠密行動、体術、木登り"
     ],
@@ -1810,13 +1670,11 @@
     "image_color": "#507ea4",
     "height": 176,
     "heights": [
-      null,
       176,
       177
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       61
     ],
@@ -1824,20 +1682,17 @@
     "horoscope": 6,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "AB",
     "hobby": "料理",
     "hobbies": [
-      null,
       "料理",
       "新しい食材探し、食べ歩き"
     ],
     "specialty": "一度覚えた味は再現できる",
     "specialties": [
-      null,
       "一度食べた味は再現できる",
       "料理（食べたことがあれば再現できる）、サバイバル"
     ],
@@ -1870,13 +1725,11 @@
     "image_color": "#47266e",
     "height": 179,
     "heights": [
-      null,
       179,
       180
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       62
     ],
@@ -1884,20 +1737,17 @@
     "horoscope": 7,
     "age": 19,
     "ages": [
-      null,
       19,
       20
     ],
     "blood_type": "B",
     "hobby": "庭園の散歩",
     "hobbies": [
-      null,
       "庭園の散歩",
       "語学、ワイン、読書、映画鑑賞"
     ],
     "specialty": "ジャズダンス",
     "specialties": [
-      null,
       "ジャズダンス",
       "楽器演奏、目利き"
     ],
@@ -1930,13 +1780,11 @@
     "image_color": "#fdd35c",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 63,
     "weights": [
-      null,
       63,
       63
     ],
@@ -1944,20 +1792,17 @@
     "horoscope": 7,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "B",
     "hobby": "デート、マリンスポーツ",
     "hobbies": [
-      null,
       "デート、マリンスポーツ",
       "サーフィン、ドラマ鑑賞"
     ],
     "specialty": "女の子の嗅ぎ分け",
     "specialties": [
-      null,
       "女の子の嗅ぎ分け",
       "水泳、友達作り"
     ],
@@ -1990,13 +1835,11 @@
     "image_color": "#c9caca",
     "height": 175,
     "heights": [
-      null,
       175,
       175
     ],
     "weight": 58,
     "weights": [
-      null,
       58,
       58
     ],
@@ -2004,20 +1847,17 @@
     "horoscope": 3,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "カードゲーム",
     "hobbies": [
-      null,
       "カードゲーム",
       "ギター、作曲、カードゲーム"
     ],
     "specialty": "エレキギター",
     "specialties": [
-      null,
       "エレキギター",
       "ギター演奏、嗅覚の鋭さ"
     ],
@@ -2053,13 +1893,11 @@
     "image_color": "#915da3",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 64,
     "weights": [
-      null,
       64,
       65
     ],
@@ -2067,20 +1905,17 @@
     "horoscope": 5,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "小さな生き物を眺める事",
     "hobbies": [
-      null,
       "小さな生き物を眺める事",
       "日本文化と機械の勉強"
     ],
     "specialty": "オカリナ",
     "specialties": [
-      null,
       "オカリナ",
       "オカリナ、腕力、水泳"
     ],
@@ -2115,13 +1950,11 @@
     "image_color": "#eedcb3",
     "height": 168,
     "heights": [
-      null,
       168,
       168
     ],
     "weight": 53,
     "weights": [
-      null,
       53,
       53
     ],
@@ -2129,20 +1962,17 @@
     "horoscope": 0,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "A",
     "hobby": "音楽鑑賞、マンガ",
     "hobbies": [
-      null,
       "音楽鑑賞、マンガ",
       "読書（漫画）、映画鑑賞"
     ],
     "specialty": "動物に好かれやすい",
     "specialties": [
-      null,
       "動物に好かれやすい",
       "動物に懐かれること、諦めないこと"
     ],
@@ -2183,13 +2013,11 @@
     "image_color": "#ffec47",
     "height": 160,
     "heights": [
-      null,
       160,
       160
     ],
     "weight": 49,
     "weights": [
-      null,
       49,
       50
     ],
@@ -2197,20 +2025,17 @@
     "horoscope": 1,
     "age": 19,
     "ages": [
-      null,
       19,
       20
     ],
     "blood_type": "O",
     "hobby": "携帯ゲーム",
     "hobbies": [
-      null,
       "携帯ゲーム",
       "兎のグッズ集め、ファッション"
     ],
     "specialty": "高さのあるパフォーマンス",
     "specialties": [
-      null,
       "高さのあるパフォーマンス",
       "ジャンプ力、聖歌"
     ],
@@ -2243,13 +2068,11 @@
     "image_color": "#ed6d35",
     "height": 168,
     "heights": [
-      null,
       168,
       168
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       56
     ],
@@ -2257,20 +2080,17 @@
     "horoscope": 5,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "O",
     "hobby": "ひなたぼっこ、ダッシュ",
     "hobbies": [
-      null,
       "ひなたぼっこ、ダッシュ",
       "パン食、外で身体を動かすこと"
     ],
     "specialty": "バク転",
     "specialties": [
-      null,
       "バク転",
       "バク転、ダッシュ"
     ],
@@ -2306,13 +2126,11 @@
     "image_color": "#cab8d9",
     "height": 165,
     "heights": [
-      null,
       165,
       165
     ],
     "weight": 50,
     "weights": [
-      null,
       50,
       51
     ],
@@ -2320,20 +2138,17 @@
     "horoscope": 3,
     "age": 16,
     "ages": [
-      null,
       16,
       17
     ],
     "blood_type": "AB",
     "hobby": "絵、天体観測",
     "hobbies": [
-      null,
       "絵、天体観測",
       "ガーデニング、家事全般、読書"
     ],
     "specialty": "速読",
     "specialties": [
-      null,
       "速読",
       "力仕事、紅茶を美味しく淹れること、お絵描き"
     ],
@@ -2369,13 +2184,11 @@
     "image_color": "#316745",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 60,
     "weights": [
-      null,
       60,
       61
     ],
@@ -2383,20 +2196,17 @@
     "horoscope": 5,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "A",
     "hobby": "読書",
     "hobbies": [
-      null,
       "読書",
       "文筆、眼鏡のコレクション"
     ],
     "specialty": "三味線",
     "specialties": [
-      null,
       "三味線",
       "三味線"
     ],
@@ -2430,13 +2240,11 @@
     "image_color": "#e83929",
     "height": 181,
     "heights": [
-      null,
       181,
       181
     ],
     "weight": 65,
     "weights": [
-      null,
       65,
       66
     ],
@@ -2444,20 +2252,17 @@
     "horoscope": 10,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "刺繍（裁縫）",
     "hobbies": [
-      null,
       "刺繍（裁縫）",
       "裁縫、衣装デザイン"
     ],
     "specialty": "喧嘩",
     "specialties": [
-      null,
       "喧嘩",
       "空手"
     ],
@@ -2491,13 +2296,11 @@
     "image_color": "#5654a2",
     "height": 174,
     "heights": [
-      null,
       174,
       174
     ],
     "weight": 55,
     "weights": [
-      null,
       55,
       56
     ],
@@ -2505,20 +2308,17 @@
     "horoscope": 1,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "A",
     "hobby": "精神統一、料理",
     "hobbies": [
-      null,
       "精神統一、料理",
       "料理、茶道、香道"
     ],
     "specialty": "立ったまま寝られる",
     "specialties": [
-      null,
       "立ったまま寝られる",
       "武芸"
     ],
@@ -2554,13 +2354,11 @@
     "image_color": "#942343",
     "height": 168,
     "heights": [
-      null,
       168,
       168
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -2568,20 +2366,17 @@
     "horoscope": 0,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "A",
     "hobby": "チェス",
     "hobbies": [
-      null,
       "チェス",
       "チェス、カードゲーム、読書"
     ],
     "specialty": "騎射",
     "specialties": [
-      null,
       "騎射",
       "乗馬、射撃"
     ],
@@ -2618,13 +2413,11 @@
     "image_color": "#ec6d51",
     "height": 169,
     "heights": [
-      null,
       169,
       169
     ],
     "weight": 53,
     "weights": [
-      null,
       53,
       54
     ],
@@ -2632,20 +2425,17 @@
     "horoscope": 1,
     "age": 19,
     "ages": [
-      null,
       19,
       20
     ],
     "blood_type": "O",
     "hobby": "作曲",
     "hobbies": [
-      null,
       "作曲",
       "作曲、楽器演奏、ファッション、庭キャン"
     ],
     "specialty": "即興ダンス",
     "specialties": [
-      null,
       "即興ダンス",
       "作曲、即興（演奏、ダンス）"
     ],
@@ -2679,13 +2469,11 @@
     "image_color": "#bbdbf3",
     "height": 172,
     "heights": [
-      null,
       172,
       174
     ],
     "weight": 61,
     "weights": [
-      null,
       61,
       60
     ],
@@ -2693,20 +2481,17 @@
     "horoscope": 7,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "A",
     "hobby": "後輩いびり",
     "hobbies": [
-      null,
       "後輩いびり",
       "健康管理、サイクリング"
     ],
     "specialty": "バレエ",
     "specialties": [
-      null,
       "バレエ",
       "ポージング、バレエ、料理"
     ],
@@ -2739,13 +2524,11 @@
     "image_color": "#001e43",
     "height": 170,
     "heights": [
-      null,
       170,
       171
     ],
     "weight": 54,
     "weights": [
-      null,
       54,
       55
     ],
@@ -2753,20 +2536,17 @@
     "horoscope": 5,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "AB",
     "hobby": "睡眠",
     "hobbies": [
-      null,
       "睡眠",
       "お菓子づくり、寝ること"
     ],
     "specialty": "ピアノ",
     "specialties": [
-      null,
       "ピアノ",
       "どこでも寝られる、ピアノ"
     ],
@@ -2801,13 +2581,11 @@
     "image_color": "#edde7b",
     "height": 176,
     "heights": [
-      null,
       176,
       176
     ],
     "weight": 59,
     "weights": [
-      null,
       59,
       59
     ],
@@ -2815,20 +2593,17 @@
     "horoscope": 11,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "B",
     "hobby": "ショッピング",
     "hobbies": [
-      null,
       "ショッピング",
       "美容、香水、ファッション"
     ],
     "specialty": "暗記",
     "specialties": [
-      null,
       "暗記",
       "ポージング、メイク"
     ],
@@ -2864,13 +2639,11 @@
     "image_color": "#d70035",
     "height": 170,
     "heights": [
-      null,
       170,
       171
     ],
     "weight": 53,
     "weights": [
-      null,
       53,
       54
     ],
@@ -2878,20 +2651,17 @@
     "horoscope": 10,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "AB",
     "hobby": "無趣味",
     "hobbies": [
-      null,
       "無趣味",
       "実験、人脈づくり"
     ],
     "specialty": "指パッチン",
     "specialties": [
-      null,
       "指パッチン",
       "占い、大道具制作、料理"
     ],
@@ -2929,13 +2699,11 @@
     "image_color": "#00608d",
     "height": 176,
     "heights": [
-      null,
       176,
       176
     ],
     "weight": 58,
     "weights": [
-      null,
       58,
       58
     ],
@@ -2943,20 +2711,17 @@
     "horoscope": 4,
     "age": 18,
     "ages": [
-      null,
       18,
       19
     ],
     "blood_type": "O",
     "hobby": "風水、おまじない、占い",
     "hobbies": [
-      null,
       "風水、おまじない、占い",
       "読書、ドラマ鑑賞、開運グッズ収集"
     ],
     "specialty": "相手のサポート",
     "specialties": [
-      null,
       "相手のサポート",
       "企画調整、工数調整"
     ],
@@ -2989,13 +2754,11 @@
     "image_color": "#fff352",
     "height": 165,
     "heights": [
-      null,
       165,
       166
     ],
     "weight": 50,
     "weights": [
-      null,
       50,
       51
     ],
@@ -3003,20 +2766,17 @@
     "horoscope": 3,
     "age": 17,
     "ages": [
-      null,
       17,
       18
     ],
     "blood_type": "B",
     "hobby": "音楽鑑賞、音ゲー",
     "hobbies": [
-      null,
       "音楽鑑賞、音ゲー",
       "ゲーム、遊び、キャンプ"
     ],
     "specialty": "パルクール",
     "specialties": [
-      null,
       "パルクール",
       "パルクール、アクロバット、笑顔の魔法"
     ],
@@ -3054,13 +2814,11 @@
     "image_color": "#622d18",
     "height": 180,
     "heights": [
-      null,
       180,
       180
     ],
     "weight": 64,
     "weights": [
-      null,
       64,
       65
     ],
@@ -3068,20 +2826,17 @@
     "horoscope": 1,
     "age": 19,
     "ages": [
-      null,
       19,
       20
     ],
     "blood_type": "A",
     "hobby": "楽しいこと探し",
     "hobbies": [
-      null,
       "楽しいこと探し",
       "珍品集め、文化交流、助っ人"
     ],
     "specialty": "派手なパフォーマンス",
     "specialties": [
-      null,
       "派手なパフォーマンス",
       "イベント盛り上げ、体術、力比べ"
     ],
@@ -3112,13 +2867,11 @@
     "image_color": "#8da0b6",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 65,
     "weights": [
-      null,
       65,
       65
     ],
@@ -3126,20 +2879,17 @@
     "horoscope": 8,
     "age": 31,
     "ages": [
-      null,
       31,
       32
     ],
     "blood_type": "A",
     "hobby": "昼寝、お酒",
     "hobbies": [
-      null,
       "昼寝、お酒",
       "昼寝、お酒"
     ],
     "specialty": "テーピング",
     "specialties": [
-      null,
       "テーピング",
       "テーピング"
     ],
@@ -3161,13 +2911,11 @@
     "image_color": "#915c8b",
     "height": 178,
     "heights": [
-      null,
       178,
       178
     ],
     "weight": 64,
     "weights": [
-      null,
       64,
       64
     ],
@@ -3175,20 +2923,17 @@
     "horoscope": 11,
     "age": 29,
     "ages": [
-      null,
       29,
       30
     ],
     "blood_type": "A",
     "hobby": "音読",
     "hobbies": [
-      null,
       "音読",
       "音読"
     ],
     "specialty": "歌",
     "specialties": [
-      null,
       "歌",
       "歌"
     ],
@@ -3211,12 +2956,10 @@
     "height": 160,
     "heights": [
       null,
-      null,
       160
     ],
     "weight": 50,
     "weights": [
-      null,
       null,
       50
     ],
@@ -3225,19 +2968,16 @@
     "age": 16,
     "ages": [
       null,
-      null,
       16
     ],
     "blood_type": "B",
     "hobby": "新しいことへの挑戦",
     "hobbies": [
       null,
-      null,
       "新しいことへの挑戦"
     ],
     "specialty": "サバイバル術",
     "specialties": [
-      null,
       null,
       "サバイバル術"
     ],
@@ -3265,12 +3005,10 @@
     "height": 165,
     "heights": [
       null,
-      null,
       165
     ],
     "weight": 51,
     "weights": [
-      null,
       null,
       51
     ],
@@ -3279,19 +3017,16 @@
     "age": 15,
     "ages": [
       null,
-      null,
       15
     ],
     "blood_type": "B",
     "hobby": "楽器演奏、作曲",
     "hobbies": [
       null,
-      null,
       "楽器演奏、作曲"
     ],
     "specialty": "自己流武術、ブレイクダンス",
     "specialties": [
-      null,
       null,
       "自己流武術、ブレイクダンス"
     ],
@@ -3318,12 +3053,10 @@
     "height": 163,
     "heights": [
       null,
-      null,
       163
     ],
     "weight": 50,
     "weights": [
-      null,
       null,
       50
     ],
@@ -3332,19 +3065,16 @@
     "age": 12,
     "ages": [
       null,
-      null,
       12
     ],
     "blood_type": "A",
     "hobby": "積み木、パズル",
     "hobbies": [
       null,
-      null,
       "積み木、パズル"
     ],
     "specialty": "計算",
     "specialties": [
-      null,
       null,
       "計算"
     ],
@@ -3371,12 +3101,10 @@
     "height": 156,
     "heights": [
       null,
-      null,
       158
     ],
     "weight": 48,
     "weights": [
-      null,
       null,
       48
     ],
@@ -3385,19 +3113,16 @@
     "age": 14,
     "ages": [
       null,
-      null,
       14
     ],
     "blood_type": "O",
     "hobby": "ピアノ",
     "hobbies": [
       null,
-      null,
       "ピアノ"
     ],
     "specialty": "コスプレ、家事全般",
     "specialties": [
-      null,
       null,
       "コスプレ、家事全般"
     ],
@@ -3424,12 +3149,10 @@
     "height": 158,
     "heights": [
       null,
-      null,
       158
     ],
     "weight": 48,
     "weights": [
-      null,
       null,
       48
     ],
@@ -3438,19 +3161,16 @@
     "age": 14,
     "ages": [
       null,
-      null,
       14
     ],
     "blood_type": "B",
     "hobby": "日向ぼっこ、ポエム",
     "hobbies": [
       null,
-      null,
       "日向ぼっこ、ポエム"
     ],
     "specialty": "歌",
     "specialties": [
-      null,
       null,
       "歌"
     ],
