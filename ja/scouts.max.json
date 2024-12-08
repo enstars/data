@@ -6215,7 +6215,9 @@
     "story_name": "インテリジェンス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 504,
+    "related_id": [
+      504
+    ],
     "event_id": 300,
     "banner_id": 4070,
     "cards": [
@@ -6246,7 +6248,9 @@
     "story_name": "インテリジェンス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 503,
+    "related_id": [
+      503
+    ],
     "event_id": 300,
     "banner_id": 4073,
     "cards": [
@@ -6275,7 +6279,9 @@
     "story_name": "華一滴",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 506,
+    "related_id": [
+      506
+    ],
     "event_id": 301,
     "banner_id": 4082,
     "cards": [
@@ -6304,7 +6310,9 @@
     "story_name": "華一滴",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 505,
+    "related_id": [
+      505
+    ],
     "event_id": 301,
     "banner_id": 4085,
     "cards": [
@@ -6333,7 +6341,9 @@
     "story_name": "プロメッサ",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 508,
+    "related_id": [
+      508
+    ],
     "event_id": 302,
     "banner_id": 4092,
     "cards": [
@@ -6362,7 +6372,9 @@
     "story_name": "プロメッサ",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 507,
+    "related_id": [
+      507
+    ],
     "event_id": 302,
     "banner_id": 4095,
     "cards": [
@@ -6391,7 +6403,9 @@
     "story_name": "ハッピーチャーム",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 510,
+    "related_id": [
+      510
+    ],
     "event_id": 303,
     "banner_id": 4102,
     "cards": [
@@ -6420,7 +6434,9 @@
     "story_name": "ハッピーチャーム",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 509,
+    "related_id": [
+      509
+    ],
     "event_id": 303,
     "banner_id": 4105,
     "cards": [
@@ -6449,7 +6465,9 @@
     "story_name": "パープレックス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 512,
+    "related_id": [
+      512
+    ],
     "event_id": 304,
     "banner_id": 4114,
     "cards": [
@@ -6478,7 +6496,9 @@
     "story_name": "パープレックス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 511,
+    "related_id": [
+      511
+    ],
     "event_id": 304,
     "banner_id": 4117,
     "cards": [
@@ -6562,7 +6582,9 @@
     "story_name": "ドミナント",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 516,
+    "related_id": [
+      516
+    ],
     "event_id": 306,
     "banner_id": 4132,
     "cards": [
@@ -6591,7 +6613,9 @@
     "story_name": "ドミナント",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 515,
+    "related_id": [
+      515
+    ],
     "event_id": 306,
     "banner_id": 4135,
     "cards": [
@@ -6620,7 +6644,9 @@
     "story_name": "ブリリアンスプリンス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 518,
+    "related_id": [
+      518
+    ],
     "event_id": 307,
     "banner_id": 4144,
     "cards": [
@@ -6649,7 +6675,9 @@
     "story_name": "ブリリアンスプリンス",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 517,
+    "related_id": [
+      517
+    ],
     "event_id": 307,
     "banner_id": 4147,
     "cards": [
@@ -6735,7 +6763,9 @@
     "story_name": "VANQUISH",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 522,
+    "related_id": [
+      522
+    ],
     "event_id": 309,
     "banner_id": 4166,
     "cards": [
@@ -6764,7 +6794,9 @@
     "story_name": "VANQUISH",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 521,
+    "related_id": [
+      521
+    ],
     "event_id": 309,
     "banner_id": 4169,
     "cards": [
@@ -6793,7 +6825,9 @@
     "story_name": "アットホーム",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 524,
+    "related_id": [
+      524
+    ],
     "event_id": 310,
     "banner_id": 4178,
     "cards": [
@@ -6822,7 +6856,9 @@
     "story_name": "アットホーム",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 523,
+    "related_id": [
+      523
+    ],
     "event_id": 310,
     "banner_id": 4181,
     "cards": [
@@ -6851,7 +6887,9 @@
     "story_name": "ウィンクキラー",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 526,
+    "related_id": [
+      526
+    ],
     "event_id": 311,
     "banner_id": 4188,
     "cards": [
@@ -6880,7 +6918,9 @@
     "story_name": "ウィンクキラー",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 525,
+    "related_id": [
+      525
+    ],
     "event_id": 311,
     "banner_id": 4191,
     "cards": [
@@ -6909,7 +6949,9 @@
     "story_name": "シーカー",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 528,
+    "related_id": [
+      528
+    ],
     "event_id": 312,
     "banner_id": 4198,
     "cards": [
@@ -6938,7 +6980,9 @@
     "story_name": "シーカー",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 527,
+    "related_id": [
+      527
+    ],
     "event_id": 312,
     "banner_id": 4201,
     "cards": [
@@ -6967,7 +7011,9 @@
     "story_name": "エゴイスト",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 530,
+    "related_id": [
+      530
+    ],
     "event_id": 313,
     "banner_id": 4220,
     "cards": [
@@ -6996,7 +7042,9 @@
     "story_name": "エゴイスト",
     "story_author": "-",
     "story_season": "春",
-    "related_id": 531,
+    "related_id": [
+      531
+    ],
     "event_id": 313,
     "banner_id": 4223,
     "cards": [
