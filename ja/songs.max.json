@@ -5382,6 +5382,13 @@
         18
       ]
     ],
+    "color": 4,
+    "difficulty": {
+      "easy": 9,
+      "normal": 14,
+      "hard": 23,
+      "expert": 29
+    },
     "duration": {
       "game": 153,
       "full": 227
@@ -7690,7 +7697,11 @@
       "easy": 9,
       "normal": 15,
       "hard": 23,
-      "expert": 28
+      "expert": 28,
+      "special": "30+",
+      "special_gimmick": [
+        1
+      ]
     },
     "duration": {
       "game": 140,
