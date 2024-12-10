@@ -25,6 +25,7 @@
     "lyric": "こだまさおり",
     "composition": "桑原聖 (Arte Refact)",
     "arrangement": "脇眞富 (Arte Refact)",
+    "album_id": 60,
     "link": {
       "youtube_3dmv": "https://youtu.be/mQLLr-PBhp8"
     },
@@ -5174,7 +5175,11 @@
     "arrangement": "大熊 淳生 (Arte Refact)",
     "link": {
       "youtube_3dmv": "https://youtu.be/VAOhV3spHyw",
-      "youtube_2dmv": "https://youtu.be/_HmAPFnV6h4"
+      "youtube_2dmv": "https://youtu.be/Xs6cG_1551o",
+      "youtube_alt": [
+        "https://youtu.be/eT39d4naAfM",
+        "https://youtu.be/_HmAPFnV6h4"
+      ]
     },
     "version": {
       "inst": "mktls-882"
@@ -5213,7 +5218,11 @@
     "composition": "まふまふ",
     "arrangement": "まふまふ",
     "link": {
-      "youtube_2dmv": "https://youtu.be/ojLUylUV-uA"
+      "youtube_2dmv": "https://youtu.be/pMGeOjFUgts",
+      "youtube_alt": [
+        "https://youtu.be/H6k-30923tc",
+        "https://youtu.be/ojLUylUV-uA"
+      ]
     },
     "version": {
       "inst": "mktls-883"
@@ -5782,6 +5791,7 @@
     "lyric": "松井洋平",
     "composition": "中土智博 (APDREAM)",
     "arrangement": "中土智博 (APDREAM)",
+    "album_id": 60,
     "link": {
       "youtube_3dmv": "https://youtu.be/-SzjxI3XnuM"
     },
@@ -8170,7 +8180,10 @@
     "arrangement": "amazuti",
     "event_id": 269,
     "link": {
-      "youtube_3dmv": "https://youtu.be/lEKV8kzVp-4"
+      "youtube_3dmv": "https://youtu.be/lEKV8kzVp-4",
+      "youtube_alt": [
+        "https://youtu.be/20Jg0tt1pL8"
+      ]
     },
     "version": {
       "inst": "mktls-685"
@@ -9023,43 +9036,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": 179,
-    "name": "年越しあんさんぶる！！2023→2024",
-    "unit_id": [
-      101
-    ],
-    "character_id": [
-      [
-        100
-      ]
-    ],
-    "color": "undefined",
-    "difficulty": {
-      "easy": "undefined",
-      "normal": "undefined",
-      "hard": "undefined",
-      "expert": "undefined",
-      "expert_gimmicks": "undefined",
-      "special": "undefined",
-      "special_gimmick": "undefined"
-    },
-    "link": {
-      "youtube_3dmv": "https://youtu.be/NjCNq4RNHA0"
-    },
-    "version": {
-      "full": [
-        19,
-        101,
-        187,
-        17
-      ]
-    },
-    "order": 222,
-    "has_game_edit": "FALSE",
-    "limited": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": 198,
     "name": "僕らのステラ",
     "unit_id": [
@@ -9094,7 +9070,7 @@
     "version": {
       "inst": "mktls-896"
     },
-    "order": 223,
+    "order": 222,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9132,7 +9108,7 @@
     "version": {
       "inst": "mktls-897"
     },
-    "order": 224,
+    "order": 223,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9174,7 +9150,7 @@
     "version": {
       "inst": "mktls-898"
     },
-    "order": 225,
+    "order": 224,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9219,7 +9195,7 @@
     "version": {
       "inst": "mktls-899"
     },
-    "order": 226,
+    "order": 225,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9258,7 +9234,7 @@
     "version": {
       "inst": "mktls-900"
     },
-    "order": 227,
+    "order": 226,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9307,7 +9283,7 @@
     "version": {
       "inst": "mktls-832"
     },
-    "order": 228,
+    "order": 227,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9359,7 +9335,7 @@
         "mktls-552"
       ]
     },
-    "order": 229,
+    "order": 228,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9399,7 +9375,7 @@
     "version": {
       "inst": "mktls-822"
     },
-    "order": 230,
+    "order": 229,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9438,7 +9414,7 @@
     "version": {
       "inst": "mktls-824"
     },
-    "order": 231,
+    "order": 230,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9475,7 +9451,7 @@
     "version": {
       "inst": "mktls-825"
     },
-    "order": 232,
+    "order": 231,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9514,7 +9490,7 @@
     "version": {
       "inst": "mktls-826"
     },
-    "order": 233,
+    "order": 232,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9554,7 +9530,7 @@
     "version": {
       "inst": "mktls-823"
     },
-    "order": 234,
+    "order": 233,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9596,7 +9572,7 @@
     "version": {
       "inst": "mktls-827"
     },
-    "order": 235,
+    "order": 234,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9636,7 +9612,7 @@
     "version": {
       "inst": "mktls-828"
     },
-    "order": 236,
+    "order": 235,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9675,7 +9651,7 @@
     "version": {
       "inst": "mktls-829"
     },
-    "order": 237,
+    "order": 236,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9718,7 +9694,7 @@
       ],
       "inst": "mktls-902"
     },
-    "order": 238,
+    "order": 237,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9755,7 +9731,7 @@
     "version": {
       "inst": "mktls-830"
     },
-    "order": 239,
+    "order": 238,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9794,7 +9770,7 @@
     "version": {
       "inst": "mktls-831"
     },
-    "order": 240,
+    "order": 239,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9827,7 +9803,7 @@
     "link": {
       "youtube_3dmv": "https://youtu.be/zWTCDWtjlvk"
     },
-    "order": 241,
+    "order": 240,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
@@ -9896,6 +9872,42 @@
     "lyric": "鱼麦扣",
     "composition": "鱼麦扣",
     "arrangement": "白鲨JAWS",
+    "has_game_edit": "FALSE",
+    "limited": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 179,
+    "name": "年越しあんさんぶる！！2023→2024",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        100
+      ]
+    ],
+    "color": "undefined",
+    "difficulty": {
+      "easy": "undefined",
+      "normal": "undefined",
+      "hard": "undefined",
+      "expert": "undefined",
+      "expert_gimmicks": "undefined",
+      "special": "undefined",
+      "special_gimmick": "undefined"
+    },
+    "link": {
+      "youtube_3dmv": "https://youtu.be/NjCNq4RNHA0"
+    },
+    "version": {
+      "full": [
+        19,
+        101,
+        187,
+        17
+      ]
+    },
     "has_game_edit": "FALSE",
     "limited": "TRUE"
   },
@@ -13720,6 +13732,7 @@
     "unit_id": [
       101
     ],
+    "album_id": 60,
     "version": {
       "full": [
         17
@@ -14043,6 +14056,7 @@
     "unit_id": [
       101
     ],
+    "album_id": 60,
     "version": {
       "full": [
         40

@@ -1324,9 +1324,35 @@
         "mktls-749",
         "mktls-750"
       ],
-      "[mktls-751,mktls-752,mktls-753,mktls-754,mktls-755,mktls-756,mktls-757,mktls-758,mktls-759,mktls-760,mktls-761,mktls-762,mktls-763,mktls-764,mktls-765,mktls-766,mktls-767,mktls-768.mktls-769,mktls-770,mktls-771,mktls-772,mktls-773,mktls-774,mktls-775]",
       [
-        776
+        "mktls-751",
+        "mktls-752",
+        "mktls-753",
+        "mktls-754",
+        "mktls-755",
+        "mktls-756",
+        "mktls-757",
+        "mktls-758",
+        "mktls-759",
+        "mktls-760",
+        "mktls-761",
+        "mktls-762",
+        "mktls-763",
+        "mktls-764",
+        "mktls-765",
+        "mktls-766",
+        "mktls-767",
+        "mktls-768",
+        "mktls-769",
+        "mktls-770",
+        "mktls-771",
+        "mktls-772",
+        "mktls-773",
+        "mktls-774",
+        "mktls-775"
+      ],
+      [
+        "mktls-776"
       ]
     ]
   },
@@ -1499,7 +1525,11 @@
     ],
     "release_Date": "2020-11-25T00:00:00+09:00",
     "tracklist": [
-      "[53,mktls-472,mktls-635]"
+      [
+        53,
+        "mktls-472",
+        "mktls-635"
+      ]
     ],
     "link": "https://nex-tone.link/92865"
   },
@@ -1517,7 +1547,13 @@
     ],
     "release_Date": "2020-12-23T00:00:00+09:00",
     "tracklist": [
-      "[59,79,mktls-468,mktls-636,mktls-637]"
+      [
+        59,
+        79,
+        "mktls-468",
+        "mktls-636",
+        "mktls-637"
+      ]
     ],
     "link": "https://nex-tone.link/94030"
   },
@@ -1535,7 +1571,13 @@
     ],
     "release_Date": "2021-01-27T00:00:00+09:00",
     "tracklist": [
-      "[58,78,mktls-474,mktls-638,mktls-639]"
+      [
+        58,
+        78,
+        "mktls-474",
+        "mktls-638",
+        "mktls-639"
+      ]
     ],
     "link": "https://nex-tone.link/95152"
   },
@@ -1553,7 +1595,14 @@
     ],
     "release_Date": "2021-01-27T00:00:00+09:00",
     "tracklist": [
-      "[48,62,66,mktls-690,mktls-691,mktls-692]"
+      [
+        48,
+        62,
+        66,
+        "mktls-690",
+        "mktls-691",
+        "mktls-692"
+      ]
     ]
   },
   {
@@ -1570,7 +1619,11 @@
     ],
     "release_Date": "2021-02-24T00:00:00+09:00",
     "tracklist": [
-      "[63,mktls-475,mktls-640]"
+      [
+        63,
+        "mktls-475",
+        "mktls-640"
+      ]
     ],
     "link": "https://nex-tone.link/96733"
   },
@@ -1588,7 +1641,11 @@
     ],
     "release_Date": "2021-02-24T00:00:00+09:00",
     "tracklist": [
-      "[60,mktls-478,mktls-641]"
+      [
+        60,
+        "mktls-478",
+        "mktls-641"
+      ]
     ],
     "link": "https://nex-tone.link/96735"
   },
@@ -1606,7 +1663,11 @@
     ],
     "release_Date": "2021-03-10T00:00:00+09:00",
     "tracklist": [
-      "[61,mktls-473,mktls-642]"
+      [
+        61,
+        "mktls-473",
+        "mktls-642"
+      ]
     ],
     "link": "https://nex-tone.link/97429"
   },
@@ -1624,7 +1685,11 @@
     ],
     "release_Date": "2021-03-24T00:00:00+09:00",
     "tracklist": [
-      "[64,mktls-476,mktls-643]"
+      [
+        64,
+        "mktls-476",
+        "mktls-643"
+      ]
     ],
     "link": "https://nex-tone.link/98337"
   },
@@ -1642,7 +1707,11 @@
     ],
     "release_Date": "2021-04-07T00:00:00+09:00",
     "tracklist": [
-      "[67,mktls-481,mktls-644]"
+      [
+        67,
+        "mktls-481",
+        "mktls-644"
+      ]
     ],
     "link": "https://nex-tone.link/d923jyt94z"
   },
@@ -1660,7 +1729,14 @@
     ],
     "release_Date": "2021-05-26T00:00:00+09:00",
     "tracklist": [
-      "[65,mktls-479,mktls-645,mktls-815,mktls-812,mktls-813]"
+      [
+        65,
+        "mktls-479",
+        "mktls-645",
+        "mktls-815",
+        "mktls-812",
+        "mktls-813"
+      ]
     ],
     "link": "https://nex-tone.link/u03qan8rgf"
   },
@@ -1678,7 +1754,12 @@
     ],
     "release_Date": "2021-06-09T00:00:00+09:00",
     "tracklist": [
-      "[82,217,mktls-646,mktls-647]"
+      [
+        82,
+        217,
+        "mktls-646",
+        "mktls-647"
+      ]
     ]
   },
   {
@@ -1696,7 +1777,11 @@
     ],
     "release_Date": "2021-06-09T00:00:00+09:00",
     "tracklist": [
-      "[113,mktls-507,mktls-508]"
+      [
+        113,
+        "mktls-507",
+        "mktls-508"
+      ]
     ]
   },
   {
@@ -1712,7 +1797,12 @@
     ],
     "release_Date": "2021-06-23T00:00:00+09:00",
     "tracklist": [
-      "[87,112,mktls-700,mktls-701]"
+      [
+        87,
+        112,
+        "mktls-700",
+        "mktls-701"
+      ]
     ]
   },
   {
@@ -1729,7 +1819,12 @@
     ],
     "release_Date": "2021-07-07T00:00:00+09:00",
     "tracklist": [
-      "[85,218,mktls-648,mktls-649]"
+      [
+        85,
+        218,
+        "mktls-648",
+        "mktls-649"
+      ]
     ]
   },
   {
@@ -1746,7 +1841,12 @@
     ],
     "release_Date": "2021-07-14T00:00:00+09:00",
     "tracklist": [
-      "[88,141,mktls-650,mktls-651]"
+      [
+        88,
+        141,
+        "mktls-650",
+        "mktls-651"
+      ]
     ]
   },
   {
@@ -1764,7 +1864,14 @@
     ],
     "release_Date": "2021-07-22T00:00:00+09:00",
     "tracklist": [
-      "[114,mktls-497,mktls-498,mktls-816,mktls-802,mktls-803]"
+      [
+        114,
+        "mktls-497",
+        "mktls-498",
+        "mktls-816",
+        "mktls-802",
+        "mktls-803"
+      ]
     ]
   },
   {
@@ -1782,7 +1889,14 @@
     ],
     "release_Date": "2021-09-09T00:00:00+09:00",
     "tracklist": [
-      "[115,mktls-502,mktls-500,mktls-817,mktls-807,mktls-805]"
+      [
+        115,
+        "mktls-502",
+        "mktls-500",
+        "mktls-817",
+        "mktls-807",
+        "mktls-805"
+      ]
     ]
   },
   {
@@ -1799,7 +1913,12 @@
     ],
     "release_Date": "2021-09-22T00:00:00+09:00",
     "tracklist": [
-      "[95,219,mktls-652,mktls-653]"
+      [
+        95,
+        219,
+        "mktls-652",
+        "mktls-653"
+      ]
     ]
   },
   {
@@ -1817,7 +1936,14 @@
     ],
     "release_Date": "2021-10-23T00:00:00+09:00",
     "tracklist": [
-      "[116,mktls-505,mktls-500,mktls-818,mktls-810,mktls-804]"
+      [
+        116,
+        "mktls-505",
+        "mktls-500",
+        "mktls-818",
+        "mktls-810",
+        "mktls-804"
+      ]
     ]
   },
   {
@@ -1834,7 +1960,12 @@
     ],
     "release_Date": "2021-11-24T00:00:00+09:00",
     "tracklist": [
-      "[103,220,mktls-654,mktls-655]"
+      [
+        103,
+        220,
+        "mktls-654",
+        "mktls-655"
+      ]
     ]
   },
   {
@@ -1852,7 +1983,14 @@
     ],
     "release_Date": "2021-12-09T00:00:00+09:00",
     "tracklist": [
-      "[117,mktls-503,mktls-504,mktls-819,mktls-808,mktls-804]"
+      [
+        117,
+        "mktls-503",
+        "mktls-504",
+        "mktls-819",
+        "mktls-808",
+        "mktls-804"
+      ]
     ]
   },
   {
@@ -1869,7 +2007,12 @@
     ],
     "release_Date": "2022-01-19T00:00:00+09:00",
     "tracklist": [
-      "[105,221,mktls-656,mktls-657]"
+      [
+        105,
+        221,
+        "mktls-656",
+        "mktls-657"
+      ]
     ]
   },
   {
@@ -1886,7 +2029,12 @@
     ],
     "release_Date": "2022-01-19T00:00:00+09:00",
     "tracklist": [
-      "[92,222,mktls-658,mktls-659]"
+      [
+        92,
+        222,
+        "mktls-658",
+        "mktls-659"
+      ]
     ]
   },
   {
@@ -1904,7 +2052,14 @@
     ],
     "release_Date": "2022-01-22T00:00:00+09:00",
     "tracklist": [
-      "[118,mktls-506,mktls-509,mktls-820,mktls-811,mktls-814]"
+      [
+        118,
+        "mktls-506",
+        "mktls-509",
+        "mktls-820",
+        "mktls-811",
+        "mktls-814"
+      ]
     ]
   },
   {
@@ -1921,7 +2076,12 @@
     ],
     "release_Date": "2022-02-02T00:00:00+09:00",
     "tracklist": [
-      "[98,223,mktls-660,mktls-661]"
+      [
+        98,
+        223,
+        "mktls-660",
+        "mktls-661"
+      ]
     ]
   },
   {
@@ -1938,7 +2098,14 @@
     ],
     "release_Date": "2022-02-09T00:00:00+09:00",
     "tracklist": [
-      "[90,100,109,mktls-693,mktls-694,mktls-695]"
+      [
+        90,
+        100,
+        109,
+        "mktls-693",
+        "mktls-694",
+        "mktls-695"
+      ]
     ]
   },
   {
@@ -1955,7 +2122,12 @@
     ],
     "release_Date": "2022-02-23T00:00:00+09:00",
     "tracklist": [
-      "[120,121,mktls-789,mktls-790]"
+      [
+        120,
+        121,
+        "mktls-789",
+        "mktls-790"
+      ]
     ]
   },
   {
@@ -1972,7 +2144,12 @@
     ],
     "release_Date": "2022-03-09T00:00:00+09:00",
     "tracklist": [
-      "[101,224,mktls-662,mktls-663]"
+      [
+        101,
+        224,
+        "mktls-662",
+        "mktls-663"
+      ]
     ]
   },
   {
@@ -1990,7 +2167,14 @@
     ],
     "release_Date": "2022-03-09T00:00:00+09:00",
     "tracklist": [
-      "[119,mktls-496,mktls-501,mktls-821,mktls-801,mktls-806]"
+      [
+        119,
+        "mktls-496",
+        "mktls-501",
+        "mktls-821",
+        "mktls-801",
+        "mktls-806"
+      ]
     ]
   },
   {
@@ -2007,7 +2191,12 @@
     ],
     "release_Date": "2022-03-23T00:00:00+09:00",
     "tracklist": [
-      "[108,140,mktls-664,mktls-665]"
+      [
+        108,
+        140,
+        "mktls-664",
+        "mktls-665"
+      ]
     ]
   },
   {
@@ -2024,7 +2213,12 @@
     ],
     "release_Date": "2022-04-06T00:00:00+09:00",
     "tracklist": [
-      "[122,225,mktls-666,mktls-667]"
+      [
+        122,
+        225,
+        "mktls-666",
+        "mktls-667"
+      ]
     ]
   },
   {
@@ -2041,7 +2235,12 @@
     ],
     "release_Date": "2022-05-11T00:00:00+09:00",
     "tracklist": [
-      "[124,226,mktls-668,mktls-669]"
+      [
+        124,
+        226,
+        "mktls-668",
+        "mktls-669"
+      ]
     ]
   },
   {
@@ -2058,7 +2257,12 @@
     ],
     "release_Date": "2022-05-11T00:00:00+09:00",
     "tracklist": [
-      "[127,227,mktls-670,mktls-671]"
+      [
+        127,
+        227,
+        "mktls-670",
+        "mktls-671"
+      ]
     ]
   },
   {
@@ -2076,7 +2280,14 @@
     ],
     "release_Date": "2022-05-25T00:00:00+09:00",
     "tracklist": [
-      "[125,mktls-369,229,mktls-672,mktls-673,mktls-674]"
+      [
+        125,
+        "mktls-369",
+        229,
+        "mktls-672",
+        "mktls-673",
+        "mktls-674"
+      ]
     ]
   },
   {
@@ -2092,7 +2303,12 @@
     ],
     "release_Date": "2022-06-22T00:00:00+09:00",
     "tracklist": [
-      "[144,184,mktls-702,mktls-703]"
+      [
+        144,
+        184,
+        "mktls-702",
+        "mktls-703"
+      ]
     ]
   },
   {
@@ -2109,7 +2325,11 @@
     ],
     "release_Date": "2022-07-27T00:00:00+09:00",
     "tracklist": [
-      "[154,mktls-519,mktls-675]"
+      [
+        154,
+        "mktls-519",
+        "mktls-675"
+      ]
     ]
   },
   {
@@ -2126,7 +2346,11 @@
     ],
     "release_Date": "2022-08-17T00:00:00+09:00",
     "tracklist": [
-      "[162,mktls-517,mktls-676]"
+      [
+        162,
+        "mktls-517",
+        "mktls-676"
+      ]
     ]
   },
   {
@@ -2143,7 +2367,11 @@
     ],
     "release_Date": "2022-09-07T00:00:00+09:00",
     "tracklist": [
-      "[164,mktls-518,mktls-677]"
+      [
+        164,
+        "mktls-518",
+        "mktls-677"
+      ]
     ]
   },
   {
@@ -2160,7 +2388,11 @@
     ],
     "release_Date": "2022-10-12T00:00:00+09:00",
     "tracklist": [
-      "[166,mktls-521,mktls-678]"
+      [
+        166,
+        "mktls-521",
+        "mktls-678"
+      ]
     ]
   },
   {
@@ -2177,7 +2409,11 @@
     ],
     "release_Date": "2022-10-26T00:00:00+09:00",
     "tracklist": [
-      "[165,mktls-523,mktls-679]"
+      [
+        165,
+        "mktls-523",
+        "mktls-679"
+      ]
     ]
   },
   {
@@ -2194,7 +2430,11 @@
     ],
     "release_Date": "2022-12-07T00:00:00+09:00",
     "tracklist": [
-      "[156,mktls-516,mktls-680]"
+      [
+        156,
+        "mktls-516",
+        "mktls-680"
+      ]
     ]
   },
   {
@@ -2211,7 +2451,11 @@
     ],
     "release_Date": "2023-01-11T00:00:00+09:00",
     "tracklist": [
-      "[153,mktls-513,mktls-681]"
+      [
+        153,
+        "mktls-513",
+        "mktls-681"
+      ]
     ]
   },
   {
@@ -2228,7 +2472,11 @@
     ],
     "release_Date": "2023-01-25T00:00:00+09:00",
     "tracklist": [
-      "[161,mktls-510,mktls-682]"
+      [
+        161,
+        "mktls-510",
+        "mktls-682"
+      ]
     ]
   },
   {
@@ -2245,7 +2493,16 @@
     ],
     "release_Date": "2023-03-17T00:00:00+09:00",
     "tracklist": [
-      "[129,170,171,172,mktls-696,mktls-697,mktls-698,mktls-699]"
+      [
+        129,
+        170,
+        171,
+        172,
+        "mktls-696",
+        "mktls-697",
+        "mktls-698",
+        "mktls-699"
+      ]
     ]
   },
   {
@@ -2261,7 +2518,24 @@
     ],
     "release_Date": "2023-03-24T00:00:00+09:00",
     "tracklist": [
-      "[152,148,151,150,147,146,149,mktls-461,mktls-791,mktls-792,mktls-793,mktls-794,mktls-795,mktls-796,mktls-797,mktls-798]"
+      [
+        152,
+        148,
+        151,
+        150,
+        147,
+        146,
+        149,
+        "mktls-461",
+        "mktls-791",
+        "mktls-792",
+        "mktls-793",
+        "mktls-794",
+        "mktls-795",
+        "mktls-796",
+        "mktls-797",
+        "mktls-798"
+      ]
     ]
   },
   {
@@ -2278,7 +2552,11 @@
     ],
     "release_Date": "2023-03-29T00:00:00+09:00",
     "tracklist": [
-      "[167,mktls-512,mktls-683]"
+      [
+        167,
+        "mktls-512",
+        "mktls-683"
+      ]
     ]
   },
   {
@@ -2295,7 +2573,11 @@
     ],
     "release_Date": "2023-04-05T00:00:00+09:00",
     "tracklist": [
-      "[163,mktls-511,mktls-684]"
+      [
+        163,
+        "mktls-511",
+        "mktls-684"
+      ]
     ]
   },
   {
@@ -2312,7 +2594,11 @@
     ],
     "release_Date": "2023-04-19T00:00:00+09:00",
     "tracklist": [
-      "[155,mktls-520,mktls-685]"
+      [
+        155,
+        "mktls-520",
+        "mktls-685"
+      ]
     ]
   },
   {
@@ -2329,7 +2615,13 @@
     ],
     "release_Date": "2023-05-03T00:00:00+09:00",
     "tracklist": [
-      "[158,157,mktls-508,mktls-686,mktls-687]"
+      [
+        158,
+        157,
+        "mktls-508",
+        "mktls-686",
+        "mktls-687"
+      ]
     ]
   },
   {
@@ -2346,7 +2638,11 @@
     ],
     "release_Date": "2023-05-31T00:00:00+09:00",
     "tracklist": [
-      "[159,mktls-514,mktls-688]"
+      [
+        159,
+        "mktls-514",
+        "mktls-688"
+      ]
     ]
   },
   {
@@ -2363,7 +2659,11 @@
     ],
     "release_Date": "2023-06-21T00:00:00+09:00",
     "tracklist": [
-      "[160,mktls-515,mktls-689]"
+      [
+        160,
+        "mktls-515",
+        "mktls-689"
+      ]
     ]
   },
   {
@@ -2376,7 +2676,12 @@
     "era": 2,
     "release_Date": "2023-06-28T00:00:00+09:00",
     "tracklist": [
-      "[168,169,mktls-799,mktls-780]"
+      [
+        168,
+        169,
+        "mktls-799",
+        "mktls-780"
+      ]
     ]
   },
   {
@@ -2392,7 +2697,12 @@
     ],
     "release_Date": "2023-06-28T00:00:00+09:00",
     "tracklist": [
-      "[178,234,mktls-704,mktls-705]"
+      [
+        178,
+        234,
+        "mktls-704",
+        "mktls-705"
+      ]
     ]
   },
   {
@@ -2409,9 +2719,32 @@
     ],
     "release_Date": "2023-07-19T00:00:00+09:00",
     "tracklist": [
-      "[200,mktls-382,141,15,56,59,88,79,161,188,37,mktls-383,mktls-384,mktls-385,mktls-386,mktls-387]",
+      [
+        200,
+        "mktls-382",
+        141,
+        15,
+        56,
+        59,
+        88,
+        79,
+        161,
+        188,
+        37,
+        "mktls-383",
+        "mktls-384",
+        "mktls-385",
+        "mktls-386",
+        "mktls-387"
+      ],
       null,
-      "[mktls-468,mktls-482,mktls-496,mktls-510,mktls-524]"
+      [
+        "mktls-468",
+        "mktls-482",
+        "mktls-496",
+        "mktls-510",
+        "mktls-524"
+      ]
     ]
   },
   {
@@ -2428,9 +2761,28 @@
     ],
     "release_Date": "2023-08-23T00:00:00+09:00",
     "tracklist": [
-      "[mktls-388,210,218,197,51,85,163,mktls-389,mktls-390,mktls-391,mktls-392,mktls-393]",
+      [
+        "mktls-388",
+        210,
+        218,
+        197,
+        51,
+        85,
+        163,
+        "mktls-389",
+        "mktls-390",
+        "mktls-391",
+        "mktls-392",
+        "mktls-393"
+      ],
       null,
-      "[mktls-469,mktls-483,mktls-497,mktls-511,mktls-525]"
+      [
+        "mktls-469",
+        "mktls-483",
+        "mktls-497",
+        "mktls-511",
+        "mktls-525"
+      ]
     ]
   },
   {
@@ -2447,9 +2799,27 @@
     ],
     "release_Date": "2023-09-20T00:00:00+09:00",
     "tracklist": [
-      "[204,mktls-394,mktls-369,52,68,mktls-366,193,125,229,167,mktls-395]",
+      [
+        204,
+        "mktls-394",
+        "mktls-369",
+        52,
+        68,
+        "mktls-366",
+        193,
+        125,
+        229,
+        167,
+        "mktls-395"
+      ],
       null,
-      "[mktls-470,mktls-484,mktls-498,mktls-512,mktls-526]"
+      [
+        "mktls-470",
+        "mktls-484",
+        "mktls-498",
+        "mktls-512",
+        "mktls-526"
+      ]
     ]
   },
   {
@@ -2466,9 +2836,30 @@
     ],
     "release_Date": "2023-10-04T00:00:00+09:00",
     "tracklist": [
-      "[212,mktls-396,217,82,39,153,199,mktls-397,169,120,mktls-398,mktls-399,mktls-400,mktls-401]",
+      [
+        212,
+        "mktls-396",
+        217,
+        82,
+        39,
+        153,
+        199,
+        "mktls-397",
+        169,
+        120,
+        "mktls-398",
+        "mktls-399",
+        "mktls-400",
+        "mktls-401"
+      ],
       null,
-      "[mktls-471,mktls-485,mktls-499,mktls-513,mktls-527]"
+      [
+        "mktls-471",
+        "mktls-485",
+        "mktls-499",
+        "mktls-513",
+        "mktls-527"
+      ]
     ]
   },
   {
@@ -2485,9 +2876,27 @@
     ],
     "release_Date": "2023-11-08T00:00:00+09:00",
     "tracklist": [
-      "[mktls-402,202,53,mktls-403,127,159,190,227,mktls-404,mktls-405,mktls-406]",
+      [
+        "mktls-402",
+        202,
+        53,
+        "mktls-403",
+        127,
+        159,
+        190,
+        227,
+        "mktls-404",
+        "mktls-405",
+        "mktls-406"
+      ],
       null,
-      "[mktls-472,mktls-486,mktls-500,mktls-514,mktls-528]"
+      [
+        "mktls-472",
+        "mktls-486",
+        "mktls-500",
+        "mktls-514",
+        "mktls-528"
+      ]
     ]
   },
   {
@@ -2504,9 +2913,26 @@
     ],
     "release_Date": "2023-12-06T00:00:00+09:00",
     "tracklist": [
-      "[mktls-407,205,61,194,160,225,122,mktls-408,mktls-409,mktls-410]",
+      [
+        "mktls-407",
+        205,
+        61,
+        194,
+        160,
+        225,
+        122,
+        "mktls-408",
+        "mktls-409",
+        "mktls-410"
+      ],
       null,
-      "[mktls-473,mktls-487,mktls-501,mktls-515,mktls-529]"
+      [
+        "mktls-473",
+        "mktls-487",
+        "mktls-501",
+        "mktls-515",
+        "mktls-529"
+      ]
     ]
   },
   {
@@ -2523,9 +2949,31 @@
     ],
     "release_Date": "2023-12-20T00:00:00+09:00",
     "tracklist": [
-      "[mktls-411,206,14,15,78,55,15,140,108,195,36,mktls-412,mktls-413,mktls-414,mktls-415]",
+      [
+        "mktls-411",
+        206,
+        14,
+        15,
+        78,
+        55,
+        15,
+        140,
+        108,
+        195,
+        36,
+        "mktls-412",
+        "mktls-413",
+        "mktls-414",
+        "mktls-415"
+      ],
       null,
-      "[mktls-474,mktls-488,mktls-502,mktls-516,mktls-530]"
+      [
+        "mktls-474",
+        "mktls-488",
+        "mktls-502",
+        "mktls-516",
+        "mktls-530"
+      ]
     ]
   },
   {
@@ -2542,9 +2990,26 @@
     ],
     "release_Date": "2024-01-24T00:00:00+09:00",
     "tracklist": [
-      "[207,173,63,222,mktls-416,92,mktls-417,mktls-418,mktls-419,mktls-420]",
+      [
+        207,
+        173,
+        63,
+        222,
+        "mktls-416",
+        92,
+        "mktls-417",
+        "mktls-418",
+        "mktls-419",
+        "mktls-420"
+      ],
       null,
-      "[mktls-475,mktls-489,mktls-503,mktls-517,mktls-531]"
+      [
+        "mktls-475",
+        "mktls-489",
+        "mktls-503",
+        "mktls-517",
+        "mktls-531"
+      ]
     ]
   },
   {
@@ -2561,9 +3026,27 @@
     ],
     "release_Date": "2024-02-07T00:00:00+09:00",
     "tracklist": [
-      "[mktls-421,208,64,164,105,174,221,mktls-422,mktls-423,mktls-424,mktls-425]",
+      [
+        "mktls-421",
+        208,
+        64,
+        164,
+        105,
+        174,
+        221,
+        "mktls-422",
+        "mktls-423",
+        "mktls-424",
+        "mktls-425"
+      ],
       null,
-      "[mktls-476,mktls-490,mktls-504,mktls-518,mktls-532]"
+      [
+        "mktls-476",
+        "mktls-490",
+        "mktls-504",
+        "mktls-518",
+        "mktls-532"
+      ]
     ]
   },
   {
@@ -2580,9 +3063,27 @@
     ],
     "release_Date": "2024-02-21T00:00:00+09:00",
     "tracklist": [
-      "[209,38,101,224,154,196,mktls-426,mktls-427,mktls-428,mktls-429,mktls-430]",
+      [
+        209,
+        38,
+        101,
+        224,
+        154,
+        196,
+        "mktls-426",
+        "mktls-427",
+        "mktls-428",
+        "mktls-429",
+        "mktls-430"
+      ],
       null,
-      "[mktls-477,mktls-491,mktls-505,mktls-519,mktls-533]"
+      [
+        "mktls-477",
+        "mktls-491",
+        "mktls-505",
+        "mktls-519",
+        "mktls-533"
+      ]
     ]
   },
   {
@@ -2599,9 +3100,30 @@
     ],
     "release_Date": "2024-03-06T00:00:00+09:00",
     "tracklist": [
-      "[mktls-431,211,60,mktls-432,155,98,192,198,223,mktls-433,mktls-434,mktls-435,mktls-436,mktls-437]",
+      [
+        "mktls-431",
+        211,
+        60,
+        "mktls-432",
+        155,
+        98,
+        192,
+        198,
+        223,
+        "mktls-433",
+        "mktls-434",
+        "mktls-435",
+        "mktls-436",
+        "mktls-437"
+      ],
       null,
-      "[mktls-478,mktls-492,mktls-506,mktls-520,mktls-534]"
+      [
+        "mktls-478",
+        "mktls-492",
+        "mktls-506",
+        "mktls-520",
+        "mktls-534"
+      ]
     ]
   },
   {
@@ -2618,9 +3140,30 @@
     ],
     "release_Date": "2024-04-03T00:00:00+09:00",
     "tracklist": [
-      "[mktls-438,201,124,226,189,65,166,mktls-439,168,235,mktls-440,mktls-441,mktls-442,mktls-443]",
+      [
+        "mktls-438",
+        201,
+        124,
+        226,
+        189,
+        65,
+        166,
+        "mktls-439",
+        168,
+        235,
+        "mktls-440",
+        "mktls-441",
+        "mktls-442",
+        "mktls-443"
+      ],
       null,
-      "[mktls-479,mktls-493,mktls-507,mktls-521,mktls-535]"
+      [
+        "mktls-479",
+        "mktls-493",
+        "mktls-507",
+        "mktls-521",
+        "mktls-535"
+      ]
     ]
   },
   {
@@ -2637,9 +3180,30 @@
     ],
     "release_Date": "2024-05-08T00:00:00+09:00",
     "tracklist": [
-      "[mktls-444,203,121,103,220,157,158,49,mktls-445,191,mktls-mktls-446,mktls-447,mktls-448,mktls-449]",
+      [
+        "mktls-444",
+        203,
+        121,
+        103,
+        220,
+        157,
+        158,
+        49,
+        "mktls-445",
+        191,
+        "mktls-446",
+        "mktls-447",
+        "mktls-448",
+        "mktls-449"
+      ],
       null,
-      "[mktls-480,mktls-494,mktls-508,mktls-522,mktls-536]"
+      [
+        "mktls-480",
+        "mktls-494",
+        "mktls-508",
+        "mktls-522",
+        "mktls-536"
+      ]
     ]
   },
   {
@@ -2656,9 +3220,31 @@
     ],
     "release_Date": "2024-05-22T00:00:00+09:00",
     "tracklist": [
-      "[mktls-450,213,67,165,95,219,187,mktls-451,181,175,mktls-452,mktls-453,mktls-454,mktls-455,mktls-456]",
+      [
+        "mktls-450",
+        213,
+        67,
+        165,
+        95,
+        219,
+        187,
+        "mktls-451",
+        181,
+        175,
+        "mktls-452",
+        "mktls-453",
+        "mktls-454",
+        "mktls-455",
+        "mktls-456"
+      ],
       null,
-      "[mktls-481,mktls-495,mktls-509,mktls-523,mktls-537]"
+      [
+        "mktls-481",
+        "mktls-495",
+        "mktls-509",
+        "mktls-523",
+        "mktls-537"
+      ]
     ]
   },
   {
@@ -2675,7 +3261,8 @@
     "release_Date": "2024-04-02T00:00:00+09:00",
     "tracklist": [
       [
-        273
+        273,
+        "mktls-900"
       ]
     ]
   },
@@ -2692,7 +3279,25 @@
     ],
     "release_Date": "2024-04-27T00:00:00+09:00",
     "tracklist": [
-      "[230,mktls-538,mktls-539,mktls-540,mktls-541,mktls-542,mktls-543,mktls-544,mktls-545,mktls-546,mktls-547,mktls-548,mktls-549,mktls-550,mktls-551,mktls-552,mktls-553]"
+      [
+        230,
+        "mktls-538",
+        "mktls-539",
+        "mktls-540",
+        "mktls-541",
+        "mktls-542",
+        "mktls-543",
+        "mktls-544",
+        "mktls-545",
+        "mktls-546",
+        "mktls-547",
+        "mktls-548",
+        "mktls-549",
+        "mktls-550",
+        "mktls-551",
+        "mktls-552",
+        "mktls-553"
+      ]
     ],
     "link": "https://fwinc.lnk.to/saKylM"
   },
@@ -2709,7 +3314,10 @@
     ],
     "release_Date": "2024-04-27T00:00:00+09:00",
     "tracklist": [
-      "[254,mktls-822]"
+      [
+        254,
+        "mktls-822"
+      ]
     ]
   },
   {
@@ -2726,7 +3334,10 @@
     ],
     "release_Date": "2024-05-28T00:00:00+09:00",
     "tracklist": [
-      "[245,mktls-824]"
+      [
+        245,
+        "mktls-824"
+      ]
     ]
   },
   {
@@ -2743,7 +3354,10 @@
     ],
     "release_Date": "2024-06-13T00:00:00+09:00",
     "tracklist": [
-      "[243,mktls-825]"
+      [
+        243,
+        "mktls-825"
+      ]
     ]
   },
   {
@@ -2760,7 +3374,14 @@
     ],
     "release_Date": "2024-06-26T00:00:00+09:00",
     "tracklist": [
-      "[214,mktls-371,mktls-372,mktls-832,mktls-833,mktls-834]"
+      [
+        214,
+        "mktls-371",
+        "mktls-372",
+        "mktls-832",
+        "mktls-833",
+        "mktls-834"
+      ]
     ]
   },
   {
@@ -2777,7 +3398,10 @@
     ],
     "release_Date": "2024-06-26T00:00:00+09:00",
     "tracklist": [
-      "[mktls-373,mktls-835]"
+      [
+        "mktls-373",
+        "mktls-835"
+      ]
     ]
   },
   {
@@ -2794,7 +3418,10 @@
     ],
     "release_Date": "2024-07-13T00:00:00+09:00",
     "tracklist": [
-      "[244,mktls-826]"
+      [
+        244,
+        "mktls-826"
+      ]
     ]
   },
   {
@@ -2810,7 +3437,10 @@
     ],
     "release_Date": "2024-07-29T00:00:00+09:00",
     "tracklist": [
-      "[255,mktls-823]"
+      [
+        255,
+        "mktls-823"
+      ]
     ]
   },
   {
@@ -2827,7 +3457,10 @@
     ],
     "release_Date": "2024-07-29T00:00:00+09:00",
     "tracklist": [
-      "[mktls-374,mktls-836]"
+      [
+        "mktls-374",
+        "mktls-836"
+      ]
     ]
   },
   {
@@ -2844,7 +3477,10 @@
     ],
     "release_Date": "2024-08-28T00:00:00+09:00",
     "tracklist": [
-      "[239,mktls-827]"
+      [
+        239,
+        "mktls-827"
+      ]
     ]
   },
   {
@@ -2861,7 +3497,10 @@
     ],
     "release_Date": "2024-08-29T00:00:00+09:00",
     "tracklist": [
-      "[mktls-375,mktls-837]"
+      [
+        "mktls-375",
+        "mktls-837"
+      ]
     ]
   },
   {
@@ -2878,7 +3517,10 @@
     ],
     "release_Date": "2024-09-11T00:00:00+09:00",
     "tracklist": [
-      "[248,mktls-828]"
+      [
+        248,
+        "mktls-828"
+      ]
     ]
   },
   {
@@ -2895,7 +3537,10 @@
     ],
     "release_Date": "2024-09-26T00:00:00+09:00",
     "tracklist": [
-      "[mktls-376,mktls-838]"
+      [
+        "mktls-376",
+        "mktls-838"
+      ]
     ]
   },
   {
@@ -2912,7 +3557,10 @@
     ],
     "release_Date": "2024-10-13T00:00:00+09:00",
     "tracklist": [
-      "[249,mktls-829]"
+      [
+        249,
+        "mktls-829"
+      ]
     ]
   },
   {
@@ -2929,7 +3577,10 @@
     ],
     "release_Date": "2024-10-28T00:00:00+09:00",
     "tracklist": [
-      "[242,mktls-830]"
+      [
+        242,
+        "mktls-830"
+      ]
     ]
   },
   {
@@ -2946,7 +3597,10 @@
     ],
     "release_Date": "2024-10-29T00:00:00+09:00",
     "tracklist": [
-      "[mktls-377,mktls-839]"
+      [
+        "mktls-377",
+        "mktls-839"
+      ]
     ]
   },
   {
@@ -2987,6 +3641,26 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-900",
+    "name": {
+      "alt": "HELIOS Rising Heroes×ES!!「We Are Light」",
+      "raw": "HELIOS Rising Heroes×あんさんぶるスターズ！！「We Are Light」"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2024-11-01T00:00:00+09:00",
+    "tracklist": [
+      [
+        315,
+        "mktls-901",
+        "mktls-902"
+      ]
+    ]
+  },
+  {
+    "compliant": "TRUE",
     "id": 149,
     "name": {
       "alt": "Trickstar「ワチャガナドゥ？」",
@@ -2999,7 +3673,10 @@
     ],
     "release_Date": "2024-11-12T00:00:00+09:00",
     "tracklist": [
-      "[246,mktls-831]"
+      [
+        246,
+        "mktls-831"
+      ]
     ]
   },
   {
@@ -3016,7 +3693,10 @@
     ],
     "release_Date": "2024-11-26T00:00:00+09:00",
     "tracklist": [
-      "[mktls-378,mktls-840]"
+      [
+        "mktls-378",
+        "mktls-840"
+      ]
     ]
   },
   {
