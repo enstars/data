@@ -1451,7 +1451,11 @@
     ],
     "release_Date": "2020-09-30T00:00:00+09:00",
     "tracklist": [
-      "[51,mktls-469,mktls-631]"
+      [
+        51,
+        "mktls-469",
+        "mktls-631"
+      ]
     ],
     "link": "https://nex-tone.link/90329"
   },
@@ -1469,7 +1473,15 @@
     ],
     "release_Date": "2020-10-28T00:00:00+09:00",
     "tracklist": [
-      "[52,68,mktls-366,mktls-470,mktls-632,mktls-633,mktls-634]"
+      [
+        52,
+        68,
+        "mktls-366",
+        "mktls-470",
+        "mktls-632",
+        "mktls-633",
+        "mktls-634"
+      ]
     ],
     "link": "https://nex-tone.link/91687"
   },
@@ -1960,7 +1972,7 @@
     ],
     "release_Date": "2022-03-09T00:00:00+09:00",
     "tracklist": [
-      "[101,mktls-368,mktls-662,mktls-663]"
+      "[101,224,mktls-662,mktls-663]"
     ]
   },
   {
@@ -2568,7 +2580,7 @@
     ],
     "release_Date": "2024-02-21T00:00:00+09:00",
     "tracklist": [
-      "[209,38,101,mktls-368,154,196,mktls-426,mktls-427,mktls-428,mktls-429,mktls-430]",
+      "[209,38,101,224,154,196,mktls-426,mktls-427,mktls-428,mktls-429,mktls-430]",
       null,
       "[mktls-477,mktls-491,mktls-505,mktls-519,mktls-533]"
     ]
