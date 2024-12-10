@@ -9233,7 +9233,7 @@
     "character_id": [
       [
         22,
-        73,
+        74,
         40,
         38
       ]
@@ -9528,7 +9528,7 @@
     "character_id": [
       [
         19,
-        73,
+        74,
         29,
         40,
         39
@@ -19840,36 +19840,6 @@
     "version": {
       "full": [
         213
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-882",
-    "name": "しょーがいゼッタイそーあい宣言♥ (Instrumental)",
-    "unit_id": [
-      18
-    ],
-    "version": {
-      "full": [
-        233
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-883",
-    "name": "スキスキハンター♡ (Instrumental)",
-    "unit_id": [
-      18
-    ],
-    "version": {
-      "full": [
-        269
       ]
     },
     "has_game_edit": "FALSE",
