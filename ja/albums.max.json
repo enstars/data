@@ -2,7 +2,10 @@
   {
     "compliant": "TRUE",
     "id": 1,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.1「UNDEAD」",
+    "name": {
+      "alt": "ユニットソングCD Vol.1「UNDEAD」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.1「UNDEAD」"
+    },
     "era": 1,
     "volume": 1,
     "unit_id": [
@@ -10,14 +13,22 @@
     ],
     "release_Date": "2015-10-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[2,136,mktls-554,mktls-555,mktls-556]"
+      [
+        2,
+        136,
+        "mktls-554",
+        "mktls-555",
+        "mktls-556"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 2,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.2「Knights」",
+    "name": {
+      "alt": "ユニットソングCD Vol.2「Knights」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.2「Knights」"
+    },
     "era": 1,
     "volume": 2,
     "unit_id": [
@@ -25,14 +36,22 @@
     ],
     "release_Date": "2015-10-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[3,mktls-299,mktls-557,mktls-558,mktls-559]"
+      [
+        3,
+        "mktls-299",
+        "mktls-557",
+        "mktls-558",
+        "mktls-559"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 3,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.3「fine」",
+    "name": {
+      "alt": "ユニットソングCD Vol.3「fine」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.3「fine」"
+    },
     "era": 1,
     "volume": 3,
     "unit_id": [
@@ -40,14 +59,22 @@
     ],
     "release_Date": "2015-11-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[4,mktls-298,mktls-560,mktls-561,mktls-562]"
+      [
+        4,
+        "mktls-298",
+        "mktls-560",
+        "mktls-561",
+        "mktls-562"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 4,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.4「紅月」",
+    "name": {
+      "alt": "ユニットソングCD Vol.4「紅月」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.4「紅月」"
+    },
     "era": 1,
     "volume": 4,
     "unit_id": [
@@ -55,14 +82,22 @@
     ],
     "release_Date": "2015-11-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[5,mktls-308,mktls-563,mktls-564,mktls-565]"
+      [
+        5,
+        "mktls-308",
+        "mktls-563",
+        "mktls-564",
+        "mktls-565"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 5,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.5「流星隊」",
+    "name": {
+      "alt": "ユニットソングCD Vol.5「流星隊」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.5「流星隊」"
+    },
     "era": 1,
     "volume": 5,
     "unit_id": [
@@ -70,14 +105,22 @@
     ],
     "release_Date": "2015-12-23T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-307,31,mktls-566,mktls-567,mktls-568]"
+      [
+        "mktls-307",
+        31,
+        "mktls-566",
+        "mktls-567",
+        "mktls-568"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 6,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.6「2wink」",
+    "name": {
+      "alt": "ユニットソングCD Vol.6「2wink」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.6「2wink」"
+    },
     "era": 1,
     "volume": 6,
     "unit_id": [
@@ -85,14 +128,22 @@
     ],
     "release_Date": "2015-12-23T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[7,32,mktls-569,mktls-570,mktls-571]"
+      [
+        7,
+        32,
+        "mktls-569",
+        "mktls-570",
+        "mktls-571"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 7,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.7「Ra*bits」",
+    "name": {
+      "alt": "ユニットソングCD Vol.7「Ra*bits」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.7「Ra*bits」"
+    },
     "era": 1,
     "volume": 7,
     "unit_id": [
@@ -100,14 +151,22 @@
     ],
     "release_Date": "2016-01-27T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[8,135,mktls-572,mktls-573,mktls-574]"
+      [
+        8,
+        135,
+        "mktls-572",
+        "mktls-573",
+        "mktls-574"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 8,
-    "name": "「あんさんぶるスターズ！」ユニットソングCD Vol.8「Trickstar」",
+    "name": {
+      "alt": "ユニットソングCD Vol.8「Trickstar」",
+      "raw": "「あんさんぶるスターズ！」ユニットソングCD Vol.8「Trickstar」"
+    },
     "era": 1,
     "volume": 8,
     "unit_id": [
@@ -115,14 +174,22 @@
     ],
     "release_Date": "2016-01-27T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-301,mktls-300,mktls-575,mktls-576,mktls-577]"
+      [
+        "mktls-301",
+        "mktls-300",
+        "mktls-575",
+        "mktls-576",
+        "mktls-577"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 9,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.01 UNDEAD",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.01 UNDEAD",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.01 UNDEAD"
+    },
     "era": 1,
     "volume": 1,
     "unit_id": [
@@ -130,14 +197,21 @@
     ],
     "release_Date": "2016-09-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[72,mktls-305,mktls-578,mktls-579]"
+      [
+        72,
+        "mktls-305",
+        "mktls-578",
+        "mktls-579"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 10,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.02 2wink",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.02 2wink",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.02 2wink"
+    },
     "era": 1,
     "volume": 2,
     "unit_id": [
@@ -145,14 +219,21 @@
     ],
     "release_Date": "2016-09-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[80,mktls-304,mktls-580,mktls-581]"
+      [
+        80,
+        "mktls-304",
+        "mktls-580",
+        "mktls-581"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 11,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.03 Knights",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.03 Knights",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.03 Knights"
+    },
     "era": 1,
     "volume": 3,
     "unit_id": [
@@ -160,14 +241,21 @@
     ],
     "release_Date": "2016-10-26T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[34,41,mktls-582,mktls-583]"
+      [
+        34,
+        41,
+        "mktls-582",
+        "mktls-583"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 12,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.04 紅月",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.04 紅月",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.04 紅月"
+    },
     "era": 1,
     "volume": 4,
     "unit_id": [
@@ -175,14 +263,21 @@
     ],
     "release_Date": "2016-10-26T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-312,44,mktls-584,mktls-585]"
+      [
+        "mktls-312",
+        44,
+        "mktls-584",
+        "mktls-585"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 13,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.05 流星隊",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.05 流星隊",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.05 流星隊"
+    },
     "era": 1,
     "volume": 5,
     "unit_id": [
@@ -190,14 +285,21 @@
     ],
     "release_Date": "2016-11-23T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-303,83,mktls-586,mktls-587]"
+      [
+        "mktls-303",
+        83,
+        "mktls-586",
+        "mktls-587"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 14,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.06 Ra*bits",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.06 Ra*bits",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.06 Ra*bits"
+    },
     "era": 1,
     "volume": 6,
     "unit_id": [
@@ -205,14 +307,21 @@
     ],
     "release_Date": "2016-11-23T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-302,30,mktls-588,mktls-589]"
+      [
+        "mktls-302",
+        30,
+        "mktls-588",
+        "mktls-589"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 15,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.07 Valkyrie",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.07 Valkyrie",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.07 Valkyrie"
+    },
     "era": 1,
     "volume": 7,
     "unit_id": [
@@ -220,14 +329,21 @@
     ],
     "release_Date": "2016-12-21T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[10,mktls-306,mktls-590,mktls-591]"
+      [
+        10,
+        "mktls-306",
+        "mktls-590",
+        "mktls-591"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 16,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.08 Switch",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.08 Switch",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.08 Switch"
+    },
     "era": 1,
     "volume": 8,
     "unit_id": [
@@ -235,14 +351,21 @@
     ],
     "release_Date": "2016-12-21T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[11,43,mktls-592,mktls-593]"
+      [
+        11,
+        43,
+        "mktls-592",
+        "mktls-593"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 17,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.09 fine",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.09 fine",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.09 fine"
+    },
     "era": 1,
     "volume": 9,
     "unit_id": [
@@ -250,14 +373,21 @@
     ],
     "release_Date": "2017-01-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[47,84,mktls-594,mktls-595]"
+      [
+        47,
+        84,
+        "mktls-594",
+        "mktls-595"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 18,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.10 Trickstar",
+    "name": {
+      "alt": "ユニットソングCD 第2弾 vol.10 Trickstar",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 第2弾 vol.10 Trickstar"
+    },
     "era": 1,
     "volume": 10,
     "unit_id": [
@@ -265,14 +395,21 @@
     ],
     "release_Date": "2017-01-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[46,mktls-313,mktls-596,mktls-597]"
+      [
+        46,
+        "mktls-313",
+        "mktls-596",
+        "mktls-597"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 19,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.1 流星隊",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.1 流星隊",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.1 流星隊"
+    },
     "era": 1,
     "volume": 1,
     "unit_id": [
@@ -280,14 +417,21 @@
     ],
     "release_Date": "2017-08-09T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[45,134,mktls-598,mktls-599]"
+      [
+        45,
+        134,
+        "mktls-598",
+        "mktls-599"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 20,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.2 Knights",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.2 Knights",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.2 Knights"
+    },
     "era": 1,
     "volume": 2,
     "unit_id": [
@@ -295,14 +439,23 @@
     ],
     "release_Date": "2017-08-09T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[138,mktls-311,186,mktls-600,mktls-601,mktls-602]"
+      [
+        138,
+        "mktls-311",
+        186,
+        "mktls-600",
+        "mktls-601",
+        "mktls-602"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 21,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.3 fine",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.3 fine",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.3 fine"
+    },
     "era": 1,
     "volume": 3,
     "unit_id": [
@@ -310,14 +463,21 @@
     ],
     "release_Date": "2017-09-06T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[133,mktls-310,mktls-603,mktls-604]"
+      [
+        133,
+        "mktls-310",
+        "mktls-603",
+        "mktls-604"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 22,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.4 Valkyrie",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.4 Valkyrie",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.4 Valkyrie"
+    },
     "era": 1,
     "volume": 4,
     "unit_id": [
@@ -325,14 +485,21 @@
     ],
     "release_Date": "2017-09-06T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[123,57,mktls-605,mktls-606]"
+      [
+        123,
+        57,
+        "mktls-605",
+        "mktls-606"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 23,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.5 2wink",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.5 2wink",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.5 2wink"
+    },
     "era": 1,
     "volume": 5,
     "unit_id": [
@@ -340,14 +507,21 @@
     ],
     "release_Date": "2017-10-04T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[33,mktls-309,mktls-607,mktls-608]"
+      [
+        33,
+        "mktls-309",
+        "mktls-607",
+        "mktls-608"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 24,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.6 UNDEAD",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.6 UNDEAD",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.6 UNDEAD"
+    },
     "era": 1,
     "volume": 6,
     "unit_id": [
@@ -355,14 +529,23 @@
     ],
     "release_Date": "2017-10-04T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[42,mktls-315,182,mktls-609,mktls-610,mktls-611]"
+      [
+        42,
+        "mktls-315",
+        182,
+        "mktls-609",
+        "mktls-610",
+        "mktls-611"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 25,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.7 Ra*bits",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.7 Ra*bits",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.7 Ra*bits"
+    },
     "era": 1,
     "volume": 7,
     "unit_id": [
@@ -370,14 +553,21 @@
     ],
     "release_Date": "2017-11-08T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[76,mktls-316,mktls-612,mktls-613]"
+      [
+        76,
+        "mktls-316",
+        "mktls-612",
+        "mktls-613"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 26,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.8 紅月",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.8 紅月",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.8 紅月"
+    },
     "era": 1,
     "volume": 8,
     "unit_id": [
@@ -385,14 +575,21 @@
     ],
     "release_Date": "2017-11-08T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[137,73,mktls-614,mktls-615]"
+      [
+        137,
+        73,
+        "mktls-614",
+        "mktls-615"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 27,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.9 Switch",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.9 Switch",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.9 Switch"
+    },
     "era": 1,
     "volume": 9,
     "unit_id": [
@@ -400,14 +597,21 @@
     ],
     "release_Date": "2017-12-06T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[128,139,mktls-616,mktls-617]"
+      [
+        128,
+        139,
+        "mktls-616",
+        "mktls-617"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 28,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.10 Trickstar",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.10 Trickstar",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.10 Trickstar"
+    },
     "era": 1,
     "volume": 10,
     "unit_id": [
@@ -415,14 +619,21 @@
     ],
     "release_Date": "2017-12-06T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[77,mktls-317,mktls-618,mktls-619]"
+      [
+        77,
+        "mktls-317",
+        "mktls-618",
+        "mktls-619"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 29,
-    "name": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.11 MaM",
+    "name": {
+      "alt": "ユニットソングCD 3rdシリーズ vol.11 MaM",
+      "raw": "あんさんぶるスターズ！ ユニットソングCD 3rdシリーズ vol.11 MaM"
+    },
     "era": 1,
     "volume": 11,
     "unit_id": [
@@ -430,49 +641,73 @@
     ],
     "release_Date": "2018-01-10T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[13,71,mktls-620,mktls-621]"
+      [
+        13,
+        71,
+        "mktls-620",
+        "mktls-621"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 30,
-    "name": "『あんさんぶるスターズ！』ユニットソングCD Eden",
+    "name": {
+      "alt": "ユニットソングCD Eden",
+      "raw": "『あんさんぶるスターズ！』ユニットソングCD Eden"
+    },
     "era": 1,
     "unit_id": [
       14
     ],
     "release_Date": "2018-02-21T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[12,143,142,mktls-622,mktls-623,mktls-624]"
+      [
+        12,
+        143,
+        142,
+        "mktls-622",
+        "mktls-623",
+        "mktls-624"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 31,
-    "name": "『あんさんぶるスターズ！』佐賀美 陣 ＆ 椚 章臣 アイドルソングCD",
+    "name": {
+      "alt": "佐賀美 陣 ＆ 椚 章臣 アイドルソングCD",
+      "raw": "『あんさんぶるスターズ！』佐賀美 陣 ＆ 椚 章臣 アイドルソングCD"
+    },
     "era": 1,
     "unit_id": [
       19
     ],
     "release_Date": "2017-07-26T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-318,mktls-319,mktls-320,mktls-625,mktls-626,mktls-627]"
+      [
+        "mktls-318",
+        "mktls-319",
+        "mktls-320",
+        "mktls-625",
+        "mktls-626",
+        "mktls-627"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 32,
-    "name": "『あんさんぶるスターズ！』佐賀美 陣 ＆ 椚 章臣 アイドルソング2",
+    "name": {
+      "alt": "佐賀美 陣 ＆ 椚 章臣 アイドルソング2",
+      "raw": "『あんさんぶるスターズ！』佐賀美 陣 ＆ 椚 章臣 アイドルソング2"
+    },
     "era": 1,
     "unit_id": [
       19
     ],
     "release_Date": "2018-12-19T00:00:00+09:00",
     "tracklist": [
-      null,
       [
         54
       ]
@@ -481,7 +716,10 @@
   {
     "compliant": "TRUE",
     "id": 33,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ 流星隊",
+    "name": {
+      "alt": "アルバムシリーズ 流星隊",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ 流星隊"
+    },
     "era": 1,
     "volume": 1,
     "unit_id": [
@@ -489,14 +727,28 @@
     ],
     "release_Date": "2018-03-07T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-307,31,45,83,18,134,mktls-321,mktls-322,mktls-323,mktls-324,mktls-325]"
+      [
+        "mktls-307",
+        31,
+        45,
+        83,
+        18,
+        134,
+        "mktls-321",
+        "mktls-322",
+        "mktls-323",
+        "mktls-324",
+        "mktls-325"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 34,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ Ra*bits",
+    "name": {
+      "alt": "アルバムシリーズ Ra*bits",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ Ra*bits"
+    },
     "era": 1,
     "volume": 2,
     "unit_id": [
@@ -504,14 +756,28 @@
     ],
     "release_Date": "2018-04-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[8,135,mktls-302,30,76,19,mktls-316,mktls-326,mktls-327,mktls-328,mktls-329]"
+      [
+        8,
+        135,
+        "mktls-302",
+        30,
+        76,
+        19,
+        "mktls-316",
+        "mktls-326",
+        "mktls-327",
+        "mktls-328",
+        "mktls-329"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 35,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ Knights",
+    "name": {
+      "alt": "アルバムシリーズ Knights",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ Knights"
+    },
     "era": 1,
     "volume": 3,
     "unit_id": [
@@ -519,14 +785,30 @@
     ],
     "release_Date": "2018-05-30T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[3,mktls-299,34,41,186,138,mktls-311,20,mktls-330,mktls-331,mktls-332,mktls-333,mktls-334]"
+      [
+        3,
+        "mktls-299",
+        34,
+        41,
+        186,
+        138,
+        "mktls-311",
+        20,
+        "mktls-330",
+        "mktls-331",
+        "mktls-332",
+        "mktls-333",
+        "mktls-334"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 36,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ 紅月",
+    "name": {
+      "alt": "アルバムシリーズ 紅月",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ 紅月"
+    },
     "era": 1,
     "volume": 4,
     "unit_id": [
@@ -534,14 +816,27 @@
     ],
     "release_Date": "2018-06-27T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[5,mktls-308,44,21,mktls-312,73,137,mktls-335,mktls-336,mktls-337]"
+      [
+        5,
+        "mktls-308",
+        44,
+        21,
+        "mktls-312",
+        73,
+        137,
+        "mktls-335",
+        "mktls-336",
+        "mktls-337"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 37,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ UNDEAD",
+    "name": {
+      "alt": "アルバムシリーズ UNDEAD",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ UNDEAD"
+    },
     "era": 1,
     "volume": 5,
     "unit_id": [
@@ -549,14 +844,29 @@
     ],
     "release_Date": "2018-08-29T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[2,42,mktls-305,mktls-315,136,72,22,182,mktls-338,mktls-339,mktls-340,mktls-341]"
+      [
+        2,
+        42,
+        "mktls-305",
+        "mktls-315",
+        136,
+        72,
+        22,
+        182,
+        "mktls-338",
+        "mktls-339",
+        "mktls-340",
+        "mktls-341"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 38,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ Switch",
+    "name": {
+      "alt": "アルバムシリーズ Switch",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ Switch"
+    },
     "era": 1,
     "volume": 6,
     "unit_id": [
@@ -564,14 +874,27 @@
     ],
     "release_Date": "2018-10-24T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[23,11,43,128,139,74,126,mktls-342,mktls-343,mktls-344]"
+      [
+        23,
+        11,
+        43,
+        128,
+        139,
+        74,
+        126,
+        "mktls-342",
+        "mktls-343",
+        "mktls-344"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 39,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ MaM",
+    "name": {
+      "alt": "アルバムシリーズ MaM",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ MaM"
+    },
     "era": 1,
     "volume": 7,
     "unit_id": [
@@ -579,14 +902,23 @@
     ],
     "release_Date": "2018-10-24T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[13,71,24,110,mktls-345,mktls-346]"
+      [
+        13,
+        71,
+        24,
+        110,
+        "mktls-345",
+        "mktls-346"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 40,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ 2wink",
+    "name": {
+      "alt": "アルバムシリーズ Valkyrie",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ 2wink"
+    },
     "era": 1,
     "volume": 8,
     "unit_id": [
@@ -594,14 +926,26 @@
     ],
     "release_Date": "2018-11-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[10,123,25,75,57,mktls-347,mktls-306,mktls-348,mktls-349]"
+      [
+        10,
+        123,
+        25,
+        75,
+        57,
+        "mktls-347",
+        "mktls-306",
+        "mktls-348",
+        "mktls-349"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 41,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ fine",
+    "name": {
+      "alt": "アルバムシリーズ fine",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ fine"
+    },
     "era": 1,
     "volume": 9,
     "unit_id": [
@@ -609,14 +953,29 @@
     ],
     "release_Date": "2019-01-30T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[4,47,84,mktls-298,mktls-310,26,133,132,mktls-350,mktls-351,mktls-352,mktls-353]"
+      [
+        4,
+        47,
+        84,
+        "mktls-298",
+        "mktls-310",
+        26,
+        133,
+        132,
+        "mktls-350",
+        "mktls-351",
+        "mktls-352",
+        "mktls-353"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 42,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ 2wink",
+    "name": {
+      "alt": "アルバムシリーズ 2wink",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ 2wink"
+    },
     "era": 1,
     "volume": 10,
     "unit_id": [
@@ -624,14 +983,27 @@
     ],
     "release_Date": "2019-02-27T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-354,7,80,32,7,mktls-309,27,mktls-304,mktls-355,mktls-356]"
+      [
+        "mktls-354",
+        7,
+        80,
+        32,
+        7,
+        "mktls-309",
+        27,
+        "mktls-304",
+        "mktls-355",
+        "mktls-356"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 43,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ Trickstar",
+    "name": {
+      "alt": "アルバムシリーズ Trickstar",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ Trickstar"
+    },
     "era": 1,
     "volume": 11,
     "unit_id": [
@@ -639,14 +1011,30 @@
     ],
     "release_Date": "2019-04-24T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[9,46,mktls-357,176,130,mktls-317,77,28,1,mktls-358,mktls-359,mktls-360,mktls-361]"
+      [
+        9,
+        46,
+        "mktls-357",
+        176,
+        130,
+        "mktls-317",
+        77,
+        28,
+        1,
+        "mktls-358",
+        "mktls-359",
+        "mktls-360",
+        "mktls-361"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 44,
-    "name": "あんさんぶるスターズ！ アルバムシリーズ Eden",
+    "name": {
+      "alt": "アルバムシリーズ Eden",
+      "raw": "あんさんぶるスターズ！ アルバムシリーズ Eden"
+    },
     "era": 1,
     "volume": 12,
     "unit_id": [
@@ -654,28 +1042,47 @@
     ],
     "release_Date": "2019-04-24T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[12,29,143,69,142,70,mktls-362,mktls-363,mktls-364,mktls-365]"
+      [
+        12,
+        29,
+        143,
+        69,
+        142,
+        70,
+        "mktls-362",
+        "mktls-363",
+        "mktls-364",
+        "mktls-365"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 45,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 OP主題歌「Stars' Ensemble!」",
+    "name": {
+      "alt": "TVアニメ  OP主題歌「Stars' Ensemble!」",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 OP主題歌「Stars' Ensemble!」"
+    },
     "era": 1,
     "unit_id": [
       101
     ],
     "release_Date": "2019-08-14T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[16,mktls-706,mktls-707]"
+      [
+        16,
+        "mktls-706",
+        "mktls-707"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 46,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.01",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.01",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.01"
+    },
     "era": 1,
     "volume": 1,
     "unit_id": [
@@ -684,14 +1091,21 @@
     ],
     "release_Date": "2019-08-28T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[86,104,mktls-708,mktls-709]"
+      [
+        86,
+        104,
+        "mktls-708",
+        "mktls-709"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 47,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.02",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.02",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.02"
+    },
     "era": 1,
     "volume": 2,
     "unit_id": [
@@ -700,14 +1114,21 @@
     ],
     "release_Date": "2019-09-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[99,94,mktls-710,mktls-711]"
+      [
+        99,
+        94,
+        "mktls-710",
+        "mktls-711"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 48,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.03",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.03",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.03"
+    },
     "era": 1,
     "volume": 3,
     "unit_id": [
@@ -716,14 +1137,21 @@
     ],
     "release_Date": "2019-10-23T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[91,102,mktls-712,mktls-713]"
+      [
+        91,
+        102,
+        "mktls-712",
+        "mktls-713"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 49,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.04",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.04",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.04"
+    },
     "era": 1,
     "volume": 4,
     "unit_id": [
@@ -732,14 +1160,21 @@
     ],
     "release_Date": "2019-11-27T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[107,97,mktls-714,mktls-715]"
+      [
+        107,
+        97,
+        "mktls-714",
+        "mktls-715"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 50,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.05",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.05",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.05"
+    },
     "era": 1,
     "volume": 5,
     "unit_id": [
@@ -748,14 +1183,21 @@
     ],
     "release_Date": "2019-12-25T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[93,89,mktls-716,mktls-717]"
+      [
+        93,
+        89,
+        "mktls-716",
+        "mktls-717"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 51,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.06",
+    "name": {
+      "alt": "TVアニメ  EDテーマ集 VOL.06",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 VOL.06"
+    },
     "era": 1,
     "volume": 6,
     "unit_id": [
@@ -764,14 +1206,21 @@
     ],
     "release_Date": "2020-02-26T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[106,96,mktls-718,mktls-719]"
+      [
+        106,
+        96,
+        "mktls-718",
+        "mktls-719"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 52,
-    "name": "TVアニメ 『あんさんぶるスターズ！』 第2クールOP主題歌「キセキ」",
+    "name": {
+      "alt": "TVアニメ  第2クールOP主題歌「キセキ」",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』 第2クールOP主題歌「キセキ」"
+    },
     "era": 1,
     "unit_id": [
       1,
@@ -779,57 +1228,86 @@
     ],
     "release_Date": "2019-12-11T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-720,mktls-721,mktls-722]"
+      [
+        "mktls-720",
+        "mktls-721",
+        "mktls-722"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 53,
-    "name": "あんさんぶるスターズ！！ ユニットソングCD ALKALOID",
+    "name": {
+      "alt": "ユニットソングCD ALKALOID",
+      "raw": "あんさんぶるスターズ！！ ユニットソングCD ALKALOID"
+    },
     "era": 2,
     "unit_id": [
       15
     ],
     "release_Date": "2020-01-29T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[14,36,55,mktls-781,mktls-782,mktls-783]"
+      [
+        14,
+        36,
+        55,
+        "mktls-781",
+        "mktls-782",
+        "mktls-783"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 54,
-    "name": "あんさんぶるスターズ！！ ユニットソングCD Crazy:B",
+    "name": {
+      "alt": "ユニットソングCD Crazy:B",
+      "raw": "あんさんぶるスターズ！！ ユニットソングCD Crazy:B"
+    },
     "era": 2,
     "unit_id": [
       16
     ],
     "release_Date": "2020-01-29T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[15,37,56,mktls-784,mktls-785,mktls-786]"
+      [
+        15,
+        37,
+        56,
+        "mktls-784",
+        "mktls-785",
+        "mktls-786"
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 55,
-    "name": "TVアニメ 『あんさんぶるスターズ！』オリジナルサウンドトラック",
+    "name": {
+      "alt": "TVアニメ ！オリジナルサウンドトラック",
+      "raw": "TVアニメ 『あんさんぶるスターズ！』オリジナルサウンドトラック"
+    },
     "era": 2,
     "unit_id": [
       101
     ],
     "release_Date": "2020-02-26T00:00:00+09:00",
     "tracklist": [
-      null,
-      "[mktls-723,mktls-724,mktls-725,mktls-726,mktls-727,mktls-728,ktls-729,mktls-730,mktls-731,mktls-732,mktls-733,mktls-734,mktls-735,mktls-736,mktls-737,mktls-738,mktls-739,mktls-740,mktls-741,mktls-742,mktls-743,mktls-744,mktls-745,mktls-746,mktls-747,mktls-748,mktls-749,mktls-750]",
-      "[mktls-751,mktls-752,mktls-753,mktls-754,mktls-755,mktls-756,mktls-757,mktls-758,mktls-759,mktls-760,mktls-761,mktls-762,mktls-763,mktls-764,mktls-765,mktls-766,mktls-767,mktls-768.mktls-769,mktls-770,mktls-771,mktls-772,mktls-773,mktls-774,mktls-775]"
+      "[\"mktls-723\",\"mktls-724\",\"mktls-725\",\"mktls-726\",\"mktls-727\",\"mktls-728\",\"ktls-729\",\"mktls-730\",\"mktls-731\",\"mktls-732\",\"mktls-733\",\"mktls-734\",\"mktls-735\",\"mktls-736\",\"mktls-737\",\"mktls-738\",\"mktls-739\",\"mktls-740\",\"mktls-741\",\"mktls-742\",\"mktls-743\",\"mktls-744,mktls-745,mktls-746,mktls-747,mktls-748,mktls-749,mktls-750]",
+      "[mktls-751,mktls-752,mktls-753,mktls-754,mktls-755,mktls-756,mktls-757,mktls-758,mktls-759,mktls-760,mktls-761,mktls-762,mktls-763,mktls-764,mktls-765,mktls-766,mktls-767,mktls-768.mktls-769,mktls-770,mktls-771,mktls-772,mktls-773,mktls-774,mktls-775]",
+      [
+        776
+      ]
     ]
   },
   {
     "compliant": "TRUE",
     "id": 56,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Trickstar",
+    "name": {
+      "alt": "ESアイドルソング season1 Trickstar",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Trickstar"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -837,7 +1315,6 @@
     ],
     "release_Date": "2020-05-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[38,mktls-477,mktls-628]"
     ],
     "link": "https://nex-tone.link/85762"
@@ -845,21 +1322,26 @@
   {
     "compliant": "TRUE",
     "id": 57,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング Extra Jin & Akiomi",
+    "name": {
+      "alt": "ESアイドルソング Extra Jin & Akiomi",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング Extra Jin & Akiomi"
+    },
     "era": 2,
     "unit_id": [
       19
     ],
     "release_Date": "2020-06-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[50,mktls-370,mktls-777]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 58,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 fine",
+    "name": {
+      "alt": "ESアイドルソング season1 fine",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 fine"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -867,7 +1349,6 @@
     ],
     "release_Date": "2020-07-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[39,mktls-471,mktls-629]"
     ],
     "link": "https://nex-tone.link/87786"
@@ -875,7 +1356,10 @@
   {
     "compliant": "TRUE",
     "id": 59,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Eden",
+    "name": {
+      "alt": "ESアイドルソング season1 Eden",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Eden"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -883,7 +1367,6 @@
     ],
     "release_Date": "2020-08-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[49,mktls-480,mktls-630]"
     ],
     "link": "https://nex-tone.link/88961"
@@ -891,21 +1374,26 @@
   {
     "compliant": "TRUE",
     "id": 60,
-    "name": "『あんさんぶるスターズ！！』アプリ主題歌「BRAND NEW STARS!!」",
+    "name": {
+      "alt": "アプリ主題歌「BRAND NEW STARS!!」",
+      "raw": "『あんさんぶるスターズ！！』アプリ主題歌「BRAND NEW STARS!!」"
+    },
     "era": 2,
     "unit_id": [
       100
     ],
     "release_Date": "2020-08-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[17,40,mktls-787,mktls-788]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 61,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Ra*bits",
+    "name": {
+      "alt": "ESアイドルソング season1 Ra*bits",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Ra*bits"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -913,7 +1401,6 @@
     ],
     "release_Date": "2020-09-30T00:00:00+09:00",
     "tracklist": [
-      null,
       "[51,mktls-469,mktls-631]"
     ],
     "link": "https://nex-tone.link/90329"
@@ -921,7 +1408,10 @@
   {
     "compliant": "TRUE",
     "id": 62,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Double Face",
+    "name": {
+      "alt": "ESアイドルソング season1 Double Face",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Double Face"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -929,7 +1419,6 @@
     ],
     "release_Date": "2020-10-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[52,68,mktls-366,mktls-470,mktls-632,mktls-633,mktls-634]"
     ],
     "link": "https://nex-tone.link/91687"
@@ -937,7 +1426,10 @@
   {
     "compliant": "TRUE",
     "id": 63,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Valkyrie",
+    "name": {
+      "alt": "ESアイドルソング season1 Valkyrie",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Valkyrie"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -945,7 +1437,6 @@
     ],
     "release_Date": "2020-11-25T00:00:00+09:00",
     "tracklist": [
-      null,
       "[53,mktls-472,mktls-635]"
     ],
     "link": "https://nex-tone.link/92865"
@@ -953,7 +1444,10 @@
   {
     "compliant": "TRUE",
     "id": 64,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B",
+    "name": {
+      "alt": "ESアイドルソング season1 Crazy:B",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -961,7 +1455,6 @@
     ],
     "release_Date": "2020-12-23T00:00:00+09:00",
     "tracklist": [
-      null,
       "[59,79,mktls-468,mktls-636,mktls-637]"
     ],
     "link": "https://nex-tone.link/94030"
@@ -969,7 +1462,10 @@
   {
     "compliant": "TRUE",
     "id": 65,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 ALKALOID",
+    "name": {
+      "alt": "ESアイドルソング season1 ALKALOID",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 ALKALOID"
+    },
     "era": 2,
     "volume": 8,
     "unit_id": [
@@ -977,7 +1473,6 @@
     ],
     "release_Date": "2021-01-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[58,78,mktls-474,mktls-638,mktls-639]"
     ],
     "link": "https://nex-tone.link/95152"
@@ -985,7 +1480,10 @@
   {
     "compliant": "TRUE",
     "id": 66,
-    "name": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.01",
+    "name": {
+      "alt": "シャッフルユニットソングコレクション vol.01",
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.01"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -993,14 +1491,16 @@
     ],
     "release_Date": "2021-01-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[48,62,66,mktls-690,mktls-691,mktls-692]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 67,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 UNDEAD",
+    "name": {
+      "alt": "ESアイドルソング season1 UNDEAD",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 UNDEAD"
+    },
     "era": 2,
     "volume": 9,
     "unit_id": [
@@ -1008,7 +1508,6 @@
     ],
     "release_Date": "2021-02-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[63,mktls-475,mktls-640]"
     ],
     "link": "https://nex-tone.link/96733"
@@ -1016,7 +1515,10 @@
   {
     "compliant": "TRUE",
     "id": 68,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 流星隊",
+    "name": {
+      "alt": "ESアイドルソング season1 流星隊",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 流星隊"
+    },
     "era": 2,
     "volume": 10,
     "unit_id": [
@@ -1024,7 +1526,6 @@
     ],
     "release_Date": "2021-02-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[60,mktls-478,mktls-641]"
     ],
     "link": "https://nex-tone.link/96735"
@@ -1032,7 +1533,10 @@
   {
     "compliant": "TRUE",
     "id": 69,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 2wink",
+    "name": {
+      "alt": "ESアイドルソング season1 2wink",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 2wink"
+    },
     "era": 2,
     "volume": 11,
     "unit_id": [
@@ -1040,7 +1544,6 @@
     ],
     "release_Date": "2021-03-10T00:00:00+09:00",
     "tracklist": [
-      null,
       "[61,mktls-473,mktls-642]"
     ],
     "link": "https://nex-tone.link/97429"
@@ -1048,7 +1551,10 @@
   {
     "compliant": "TRUE",
     "id": 70,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 紅月",
+    "name": {
+      "alt": "ESアイドルソング season1 紅月",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 紅月"
+    },
     "era": 2,
     "volume": 12,
     "unit_id": [
@@ -1056,7 +1562,6 @@
     ],
     "release_Date": "2021-03-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[64,mktls-476,mktls-643]"
     ],
     "link": "https://nex-tone.link/98337"
@@ -1064,7 +1569,10 @@
   {
     "compliant": "TRUE",
     "id": 71,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Knights",
+    "name": {
+      "alt": "ESアイドルソング season1 Knights",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Knights"
+    },
     "era": 2,
     "volume": 13,
     "unit_id": [
@@ -1072,7 +1580,6 @@
     ],
     "release_Date": "2021-04-07T00:00:00+09:00",
     "tracklist": [
-      null,
       "[67,mktls-481,mktls-644]"
     ],
     "link": "https://nex-tone.link/d923jyt94z"
@@ -1080,7 +1587,10 @@
   {
     "compliant": "TRUE",
     "id": 72,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング season1 Switch",
+    "name": {
+      "alt": "ESアイドルソング season1 Switch",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season1 Switch"
+    },
     "era": 2,
     "volume": 14,
     "unit_id": [
@@ -1088,7 +1598,6 @@
     ],
     "release_Date": "2021-05-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[65,mktls-479,mktls-645,mktls-815,mktls-812,mktls-813]"
     ],
     "link": "https://nex-tone.link/u03qan8rgf"
@@ -1096,7 +1605,10 @@
   {
     "compliant": "TRUE",
     "id": 73,
-    "name": "fine「恋はプリマヴェーラ！」あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "fine「恋はプリマヴェーラ！」ESアイドルソング season2",
+      "raw": "fine「恋はプリマヴェーラ！」あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -1104,14 +1616,16 @@
     ],
     "release_Date": "2021-06-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[82,217,mktls-646,mktls-647]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 74,
-    "name": "Switch ✕ Eden「Majestic Magic」 あんさんぶるスターズ！！ FUSION UNIT SERIES 01",
+    "name": {
+      "alt": "Switch ✕ Eden「Majestic Magic」 FUSION UNIT SERIES 01",
+      "raw": "Switch ✕ Eden「Majestic Magic」 あんさんぶるスターズ！！ FUSION UNIT SERIES 01"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -1120,28 +1634,32 @@
     ],
     "release_Date": "2021-06-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[113,mktls-507,mktls-508]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 75,
-    "name": "『あんさんぶるスターズ！！』6th Anniversary song「FUSIONIC STARS!!」",
+    "name": {
+      "alt": "6th Anniversary song「FUSIONIC STARS!!」",
+      "raw": "『あんさんぶるスターズ！！』6th Anniversary song「FUSIONIC STARS!!」"
+    },
     "era": 2,
     "unit_id": [
       100
     ],
     "release_Date": "2021-06-23T00:00:00+09:00",
     "tracklist": [
-      null,
       "[87,112,mktls-700,mktls-701]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 76,
-    "name": "Ra*bits「FALLIN’ LOVE=IT’S WONDERLAND」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Ra*bits「FALLIN’ LOVE=IT’S WONDERLAND」 ESアイドルソング season2",
+      "raw": "Ra*bits「FALLIN’ LOVE=IT’S WONDERLAND」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -1149,14 +1667,16 @@
     ],
     "release_Date": "2021-07-07T00:00:00+09:00",
     "tracklist": [
-      null,
       "[85,218,mktls-648,mktls-649]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 77,
-    "name": "Crazy:B「指先のアリアドネ」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Crazy:B「指先のアリアドネ」 ESアイドルソング season2",
+      "raw": "Crazy:B「指先のアリアドネ」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -1164,14 +1684,16 @@
     ],
     "release_Date": "2021-07-14T00:00:00+09:00",
     "tracklist": [
-      null,
       "[88,141,mktls-650,mktls-651]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 78,
-    "name": "Ra*bits ✕ Double Face「ポケットに宇宙」 あんさんぶるスターズ！！ FUSION UNIT SERIES 02",
+    "name": {
+      "alt": "Ra*bits ✕ Double Face「ポケットに宇宙」 FUSION UNIT SERIES 02",
+      "raw": "Ra*bits ✕ Double Face「ポケットに宇宙」 あんさんぶるスターズ！！ FUSION UNIT SERIES 02"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -1180,14 +1702,16 @@
     ],
     "release_Date": "2021-07-22T00:00:00+09:00",
     "tracklist": [
-      null,
       "[114,mktls-497,mktls-498,mktls-816,mktls-802,mktls-803]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 79,
-    "name": "ALKALOID ✕ Valkyrie「Artistic Partisan」 あんさんぶるスターズ！！ FUSION UNIT SERIES 03",
+    "name": {
+      "alt": "ALKALOID ✕ Valkyrie「Artistic Partisan」 FUSION UNIT SERIES 03",
+      "raw": "ALKALOID ✕ Valkyrie「Artistic Partisan」 あんさんぶるスターズ！！ FUSION UNIT SERIES 03"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -1196,14 +1720,16 @@
     ],
     "release_Date": "2021-09-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[115,mktls-502,mktls-500,mktls-817,mktls-807,mktls-805]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 80,
-    "name": "Knights「Mystic Fragrance」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Knights「Mystic Fragrance」 ESアイドルソング season2",
+      "raw": "Knights「Mystic Fragrance」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -1211,14 +1737,16 @@
     ],
     "release_Date": "2021-09-22T00:00:00+09:00",
     "tracklist": [
-      null,
       "[95,219,mktls-652,mktls-653]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 81,
-    "name": "Trickstar ✕ fine「Crossing×Heart」 あんさんぶるスターズ！！ FUSION UNIT SERIES 04",
+    "name": {
+      "alt": "Trickstar ✕ fine「Crossing×Heart」 FUSION UNIT SERIES 04",
+      "raw": "Trickstar ✕ fine「Crossing×Heart」 あんさんぶるスターズ！！ FUSION UNIT SERIES 04"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -1227,14 +1755,16 @@
     ],
     "release_Date": "2021-10-23T00:00:00+09:00",
     "tracklist": [
-      null,
       "[116,mktls-505,mktls-500,mktls-818,mktls-810,mktls-804]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 82,
-    "name": "Eden「EXCEED」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Eden「EXCEED」ESアイドルソング season2",
+      "raw": "Eden「EXCEED」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -1242,14 +1772,16 @@
     ],
     "release_Date": "2021-11-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[103,220,mktls-654,mktls-655]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 83,
-    "name": "UNDEAD ✕ 紅月「PERFECTLY-IMPERFECT」 あんさんぶるスターズ！！ FUSION UNIT SERIES 05",
+    "name": {
+      "alt": "UNDEAD ✕ 紅月「PERFECTLY-IMPERFECT」FUSION UNIT SERIES 05",
+      "raw": "UNDEAD ✕ 紅月「PERFECTLY-IMPERFECT」 あんさんぶるスターズ！！ FUSION UNIT SERIES 05"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -1258,14 +1790,16 @@
     ],
     "release_Date": "2021-12-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[117,mktls-503,mktls-504,mktls-819,mktls-808,mktls-804]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 84,
-    "name": "紅月「月光奇譚」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "紅月「月光奇譚」ESアイドルソング season2",
+      "raw": "紅月「月光奇譚」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -1273,14 +1807,16 @@
     ],
     "release_Date": "2022-01-19T00:00:00+09:00",
     "tracklist": [
-      null,
       "[105,221,mktls-656,mktls-657]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 85,
-    "name": "UNDEAD「FORBIDDEN RAIN」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "UNDEAD「FORBIDDEN RAIN」 ESアイドルソング season2",
+      "raw": "UNDEAD「FORBIDDEN RAIN」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -1288,14 +1824,16 @@
     ],
     "release_Date": "2022-01-19T00:00:00+09:00",
     "tracklist": [
-      null,
       "[92,222,mktls-658,mktls-659]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 86,
-    "name": "流星隊 ✕ Knights「青春Emergency」 あんさんぶるスターズ！！ FUSION UNIT SERIES 06",
+    "name": {
+      "alt": "流星隊 ✕ Knights「青春Emergency」 FUSION UNIT SERIES 06",
+      "raw": "流星隊 ✕ Knights「青春Emergency」 あんさんぶるスターズ！！ FUSION UNIT SERIES 06"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -1304,14 +1842,16 @@
     ],
     "release_Date": "2022-01-22T00:00:00+09:00",
     "tracklist": [
-      null,
       "[118,mktls-506,mktls-509,mktls-820,mktls-811,mktls-814]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 87,
-    "name": "流星隊「熱血☆流星忍法帖」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "流星隊「熱血☆流星忍法帖」 ESアイドルソング season2",
+      "raw": "流星隊「熱血☆流星忍法帖」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 8,
     "unit_id": [
@@ -1319,14 +1859,16 @@
     ],
     "release_Date": "2022-02-02T00:00:00+09:00",
     "tracklist": [
-      null,
       "[98,223,mktls-660,mktls-661]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 88,
-    "name": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.02",
+    "name": {
+      "alt": "シャッフルユニットソングコレクション vol.02",
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.02"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -1334,14 +1876,16 @@
     ],
     "release_Date": "2022-02-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[90,100,109,mktls-693,mktls-694,mktls-695]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 89,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング Extra fine & Eden",
+    "name": {
+      "alt": "ESアイドルソング Extra fine & Eden",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング Extra fine & Eden"
+    },
     "era": 2,
     "unit_id": [
       2,
@@ -1349,14 +1893,16 @@
     ],
     "release_Date": "2022-02-23T00:00:00+09:00",
     "tracklist": [
-      null,
       "[120,121,mktls-789,mktls-790]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 90,
-    "name": "Trickstar「Finder Girl」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Trickstar「Finder Girl」ESアイドルソング season2",
+      "raw": "Trickstar「Finder Girl」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 9,
     "unit_id": [
@@ -1364,14 +1910,16 @@
     ],
     "release_Date": "2022-03-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[101,mktls-368,mktls-662,mktls-663]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 91,
-    "name": "Crazy:B ✕ 2wink「LEMON SQUASH CHEERS!」 あんさんぶるスターズ！！ FUSION UNIT SERIES 07",
+    "name": {
+      "alt": "Crazy:B ✕ 2wink「LEMON SQUASH CHEERS!」 FUSION UNIT SERIES 07",
+      "raw": "Crazy:B ✕ 2wink「LEMON SQUASH CHEERS!」 あんさんぶるスターズ！！ FUSION UNIT SERIES 07"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -1380,14 +1928,16 @@
     ],
     "release_Date": "2022-03-09T00:00:00+09:00",
     "tracklist": [
-      null,
       "[119,mktls-496,mktls-501,mktls-821,mktls-801,mktls-806]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 92,
-    "name": "ALKALOID「Believe 4 leaves」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "ALKALOID「Believe 4 leaves」ESアイドルソング season2",
+      "raw": "ALKALOID「Believe 4 leaves」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 10,
     "unit_id": [
@@ -1395,14 +1945,16 @@
     ],
     "release_Date": "2022-03-23T00:00:00+09:00",
     "tracklist": [
-      null,
       "[108,140,mktls-664,mktls-665]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 93,
-    "name": "2wink「Swee2wink Love Letter」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "2wink「Swee2wink Love Letter」ESアイドルソング season2",
+      "raw": "2wink「Swee2wink Love Letter」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 11,
     "unit_id": [
@@ -1410,14 +1962,16 @@
     ],
     "release_Date": "2022-04-06T00:00:00+09:00",
     "tracklist": [
-      null,
       "[122,225,mktls-666,mktls-667]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 94,
-    "name": "Switch「Brilliant Smile」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Switch「Brilliant Smile」ESアイドルソング season2",
+      "raw": "Switch「Brilliant Smile」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 12,
     "unit_id": [
@@ -1425,14 +1979,16 @@
     ],
     "release_Date": "2022-05-11T00:00:00+09:00",
     "tracklist": [
-      null,
       "[124,226,mktls-668,mktls-669]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 95,
-    "name": "Valkyrie「Acanthe」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Valkyrie「Acanthe」ESアイドルソング season2",
+      "raw": "Valkyrie「Acanthe」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 13,
     "unit_id": [
@@ -1440,14 +1996,16 @@
     ],
     "release_Date": "2022-05-11T00:00:00+09:00",
     "tracklist": [
-      null,
       "[127,227,mktls-670,mktls-671]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 96,
-    "name": "Double Face「No name yet」 あんさんぶるスターズ！！ ESアイドルソング season2",
+    "name": {
+      "alt": "Double Face「No name yet」ESアイドルソング season2",
+      "raw": "Double Face「No name yet」 あんさんぶるスターズ！！ ESアイドルソング season2"
+    },
     "era": 2,
     "volume": 14,
     "unit_id": [
@@ -1456,28 +2014,32 @@
     ],
     "release_Date": "2022-05-25T00:00:00+09:00",
     "tracklist": [
-      null,
       "[125,mktls-369,229,mktls-672,mktls-673,mktls-674]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 97,
-    "name": "『あんさんぶるスターズ！！』7th Anniversary song「Surprising Thanks!!」",
+    "name": {
+      "alt": "7th Anniversary song「Surprising Thanks!!」",
+      "raw": "『あんさんぶるスターズ！！』7th Anniversary song「Surprising Thanks!!」"
+    },
     "era": 2,
     "unit_id": [
       100
     ],
     "release_Date": "2022-06-22T00:00:00+09:00",
     "tracklist": [
-      null,
       "[144,184,mktls-702,mktls-703]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 98,
-    "name": "Trickstar「Daydream×Reality」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Trickstar「Daydream×Reality」ESアイドルソング season3",
+      "raw": "Trickstar「Daydream×Reality」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -1485,14 +2047,16 @@
     ],
     "release_Date": "2022-07-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[154,mktls-519,mktls-675]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 99,
-    "name": "UNDEAD「Sustain Memories」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "UNDEAD「Sustain Memories」ESアイドルソング season3",
+      "raw": "UNDEAD「Sustain Memories」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -1500,14 +2064,16 @@
     ],
     "release_Date": "2022-08-17T00:00:00+09:00",
     "tracklist": [
-      null,
       "[162,mktls-517,mktls-676]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 100,
-    "name": "紅月「夏鳥の詩 -サマーバード-」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "紅月「夏鳥の詩 -サマーバード-」ESアイドルソング season3",
+      "raw": "紅月「夏鳥の詩 -サマーバード-」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -1515,14 +2081,16 @@
     ],
     "release_Date": "2022-09-07T00:00:00+09:00",
     "tracklist": [
-      null,
       "[164,mktls-518,mktls-677]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 101,
-    "name": "Switch「Romancing Cruise」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Switch「Romancing Cruise」ESアイドルソング season3",
+      "raw": "Switch「Romancing Cruise」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -1530,14 +2098,16 @@
     ],
     "release_Date": "2022-10-12T00:00:00+09:00",
     "tracklist": [
-      null,
       "[166,mktls-521,mktls-678]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 102,
-    "name": "Knights「Coruscate Breeze」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Knights「Coruscate Breeze」ESアイドルソング season3",
+      "raw": "Knights「Coruscate Breeze」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -1545,14 +2115,16 @@
     ],
     "release_Date": "2022-10-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[165,mktls-523,mktls-679]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 103,
-    "name": "ALKALOID「VERMILION」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "ALKALOID「VERMILION」 ESアイドルソング season3",
+      "raw": "ALKALOID「VERMILION」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -1560,14 +2132,16 @@
     ],
     "release_Date": "2022-12-07T00:00:00+09:00",
     "tracklist": [
-      null,
       "[156,mktls-516,mktls-680]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 104,
-    "name": "fine「Ghostic Treat House」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "fine「Ghostic Treat House」ESアイドルソング season3",
+      "raw": "fine「Ghostic Treat House」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -1575,14 +2149,16 @@
     ],
     "release_Date": "2023-01-11T00:00:00+09:00",
     "tracklist": [
-      null,
       "[153,mktls-513,mktls-681]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 105,
-    "name": "Crazy:B「Helter-Spider」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Crazy:B「Helter-Spider」ESアイドルソング season3",
+      "raw": "Crazy:B「Helter-Spider」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 8,
     "unit_id": [
@@ -1590,14 +2166,16 @@
     ],
     "release_Date": "2023-01-25T00:00:00+09:00",
     "tracklist": [
-      null,
       "[161,mktls-510,mktls-682]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 106,
-    "name": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.03",
+    "name": {
+      "alt": "シャッフルユニットソングコレクション vol.03",
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソングコレクション vol.03"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -1605,28 +2183,32 @@
     ],
     "release_Date": "2023-03-17T00:00:00+09:00",
     "tracklist": [
-      null,
       "[129,170,171,172,mktls-696,mktls-697,mktls-698,mktls-699]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 107,
-    "name": "あんさんぶるスターズ！！ カバーソングコレクション",
+    "name": {
+      "alt": "カバーソングコレクション",
+      "raw": "あんさんぶるスターズ！！ カバーソングコレクション"
+    },
     "era": 2,
     "unit_id": [
       101
     ],
     "release_Date": "2023-03-24T00:00:00+09:00",
     "tracklist": [
-      null,
       "[152,148,151,150,147,146,149,mktls-461,mktls-791,mktls-792,mktls-793,mktls-794,mktls-795,mktls-796,mktls-797,mktls-798]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 108,
-    "name": "MaM「HELLO, NEW YEAR!」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "MaM「HELLO, NEW YEAR!」ESアイドルソング season3",
+      "raw": "MaM「HELLO, NEW YEAR!」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 9,
     "unit_id": [
@@ -1634,14 +2216,16 @@
     ],
     "release_Date": "2023-03-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[167,mktls-512,mktls-683]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 109,
-    "name": "Ra*bits「ハレノヒSugar Wave」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Ra*bits「ハレノヒSugar Wave」ESアイドルソング season3",
+      "raw": "Ra*bits「ハレノヒSugar Wave」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 10,
     "unit_id": [
@@ -1649,14 +2233,16 @@
     ],
     "release_Date": "2023-04-05T00:00:00+09:00",
     "tracklist": [
-      null,
       "[163,mktls-511,mktls-684]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 110,
-    "name": "流星隊「Colors Arise」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "流星隊「Colors Arise」ESアイドルソング season3",
+      "raw": "流星隊「Colors Arise」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 11,
     "unit_id": [
@@ -1664,14 +2250,16 @@
     ],
     "release_Date": "2023-04-19T00:00:00+09:00",
     "tracklist": [
-      null,
       "[155,mktls-520,mktls-685]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 111,
-    "name": "Eden あんさんぶるスターズ！！ ESアイドルソング season3 Adam「Melting Rouge Soul」 / Eve「Ruby Love」",
+    "name": {
+      "alt": "Eden ESアイドルソング season3 Adam「Melting Rouge Soul」 / Eve「Ruby Love」",
+      "raw": "Eden あんさんぶるスターズ！！ ESアイドルソング season3 Adam「Melting Rouge Soul」 / Eve「Ruby Love」"
+    },
     "era": 2,
     "volume": 12,
     "unit_id": [
@@ -1679,14 +2267,16 @@
     ],
     "release_Date": "2023-05-03T00:00:00+09:00",
     "tracklist": [
-      null,
       "[158,157,mktls-508,mktls-686,mktls-687]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 112,
-    "name": "Valkyrie「迷宮電子回廊」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "Valkyrie「迷宮電子回廊」ESアイドルソング season3",
+      "raw": "Valkyrie「迷宮電子回廊」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 13,
     "unit_id": [
@@ -1694,14 +2284,16 @@
     ],
     "release_Date": "2023-05-31T00:00:00+09:00",
     "tracklist": [
-      null,
       "[159,mktls-514,mktls-688]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 113,
-    "name": "2wink「Turbulent Storm」あんさんぶるスターズ！！ ESアイドルソング season3",
+    "name": {
+      "alt": "2wink「Turbulent Storm」ESアイドルソング season3",
+      "raw": "2wink「Turbulent Storm」あんさんぶるスターズ！！ ESアイドルソング season3"
+    },
     "era": 2,
     "volume": 14,
     "unit_id": [
@@ -1709,39 +2301,45 @@
     ],
     "release_Date": "2023-06-21T00:00:00+09:00",
     "tracklist": [
-      null,
       "[160,mktls-515,mktls-689]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 114,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング Extra オルタード & fine-O",
+    "name": {
+      "alt": "ESアイドルソング Extra オルタード & fine-O",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング Extra オルタード & fine-O"
+    },
     "era": 2,
     "release_Date": "2023-06-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[168,169,mktls-799,mktls-780]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 115,
-    "name": "『あんさんぶるスターズ！！』8th Anniversary song「One with One」",
+    "name": {
+      "alt": "8th Anniversary song「One with One」",
+      "raw": "『あんさんぶるスターズ！！』8th Anniversary song「One with One」"
+    },
     "era": 2,
     "unit_id": [
       100
     ],
     "release_Date": "2023-06-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[178,234,mktls-704,mktls-705]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 116,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Crazy:B",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Crazy:B",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Crazy:B"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -1749,14 +2347,18 @@
     ],
     "release_Date": "2023-07-19T00:00:00+09:00",
     "tracklist": [
+      "[200,mktls-382,141,15,56,59,88,79,161,188,37,mktls-383,mktls-384,mktls-385,mktls-386,mktls-387]",
       null,
-      "[200,mktls-382,141,15,56,59,88,79,161,188,37,mktls-383,mktls-384,mktls-385,mktls-386,mktls-387]"
+      "[mktls-468,mktls-482,mktls-496,mktls-510,mktls-524]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 117,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Ra*bits",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Ra*bits",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Ra*bits"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -1764,14 +2366,18 @@
     ],
     "release_Date": "2023-08-23T00:00:00+09:00",
     "tracklist": [
+      "[mktls-388,210,218,197,51,85,163,mktls-389,mktls-390,mktls-391,mktls-392,mktls-393]",
       null,
-      "[mktls-388,210,218,197,51,85,163,mktls-389,mktls-390,mktls-391,mktls-392,mktls-393]"
+      "[mktls-469,mktls-483,mktls-497,mktls-511,mktls-525]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 118,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Double Face",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Double Face",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Double Face"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -1779,14 +2385,18 @@
     ],
     "release_Date": "2023-09-20T00:00:00+09:00",
     "tracklist": [
+      "[204,mktls-394,mktls-369,52,68,mktls-366,193,125,229,167,mktls-395]",
       null,
-      "[204,mktls-394,mktls-369,52,68,mktls-366,193,125,229,167,mktls-395]"
+      "[mktls-470,mktls-484,mktls-498,mktls-512,mktls-526]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 119,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 fine",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -1794,14 +2404,18 @@
     ],
     "release_Date": "2023-10-04T00:00:00+09:00",
     "tracklist": [
+      "[212,mktls-396,217,82,39,153,199,mktls-397,169,120,mktls-398,mktls-399,mktls-400,mktls-401]",
       null,
-      "[212,mktls-396,217,82,39,153,199,mktls-397,169,120,mktls-398,mktls-399,mktls-400,mktls-401]"
+      "[mktls-471,mktls-485,mktls-499,mktls-513,mktls-527]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 120,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Valkyrie",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -1809,14 +2423,18 @@
     ],
     "release_Date": "2023-11-08T00:00:00+09:00",
     "tracklist": [
+      "[mktls-402,202,53,mktls-403,127,159,190,227,mktls-404,mktls-405,mktls-406]",
       null,
-      "[mktls-402,202,53,mktls-403,127,159,190,227,mktls-404,mktls-405,mktls-406]"
+      "[mktls-472,mktls-486,mktls-500,mktls-514,mktls-528]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 121,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 2wink",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 2wink",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 2wink"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -1824,14 +2442,18 @@
     ],
     "release_Date": "2023-12-06T00:00:00+09:00",
     "tracklist": [
+      "[mktls-407,205,61,194,160,225,122,mktls-408,mktls-409,mktls-410]",
       null,
-      "[mktls-407,205,61,194,160,225,122,mktls-408,mktls-409,mktls-410]"
+      "[mktls-473,mktls-487,mktls-501,mktls-515,mktls-529]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 122,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 ALKALOID",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 ALKALOID"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -1839,14 +2461,18 @@
     ],
     "release_Date": "2023-12-20T00:00:00+09:00",
     "tracklist": [
+      "[mktls-411,206,14,15,78,55,15,140,108,195,36,mktls-412,mktls-413,mktls-414,mktls-415]",
       null,
-      "[mktls-411,206,14,15,78,55,15,140,108,195,36,mktls-412,mktls-413,mktls-414,mktls-415]"
+      "[mktls-474,mktls-488,mktls-502,mktls-516,mktls-530]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 123,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 UNDEAD",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 UNDEAD"
+    },
     "era": 2,
     "volume": 8,
     "unit_id": [
@@ -1854,14 +2480,18 @@
     ],
     "release_Date": "2024-01-24T00:00:00+09:00",
     "tracklist": [
+      "[207,173,63,222,mktls-416,92,mktls-417,mktls-418,mktls-419,mktls-420]",
       null,
-      "[207,173,63,222,mktls-416,92,mktls-417,mktls-418,mktls-419,mktls-420]"
+      "[mktls-475,mktls-489,mktls-503,mktls-517,mktls-531]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 124,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 紅月",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 紅月",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 紅月"
+    },
     "era": 2,
     "volume": 9,
     "unit_id": [
@@ -1869,14 +2499,18 @@
     ],
     "release_Date": "2024-02-07T00:00:00+09:00",
     "tracklist": [
+      "[mktls-421,208,64,164,105,174,221,mktls-422,mktls-423,mktls-424,mktls-425]",
       null,
-      "[mktls-421,208,64,164,105,174,221,mktls-422,mktls-423,mktls-424,mktls-425]"
+      "[mktls-476,mktls-490,mktls-504,mktls-518,mktls-532]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 125,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Trickstar",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar"
+    },
     "era": 2,
     "volume": 10,
     "unit_id": [
@@ -1884,14 +2518,18 @@
     ],
     "release_Date": "2024-02-21T00:00:00+09:00",
     "tracklist": [
+      "[209,38,101,mktls-368,154,196,mktls-426,mktls-427,mktls-428,mktls-429,mktls-430]",
       null,
-      "[209,38,101,mktls-368,154,196,mktls-426,mktls-427,mktls-428,mktls-429,mktls-430]"
+      "[mktls-477,mktls-491,mktls-505,mktls-519,mktls-533]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 126,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 流星隊",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 流星隊"
+    },
     "era": 2,
     "volume": 11,
     "unit_id": [
@@ -1899,14 +2537,18 @@
     ],
     "release_Date": "2024-03-06T00:00:00+09:00",
     "tracklist": [
+      "[mktls-431,211,60,mktls-432,155,98,192,198,223,mktls-433,mktls-434,mktls-435,mktls-436,mktls-437]",
       null,
-      "[mktls-431,211,60,mktls-432,155,98,192,198,223,mktls-433,mktls-434,mktls-435,mktls-436,mktls-437]"
+      "[mktls-478,mktls-492,mktls-506,mktls-520,mktls-534]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 127,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Switch",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Switch",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Switch"
+    },
     "era": 2,
     "volume": 12,
     "unit_id": [
@@ -1914,14 +2556,18 @@
     ],
     "release_Date": "2024-04-03T00:00:00+09:00",
     "tracklist": [
+      "[mktls-438,201,124,226,189,65,166,mktls-439,168,235,mktls-440,mktls-441,mktls-442,mktls-443]",
       null,
-      "[mktls-438,201,124,226,189,65,166,mktls-439,168,235,mktls-440,mktls-441,mktls-442,mktls-443]"
+      "[mktls-479,mktls-493,mktls-507,mktls-521,mktls-535]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 128,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Eden",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Eden",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Eden"
+    },
     "era": 2,
     "volume": 13,
     "unit_id": [
@@ -1929,14 +2575,18 @@
     ],
     "release_Date": "2024-05-08T00:00:00+09:00",
     "tracklist": [
+      "[mktls-444,203,121,103,220,157,158,49,mktls-445,191,mktls-mktls-446,mktls-447,mktls-448,mktls-449]",
       null,
-      "[mktls-444,203,121,103,220,157,158,49,mktls-445,191,mktls-mktls-446,mktls-447,mktls-448,mktls-449]"
+      "[mktls-480,mktls-494,mktls-508,mktls-522,mktls-536]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 129,
-    "name": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights",
+    "name": {
+      "alt": "アルバムシリーズ 『TRIP』 Knights",
+      "raw": "あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Knights"
+    },
     "era": 2,
     "volume": 14,
     "unit_id": [
@@ -1944,21 +2594,24 @@
     ],
     "release_Date": "2024-05-22T00:00:00+09:00",
     "tracklist": [
+      "[mktls-450,213,67,165,95,219,187,mktls-451,181,175,mktls-452,mktls-453,mktls-454,mktls-455,mktls-456]",
       null,
-      "[mktls-450,213,67,165,95,219,187,mktls-451,181,175,mktls-452,mktls-453,mktls-454,mktls-455,mktls-456]"
+      "[mktls-481,mktls-495,mktls-509,mktls-523,mktls-537]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 130,
-    "name": "両片思いの交差点で、君にまた逢いたくて",
+    "name": {
+      "alt": "両片思いの交差点で、君にまた逢いたくて",
+      "raw": "両片思いの交差点で、君にまた逢いたくて"
+    },
     "era": 2,
     "unit_id": [
       101
     ],
     "release_Date": "2024-04-02T00:00:00+09:00",
     "tracklist": [
-      null,
       [
         273
       ]
@@ -1967,14 +2620,16 @@
   {
     "compliant": "TRUE",
     "id": 131,
-    "name": "『あんさんぶるスターズ！！』9th Anniversary Song「LIMIT BREAK DREAMERS」",
+    "name": {
+      "alt": "9th Anniversary Song「LIMIT BREAK DREAMERS」",
+      "raw": "『あんさんぶるスターズ！！』9th Anniversary Song「LIMIT BREAK DREAMERS」"
+    },
     "era": 2,
     "unit_id": [
       100
     ],
     "release_Date": "2024-04-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[230,mktls-538,mktls-539,mktls-540,mktls-541,mktls-542,mktls-543,mktls-544,mktls-545,mktls-546,mktls-547,mktls-548,mktls-549,mktls-550,mktls-551,mktls-552,mktls-553]"
     ],
     "link": "https://fwinc.lnk.to/saKylM"
@@ -1982,21 +2637,26 @@
   {
     "compliant": "TRUE",
     "id": 132,
-    "name": "シャッフルユニットソング「Ringing evil phone」",
+    "name": {
+      "alt": "シャッフルユニットソング「Ringing evil phone」",
+      "raw": "シャッフルユニットソング「Ringing evil phone」"
+    },
     "era": 2,
     "unit_id": [
       101
     ],
     "release_Date": "2024-04-27T00:00:00+09:00",
     "tracklist": [
-      null,
       "[254,mktls-822]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 133,
-    "name": "UNDEAD「SWINGIN' PARONIRIA」",
+    "name": {
+      "alt": "UNDEAD「SWINGIN' PARONIRIA」",
+      "raw": "UNDEAD「SWINGIN' PARONIRIA」"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -2004,14 +2664,16 @@
     ],
     "release_Date": "2024-05-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[245,mktls-824]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 134,
-    "name": "2wink「Twin Wedding Vows」",
+    "name": {
+      "alt": "2wink「Twin Wedding Vows」",
+      "raw": "2wink「Twin Wedding Vows」"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -2019,14 +2681,16 @@
     ],
     "release_Date": "2024-06-13T00:00:00+09:00",
     "tracklist": [
-      null,
       "[243,mktls-825]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 135,
-    "name": "あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B",
+    "name": {
+      "alt": "ESアイドルソング Extra ALKALOID & Crazy:B",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B"
+    },
     "era": 2,
     "unit_id": [
       15,
@@ -2034,14 +2698,16 @@
     ],
     "release_Date": "2024-06-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[214,mktls-371,mktls-372,mktls-832,mktls-833,mktls-834]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 136,
-    "name": "究極の９曲「プリティのススメ♡」",
+    "name": {
+      "alt": "究極の９曲「プリティのススメ♡」",
+      "raw": "究極の９曲「プリティのススメ♡」"
+    },
     "era": 2,
     "volume": 1,
     "unit_id": [
@@ -2049,14 +2715,16 @@
     ],
     "release_Date": "2024-06-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-373,mktls-835]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 137,
-    "name": "ALKALOID「SunnyTrip Summer」",
+    "name": {
+      "alt": "ALKALOID「SunnyTrip Summer」",
+      "raw": "ALKALOID「SunnyTrip Summer」"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -2064,28 +2732,32 @@
     ],
     "release_Date": "2024-07-13T00:00:00+09:00",
     "tracklist": [
-      null,
       "[244,mktls-826]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 138,
-    "name": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」",
+    "name": {
+      "alt": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」",
+      "raw": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」"
+    },
     "era": 2,
     "unit_id": [
       101
     ],
     "release_Date": "2024-07-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[255,mktls-823]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 139,
-    "name": "究極の９曲「おんみつ！忍術音頭」",
+    "name": {
+      "alt": "究極の９曲「おんみつ！忍術音頭」",
+      "raw": "究極の９曲「おんみつ！忍術音頭」"
+    },
     "era": 2,
     "volume": 2,
     "unit_id": [
@@ -2093,14 +2765,16 @@
     ],
     "release_Date": "2024-07-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-374,mktls-836]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 140,
-    "name": "Crazy:B「UTAKATA DANCE FLOOR」",
+    "name": {
+      "alt": "Crazy:B「UTAKATA DANCE FLOOR」",
+      "raw": "Crazy:B「UTAKATA DANCE FLOOR」"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -2108,14 +2782,16 @@
     ],
     "release_Date": "2024-08-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[239,mktls-827]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 141,
-    "name": "究極の９曲「Let’s！キラキラアドベンチャー☆」",
+    "name": {
+      "alt": "究極の９曲「Let’s！キラキラアドベンチャー☆」",
+      "raw": "究極の９曲「Let’s！キラキラアドベンチャー☆」"
+    },
     "era": 2,
     "volume": 3,
     "unit_id": [
@@ -2123,14 +2799,16 @@
     ],
     "release_Date": "2024-08-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-375,mktls-837]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 142,
-    "name": "流星隊「WILDLAND SURVIVOR」",
+    "name": {
+      "alt": "流星隊「WILDLAND SURVIVOR」",
+      "raw": "流星隊「WILDLAND SURVIVOR」"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -2138,14 +2816,16 @@
     ],
     "release_Date": "2024-09-11T00:00:00+09:00",
     "tracklist": [
-      null,
       "[248,mktls-828]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 143,
-    "name": "究極の9曲「OWN」",
+    "name": {
+      "alt": "究極の9曲「OWN」",
+      "raw": "究極の9曲「OWN」"
+    },
     "era": 2,
     "volume": 4,
     "unit_id": [
@@ -2153,14 +2833,16 @@
     ],
     "release_Date": "2024-09-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-376,mktls-838]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 144,
-    "name": "fine「Fairy Tale Library」",
+    "name": {
+      "alt": "fine「Fairy Tale Library」",
+      "raw": "fine「Fairy Tale Library」"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -2168,14 +2850,16 @@
     ],
     "release_Date": "2024-10-13T00:00:00+09:00",
     "tracklist": [
-      null,
       "[249,mktls-829]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 145,
-    "name": "MaM「ハロウィン・ランデブー」",
+    "name": {
+      "alt": "MaM「ハロウィン・ランデブー」",
+      "raw": "MaM「ハロウィン・ランデブー」"
+    },
     "era": 2,
     "volume": 7,
     "unit_id": [
@@ -2183,14 +2867,16 @@
     ],
     "release_Date": "2024-10-28T00:00:00+09:00",
     "tracklist": [
-      null,
       "[242,mktls-830]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 146,
-    "name": "究極の９曲「Venus in my eyes～離さない、今夜～」",
+    "name": {
+      "alt": "究極の９曲「Venus in my eyes～離さない、今夜～」",
+      "raw": "究極の９曲「Venus in my eyes～離さない、今夜～」"
+    },
     "era": 2,
     "volume": 5,
     "unit_id": [
@@ -2198,21 +2884,22 @@
     ],
     "release_Date": "2024-10-29T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-377,mktls-839]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 147,
-    "name": "Special for Princess!「しょーがいゼッタイそーあい宣言♥」",
+    "name": {
+      "alt": "Special for Princess!「しょーがいゼッタイそーあい宣言♥」",
+      "raw": "Special for Princess!「しょーがいゼッタイそーあい宣言♥」"
+    },
     "era": 2,
     "unit_id": [
       18
     ],
     "release_Date": "2024-09-09T00:00:00+09:00",
     "tracklist": [
-      null,
       [
         233
       ]
@@ -2221,14 +2908,16 @@
   {
     "compliant": "TRUE",
     "id": 148,
-    "name": "Special for Princess!「スキスキハンター♡」",
+    "name": {
+      "alt": "Special for Princess!「スキスキハンター♡」",
+      "raw": "Special for Princess!「スキスキハンター♡」"
+    },
     "era": 2,
     "unit_id": [
       18
     ],
     "release_Date": "2024-09-10T00:00:00+09:00",
     "tracklist": [
-      null,
       [
         269
       ]
@@ -2237,7 +2926,10 @@
   {
     "compliant": "TRUE",
     "id": 149,
-    "name": "Trickstar「ワチャガナドゥ？」",
+    "name": {
+      "alt": "Trickstar「ワチャガナドゥ？」",
+      "raw": "Trickstar「ワチャガナドゥ？」"
+    },
     "era": 2,
     "volume": 8,
     "unit_id": [
@@ -2245,14 +2937,16 @@
     ],
     "release_Date": "2024-11-12T00:00:00+09:00",
     "tracklist": [
-      null,
       "[246,mktls-831]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 150,
-    "name": "究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」",
+    "name": {
+      "alt": "究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」",
+      "raw": "究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」"
+    },
     "era": 2,
     "volume": 6,
     "unit_id": [
@@ -2260,21 +2954,22 @@
     ],
     "release_Date": "2024-11-26T00:00:00+09:00",
     "tracklist": [
-      null,
       "[mktls-378,mktls-840]"
     ]
   },
   {
     "compliant": "TRUE",
     "id": 151,
-    "name": "Special for Princess!「ベリイ・ベリイ・スイート・ホワイト♡」",
+    "name": {
+      "alt": "Special for Princess!「ベリイ・ベリイ・スイート・ホワイト♡」",
+      "raw": "Special for Princess!「ベリイ・ベリイ・スイート・ホワイト♡」"
+    },
     "era": 2,
     "unit_id": [
       18
     ],
     "release_Date": "2024-11-28T00:00:00+09:00",
     "tracklist": [
-      null,
       [
         237
       ]
