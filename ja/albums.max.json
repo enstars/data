@@ -1294,7 +1294,36 @@
     ],
     "release_Date": "2020-02-26T00:00:00+09:00",
     "tracklist": [
-      "[\"mktls-723\",\"mktls-724\",\"mktls-725\",\"mktls-726\",\"mktls-727\",\"mktls-728\",\"ktls-729\",\"mktls-730\",\"mktls-731\",\"mktls-732\",\"mktls-733\",\"mktls-734\",\"mktls-735\",\"mktls-736\",\"mktls-737\",\"mktls-738\",\"mktls-739\",\"mktls-740\",\"mktls-741\",\"mktls-742\",\"mktls-743\",\"mktls-744,mktls-745,mktls-746,mktls-747,mktls-748,mktls-749,mktls-750]",
+      [
+        "mktls-723",
+        "mktls-724",
+        "mktls-725",
+        "mktls-726",
+        "mktls-727",
+        "mktls-728",
+        "ktls-729",
+        "mktls-730",
+        "mktls-731",
+        "mktls-732",
+        "mktls-733",
+        "mktls-734",
+        "mktls-735",
+        "mktls-736",
+        "mktls-737",
+        "mktls-738",
+        "mktls-739",
+        "mktls-740",
+        "mktls-741",
+        "mktls-742",
+        "mktls-743",
+        "mktls-744",
+        "mktls-745",
+        "mktls-746",
+        "mktls-747",
+        "mktls-748",
+        "mktls-749",
+        "mktls-750"
+      ],
       "[mktls-751,mktls-752,mktls-753,mktls-754,mktls-755,mktls-756,mktls-757,mktls-758,mktls-759,mktls-760,mktls-761,mktls-762,mktls-763,mktls-764,mktls-765,mktls-766,mktls-767,mktls-768.mktls-769,mktls-770,mktls-771,mktls-772,mktls-773,mktls-774,mktls-775]",
       [
         776
@@ -1315,7 +1344,11 @@
     ],
     "release_Date": "2020-05-27T00:00:00+09:00",
     "tracklist": [
-      "[38,mktls-477,mktls-628]"
+      [
+        38,
+        "mktls-477",
+        "mktls-628"
+      ]
     ],
     "link": "https://nex-tone.link/85762"
   },
@@ -1332,7 +1365,11 @@
     ],
     "release_Date": "2020-06-24T00:00:00+09:00",
     "tracklist": [
-      "[50,mktls-370,mktls-777]"
+      [
+        50,
+        "mktls-370",
+        "mktls-777"
+      ]
     ]
   },
   {
@@ -1349,7 +1386,11 @@
     ],
     "release_Date": "2020-07-29T00:00:00+09:00",
     "tracklist": [
-      "[39,mktls-471,mktls-629]"
+      [
+        39,
+        "mktls-471",
+        "mktls-629"
+      ]
     ],
     "link": "https://nex-tone.link/87786"
   },
@@ -1367,7 +1408,11 @@
     ],
     "release_Date": "2020-08-26T00:00:00+09:00",
     "tracklist": [
-      "[49,mktls-480,mktls-630]"
+      [
+        49,
+        "mktls-480",
+        "mktls-630"
+      ]
     ],
     "link": "https://nex-tone.link/88961"
   },
@@ -1384,7 +1429,12 @@
     ],
     "release_Date": "2020-08-26T00:00:00+09:00",
     "tracklist": [
-      "[17,40,mktls-787,mktls-788]"
+      [
+        17,
+        40,
+        "mktls-787",
+        "mktls-788"
+      ]
     ]
   },
   {
