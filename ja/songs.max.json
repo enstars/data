@@ -6,6 +6,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -100,6 +101,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Yumenosaki Dream Stars",
     "character_id": [
       [
         101
@@ -191,7 +193,7 @@
       "hard": 18,
       "expert": 25,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -235,7 +237,7 @@
       "hard": 22,
       "expert": "26+",
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -278,7 +280,7 @@
       "hard": 23,
       "expert": 28,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -319,7 +321,7 @@
       "hard": 21,
       "expert": 28,
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -359,7 +361,7 @@
       "hard": 21,
       "expert": 25,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -403,7 +405,7 @@
       "hard": 22,
       "expert": "27+",
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -642,7 +644,7 @@
       "hard": 22,
       "expert": 28,
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         5,
         3
       ]
@@ -686,7 +688,7 @@
       "hard": 22,
       "expert": "26+",
       "special": "30+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -729,7 +731,7 @@
       "hard": 21,
       "expert": 26,
       "special": 30,
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -928,7 +930,7 @@
       "hard": 19,
       "expert": "26+",
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -970,7 +972,7 @@
       "hard": 20,
       "expert": 26,
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -1049,7 +1051,7 @@
       "hard": 20,
       "expert": 24,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         2
       ]
     },
@@ -1090,7 +1092,7 @@
       "hard": 22,
       "expert": "26+",
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         2
       ]
     },
@@ -1246,7 +1248,7 @@
       "hard": 21,
       "expert": 25,
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -1405,7 +1407,7 @@
       "hard": 21,
       "expert": 28,
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -1675,6 +1677,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Eve",
     "character_id": [
       [
         41,
@@ -1767,7 +1770,7 @@
       "hard": 23,
       "expert": 29,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -1882,7 +1885,7 @@
       "hard": 23,
       "expert": 28,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -1923,7 +1926,7 @@
       "hard": 22,
       "expert": 29,
       "special": 105,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -1965,7 +1968,7 @@
       "hard": 22,
       "expert": "27+",
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -2187,6 +2190,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Adam",
     "character_id": [
       [
         50,
@@ -2355,8 +2359,9 @@
       "easy": 9,
       "normal": 16,
       "hard": 25,
+      "hard_charttype": 1,
       "expert": "29+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -2444,7 +2449,7 @@
       "hard": 22,
       "expert": "27+",
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         2
       ]
     },
@@ -2483,8 +2488,9 @@
       "easy": 6,
       "normal": 14,
       "hard": 22,
+      "hard_charttype": 1,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -2607,7 +2613,7 @@
       "normal": 16,
       "hard": 23,
       "expert": 28,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -2855,7 +2861,7 @@
       "normal": 15,
       "hard": 22,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -2940,7 +2946,7 @@
       "hard": 23,
       "expert": "28+",
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -3022,7 +3028,7 @@
       "hard": 20,
       "expert": 25,
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -3498,6 +3504,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Eve",
     "character_id": [
       [
         41,
@@ -3728,6 +3735,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Adam'",
     "character_id": [
       [
         50,
@@ -3741,7 +3749,7 @@
       "hard": 24,
       "expert": "27+",
       "special": "30+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -3876,7 +3884,7 @@
       "inst": "mktls-600"
     },
     "order": 96,
-    "has_game_edit": "FALSE",
+    "has_game_edit": "TRUE",
     "limited": "FALSE"
   },
   {
@@ -3902,7 +3910,7 @@
       "hard": 22,
       "expert": 27,
       "special": 105,
-      "special_gimmick": [
+      "special_charttype": [
         5,
         3,
         2
@@ -3925,7 +3933,7 @@
       ]
     },
     "order": 97,
-    "has_game_edit": "TRUE",
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -4110,7 +4118,7 @@
       "hard": 21,
       "expert": 27,
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         4
       ]
     },
@@ -4191,7 +4199,7 @@
       "hard": 19,
       "expert": 24,
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -4231,11 +4239,11 @@
       "normal": 13,
       "hard": 18,
       "expert": 25,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": 28,
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -4316,7 +4324,7 @@
       "hard": 24,
       "expert": "28+",
       "special": 105,
-      "special_gimmick": [
+      "special_charttype": [
         3,
         1
       ]
@@ -4360,7 +4368,7 @@
       "hard": 24,
       "expert": "28+",
       "special": 106,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -4482,7 +4490,7 @@
       "hard": 20,
       "expert": 25,
       "special": "28+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -4526,7 +4534,7 @@
       "hard": 20,
       "expert": 25,
       "special": "28+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -4569,7 +4577,7 @@
       "hard": 18,
       "expert": 24,
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -4611,7 +4619,7 @@
       "hard": 20,
       "expert": 25,
       "special": "28+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -4693,7 +4701,7 @@
       "hard": 24,
       "expert": "29+",
       "special": "30+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -4888,7 +4896,7 @@
       "normal": 14,
       "hard": 23,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -4930,7 +4938,7 @@
       "normal": 14,
       "hard": 20,
       "expert": 26,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -5430,11 +5438,11 @@
       "normal": 13,
       "hard": 20,
       "expert": 26,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": "28+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -5479,11 +5487,11 @@
       "normal": 15,
       "hard": 21,
       "expert": "26+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": "29+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -5742,7 +5750,7 @@
       "hard": 20,
       "expert": 26,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3,
         1
       ]
@@ -5772,6 +5780,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -5843,7 +5852,7 @@
       "hard": 22,
       "expert": "27+",
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -6084,7 +6093,7 @@
       "hard": 21,
       "expert": "26+",
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -6170,7 +6179,7 @@
       "hard": 21,
       "expert": 26,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         4
       ]
     },
@@ -6214,7 +6223,7 @@
       "hard": 18,
       "expert": 25,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         2
       ]
     },
@@ -6278,6 +6287,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -6583,6 +6593,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -6650,7 +6661,7 @@
       "hard": 22,
       "expert": 28,
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         2
       ]
     },
@@ -6693,7 +6704,7 @@
       "normal": 13,
       "hard": 22,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -6779,7 +6790,7 @@
       "normal": 15,
       "hard": 22,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -6824,7 +6835,7 @@
       "hard": 20,
       "expert": "27+",
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -7029,7 +7040,7 @@
       "hard": 22,
       "expert": "26+",
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -7138,6 +7149,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -7149,7 +7161,7 @@
       "normal": 15,
       "hard": 23,
       "expert": 28,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -7374,12 +7386,13 @@
       "easy": 8,
       "normal": 15,
       "hard": 23,
+      "hard_charttype": 1,
       "expert": 28,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         3,
         1
       ]
@@ -7499,7 +7512,7 @@
       "hard": 23,
       "expert": 27,
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -7528,6 +7541,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -7595,7 +7609,7 @@
       "hard": 23,
       "expert": 28,
       "special": "30+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -7639,7 +7653,7 @@
       "hard": 21,
       "expert": 24,
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         4
       ]
     },
@@ -7721,7 +7735,7 @@
       "hard": 21,
       "expert": 26,
       "special": 104,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -7807,7 +7821,7 @@
       "hard": 22,
       "expert": "27+",
       "special": 103,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -7972,7 +7986,7 @@
       "hard": 22,
       "expert": "26+",
       "special": 101,
-      "special_gimmick": [
+      "special_charttype": [
         3
       ]
     },
@@ -8015,12 +8029,13 @@
       "easy": 10,
       "normal": 16,
       "hard": 24,
+      "hard_charttype": 1,
       "expert": "29+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": 31,
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -8048,6 +8063,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -8199,6 +8215,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Adam",
     "character_id": [
       [
         51,
@@ -8211,7 +8228,7 @@
       "normal": 15,
       "hard": 23,
       "expert": "27+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -8239,6 +8256,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Eve",
     "character_id": [
       [
         42,
@@ -8403,6 +8421,7 @@
       "easy": 9,
       "normal": 15,
       "hard": 25,
+      "hard_charttype": 1,
       "expert": "29+"
     },
     "duration": {
@@ -8509,6 +8528,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -8615,7 +8635,7 @@
       "normal": 14,
       "hard": 23,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -8697,11 +8717,11 @@
       "normal": 15,
       "hard": 22,
       "expert": 26,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ],
       "special": "28+",
-      "special_gimmick": [
+      "special_charttype": [
         1
       ]
     },
@@ -8894,7 +8914,7 @@
       "normal": 15,
       "hard": 21,
       "expert": "27+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -9133,7 +9153,7 @@
       "normal": 14,
       "hard": 21,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -9177,7 +9197,7 @@
       "hard": 20,
       "expert": 25,
       "special": 102,
-      "special_gimmick": [
+      "special_charttype": [
         5
       ]
     },
@@ -9266,7 +9286,7 @@
       "normal": 15,
       "hard": 23,
       "expert": "27+",
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -9294,6 +9314,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -9555,7 +9576,7 @@
       "normal": 14,
       "hard": 22,
       "expert": 27,
-      "expert_gimmicks": [
+      "expert_charttype": [
         1
       ]
     },
@@ -9864,7 +9885,7 @@
       "hard": 18,
       "expert": 24,
       "special": 29,
-      "special_gimmick": [
+      "special_charttype": [
         5,
         2
       ]
@@ -9882,6 +9903,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -9893,9 +9915,9 @@
       "normal": "undefined",
       "hard": "undefined",
       "expert": "undefined",
-      "expert_gimmicks": "undefined",
+      "expert_charttype": "undefined",
       "special": "undefined",
-      "special_gimmick": "undefined"
+      "special_charttype": "undefined"
     },
     "link": {
       "youtube_3dmv": "https://youtu.be/NjCNq4RNHA0"
