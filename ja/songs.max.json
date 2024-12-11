@@ -26,7 +26,6 @@
     "lyric": "こだまさおり",
     "composition": "桑原聖 (Arte Refact)",
     "arrangement": "脇眞富 (Arte Refact)",
-    "album_id": 60,
     "link": {
       "youtube_3dmv": "https://youtu.be/mQLLr-PBhp8"
     },
@@ -101,7 +100,7 @@
     "unit_id": [
       101
     ],
-    "unit_name": "Yumenosaki Dream Stars",
+    "unit_name": "夢ノ咲ドリームスターズ",
     "character_id": [
       [
         101
@@ -3581,6 +3580,7 @@
     "unit_id": [
       11
     ],
+    "unit_name": "MaM with team 牛若丸",
     "character_id": [
       [
         40,
@@ -3894,6 +3894,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "五奇人",
     "character_id": [
       [
         21,
@@ -3943,6 +3944,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "旧fine",
     "character_id": [
       [
         50,
@@ -3984,6 +3986,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "デッドマンズ",
     "character_id": [
       [
         29,
@@ -4063,6 +4066,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ナイトキラーズ",
     "character_id": [
       [
         33,
@@ -4271,6 +4275,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "デッドマンズ",
     "character_id": [
       [
         29,
@@ -4562,6 +4567,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Knights（レオ・泉）with 凛月・嵐",
     "character_id": [
       [
         33,
@@ -5734,6 +5740,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "√AtoZ",
     "character_id": [
       [
         23,
@@ -5800,7 +5807,6 @@
     "lyric": "松井洋平",
     "composition": "中土智博 (APDREAM)",
     "arrangement": "中土智博 (APDREAM)",
-    "album_id": 60,
     "link": {
       "youtube_3dmv": "https://youtu.be/-SzjxI3XnuM"
     },
@@ -6163,6 +6169,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "XXVeil",
     "character_id": [
       [
         24,
@@ -6208,6 +6215,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Branco",
     "character_id": [
       [
         6,
@@ -6478,6 +6486,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "フラタニティ",
     "character_id": [
       [
         12,
@@ -6518,6 +6527,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "ESオールスターズ",
     "character_id": [
       [
         100
@@ -6733,6 +6743,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Ring.A.Bell",
     "character_id": [
       [
         5,
@@ -6819,6 +6830,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "月都スペクタクル",
     "character_id": [
       [
         41,
@@ -7024,6 +7036,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "La Mort",
     "character_id": [
       [
         17,
@@ -7343,6 +7356,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "SCREEN10",
     "character_id": [
       [
         101
@@ -7422,6 +7436,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "バンド『BkuB』",
     "character_id": [
       [
         100
@@ -7496,6 +7511,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Puffy☆Bunny",
     "character_id": [
       [
         27,
@@ -7805,6 +7821,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "舞闘会",
     "character_id": [
       [
         26,
@@ -7970,6 +7987,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "BLEND+",
     "character_id": [
       [
         39,
@@ -8015,6 +8033,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Flambé！",
     "character_id": [
       [
         71,
@@ -8368,6 +8387,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "STAR TRAINER",
     "character_id": [
       [
         15,
@@ -8407,6 +8427,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "五奇人",
     "character_id": [
       [
         29,
@@ -8449,6 +8470,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "オルタード",
     "character_id": [
       [
         29,
@@ -8489,6 +8511,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "fine-O",
     "character_id": [
       [
         22,
@@ -9226,6 +9249,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Love∞Scramble",
     "character_id": [
       [
         22,
@@ -9367,6 +9391,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "EVIL NUM+",
     "character_id": [
       [
         38,
@@ -9522,6 +9547,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "M∀N∀",
     "character_id": [
       [
         19,
@@ -9683,13 +9709,14 @@
     "unit_id": [
       101
     ],
+    "unit_name": "朔間 零 & 朔間 凛月 & 大神 晃牙 with ブラッド・ビームス & フェイス・ビームス",
     "character_id": [
       [
-        0,
-        0,
         29,
         17,
-        16
+        16,
+        0,
+        0
       ]
     ],
     "color": 0,
@@ -10218,6 +10245,7 @@
     "unit_id": [
       9
     ],
+    "unit_name": "旧Valkyrie",
     "character_id": [
       [
         35,
@@ -11074,6 +11102,7 @@
       11,
       8
     ],
+    "unit_name": "MaM with 紅月",
     "character_id": [
       [
         40,
@@ -11121,6 +11150,7 @@
     "unit_id": [
       9
     ],
+    "unit_name": "旧Valkyrie",
     "character_id": [
       [
         35,
@@ -13754,7 +13784,6 @@
     "unit_id": [
       101
     ],
-    "album_id": 60,
     "version": {
       "full": [
         17
@@ -14078,7 +14107,6 @@
     "unit_id": [
       101
     ],
-    "album_id": 60,
     "version": {
       "full": [
         40
