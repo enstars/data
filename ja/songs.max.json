@@ -20171,6 +20171,11 @@
     "unit_id": [
       101
     ],
+    "version": {
+      "full": [
+        315
+      ]
+    },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
@@ -20181,6 +20186,11 @@
     "unit_id": [
       101
     ],
+    "version": {
+      "full": [
+        315
+      ]
+    },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
   }
