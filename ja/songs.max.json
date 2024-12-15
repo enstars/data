@@ -5196,9 +5196,6 @@
         "https://youtu.be/_HmAPFnV6h4"
       ]
     },
-    "version": {
-      "inst": "mktls-882"
-    },
     "order": 128,
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5238,9 +5235,6 @@
         "https://youtu.be/H6k-30923tc",
         "https://youtu.be/ojLUylUV-uA"
       ]
-    },
-    "version": {
-      "inst": "mktls-883"
     },
     "order": 129,
     "has_game_edit": "TRUE",
@@ -9978,1915 +9972,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-301",
-    "name": "Rebellion Star",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "lyric": "Mel*",
-    "composition": "桑原 聖 (Arte Refact)",
-    "arrangement": "酒井 拓也 (Arte Refact)",
-    "version": {
-      "full": [
-        9
-      ],
-      "inst": "mktls-576"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-300",
-    "name": "CHERRY HAPPY STREAM",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "lyric": "Mel*",
-    "composition": "矢鴇 つかさ (Arte Refact)",
-    "arrangement": "矢鴇 つかさ (Arte Refact)",
-    "version": {
-      "full": [
-        130
-      ],
-      "inst": "mktls-577"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-299",
-    "name": "Checkmate Knights",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        33,
-        24,
-        20,
-        17,
-        10
-      ]
-    ],
-    "duration": {
-      "game": 140,
-      "full": 320
-    },
-    "lyric": "Mel*",
-    "composition": "桑原 聖 (Arte Refact)",
-    "arrangement": "酒井 拓也 (Arte Refact)",
-    "version": {
-      "inst": "mktls-559"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-298",
-    "name": "RAINBOW CIRCUS",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        22,
-        27,
-        6,
-        19
-      ]
-    ],
-    "duration": {
-      "game": 132,
-      "full": 283
-    },
-    "lyric": "Mel*",
-    "composition": "桑原 聖 (Arte Refact)",
-    "arrangement": "酒井 拓也 (Arte Refact)",
-    "version": {
-      "inst": "mktls-562"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-308",
-    "name": "花燈の恋文",
-    "unit_id": [
-      8
-    ],
-    "character_id": [
-      [
-        21,
-        26,
-        14
-      ]
-    ],
-    "duration": {
-      "game": 143,
-      "full": 291
-    },
-    "lyric": "Mel*",
-    "composition": "原田 篤 (Arte Refact)",
-    "arrangement": "原田 篤 (Arte Refact)",
-    "version": {
-      "inst": "mktls-308"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-307",
-    "name": "夢ノ咲流星隊歌",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        25,
-        28,
-        1,
-        5,
-        7
-      ]
-    ],
-    "duration": {
-      "game": 143,
-      "full": 291
-    },
-    "lyric": "Mel*",
-    "composition": "原田 篤 (Arte Refact）",
-    "arrangement": "山本 恭平 (Arte Refact）",
-    "version": {
-      "inst": "mktls-567"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-305",
-    "name": "Darkness 4",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        29,
-        23,
-        16,
-        15
-      ]
-    ],
-    "duration": {
-      "game": 115,
-      "full": 217
-    },
-    "lyric": "坂井 竜二",
-    "composition": "中土 智博 (APDREAM)",
-    "arrangement": "中土 智博 (APDREAM)",
-    "version": {
-      "inst": "mktls-579"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-304",
-    "name": "2winkle Star Beat☆",
-    "unit_id": [
-      7
-    ],
-    "character_id": [
-      [
-        4,
-        8
-      ]
-    ],
-    "duration": {
-      "game": 136,
-      "full": 262
-    },
-    "lyric": "こだま さおり",
-    "composition": ".animu",
-    "arrangement": "矢鴇 つかさ (Arte Refact)",
-    "version": {
-      "inst": "mktls-581"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-303",
-    "name": "五色のShooting☆Star!!!!!",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        25,
-        28,
-        1,
-        5,
-        7
-      ]
-    ],
-    "duration": {
-      "game": 140,
-      "full": 235
-    },
-    "lyric": "前山田 健一",
-    "composition": "前山田 健一",
-    "arrangement": "中土 智博 (APDREAM）",
-    "version": {
-      "inst": "mktls-586"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-302",
-    "name": "Hoppin' Season♪",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        30,
-        9,
-        3,
-        2
-      ]
-    ],
-    "duration": {
-      "game": 145,
-      "full": 243
-    },
-    "lyric": "こだま さおり",
-    "composition": "田中 秀和 (MONACA)",
-    "arrangement": "田中 秀和 (MONACA)",
-    "version": {
-      "inst": "mktls-588"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-306",
-    "name": "砂上ノ楼閣",
-    "unit_id": [
-      9
-    ],
-    "unit_name": "旧Valkyrie",
-    "character_id": [
-      [
-        35,
-        34,
-        30
-      ]
-    ],
-    "duration": {
-      "game": 142,
-      "full": 290
-    },
-    "lyric": "松井 洋平",
-    "composition": "矢鴇 つかさ (Arte Refact)",
-    "arrangement": "加藤 達也 (APDREAM)",
-    "link": {
-      "youtube_2dmv": "https://youtu.be/edufWkhNzig"
-    },
-    "version": {
-      "inst": "mktls-591"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-313",
-    "name": "虹色のSeasons",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "lyric": "松井 洋平",
-    "composition": "広川 恵一 (MONACA)",
-    "arrangement": "広川 恵一 (MONACA)",
-    "version": {
-      "full": [
-        "mktls-357"
-      ],
-      "inst": "mktls-597"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-312",
-    "name": "想ひ出綴り",
-    "unit_id": [
-      8
-    ],
-    "character_id": [
-      [
-        21,
-        26,
-        14
-      ]
-    ],
-    "duration": {
-      "game": 125,
-      "full": 273
-    },
-    "lyric": "磯谷 佳江",
-    "composition": "鈴華 ゆう子 (和楽器バンド)",
-    "arrangement": "町屋 (和楽器バンド)",
-    "version": {
-      "inst": "mktls-584"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-311",
-    "name": "Knights the Phantom Thief",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        33,
-        24,
-        20,
-        17,
-        10
-      ]
-    ],
-    "duration": {
-      "game": 133,
-      "full": 222
-    },
-    "lyric": "こだま さおり",
-    "composition": "光増 ハジメ",
-    "arrangement": "脇 眞富 (Arte Refact)",
-    "version": {
-      "inst": "mktls-601"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-310",
-    "name": "Tryst of Stars",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        22,
-        27,
-        6,
-        19
-      ]
-    ],
-    "duration": {
-      "game": 121,
-      "full": 279
-    },
-    "lyric": "松井 洋平",
-    "composition": "石倉 誉之 & 藤井 亮太",
-    "arrangement": "石倉 誉之 & 藤井 亮太",
-    "version": {
-      "inst": "mktls-604"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-309",
-    "name": "WONDER WONDER TOY LAND",
-    "unit_id": [
-      7
-    ],
-    "character_id": [
-      [
-        4,
-        8
-      ]
-    ],
-    "duration": {
-      "game": 132,
-      "full": 252
-    },
-    "lyric": "こだま さおり",
-    "composition": "陶山 隼",
-    "arrangement": "陶山 隼",
-    "version": {
-      "inst": "mktls-608"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-315",
-    "name": "Break the Prison",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        29,
-        23,
-        16,
-        15
-      ]
-    ],
-    "duration": {
-      "game": 134,
-      "full": 214
-    },
-    "lyric": "こだま さおり",
-    "composition": "太田 雅友 (SCREEN mode)",
-    "arrangement": "太田 雅友 (SCREEN mode)",
-    "version": {
-      "inst": "mktls-610"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-316",
-    "name": "Dream Collection",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        30,
-        9,
-        3,
-        2
-      ]
-    ],
-    "duration": {
-      "game": 121,
-      "full": 293
-    },
-    "lyric": "金子 麻友美",
-    "composition": "金子 麻友美",
-    "arrangement": "久下 真音",
-    "version": {
-      "inst": "mktls-613"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-317",
-    "name": "DIAMOND SUMMER",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "duration": {
-      "game": 140,
-      "full": 251
-    },
-    "lyric": "こだま さおり",
-    "composition": "齋藤 真也",
-    "arrangement": "齋藤 真也",
-    "version": {
-      "inst": "mktls-619"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-318",
-    "name": "Sentimental Liars",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        31,
-        32
-      ]
-    ],
-    "duration": {
-      "game": 134,
-      "full": 250
-    },
-    "lyric": "こだま さおり",
-    "composition": "藤末 樹",
-    "arrangement": "遠藤 直弥",
-    "version": {
-      "inst": "mktls-625"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-319",
-    "name": "微熱カルナバル",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        31
-      ]
-    ],
-    "duration": {
-      "game": 133,
-      "full": 189
-    },
-    "lyric": "六ツ見 純代",
-    "composition": "藤井 亮太 & 奈須野 新平",
-    "arrangement": "藤井 亮太 & 奈須野 新平",
-    "version": {
-      "inst": "mktls-626"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-320",
-    "name": "BUTTERFLY EFFECT",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        32
-      ]
-    ],
-    "duration": {
-      "game": 139,
-      "full": 234
-    },
-    "lyric": "六ツ見 純代",
-    "composition": "藤末 樹",
-    "arrangement": "藤末 樹 & 小川 裕司",
-    "version": {
-      "inst": "mktls-627"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-321",
-    "name": "ALWAYS HERO!",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        25
-      ]
-    ],
-    "duration": {
-      "game": 97,
-      "full": 277
-    },
-    "lyric": "松井 洋平",
-    "composition": "本多 友紀 (Arte Refact）",
-    "arrangement": "本多 友紀 (Arte Refact）",
-    "version": {
-      "inst": "mktls-905"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-322",
-    "name": "まりんぶるう・らんでぶう",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        28
-      ]
-    ],
-    "duration": {
-      "game": 108,
-      "full": 282
-    },
-    "lyric": "こだま さおり",
-    "composition": "北川 勝利",
-    "arrangement": "北川 勝利 & acane_madder",
-    "version": {
-      "inst": "mktls-906"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-323",
-    "name": "IRON HEART TIGER!",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        1
-      ]
-    ],
-    "duration": {
-      "game": 98,
-      "full": 275
-    },
-    "lyric": "松井 洋平",
-    "composition": "本多友紀 (Arte Refact）",
-    "arrangement": "本多友紀 (Arte Refact）",
-    "version": {
-      "inst": "mktls-907"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-324",
-    "name": "真昼の残像",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        5
-      ]
-    ],
-    "duration": {
-      "game": 115,
-      "full": 296
-    },
-    "lyric": "こだま さおり",
-    "composition": "原田 アツシ",
-    "arrangement": "原田 アツシ",
-    "version": {
-      "inst": "mktls-908"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-325",
-    "name": "疾風迅雷 忍び道",
-    "unit_id": [
-      5
-    ],
-    "character_id": [
-      [
-        7
-      ]
-    ],
-    "duration": {
-      "game": 93,
-      "full": 223
-    },
-    "lyric": "前山田 健一",
-    "composition": "前山田 健一",
-    "arrangement": "サイトウ ヨシヒロ",
-    "version": {
-      "inst": "mktls-909"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-326",
-    "name": "に～ちゃん応援団☆",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        30
-      ]
-    ],
-    "duration": {
-      "game": 106,
-      "full": 274
-    },
-    "lyric": "こだま さおり",
-    "composition": "本多 友紀 (Arte Refact)",
-    "arrangement": "本多 友紀 (Arte Refact)",
-    "version": {
-      "inst": "mktls-910"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-327",
-    "name": "スタート♪ダッシュダッシュ!",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        9
-      ]
-    ],
-    "duration": {
-      "game": 89,
-      "full": 226
-    },
-    "lyric": "松井 洋平",
-    "composition": "KoTa & 原田 雄一",
-    "arrangement": "KoTa & 原田 雄一",
-    "version": {
-      "inst": "mktls-911"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-328",
-    "name": "Higher↑ Higher↑",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        3
-      ]
-    ],
-    "duration": {
-      "game": 102,
-      "full": 260
-    },
-    "lyric": "こだま さおり",
-    "composition": "矢鴇 つかさ (Arte Refact)",
-    "arrangement": "矢鴇 つかさ (Arte Refact)",
-    "version": {
-      "inst": "mktls-912"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-329",
-    "name": "Happy Coming＊ティータイム",
-    "unit_id": [
-      6
-    ],
-    "character_id": [
-      [
-        2
-      ]
-    ],
-    "duration": {
-      "game": 86,
-      "full": 226
-    },
-    "lyric": "六ツ見 純代",
-    "composition": "本多 友紀 (Arte Refact)",
-    "arrangement": "原田 篤 (Arte Refact)",
-    "version": {
-      "inst": "mktls-913"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-330",
-    "name": "Birthday of Music!",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        33
-      ]
-    ],
-    "duration": {
-      "game": 107,
-      "full": 294
-    },
-    "lyric": "松井 洋平",
-    "composition": "白戸 佑輔",
-    "arrangement": "白戸 佑輔",
-    "version": {
-      "inst": "mktls-914"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-331",
-    "name": "Ironic Blue",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        24
-      ]
-    ],
-    "duration": {
-      "game": 105,
-      "full": 214
-    },
-    "lyric": "磯谷 佳江",
-    "composition": "山木 隆一郎",
-    "arrangement": "山木 隆一郎",
-    "version": {
-      "inst": "mktls-915"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-332",
-    "name": "真夜中のノクターン",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        17
-      ]
-    ],
-    "duration": {
-      "game": 114,
-      "full": 273
-    },
-    "lyric": "こだま さおり",
-    "composition": "本多 友紀 (Arte Refact)",
-    "arrangement": "本多 友紀 (Arte Refact)",
-    "version": {
-      "inst": "mktls-916"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-333",
-    "name": "JEWEL STONE",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        20
-      ]
-    ],
-    "duration": {
-      "game": 94,
-      "full": 267
-    },
-    "lyric": "Mio Aoyama",
-    "composition": "藤末 樹",
-    "arrangement": "酒井 拓也 (Arte Refact)",
-    "version": {
-      "inst": "mktls-917"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-334",
-    "name": "With My Honesty",
-    "unit_id": [
-      4
-    ],
-    "character_id": [
-      [
-        10
-      ]
-    ],
-    "duration": {
-      "game": 94,
-      "full": 271
-    },
-    "lyric": "こだま さおり",
-    "composition": "中野 ゆう",
-    "arrangement": "遠藤 直弥 & 中野 ゆう",
-    "version": {
-      "inst": "mktls-918"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-335",
-    "name": "茜路の邂逅",
-    "unit_id": [
-      8
-    ],
-    "character_id": [
-      [
-        21
-      ]
-    ],
-    "duration": {
-      "game": 144,
-      "full": 295
-    },
-    "lyric": "こだま さおり",
-    "composition": "久下 真音",
-    "arrangement": "久下 真音",
-    "version": {
-      "inst": "mktls-919"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-336",
-    "name": "Crimson Soul",
-    "unit_id": [
-      8
-    ],
-    "character_id": [
-      [
-        26
-      ]
-    ],
-    "duration": {
-      "game": 87,
-      "full": 249
-    },
-    "lyric": "松井 洋平",
-    "composition": "西川 マコト",
-    "arrangement": "山本 恭平 (Arte Refact)",
-    "version": {
-      "inst": "mktls-920"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-337",
-    "name": "謳歌絢爛青春華",
-    "unit_id": [
-      8
-    ],
-    "character_id": [
-      [
-        14
-      ]
-    ],
-    "duration": {
-      "game": 76,
-      "full": 217
-    },
-    "lyric": "こだま さおり",
-    "composition": "関口 晶大",
-    "arrangement": "山本 恭平 (Arte Refact)",
-    "version": {
-      "inst": "mktls-921"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-338",
-    "name": "Bloody Moon Vampire",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        29
-      ]
-    ],
-    "duration": {
-      "game": 100,
-      "full": 254
-    },
-    "lyric": "こだま さおり",
-    "composition": "三好 啓太",
-    "arrangement": "三好 啓太",
-    "version": {
-      "inst": "mktls-922"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-339",
-    "name": "Feather Heartache",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        23
-      ]
-    ],
-    "duration": {
-      "game": 92,
-      "full": 263
-    },
-    "lyric": "こだま さおり",
-    "composition": "矢鴇 つかさ (Arte Refact)",
-    "arrangement": "矢鴇 つかさ (Arte Refact)",
-    "version": {
-      "inst": "mktls-923"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-340",
-    "name": "RIOT WOLF",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        16
-      ]
-    ],
-    "duration": {
-      "game": 86,
-      "full": 217
-    },
-    "lyric": "こだま さおり",
-    "composition": "中土 智博 (APDREAM)",
-    "arrangement": "中土 智博 (APDREAM)",
-    "version": {
-      "inst": "mktls-924"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-341",
-    "name": "Saql Faith",
-    "unit_id": [
-      3
-    ],
-    "character_id": [
-      [
-        15
-      ]
-    ],
-    "duration": {
-      "game": 84,
-      "full": 242
-    },
-    "lyric": "松井 洋平",
-    "composition": "白戸 佑輔",
-    "arrangement": "白戸 佑輔",
-    "version": {
-      "inst": "mktls-925"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-342",
-    "name": "Secret Gravity",
-    "unit_id": [
-      10
-    ],
-    "character_id": [
-      [
-        38
-      ]
-    ],
-    "duration": {
-      "game": 138,
-      "full": 302
-    },
-    "lyric": "こだま さおり",
-    "composition": "中土 智博 (APDREAM)",
-    "arrangement": "中土 智博 (APDREAM)",
-    "version": {
-      "inst": "mktls-926"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-343",
-    "name": "ブルーバード・ハミング♪",
-    "unit_id": [
-      10
-    ],
-    "character_id": [
-      [
-        39
-      ]
-    ],
-    "duration": {
-      "game": 117,
-      "full": 271
-    },
-    "lyric": "松井 洋平",
-    "composition": "ヒゲドライバー",
-    "arrangement": "篠崎 あやと",
-    "version": {
-      "inst": "mktls-927"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-344",
-    "name": "VIVID ROLE-PLAYING",
-    "unit_id": [
-      10
-    ],
-    "character_id": [
-      [
-        37
-      ]
-    ],
-    "duration": {
-      "game": 73,
-      "full": 184
-    },
-    "lyric": "松井 洋平",
-    "composition": "sasakure.UK",
-    "arrangement": "sasakure.UK",
-    "version": {
-      "inst": "mktls-928"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-346",
-    "name": "See You Again",
-    "unit_id": [
-      11
-    ],
-    "character_id": [
-      [
-        40
-      ]
-    ],
-    "duration": {
-      "game": 115,
-      "full": 294
-    },
-    "lyric": "松井 洋平",
-    "composition": "中野 ゆう",
-    "arrangement": "遠藤 直弥",
-    "version": {
-      "inst": "mktls-929"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-348",
-    "name": "Cloth Waltz",
-    "unit_id": [
-      9
-    ],
-    "character_id": [
-      [
-        35
-      ]
-    ],
-    "duration": {
-      "game": 119,
-      "full": 324
-    },
-    "lyric": "こだま さおり",
-    "composition": "本多 友紀 (Arte Refact)",
-    "arrangement": "脇 眞富 (Arte Refact)",
-    "version": {
-      "inst": "mktls-930"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-349",
-    "name": "琥珀ト瑠璃ノ輪舞曲",
-    "unit_id": [
-      9
-    ],
-    "character_id": [
-      [
-        34
-      ]
-    ],
-    "duration": {
-      "game": 104,
-      "full": 234
-    },
-    "lyric": "松井 洋平",
-    "composition": "田中 俊亮",
-    "arrangement": "増田 武史",
-    "version": {
-      "inst": "mktls-931"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-350",
-    "name": "SHINING STAR",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        22
-      ]
-    ],
-    "duration": {
-      "game": 89,
-      "full": 259
-    },
-    "lyric": "Mio Aoyama",
-    "composition": "脇 眞富 (Arte Refact)",
-    "arrangement": "脇 眞富 (Arte Refact)",
-    "version": {
-      "inst": "mktls-932"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-351",
-    "name": "Amazing☆World",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        27
-      ]
-    ],
-    "duration": {
-      "game": 78,
-      "full": 206
-    },
-    "lyric": "松井 洋平",
-    "composition": "光増 ハジメ (FirstCall)",
-    "arrangement": "光増 ハジメ (FirstCall)",
-    "version": {
-      "inst": "mktls-933"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-352",
-    "name": "Little Little Prince Star",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        6
-      ]
-    ],
-    "duration": {
-      "game": 87,
-      "full": 242
-    },
-    "lyric": "こだま さおり",
-    "composition": "斉藤 信治",
-    "arrangement": "斉藤 信治 & 山本 悠太",
-    "version": {
-      "inst": "mktls-934"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-353",
-    "name": "ずっと そばで…",
-    "unit_id": [
-      2
-    ],
-    "character_id": [
-      [
-        19
-      ]
-    ],
-    "duration": {
-      "game": 100,
-      "full": 265
-    },
-    "lyric": "金子 麻友美",
-    "composition": "Shogo & Dr. Lilcom",
-    "arrangement": "Dr. Lilcom",
-    "version": {
-      "inst": "mktls-935"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-355",
-    "name": "SwEeT MeLlOw MeLoDy",
-    "unit_id": [
-      7
-    ],
-    "character_id": [
-      [
-        4
-      ]
-    ],
-    "duration": {
-      "game": 119,
-      "full": 266
-    },
-    "lyric": "松井 洋平",
-    "composition": "emon (Tes.)",
-    "arrangement": "emon (Tes.)",
-    "version": {
-      "inst": "mktls-936"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-356",
-    "name": "SPICY BREEZE",
-    "unit_id": [
-      7
-    ],
-    "character_id": [
-      [
-        8
-      ]
-    ],
-    "duration": {
-      "game": 94,
-      "full": 235
-    },
-    "lyric": "こだま さおり",
-    "composition": "藤末 樹",
-    "arrangement": "廣澤 優也 & 日直 伸次 (HANO)",
-    "version": {
-      "inst": "mktls-937"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-358",
-    "name": "STARSEEK WAYFARER",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12
-      ]
-    ],
-    "duration": {
-      "game": 85,
-      "full": 265
-    },
-    "lyric": "松井 洋平",
-    "composition": "原田 篤 (Arte Refact)",
-    "arrangement": "山本 恭平 (Arte Refact)",
-    "version": {
-      "inst": "mktls-939"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-359",
-    "name": "My Starry Point",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        11
-      ]
-    ],
-    "duration": {
-      "game": 137,
-      "full": 255
-    },
-    "lyric": "こだま さおり",
-    "composition": "中土 智博 (APDREAM)",
-    "arrangement": "中土 智博 (APDREAM)",
-    "version": {
-      "inst": "mktls-940"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-360",
-    "name": "Walking On My Sunny Road",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        13
-      ]
-    ],
-    "duration": {
-      "game": 84,
-      "full": 216
-    },
-    "lyric": "こだま さおり",
-    "composition": "原田 アツシ (Dream Monster)",
-    "arrangement": "山本 悠太 (Dream Monster)",
-    "version": {
-      "inst": "mktls-941"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-361",
-    "name": "MAGICIAN’S PLAY!",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        18
-      ]
-    ],
-    "duration": {
-      "game": 99,
-      "full": 264
-    },
-    "lyric": "松井 洋平",
-    "composition": "藤末 樹",
-    "arrangement": "酒井 拓也 (Arte Refact)",
-    "version": {
-      "inst": "mktls-942"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-362",
-    "name": "生まれ堕ちたこの世界で",
-    "unit_id": [
-      14
-    ],
-    "character_id": [
-      [
-        50
-      ]
-    ],
-    "duration": {
-      "game": 105,
-      "full": 255
-    },
-    "lyric": "こだま さおり",
-    "composition": "伊藤 賢",
-    "arrangement": "伊藤 賢",
-    "version": {
-      "inst": "mktls-943"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-363",
-    "name": "Fantastic Days◎",
-    "unit_id": [
-      14
-    ],
-    "character_id": [
-      [
-        41
-      ]
-    ],
-    "duration": {
-      "game": 89,
-      "full": 227
-    },
-    "lyric": "こだま さおり",
-    "composition": "大和",
-    "arrangement": "大和",
-    "version": {
-      "inst": "mktls-944"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-364",
-    "name": "Poison Strategy",
-    "unit_id": [
-      14
-    ],
-    "character_id": [
-      [
-        51
-      ]
-    ],
-    "duration": {
-      "game": 125,
-      "full": 232
-    },
-    "lyric": "松井 洋平",
-    "composition": "山本 恭平 (Arte Refact)",
-    "arrangement": "山本 恭平 (Arte Refact)",
-    "version": {
-      "inst": "mktls-945"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-365",
-    "name": "Back-alley Monologue",
-    "unit_id": [
-      14
-    ],
-    "character_id": [
-      [
-        42
-      ]
-    ],
-    "duration": {
-      "game": 111,
-      "full": 279
-    },
-    "lyric": "こだま さおり",
-    "composition": "藤末 樹",
-    "arrangement": "青木 宏憲 (HANO)",
-    "version": {
-      "inst": "mktls-946"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-357",
-    "name": "虹色のSeasons (ALBUM Mix)",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "duration": {
-      "game": 142,
-      "full": 279
-    },
-    "lyric": "松井 洋平",
-    "composition": "広川 恵一 (MONACA)",
-    "arrangement": "広川 恵一 (MONACA)",
-    "version": {
-      "full": [
-        "mktls-313"
-      ],
-      "inst": "mktls-597"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-354",
-    "name": "2wink Introduction",
-    "unit_id": [
-      7
-    ],
-    "character_id": [
-      [
-        4,
-        8
-      ]
-    ],
-    "duration": {
-      "game": 124,
-      "full": 275
-    },
-    "lyric": "こだま さおり",
-    "composition": "ヒゲドライバー",
-    "arrangement": "emon (Tes.)",
-    "version": {
-      "inst": "mktls-947"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-345",
-    "name": "RevolTrad～維新伝心～",
-    "unit_id": [
-      11,
-      8
-    ],
-    "unit_name": "MaM with 紅月",
-    "character_id": [
-      [
-        40,
-        21,
-        26,
-        14
-      ]
-    ],
-    "duration": {
-      "game": 123,
-      "full": 264
-    },
-    "lyric": "松井 洋平",
-    "composition": "山田 竜平",
-    "arrangement": "山田 竜平",
-    "version": {
-      "inst": "mktls-948"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-347",
-    "name": "聖少年遊戯",
-    "unit_id": [
-      9
-    ],
-    "unit_name": "旧Valkyrie",
-    "character_id": [
-      [
-        35,
-        34,
-        30
-      ]
-    ],
-    "duration": {
-      "game": 131,
-      "full": 248
-    },
-    "lyric": "宝野アリカ (ALI PROJECT)",
-    "composition": "片倉三起也 (ALI PROJECT)",
-    "arrangement": "片倉三起也 (ALI PROJECT)",
-    "version": {
-      "inst": "mktls-949"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-366",
-    "name": "Secret of Metropolis",
-    "unit_id": [
-      17
-    ],
-    "character_id": [
-      [
-        30,
-        73
-      ]
-    ],
-    "duration": {
-      "game": 118,
-      "full": 196
-    },
-    "lyric": "松井 洋平",
-    "composition": "西寺 郷太 & 谷口 尚久",
-    "arrangement": "谷口 尚久 & 西寺 郷太",
-    "version": {
-      "inst": "mktls-634"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-461",
-    "name": "題名のない今日",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        31,
-        32
-      ]
-    ],
-    "duration": {
-      "full": 198
-    },
-    "lyric": "EIGO (ONEly Inc.) & 平井 大",
-    "composition": "平井 大",
-    "arrangement": "水野谷 怜 (Arte Refact)",
-    "version": {
-      "inst": "mktls-798"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-369",
-    "name": "Sleeper Mystery Train",
-    "unit_id": [
-      17
-    ],
-    "character_id": [
-      [
-        30,
-        73
-      ]
-    ],
-    "duration": {
-      "game": 148,
-      "full": 254
-    },
-    "lyric": "松井 洋平",
-    "composition": "SHIBU & YU-G",
-    "arrangement": "SHIBU",
-    "version": {
-      "inst": "mktls-673"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-370",
-    "name": "輝きの中で",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        31,
-        32
-      ]
-    ],
-    "duration": {
-      "game": 144,
-      "full": 315
-    },
-    "lyric": "こだまさおり",
-    "composition": "宇津本直紀",
-    "arrangement": "葉山たけし",
-    "version": {
-      "inst": "mktls-779"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-371",
-    "name": "Across the universe",
-    "unit_id": [
-      15
-    ],
-    "character_id": [
-      [
-        67,
-        68,
-        69,
-        70
-      ]
-    ],
-    "duration": {
-      "full": 212
-    },
-    "lyric": "松井 洋平",
-    "composition": "槇島 隆人 (SUPA LOVE)",
-    "arrangement": "槇島 隆人 (SUPA LOVE)",
-    "link": {
-      "spotify": "4Ircdfplz7G3aybDicPOF0"
-    },
-    "version": {
-      "inst": "mktls-833"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-372",
-    "name": "Foolish Alien",
-    "unit_id": [
-      16
-    ],
-    "character_id": [
-      [
-        71,
-        72,
-        73,
-        74
-      ]
-    ],
-    "duration": {
-      "full": 196
-    },
-    "lyric": "こだま さおり",
-    "composition": "SHOW (Digz, Inc. Group)",
-    "arrangement": "SHOW (Digz, Inc. Group)",
-    "link": {
-      "spotify": "4Ircdfplz7G3aybDicPOF0"
-    },
-    "version": {
-      "inst": "mktls-834"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-373",
     "name": "プリティのススメ♡",
     "unit_id": [
@@ -12064,6 +10149,4280 @@
     },
     "version": {
       "inst": "mktls-840"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-835",
+    "name": "プリティのススメ♡（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "4tUkQqH4RJN6nqgtYaIHRZ"
+    },
+    "version": {
+      "full": [
+        "mktls-373"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-836",
+    "name": "おんみつ！忍術音頭（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "0Q3Fo4vasaKyd0JFbJtEbV"
+    },
+    "version": {
+      "full": [
+        "mktls-374"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-837",
+    "name": "Let’s！キラキラアドベンチャー☆（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "2XSDo74BZEdA3kltt9p1YN"
+    },
+    "version": {
+      "full": [
+        "mktls-375"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-838",
+    "name": "OWN（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "7qbNtU8RWFYkAtVUslDmdU"
+    },
+    "version": {
+      "full": [
+        "mktls-376"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-839",
+    "name": "Venus in my eyes～離さない、今夜～（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "59aCLEkp9Cs87QVeTyOFl8"
+    },
+    "version": {
+      "full": [
+        "mktls-377"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-840",
+    "name": "風早先輩の懺悔室！〜迷えるＥＳアイドル版〜（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "link": {
+      "spotify": "0myqYDIpewTwWiPMqgCjP2"
+    },
+    "version": {
+      "full": [
+        "mktls-378"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-318",
+    "name": "Sentimental Liars",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        31,
+        32
+      ]
+    ],
+    "duration": {
+      "game": 134,
+      "full": 250
+    },
+    "lyric": "こだま さおり",
+    "composition": "藤末 樹",
+    "arrangement": "遠藤 直弥",
+    "version": {
+      "inst": "mktls-625"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-319",
+    "name": "微熱カルナバル",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        31
+      ]
+    ],
+    "duration": {
+      "game": 133,
+      "full": 189
+    },
+    "lyric": "六ツ見 純代",
+    "composition": "藤井 亮太 & 奈須野 新平",
+    "arrangement": "藤井 亮太 & 奈須野 新平",
+    "version": {
+      "inst": "mktls-626"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-320",
+    "name": "BUTTERFLY EFFECT",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        32
+      ]
+    ],
+    "duration": {
+      "game": 139,
+      "full": 234
+    },
+    "lyric": "六ツ見 純代",
+    "composition": "藤末 樹",
+    "arrangement": "藤末 樹 & 小川 裕司",
+    "version": {
+      "inst": "mktls-627"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-625",
+    "name": "Sentimental Liars (カラオケVer.)",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        "mktls-318"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-626",
+    "name": "微熱カルナバル (カラオケVer.)",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        "mktls-319"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-627",
+    "name": "BUTTERFLY EFFECT (カラオケVer.)",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        "mktls-320"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-566",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      5
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-307",
+    "name": "夢ノ咲流星隊歌",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        25,
+        28,
+        1,
+        5,
+        7
+      ]
+    ],
+    "duration": {
+      "game": 143,
+      "full": 291
+    },
+    "lyric": "Mel*",
+    "composition": "原田 篤 (Arte Refact）",
+    "arrangement": "山本 恭平 (Arte Refact）",
+    "version": {
+      "inst": "mktls-567"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-567",
+    "name": "夢ノ咲流星隊歌 (カラオケVer. )",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        "mktls-307"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-303",
+    "name": "五色のShooting☆Star!!!!!",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        25,
+        28,
+        1,
+        5,
+        7
+      ]
+    ],
+    "duration": {
+      "game": 140,
+      "full": 235
+    },
+    "lyric": "前山田 健一",
+    "composition": "前山田 健一",
+    "arrangement": "中土 智博 (APDREAM）",
+    "version": {
+      "inst": "mktls-586"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-568",
+    "name": "天下無敵☆メテオレンジャー! (カラオケVer. )",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        31
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-586",
+    "name": "五色のShooting☆Star!!!!! (カラオケVer.)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        "mktls-303"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-598",
+    "name": "SUPER NOVA REVOLU5TAR (カラオケVer.)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        45
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-587",
+    "name": "流星花火 (カラオケVer.)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        83
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-848",
+    "name": "アンリミテッド☆パワー!!!!! (Instrumental)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        18
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-599",
+    "name": "GROWING STARRY DAYS (カラオケVer.)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        134
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-321",
+    "name": "ALWAYS HERO!",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        25
+      ]
+    ],
+    "duration": {
+      "game": 97,
+      "full": 277
+    },
+    "lyric": "松井 洋平",
+    "composition": "本多 友紀 (Arte Refact）",
+    "arrangement": "本多 友紀 (Arte Refact）",
+    "version": {
+      "inst": "mktls-905"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-322",
+    "name": "まりんぶるう・らんでぶう",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        28
+      ]
+    ],
+    "duration": {
+      "game": 108,
+      "full": 282
+    },
+    "lyric": "こだま さおり",
+    "composition": "北川 勝利",
+    "arrangement": "北川 勝利 & acane_madder",
+    "version": {
+      "inst": "mktls-906"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-323",
+    "name": "IRON HEART TIGER!",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        1
+      ]
+    ],
+    "duration": {
+      "game": 98,
+      "full": 275
+    },
+    "lyric": "松井 洋平",
+    "composition": "本多友紀 (Arte Refact）",
+    "arrangement": "本多友紀 (Arte Refact）",
+    "version": {
+      "inst": "mktls-907"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-324",
+    "name": "真昼の残像",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        5
+      ]
+    ],
+    "duration": {
+      "game": 115,
+      "full": 296
+    },
+    "lyric": "こだま さおり",
+    "composition": "原田 アツシ",
+    "arrangement": "原田 アツシ",
+    "version": {
+      "inst": "mktls-908"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-325",
+    "name": "疾風迅雷 忍び道",
+    "unit_id": [
+      5
+    ],
+    "character_id": [
+      [
+        7
+      ]
+    ],
+    "duration": {
+      "game": 93,
+      "full": 223
+    },
+    "lyric": "前山田 健一",
+    "composition": "前山田 健一",
+    "arrangement": "サイトウ ヨシヒロ",
+    "version": {
+      "inst": "mktls-909"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-572",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      6
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-316",
+    "name": "Dream Collection",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        30,
+        9,
+        3,
+        2
+      ]
+    ],
+    "duration": {
+      "game": 121,
+      "full": 293
+    },
+    "lyric": "金子 麻友美",
+    "composition": "金子 麻友美",
+    "arrangement": "久下 真音",
+    "version": {
+      "inst": "mktls-613"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-302",
+    "name": "Hoppin' Season♪",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        30,
+        9,
+        3,
+        2
+      ]
+    ],
+    "duration": {
+      "game": 145,
+      "full": 243
+    },
+    "lyric": "こだま さおり",
+    "composition": "田中 秀和 (MONACA)",
+    "arrangement": "田中 秀和 (MONACA)",
+    "version": {
+      "inst": "mktls-588"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-326",
+    "name": "に～ちゃん応援団☆",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        30
+      ]
+    ],
+    "duration": {
+      "game": 106,
+      "full": 274
+    },
+    "lyric": "こだま さおり",
+    "composition": "本多 友紀 (Arte Refact)",
+    "arrangement": "本多 友紀 (Arte Refact)",
+    "version": {
+      "inst": "mktls-910"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-327",
+    "name": "スタート♪ダッシュダッシュ!",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        9
+      ]
+    ],
+    "duration": {
+      "game": 89,
+      "full": 226
+    },
+    "lyric": "松井 洋平",
+    "composition": "KoTa & 原田 雄一",
+    "arrangement": "KoTa & 原田 雄一",
+    "version": {
+      "inst": "mktls-911"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-328",
+    "name": "Higher↑ Higher↑",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        3
+      ]
+    ],
+    "duration": {
+      "game": 102,
+      "full": 260
+    },
+    "lyric": "こだま さおり",
+    "composition": "矢鴇 つかさ (Arte Refact)",
+    "arrangement": "矢鴇 つかさ (Arte Refact)",
+    "version": {
+      "inst": "mktls-912"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-329",
+    "name": "Happy Coming＊ティータイム",
+    "unit_id": [
+      6
+    ],
+    "character_id": [
+      [
+        2
+      ]
+    ],
+    "duration": {
+      "game": 86,
+      "full": 226
+    },
+    "lyric": "六ツ見 純代",
+    "composition": "本多 友紀 (Arte Refact)",
+    "arrangement": "原田 篤 (Arte Refact)",
+    "version": {
+      "inst": "mktls-913"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-573",
+    "name": "Joyful×Box* (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        8
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-574",
+    "name": "野うさぎマーチ♪ (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        135
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-588",
+    "name": "Hoppin' Season♪ (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        "mktls-302"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-589",
+    "name": "Love Ra*bits Party!! (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        30
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-612",
+    "name": "Milky Starry Charm (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        76
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-858",
+    "name": "メルティ♡キッチン (Instrumental)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        19
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-613",
+    "name": "Dream Collection (カラオケVer.)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        "mktls-316"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-557",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      4
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-299",
+    "name": "Checkmate Knights",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        33,
+        24,
+        20,
+        17,
+        10
+      ]
+    ],
+    "duration": {
+      "game": 140,
+      "full": 320
+    },
+    "lyric": "Mel*",
+    "composition": "桑原 聖 (Arte Refact)",
+    "arrangement": "酒井 拓也 (Arte Refact)",
+    "version": {
+      "inst": "mktls-559"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-311",
+    "name": "Knights the Phantom Thief",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        33,
+        24,
+        20,
+        17,
+        10
+      ]
+    ],
+    "duration": {
+      "game": 133,
+      "full": 222
+    },
+    "lyric": "こだま さおり",
+    "composition": "光増 ハジメ",
+    "arrangement": "脇 眞富 (Arte Refact)",
+    "version": {
+      "inst": "mktls-601"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-330",
+    "name": "Birthday of Music!",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        33
+      ]
+    ],
+    "duration": {
+      "game": 107,
+      "full": 294
+    },
+    "lyric": "松井 洋平",
+    "composition": "白戸 佑輔",
+    "arrangement": "白戸 佑輔",
+    "version": {
+      "inst": "mktls-914"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-331",
+    "name": "Ironic Blue",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        24
+      ]
+    ],
+    "duration": {
+      "game": 105,
+      "full": 214
+    },
+    "lyric": "磯谷 佳江",
+    "composition": "山木 隆一郎",
+    "arrangement": "山木 隆一郎",
+    "version": {
+      "inst": "mktls-915"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-332",
+    "name": "真夜中のノクターン",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        17
+      ]
+    ],
+    "duration": {
+      "game": 114,
+      "full": 273
+    },
+    "lyric": "こだま さおり",
+    "composition": "本多 友紀 (Arte Refact)",
+    "arrangement": "本多 友紀 (Arte Refact)",
+    "version": {
+      "inst": "mktls-916"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-333",
+    "name": "JEWEL STONE",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        20
+      ]
+    ],
+    "duration": {
+      "game": 94,
+      "full": 267
+    },
+    "lyric": "Mio Aoyama",
+    "composition": "藤末 樹",
+    "arrangement": "酒井 拓也 (Arte Refact)",
+    "version": {
+      "inst": "mktls-917"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-334",
+    "name": "With My Honesty",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        10
+      ]
+    ],
+    "duration": {
+      "game": 94,
+      "full": 271
+    },
+    "lyric": "こだま さおり",
+    "composition": "中野 ゆう",
+    "arrangement": "遠藤 直弥 & 中野 ゆう",
+    "version": {
+      "inst": "mktls-918"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-558",
+    "name": "Voice of Sword (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        3
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-559",
+    "name": "Checkmate Knights (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        "mktls-299"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-582",
+    "name": "Silent Oath (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        34
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-583",
+    "name": "Fight for Judge (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        41
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-600",
+    "name": "Article of Faith (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        138
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-601",
+    "name": "Knights the Phantom Thief (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        "mktls-311"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-602",
+    "name": "Crush of Judgment (カラオケVer.)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        186
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-854",
+    "name": "Grateful allegiance (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        20
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-563",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      8
+    ],
+    "has_game_edit": "TRUE",
+    "limited": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-308",
+    "name": "花燈の恋文",
+    "unit_id": [
+      8
+    ],
+    "character_id": [
+      [
+        21,
+        26,
+        14
+      ]
+    ],
+    "duration": {
+      "game": 143,
+      "full": 291
+    },
+    "lyric": "Mel*",
+    "composition": "原田 篤 (Arte Refact)",
+    "arrangement": "原田 篤 (Arte Refact)",
+    "version": {
+      "inst": "mktls-308"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-312",
+    "name": "想ひ出綴り",
+    "unit_id": [
+      8
+    ],
+    "character_id": [
+      [
+        21,
+        26,
+        14
+      ]
+    ],
+    "duration": {
+      "game": 125,
+      "full": 273
+    },
+    "lyric": "磯谷 佳江",
+    "composition": "鈴華 ゆう子 (和楽器バンド)",
+    "arrangement": "町屋 (和楽器バンド)",
+    "version": {
+      "inst": "mktls-584"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-335",
+    "name": "茜路の邂逅",
+    "unit_id": [
+      8
+    ],
+    "character_id": [
+      [
+        21
+      ]
+    ],
+    "duration": {
+      "game": 144,
+      "full": 295
+    },
+    "lyric": "こだま さおり",
+    "composition": "久下 真音",
+    "arrangement": "久下 真音",
+    "version": {
+      "inst": "mktls-919"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-336",
+    "name": "Crimson Soul",
+    "unit_id": [
+      8
+    ],
+    "character_id": [
+      [
+        26
+      ]
+    ],
+    "duration": {
+      "game": 87,
+      "full": 249
+    },
+    "lyric": "松井 洋平",
+    "composition": "西川 マコト",
+    "arrangement": "山本 恭平 (Arte Refact)",
+    "version": {
+      "inst": "mktls-920"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-337",
+    "name": "謳歌絢爛青春華",
+    "unit_id": [
+      8
+    ],
+    "character_id": [
+      [
+        14
+      ]
+    ],
+    "duration": {
+      "game": 76,
+      "full": 217
+    },
+    "lyric": "こだま さおり",
+    "composition": "関口 晶大",
+    "arrangement": "山本 恭平 (Arte Refact)",
+    "version": {
+      "inst": "mktls-921"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-564",
+    "name": "百花繚乱、紅月夜 (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        5
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-565",
+    "name": "花燈の恋文 (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        "mktls-308"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-585",
+    "name": "斬 －決意ノ刃－ (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        44
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-849",
+    "name": "薄紅色の約束 (Instrumental)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        21
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-584",
+    "name": "想ひ出綴り (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        "mktls-312"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-615",
+    "name": "祭夜絵巻 (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        73
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-614",
+    "name": "剣戟の舞 (カラオケVer.)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        137
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-554",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      3
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-305",
+    "name": "Darkness 4",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        29,
+        23,
+        16,
+        15
+      ]
+    ],
+    "duration": {
+      "game": 115,
+      "full": 217
+    },
+    "lyric": "坂井 竜二",
+    "composition": "中土 智博 (APDREAM)",
+    "arrangement": "中土 智博 (APDREAM)",
+    "version": {
+      "inst": "mktls-579"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-315",
+    "name": "Break the Prison",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        29,
+        23,
+        16,
+        15
+      ]
+    ],
+    "duration": {
+      "game": 134,
+      "full": 214
+    },
+    "lyric": "こだま さおり",
+    "composition": "太田 雅友 (SCREEN mode)",
+    "arrangement": "太田 雅友 (SCREEN mode)",
+    "version": {
+      "inst": "mktls-610"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-338",
+    "name": "Bloody Moon Vampire",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        29
+      ]
+    ],
+    "duration": {
+      "game": 100,
+      "full": 254
+    },
+    "lyric": "こだま さおり",
+    "composition": "三好 啓太",
+    "arrangement": "三好 啓太",
+    "version": {
+      "inst": "mktls-922"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-339",
+    "name": "Feather Heartache",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        23
+      ]
+    ],
+    "duration": {
+      "game": 92,
+      "full": 263
+    },
+    "lyric": "こだま さおり",
+    "composition": "矢鴇 つかさ (Arte Refact)",
+    "arrangement": "矢鴇 つかさ (Arte Refact)",
+    "version": {
+      "inst": "mktls-923"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-340",
+    "name": "RIOT WOLF",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        16
+      ]
+    ],
+    "duration": {
+      "game": 86,
+      "full": 217
+    },
+    "lyric": "こだま さおり",
+    "composition": "中土 智博 (APDREAM)",
+    "arrangement": "中土 智博 (APDREAM)",
+    "version": {
+      "inst": "mktls-924"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-341",
+    "name": "Saql Faith",
+    "unit_id": [
+      3
+    ],
+    "character_id": [
+      [
+        15
+      ]
+    ],
+    "duration": {
+      "game": 84,
+      "full": 242
+    },
+    "lyric": "松井 洋平",
+    "composition": "白戸 佑輔",
+    "arrangement": "白戸 佑輔",
+    "version": {
+      "inst": "mktls-925"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-555",
+    "name": "Melody in the Dark (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        2
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-609",
+    "name": "Gate of the Abyss (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        42
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-579",
+    "name": "Darkness 4 (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        "mktls-305"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-610",
+    "name": "Break the Prison (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        "mktls-315"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-556",
+    "name": "ハニーミルクはお好みで (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        136
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-578",
+    "name": "DESTRUCTION ROAD (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        72
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-846",
+    "name": "Valentine Eve's Nightmare (Instrumental)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        22
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-611",
+    "name": "Death Game Holic (カラオケVer.)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        182
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-342",
+    "name": "Secret Gravity",
+    "unit_id": [
+      10
+    ],
+    "character_id": [
+      [
+        38
+      ]
+    ],
+    "duration": {
+      "game": 138,
+      "full": 302
+    },
+    "lyric": "こだま さおり",
+    "composition": "中土 智博 (APDREAM)",
+    "arrangement": "中土 智博 (APDREAM)",
+    "version": {
+      "inst": "mktls-926"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-343",
+    "name": "ブルーバード・ハミング♪",
+    "unit_id": [
+      10
+    ],
+    "character_id": [
+      [
+        39
+      ]
+    ],
+    "duration": {
+      "game": 117,
+      "full": 271
+    },
+    "lyric": "松井 洋平",
+    "composition": "ヒゲドライバー",
+    "arrangement": "篠崎 あやと",
+    "version": {
+      "inst": "mktls-927"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-344",
+    "name": "VIVID ROLE-PLAYING",
+    "unit_id": [
+      10
+    ],
+    "character_id": [
+      [
+        37
+      ]
+    ],
+    "duration": {
+      "game": 73,
+      "full": 184
+    },
+    "lyric": "松井 洋平",
+    "composition": "sasakure.UK",
+    "arrangement": "sasakure.UK",
+    "version": {
+      "inst": "mktls-928"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-851",
+    "name": "エメラルドプラネット (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        23
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-592",
+    "name": "Temptation Magic (カラオケVer.)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        11
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-593",
+    "name": "Knockin' Fantasy (カラオケVer.)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        43
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-616",
+    "name": "イースター・カーニバル (カラオケVer.)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        128
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-617",
+    "name": "Galaxy Destiny (カラオケVer.)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        139
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-859",
+    "name": "I “Witch” You A Happy Halloween! (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        74
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-345",
+    "name": "RevolTrad～維新伝心～",
+    "unit_id": [
+      11,
+      8
+    ],
+    "unit_name": "MaM with 紅月",
+    "character_id": [
+      [
+        40,
+        21,
+        26,
+        14
+      ]
+    ],
+    "duration": {
+      "game": 123,
+      "full": 264
+    },
+    "lyric": "松井 洋平",
+    "composition": "山田 竜平",
+    "arrangement": "山田 竜平",
+    "version": {
+      "inst": "mktls-948"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-346",
+    "name": "See You Again",
+    "unit_id": [
+      11
+    ],
+    "character_id": [
+      [
+        40
+      ]
+    ],
+    "duration": {
+      "game": 115,
+      "full": 294
+    },
+    "lyric": "松井 洋平",
+    "composition": "中野 ゆう",
+    "arrangement": "遠藤 直弥",
+    "version": {
+      "inst": "mktls-929"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-620",
+    "name": "Blooming World (カラオケVer.)",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        13
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-621",
+    "name": "Festive! (カラオケVer.)",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        71
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-847",
+    "name": "君印 Be Ambitious!! (Instrumental)",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        24
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-862",
+    "name": "辻風に吹かれて (Instrumental)",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        110
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-306",
+    "name": "砂上ノ楼閣",
+    "unit_id": [
+      9
+    ],
+    "unit_name": "旧Valkyrie",
+    "character_id": [
+      [
+        35,
+        34,
+        30
+      ]
+    ],
+    "duration": {
+      "game": 142,
+      "full": 290
+    },
+    "lyric": "松井 洋平",
+    "composition": "矢鴇 つかさ (Arte Refact)",
+    "arrangement": "加藤 達也 (APDREAM)",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/edufWkhNzig"
+    },
+    "version": {
+      "inst": "mktls-591"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-347",
+    "name": "聖少年遊戯",
+    "unit_id": [
+      9
+    ],
+    "unit_name": "旧Valkyrie",
+    "character_id": [
+      [
+        35,
+        34,
+        30
+      ]
+    ],
+    "duration": {
+      "game": 131,
+      "full": 248
+    },
+    "lyric": "宝野アリカ (ALI PROJECT)",
+    "composition": "片倉三起也 (ALI PROJECT)",
+    "arrangement": "片倉三起也 (ALI PROJECT)",
+    "version": {
+      "inst": "mktls-949"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-590",
+    "name": "魅惑劇 (カラオケVer.)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        10
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-605",
+    "name": "礼賛歌 (カラオケVer.)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        123
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-860",
+    "name": "今宵月の館にて (Instrumental)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        75
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-850",
+    "name": "Mémoire Antique (Instrumental)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        25
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-606",
+    "name": "Last Lament (カラオケVer.)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        57
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-591",
+    "name": "砂上ノ楼閣 (カラオケVer.)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        "mktls-306"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-348",
+    "name": "Cloth Waltz",
+    "unit_id": [
+      9
+    ],
+    "character_id": [
+      [
+        35
+      ]
+    ],
+    "duration": {
+      "game": 119,
+      "full": 324
+    },
+    "lyric": "こだま さおり",
+    "composition": "本多 友紀 (Arte Refact)",
+    "arrangement": "脇 眞富 (Arte Refact)",
+    "version": {
+      "inst": "mktls-930"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-349",
+    "name": "琥珀ト瑠璃ノ輪舞曲",
+    "unit_id": [
+      9
+    ],
+    "character_id": [
+      [
+        34
+      ]
+    ],
+    "duration": {
+      "game": 104,
+      "full": 234
+    },
+    "lyric": "松井 洋平",
+    "composition": "田中 俊亮",
+    "arrangement": "増田 武史",
+    "version": {
+      "inst": "mktls-931"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-560",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      2
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-298",
+    "name": "RAINBOW CIRCUS",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        22,
+        27,
+        6,
+        19
+      ]
+    ],
+    "duration": {
+      "game": 132,
+      "full": 283
+    },
+    "lyric": "Mel*",
+    "composition": "桑原 聖 (Arte Refact)",
+    "arrangement": "酒井 拓也 (Arte Refact)",
+    "version": {
+      "inst": "mktls-562"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-310",
+    "name": "Tryst of Stars",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        22,
+        27,
+        6,
+        19
+      ]
+    ],
+    "duration": {
+      "game": 121,
+      "full": 279
+    },
+    "lyric": "松井 洋平",
+    "composition": "石倉 誉之 & 藤井 亮太",
+    "arrangement": "石倉 誉之 & 藤井 亮太",
+    "version": {
+      "inst": "mktls-604"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-350",
+    "name": "SHINING STAR",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        22
+      ]
+    ],
+    "duration": {
+      "game": 89,
+      "full": 259
+    },
+    "lyric": "Mio Aoyama",
+    "composition": "脇 眞富 (Arte Refact)",
+    "arrangement": "脇 眞富 (Arte Refact)",
+    "version": {
+      "inst": "mktls-932"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-351",
+    "name": "Amazing☆World",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        27
+      ]
+    ],
+    "duration": {
+      "game": 78,
+      "full": 206
+    },
+    "lyric": "松井 洋平",
+    "composition": "光増 ハジメ (FirstCall)",
+    "arrangement": "光増 ハジメ (FirstCall)",
+    "version": {
+      "inst": "mktls-933"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-352",
+    "name": "Little Little Prince Star",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        6
+      ]
+    ],
+    "duration": {
+      "game": 87,
+      "full": 242
+    },
+    "lyric": "こだま さおり",
+    "composition": "斉藤 信治",
+    "arrangement": "斉藤 信治 & 山本 悠太",
+    "version": {
+      "inst": "mktls-934"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-353",
+    "name": "ずっと そばで…",
+    "unit_id": [
+      2
+    ],
+    "character_id": [
+      [
+        19
+      ]
+    ],
+    "duration": {
+      "game": 100,
+      "full": 265
+    },
+    "lyric": "金子 麻友美",
+    "composition": "Shogo & Dr. Lilcom",
+    "arrangement": "Dr. Lilcom",
+    "version": {
+      "inst": "mktls-935"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-561",
+    "name": "終わらないシンフォニア (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        4
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-594",
+    "name": "羽ばたきのフォルティシモ (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        47
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-595",
+    "name": "Neo Sanctuary (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        84
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-562",
+    "name": "RAINBOW CIRCUS (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        "mktls-298"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-604",
+    "name": "Tryst of Stars (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        "mktls-310"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-845",
+    "name": "Holy Angel's Carol (Instrumental)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        26
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-603",
+    "name": "Miracle Dream Traveler (カラオケVer.)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        133
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-864",
+    "name": "Genuine Revelation (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        132
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-569",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      7
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-354",
+    "name": "2wink Introduction",
+    "unit_id": [
+      7
+    ],
+    "character_id": [
+      [
+        4,
+        8
+      ]
+    ],
+    "duration": {
+      "game": 124,
+      "full": 275
+    },
+    "lyric": "こだま さおり",
+    "composition": "ヒゲドライバー",
+    "arrangement": "emon (Tes.)",
+    "version": {
+      "inst": "mktls-947"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-355",
+    "name": "SwEeT MeLlOw MeLoDy",
+    "unit_id": [
+      7
+    ],
+    "character_id": [
+      [
+        4
+      ]
+    ],
+    "duration": {
+      "game": 119,
+      "full": 266
+    },
+    "lyric": "松井 洋平",
+    "composition": "emon (Tes.)",
+    "arrangement": "emon (Tes.)",
+    "version": {
+      "inst": "mktls-936"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-304",
+    "name": "2winkle Star Beat☆",
+    "unit_id": [
+      7
+    ],
+    "character_id": [
+      [
+        4,
+        8
+      ]
+    ],
+    "duration": {
+      "game": 136,
+      "full": 262
+    },
+    "lyric": "こだま さおり",
+    "composition": ".animu",
+    "arrangement": "矢鴇 つかさ (Arte Refact)",
+    "version": {
+      "inst": "mktls-581"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-356",
+    "name": "SPICY BREEZE",
+    "unit_id": [
+      7
+    ],
+    "character_id": [
+      [
+        8
+      ]
+    ],
+    "duration": {
+      "game": 94,
+      "full": 235
+    },
+    "lyric": "こだま さおり",
+    "composition": "藤末 樹",
+    "arrangement": "廣澤 優也 & 日直 伸次 (HANO)",
+    "version": {
+      "inst": "mktls-937"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-309",
+    "name": "WONDER WONDER TOY LAND",
+    "unit_id": [
+      7
+    ],
+    "character_id": [
+      [
+        4,
+        8
+      ]
+    ],
+    "duration": {
+      "game": 132,
+      "full": 252
+    },
+    "lyric": "こだま さおり",
+    "composition": "陶山 隼",
+    "arrangement": "陶山 隼",
+    "version": {
+      "inst": "mktls-608"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-570",
+    "name": "シュガー・スパイス方程式 (カラオケVer. )",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        7
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-580",
+    "name": "ハートプリズム・シンメトリー (カラオケVer.)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        80
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-571",
+    "name": "歓迎☆トゥ・ウィンク雑技団 (カラオケVer. )",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        32
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-607",
+    "name": "TRICK with TREAT !! (カラオケVer.)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        33
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-608",
+    "name": "WONDER WONDER TOY LAND (カラオケVer.)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        "mktls-309"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-856",
+    "name": "Play “Tag” (Instrumental)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        27
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-581",
+    "name": "2winkle Star Beat☆ (カラオケVer.)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        "mktls-304"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-575",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      1
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-301",
+    "name": "Rebellion Star",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "lyric": "Mel*",
+    "composition": "桑原 聖 (Arte Refact)",
+    "arrangement": "酒井 拓也 (Arte Refact)",
+    "version": {
+      "full": [
+        9
+      ],
+      "inst": "mktls-576"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-313",
+    "name": "虹色のSeasons",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "lyric": "松井 洋平",
+    "composition": "広川 恵一 (MONACA)",
+    "arrangement": "広川 恵一 (MONACA)",
+    "version": {
+      "full": [
+        "mktls-357"
+      ],
+      "inst": "mktls-597"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-357",
+    "name": "虹色のSeasons (ALBUM Mix)",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "duration": {
+      "game": 142,
+      "full": 279
+    },
+    "lyric": "松井 洋平",
+    "composition": "広川 恵一 (MONACA)",
+    "arrangement": "広川 恵一 (MONACA)",
+    "version": {
+      "full": [
+        "mktls-313"
+      ],
+      "inst": "mktls-597"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-300",
+    "name": "CHERRY HAPPY STREAM",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "lyric": "Mel*",
+    "composition": "矢鴇 つかさ (Arte Refact)",
+    "arrangement": "矢鴇 つかさ (Arte Refact)",
+    "version": {
+      "full": [
+        130
+      ],
+      "inst": "mktls-577"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-317",
+    "name": "DIAMOND SUMMER",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "duration": {
+      "game": 140,
+      "full": 251
+    },
+    "lyric": "こだま さおり",
+    "composition": "齋藤 真也",
+    "arrangement": "齋藤 真也",
+    "version": {
+      "inst": "mktls-619"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-358",
+    "name": "STARSEEK WAYFARER",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12
+      ]
+    ],
+    "duration": {
+      "game": 85,
+      "full": 265
+    },
+    "lyric": "松井 洋平",
+    "composition": "原田 篤 (Arte Refact)",
+    "arrangement": "山本 恭平 (Arte Refact)",
+    "version": {
+      "inst": "mktls-939"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-359",
+    "name": "My Starry Point",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        11
+      ]
+    ],
+    "duration": {
+      "game": 137,
+      "full": 255
+    },
+    "lyric": "こだま さおり",
+    "composition": "中土 智博 (APDREAM)",
+    "arrangement": "中土 智博 (APDREAM)",
+    "version": {
+      "inst": "mktls-940"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-360",
+    "name": "Walking On My Sunny Road",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        13
+      ]
+    ],
+    "duration": {
+      "game": 84,
+      "full": 216
+    },
+    "lyric": "こだま さおり",
+    "composition": "原田 アツシ (Dream Monster)",
+    "arrangement": "山本 悠太 (Dream Monster)",
+    "version": {
+      "inst": "mktls-941"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-361",
+    "name": "MAGICIAN’S PLAY!",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        18
+      ]
+    ],
+    "duration": {
+      "game": 99,
+      "full": 264
+    },
+    "lyric": "松井 洋平",
+    "composition": "藤末 樹",
+    "arrangement": "酒井 拓也 (Arte Refact)",
+    "version": {
+      "inst": "mktls-942"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-576",
+    "name": "Rebellion Star (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        9
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-596",
+    "name": "HEART→BEATER!!!! (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        46
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-597",
+    "name": "虹色のSeasons (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        "mktls-357",
+        "mktls-313"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-863",
+    "name": "Welcome to the Trickstar Night☆ (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        176
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-577",
+    "name": "CHERRY HAPPY STREAM (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        "mktls-130"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-619",
+    "name": "DIAMOND SUMMER (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        "mktls-317"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-618",
+    "name": "BREAKTHROUGH! (カラオケVer.)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        77
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-853",
+    "name": "Infinite Star (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        28
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-844",
+    "name": "ONLY YOUR STARS! (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        17
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-622",
+    "name": "THE GENESIS (カラオケVer.)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        12
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-852",
+    "name": "Dance in the Apocalypse (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        29
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-623",
+    "name": "Ruler’s Truth (カラオケVer.)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        143
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-861",
+    "name": "The Beast of the End (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        69
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-624",
+    "name": "Trap For You (カラオケVer.)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        142
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-857",
+    "name": "Sunlit Smile! (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        70
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-362",
+    "name": "生まれ堕ちたこの世界で",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        50
+      ]
+    ],
+    "duration": {
+      "game": 105,
+      "full": 255
+    },
+    "lyric": "こだま さおり",
+    "composition": "伊藤 賢",
+    "arrangement": "伊藤 賢",
+    "version": {
+      "inst": "mktls-943"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-363",
+    "name": "Fantastic Days◎",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        41
+      ]
+    ],
+    "duration": {
+      "game": 89,
+      "full": 227
+    },
+    "lyric": "こだま さおり",
+    "composition": "大和",
+    "arrangement": "大和",
+    "version": {
+      "inst": "mktls-944"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-364",
+    "name": "Poison Strategy",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        51
+      ]
+    ],
+    "duration": {
+      "game": 125,
+      "full": 232
+    },
+    "lyric": "松井 洋平",
+    "composition": "山本 恭平 (Arte Refact)",
+    "arrangement": "山本 恭平 (Arte Refact)",
+    "version": {
+      "inst": "mktls-945"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-365",
+    "name": "Back-alley Monologue",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        42
+      ]
+    ],
+    "duration": {
+      "game": 111,
+      "full": 279
+    },
+    "lyric": "こだま さおり",
+    "composition": "藤末 樹",
+    "arrangement": "青木 宏憲 (HANO)",
+    "version": {
+      "inst": "mktls-946"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-706",
+    "name": "オリジナルショートドラマ",
+    "unit_id": [
+      1
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-707",
+    "name": "Stars' Ensemble!（カラオケVer.）",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        16
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-708",
+    "name": "1st SING-ALONG☆（カラオケVer.）",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        86
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-709",
+    "name": "IMMORAL WORLD（カラオケVer.）",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        104
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-710",
+    "name": "メイド・イン・トキメキ♪（カラオケVer.）",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        99
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-711",
+    "name": "月下無双、紅の舞（カラオケVer.）",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        94
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-712",
+    "name": "Mischievous Party Time!!（カラオケVer.）",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        91
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-713",
+    "name": "始まりのファンタジア（カラオケVer.）",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        102
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-714",
+    "name": "メテオ・スクランブル☆流星隊!（カラオケVer.）",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        107
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-715",
+    "name": "Magic for your “Switch”（カラオケVer.）",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        97
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-716",
+    "name": "愉快痛快 That's alright!（カラオケVer.）",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        93
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-717",
+    "name": "凱旋歌（カラオケVer.）",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        89
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-718",
+    "name": "Promise Swords（カラオケVer.）",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        106
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-719",
+    "name": "Awakening Myth（カラオケVer.）",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        96
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-781",
+    "name": "Kiss of Life（カラオケVer.）",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        14
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-782",
+    "name": "翼モラトリアム（カラオケVer.）",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        36
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-783",
+    "name": "You’re Speculation（カラオケVer.）",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        55
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-784",
+    "name": "Crazy Roulette（カラオケVer.）",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        15
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-785",
+    "name": "Be The Party Bee!（カラオケVer.）",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        37
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-786",
+    "name": "RISKY VENUS（カラオケVer.）",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        56
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-723",
+    "name": "Shining Stars",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-724",
+    "name": "Prelude of the Story",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-725",
+    "name": "Hop Step",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-726",
+    "name": "やさしい光 (Bright Piano Ver.)",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-727",
+    "name": "楽しいひととき",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-728",
+    "name": "途方にくれて",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-729",
+    "name": "未来の話",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-730",
+    "name": "揺れ動く気持ち",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-731",
+    "name": "Cheerful Stars",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-732",
+    "name": "繋げたい未来",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-733",
+    "name": "それぞれの正義",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-734",
+    "name": "紡ぐ絆",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-735",
+    "name": "輝きだす想い",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-736",
+    "name": "やさしい光 (Quartet Ver.)",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-737",
+    "name": "明日を信じて",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-738",
+    "name": "アイキャッチ1",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-739",
+    "name": "アイキャッチ2",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-740",
+    "name": "何が起こるかわからない!!",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-741",
+    "name": "張りつめた心",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-742",
+    "name": "緊迫の刹那",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-743",
+    "name": "彷徨う心",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-744",
+    "name": "Colorful Days",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-745",
+    "name": "零れる想い",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-746",
+    "name": "Invisible Star",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-747",
+    "name": "静かな時間",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-748",
+    "name": "Starting Line",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-749",
+    "name": "最高の輝き",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-750",
+    "name": "特別な瞬間",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-751",
+    "name": "叶えたい未来",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-752",
+    "name": "潰えそうな希望",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-753",
+    "name": "眠れる森の美女",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-754",
+    "name": "青春のきらめき",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-755",
+    "name": "夢のステージ",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-756",
+    "name": "悲壮な決意",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-757",
+    "name": "空を見上げて",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-758",
+    "name": "奏でる想い",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-759",
+    "name": "移り変わる季節",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-760",
+    "name": "これからもずっと",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-761",
+    "name": "アイキャッチ3",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-762",
+    "name": "アイキャッチ4",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-763",
+    "name": "流星隊、参上!!!!!",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-764",
+    "name": "燃やせ、情熱の炎!",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-765",
+    "name": "まったりブレイクタイム",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-766",
+    "name": "かけがえのないもの",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-767",
+    "name": "零れる想い (Quartet Ver.)",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-768",
+    "name": "遠い約束",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-769",
+    "name": "希望の光",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-770",
+    "name": "楽園へ誘おう",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-771",
+    "name": "理想を求めて",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-772",
+    "name": "譲れない運命",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-773",
+    "name": "Happy Halloween♪",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-774",
+    "name": "Smile & Smile",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-775",
+    "name": "いざ、決勝戦へ!!!!",
+    "unit_id": [
+      101
+    ],
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-720",
+    "name": "キセキ（Trickstar Ver.）",
+    "unit_id": [
+      1
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18
+      ]
+    ],
+    "duration": {
+      "full": 266
+    },
+    "lyric": "松井洋平",
+    "composition": "桑原聖（Arte Refact）",
+    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
+    "version": {
+      "full": [
+        35
+      ],
+      "inst": "mktls-722"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-721",
+    "name": "キセキ（Eden Ver.）",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        50,
+        41,
+        51,
+        42
+      ]
+    ],
+    "duration": {
+      "full": 265
+    },
+    "lyric": "松井洋平",
+    "composition": "桑原聖（Arte Refact）",
+    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
+    "version": {
+      "full": [
+        35
+      ],
+      "inst": "mktls-722"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-776",
+    "name": "キセキ ( Trickstar & Eden Ver. )",
+    "unit_id": [
+      1,
+      14
+    ],
+    "character_id": [
+      [
+        12,
+        11,
+        13,
+        18,
+        50,
+        41,
+        51,
+        42
+      ]
+    ],
+    "duration": {
+      "full": 264
+    },
+    "lyric": "松井洋平",
+    "composition": "桑原聖（Arte Refact）",
+    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
+    "version": {
+      "full": [
+        35
+      ],
+      "inst": "mktls-722"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-722",
+    "name": "キセキ（カラオケVer.）",
+    "unit_id": [
+      1,
+      14
+    ],
+    "version": {
+      "full": [
+        35
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-628",
+    "name": "BIGBANG REFLECTION!! (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        38
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-370",
+    "name": "輝きの中で",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        31,
+        32
+      ]
+    ],
+    "duration": {
+      "game": 144,
+      "full": 315
+    },
+    "lyric": "こだまさおり",
+    "composition": "宇津本直紀",
+    "arrangement": "葉山たけし",
+    "version": {
+      "inst": "mktls-779"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-779",
+    "name": "輝きの中で (Instrumental)",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        "mktls-370"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-780",
+    "name": "あんさんぶる体操!! (大人の本音 ver.)",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        31,
+        32
+      ]
+    ],
+    "duration": {
+      "full": 154
+    },
+    "lyric": "松井洋平",
+    "composition": "増田裕子 & 平田明子（ケロポンズ）",
+    "arrangement": "伊藤ヒロシ",
+    "version": {
+      "full": [
+        50
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-778",
+    "name": "あんさんぶる体操!! (Instrumental)",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        50
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-629",
+    "name": "The Tempest Night (Instrumental)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        39
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -12785,6 +15144,12 @@
     "link": {
       "spotify": "6hu1Uop78aGC1lV2cRusam"
     },
+    "version": {
+      "full": [
+        40
+      ],
+      "inst": "mktls-788"
+    },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
@@ -12801,1107 +15166,6 @@
     "version": {
       "full": [
         40
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-554",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      3
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-555",
-    "name": "Melody in the Dark (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        2
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-556",
-    "name": "ハニーミルクはお好みで (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        136
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-557",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      4
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-558",
-    "name": "Voice of Sword (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        3
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-559",
-    "name": "Checkmate Knights (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        "mktls-299"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-560",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      2
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-561",
-    "name": "終わらないシンフォニア (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        4
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-562",
-    "name": "RAINBOW CIRCUS (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        "mktls-298"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-563",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      8
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-564",
-    "name": "百花繚乱、紅月夜 (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        5
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-565",
-    "name": "花燈の恋文 (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        "mktls-308"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-566",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      5
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-567",
-    "name": "夢ノ咲流星隊歌 (カラオケVer. )",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        "mktls-307"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-568",
-    "name": "天下無敵☆メテオレンジャー! (カラオケVer. )",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        31
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-569",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      7
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-570",
-    "name": "シュガー・スパイス方程式 (カラオケVer. )",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        7
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-571",
-    "name": "歓迎☆トゥ・ウィンク雑技団 (カラオケVer. )",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        32
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-572",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      6
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-573",
-    "name": "Joyful×Box* (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        8
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-574",
-    "name": "野うさぎマーチ♪ (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        135
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-575",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      1
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-576",
-    "name": "Rebellion Star (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        9
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-577",
-    "name": "CHERRY HAPPY STREAM (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        "mktls-130"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-578",
-    "name": "DESTRUCTION ROAD (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        72
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-579",
-    "name": "Darkness 4 (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        "mktls-305"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-580",
-    "name": "ハートプリズム・シンメトリー (カラオケVer.)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        80
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-581",
-    "name": "2winkle Star Beat☆ (カラオケVer.)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        "mktls-304"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-582",
-    "name": "Silent Oath (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        34
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-583",
-    "name": "Fight for Judge (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        41
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-584",
-    "name": "想ひ出綴り (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        "mktls-312"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-585",
-    "name": "斬 －決意ノ刃－ (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        44
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-586",
-    "name": "五色のShooting☆Star!!!!! (カラオケVer.)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        "mktls-303"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-587",
-    "name": "流星花火 (カラオケVer.)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        83
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-588",
-    "name": "Hoppin' Season♪ (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        "mktls-302"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-589",
-    "name": "Love Ra*bits Party!! (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        30
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-590",
-    "name": "魅惑劇 (カラオケVer.)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        10
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-591",
-    "name": "砂上ノ楼閣 (カラオケVer.)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        "mktls-306"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-592",
-    "name": "Temptation Magic (カラオケVer.)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        11
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-593",
-    "name": "Knockin' Fantasy (カラオケVer.)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        43
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-594",
-    "name": "羽ばたきのフォルティシモ (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        47
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-595",
-    "name": "Neo Sanctuary (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        84
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-596",
-    "name": "HEART→BEATER!!!! (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        46
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-597",
-    "name": "虹色のSeasons (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        "mktls-357",
-        "mktls-313"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-598",
-    "name": "SUPER NOVA REVOLU5TAR (カラオケVer.)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        45
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-599",
-    "name": "GROWING STARRY DAYS (カラオケVer.)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        134
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-600",
-    "name": "Article of Faith (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        138
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-601",
-    "name": "Knights the Phantom Thief (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        "mktls-311"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-602",
-    "name": "Crush of Judgment (カラオケVer.)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        186
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-603",
-    "name": "Miracle Dream Traveler (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        133
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-604",
-    "name": "Tryst of Stars (カラオケVer.)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        "mktls-310"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-605",
-    "name": "礼賛歌 (カラオケVer.)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        123
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-606",
-    "name": "Last Lament (カラオケVer.)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        57
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-607",
-    "name": "TRICK with TREAT !! (カラオケVer.)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        33
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-608",
-    "name": "WONDER WONDER TOY LAND (カラオケVer.)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        "mktls-309"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-609",
-    "name": "Gate of the Abyss (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        42
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-610",
-    "name": "Break the Prison (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        "mktls-315"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-611",
-    "name": "Death Game Holic (カラオケVer.)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        182
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-612",
-    "name": "Milky Starry Charm (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        76
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-613",
-    "name": "Dream Collection (カラオケVer.)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        "mktls-316"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-614",
-    "name": "剣戟の舞 (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        137
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-615",
-    "name": "祭夜絵巻 (カラオケVer.)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        73
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-616",
-    "name": "イースター・カーニバル (カラオケVer.)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        128
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-617",
-    "name": "Galaxy Destiny (カラオケVer.)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        139
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-618",
-    "name": "BREAKTHROUGH! (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        77
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-619",
-    "name": "DIAMOND SUMMER (カラオケVer.)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        "mktls-317"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-620",
-    "name": "Blooming World (カラオケVer.)",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        13
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-621",
-    "name": "Festive! (カラオケVer.)",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        71
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-622",
-    "name": "THE GENESIS (カラオケVer.)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        12
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-623",
-    "name": "Ruler’s Truth (カラオケVer.)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        143
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-624",
-    "name": "Trap For You (カラオケVer.)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        142
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-625",
-    "name": "Sentimental Liars (カラオケVer.)",
-    "unit_id": [
-      19
-    ],
-    "version": {
-      "full": [
-        "mktls-318"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-626",
-    "name": "微熱カルナバル (カラオケVer.)",
-    "unit_id": [
-      19
-    ],
-    "version": {
-      "full": [
-        "mktls-319"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-627",
-    "name": "BUTTERFLY EFFECT (カラオケVer.)",
-    "unit_id": [
-      19
-    ],
-    "version": {
-      "full": [
-        "mktls-320"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-628",
-    "name": "BIGBANG REFLECTION!! (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        38
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-629",
-    "name": "The Tempest Night (Instrumental)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        39
       ]
     },
     "has_game_edit": "FALSE",
@@ -13969,21 +15233,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-634",
-    "name": "Secret of Metropolis (Instrumental)",
-    "unit_id": [
-      17
-    ],
-    "version": {
-      "full": [
-        "mktls-366"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-635",
     "name": "Eternal Weaving (Instrumental)",
     "unit_id": [
@@ -14022,6 +15271,51 @@
     "version": {
       "full": [
         79
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-690",
+    "name": "デートプランA to Z (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        48
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-691",
+    "name": "Midnight Butlers (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        62
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-692",
+    "name": "Sweet Sweet White Song (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        66
       ]
     },
     "has_game_edit": "FALSE",
@@ -14142,1962 +15436,6 @@
     "version": {
       "full": [
         65
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-690",
-    "name": "デートプランA to Z (Instrumental)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        48
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-691",
-    "name": "Midnight Butlers (Instrumental)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        62
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-692",
-    "name": "Sweet Sweet White Song (Instrumental)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        66
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-706",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      1
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-707",
-    "name": "Stars' Ensemble!（カラオケVer.）",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        16
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-708",
-    "name": "1st SING-ALONG☆（カラオケVer.）",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        86
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-709",
-    "name": "IMMORAL WORLD（カラオケVer.）",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        104
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-710",
-    "name": "メイド・イン・トキメキ♪（カラオケVer.）",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        99
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-711",
-    "name": "月下無双、紅の舞（カラオケVer.）",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        94
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-712",
-    "name": "Mischievous Party Time!!（カラオケVer.）",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        91
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-713",
-    "name": "始まりのファンタジア（カラオケVer.）",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        102
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-714",
-    "name": "メテオ・スクランブル☆流星隊!（カラオケVer.）",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        107
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-715",
-    "name": "Magic for your “Switch”（カラオケVer.）",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        97
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-716",
-    "name": "愉快痛快 That's alright!（カラオケVer.）",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        93
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-717",
-    "name": "凱旋歌（カラオケVer.）",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        89
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-718",
-    "name": "Promise Swords（カラオケVer.）",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        106
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-719",
-    "name": "Awakening Myth（カラオケVer.）",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        96
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-720",
-    "name": "キセキ（Trickstar Ver.）",
-    "unit_id": [
-      1
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18
-      ]
-    ],
-    "duration": {
-      "full": 266
-    },
-    "lyric": "松井洋平",
-    "composition": "桑原聖（Arte Refact）",
-    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
-    "version": {
-      "full": [
-        35
-      ],
-      "inst": "mktls-722"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-721",
-    "name": "キセキ（Eden Ver.）",
-    "unit_id": [
-      14
-    ],
-    "character_id": [
-      [
-        50,
-        41,
-        51,
-        42
-      ]
-    ],
-    "duration": {
-      "full": 265
-    },
-    "lyric": "松井洋平",
-    "composition": "桑原聖（Arte Refact）",
-    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
-    "version": {
-      "full": [
-        35
-      ],
-      "inst": "mktls-722"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-776",
-    "name": "キセキ ( Trickstar & Eden Ver. )",
-    "unit_id": [
-      1,
-      14
-    ],
-    "character_id": [
-      [
-        12,
-        11,
-        13,
-        18,
-        50,
-        41,
-        51,
-        42
-      ]
-    ],
-    "duration": {
-      "full": 264
-    },
-    "lyric": "松井洋平",
-    "composition": "桑原聖（Arte Refact）",
-    "arrangement": "酒井拓也 & 山本恭平（Arte Refact）",
-    "version": {
-      "full": [
-        35
-      ],
-      "inst": "mktls-722"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-722",
-    "name": "キセキ（カラオケVer.）",
-    "unit_id": [
-      1,
-      14
-    ],
-    "version": {
-      "full": [
-        35
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-723",
-    "name": "Shining Stars",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-724",
-    "name": "Prelude of the Story",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-725",
-    "name": "Hop Step",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-726",
-    "name": "やさしい光 (Bright Piano Ver.)",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-727",
-    "name": "楽しいひととき",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-728",
-    "name": "途方にくれて",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-729",
-    "name": "未来の話",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-730",
-    "name": "揺れ動く気持ち",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-731",
-    "name": "Cheerful Stars",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-732",
-    "name": "繋げたい未来",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-733",
-    "name": "それぞれの正義",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-734",
-    "name": "紡ぐ絆",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-735",
-    "name": "輝きだす想い",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-736",
-    "name": "やさしい光 (Quartet Ver.)",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-737",
-    "name": "明日を信じて",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-738",
-    "name": "アイキャッチ1",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-739",
-    "name": "アイキャッチ2",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-740",
-    "name": "何が起こるかわからない!!",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-741",
-    "name": "張りつめた心",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-742",
-    "name": "緊迫の刹那",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-743",
-    "name": "彷徨う心",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-744",
-    "name": "Colorful Days",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-745",
-    "name": "零れる想い",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-746",
-    "name": "Invisible Star",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-747",
-    "name": "静かな時間",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-748",
-    "name": "Starting Line",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-749",
-    "name": "最高の輝き",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-750",
-    "name": "特別な瞬間",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-751",
-    "name": "叶えたい未来",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-752",
-    "name": "潰えそうな希望",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-753",
-    "name": "眠れる森の美女",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-754",
-    "name": "青春のきらめき",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-755",
-    "name": "夢のステージ",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-756",
-    "name": "悲壮な決意",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-757",
-    "name": "空を見上げて",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-758",
-    "name": "奏でる想い",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-759",
-    "name": "移り変わる季節",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-760",
-    "name": "これからもずっと",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-761",
-    "name": "アイキャッチ3",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-762",
-    "name": "アイキャッチ4",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-763",
-    "name": "流星隊、参上!!!!!",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-764",
-    "name": "燃やせ、情熱の炎!",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-765",
-    "name": "まったりブレイクタイム",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-766",
-    "name": "かけがえのないもの",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-767",
-    "name": "零れる想い (Quartet Ver.)",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-768",
-    "name": "遠い約束",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-769",
-    "name": "希望の光",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-770",
-    "name": "楽園へ誘おう",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-771",
-    "name": "理想を求めて",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-772",
-    "name": "譲れない運命",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-773",
-    "name": "Happy Halloween♪",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-774",
-    "name": "Smile & Smile",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-775",
-    "name": "いざ、決勝戦へ!!!!",
-    "unit_id": [
-      101
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-778",
-    "name": "あんさんぶる体操!! (Instrumental)",
-    "unit_id": [
-      19
-    ],
-    "version": {
-      "full": [
-        50
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-779",
-    "name": "輝きの中で (Instrumental)",
-    "unit_id": [
-      19
-    ],
-    "version": {
-      "full": [
-        "mktls-370"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-780",
-    "name": "あんさんぶる体操!! (大人の本音 ver.)",
-    "unit_id": [
-      19
-    ],
-    "character_id": [
-      [
-        31,
-        32
-      ]
-    ],
-    "duration": {
-      "full": 154
-    },
-    "lyric": "松井洋平",
-    "composition": "増田裕子 & 平田明子（ケロポンズ）",
-    "arrangement": "伊藤ヒロシ",
-    "version": {
-      "full": [
-        50
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-781",
-    "name": "Kiss of Life（カラオケVer.）",
-    "unit_id": [
-      15
-    ],
-    "version": {
-      "full": [
-        14
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-782",
-    "name": "翼モラトリアム（カラオケVer.）",
-    "unit_id": [
-      15
-    ],
-    "version": {
-      "full": [
-        36
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-783",
-    "name": "You’re Speculation（カラオケVer.）",
-    "unit_id": [
-      15
-    ],
-    "version": {
-      "full": [
-        55
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-784",
-    "name": "Crazy Roulette（カラオケVer.）",
-    "unit_id": [
-      16
-    ],
-    "version": {
-      "full": [
-        15
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-785",
-    "name": "Be The Party Bee!（カラオケVer.）",
-    "unit_id": [
-      16
-    ],
-    "version": {
-      "full": [
-        37
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-786",
-    "name": "RISKY VENUS（カラオケVer.）",
-    "unit_id": [
-      16
-    ],
-    "version": {
-      "full": [
-        56
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-789",
-    "name": "Feathers of Ark (Instrumental)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        120
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-790",
-    "name": "Deep Eclipse (Instrumental)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        121
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-835",
-    "name": "プリティのススメ♡（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "4tUkQqH4RJN6nqgtYaIHRZ"
-    },
-    "version": {
-      "full": [
-        "mktls-373"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-836",
-    "name": "おんみつ！忍術音頭（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "0Q3Fo4vasaKyd0JFbJtEbV"
-    },
-    "version": {
-      "full": [
-        "mktls-374"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-837",
-    "name": "Let’s！キラキラアドベンチャー☆（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "2XSDo74BZEdA3kltt9p1YN"
-    },
-    "version": {
-      "full": [
-        "mktls-375"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-838",
-    "name": "OWN（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "7qbNtU8RWFYkAtVUslDmdU"
-    },
-    "version": {
-      "full": [
-        "mktls-376"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-839",
-    "name": "Venus in my eyes～離さない、今夜～（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "59aCLEkp9Cs87QVeTyOFl8"
-    },
-    "version": {
-      "full": [
-        "mktls-377"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-840",
-    "name": "風早先輩の懺悔室！〜迷えるＥＳアイドル版〜（Instrumental）",
-    "unit_id": [
-      101
-    ],
-    "link": {
-      "spotify": "0myqYDIpewTwWiPMqgCjP2"
-    },
-    "version": {
-      "full": [
-        "mktls-378"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-844",
-    "name": "ONLY YOUR STARS! (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        17
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-845",
-    "name": "Holy Angel's Carol (Instrumental)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        26
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-846",
-    "name": "Valentine Eve's Nightmare (Instrumental)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        22
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-847",
-    "name": "君印 Be Ambitious!! (Instrumental)",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        24
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-848",
-    "name": "アンリミテッド☆パワー!!!!! (Instrumental)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        18
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-849",
-    "name": "薄紅色の約束 (Instrumental)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        21
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-850",
-    "name": "Mémoire Antique (Instrumental)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        25
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-851",
-    "name": "エメラルドプラネット (Instrumental)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        23
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-852",
-    "name": "Dance in the Apocalypse (Instrumental)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        29
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-853",
-    "name": "Infinite Star (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        28
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-854",
-    "name": "Grateful allegiance (Instrumental)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        20
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-856",
-    "name": "Play “Tag” (Instrumental)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        27
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-857",
-    "name": "Sunlit Smile! (Instrumental)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        70
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-858",
-    "name": "メルティ♡キッチン (Instrumental)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        19
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-859",
-    "name": "I “Witch” You A Happy Halloween! (Instrumental)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        74
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-860",
-    "name": "今宵月の館にて (Instrumental)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        75
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-861",
-    "name": "The Beast of the End (Instrumental)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        69
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-862",
-    "name": "辻風に吹かれて (Instrumental)",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        110
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-863",
-    "name": "Welcome to the Trickstar Night☆ (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        176
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-864",
-    "name": "Genuine Revelation (Instrumental)",
-    "unit_id": [
-      101
-    ],
-    "version": {
-      "full": [
-        132
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-865",
-    "name": "NA NA NA SUMMER NIGHT BeeAT (Instrumental)",
-    "unit_id": [
-      16
-    ],
-    "version": {
-      "full": [
-        200
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-866",
-    "name": "ヒカリスペクトル (Instrumental)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        210
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-867",
-    "name": "ネビュラ (Instrumental)",
-    "unit_id": [
-      17
-    ],
-    "version": {
-      "full": [
-        204
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-868",
-    "name": "Angelic Grace (Instrumental)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        212
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-869",
-    "name": "祝福のLibrary (Instrumental)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        202
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-870",
-    "name": "ROCK ROAR (Instrumental)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        180
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-871",
-    "name": "トゥウィンクル空中戦 (Instrumental)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        205
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-872",
-    "name": "Black Out See Saw (Instrumental)",
-    "unit_id": [
-      15
-    ],
-    "version": {
-      "full": [
-        206
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-873",
-    "name": "罪の底 (Instrumental)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        207
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-874",
-    "name": "絲 (Instrumental)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        208
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-875",
-    "name": "幸せの歌 (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        209
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-876",
-    "name": "NEW DAYBREAK (Instrumental)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        211
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-877",
-    "name": "We’ll be “Knights” (Instrumental)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        181
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-878",
-    "name": "Seven Days “Prismagic” (Instrumental)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        201
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-880",
-    "name": "KEEP OUT (Instrumental)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        203
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-881",
-    "name": "Wonderful Happiness (Instrumental)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        213
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-884",
-    "name": "Or the Beautiful Golden Drop (Instrumental)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        187
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-885",
-    "name": "Crazy Anthem (Instrumental)",
-    "unit_id": [
-      16
-    ],
-    "version": {
-      "full": [
-        188
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-886",
-    "name": "パラレルメイズ (Instrumental)",
-    "unit_id": [
-      6
-    ],
-    "version": {
-      "full": [
-        197
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-887",
-    "name": "RELAX PARADISE (Instrumental)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        192
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-888",
-    "name": "Bye-Bye Buddy (Instrumental)",
-    "unit_id": [
-      17
-    ],
-    "version": {
-      "full": [
-        193
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-889",
-    "name": "Dreaming Ocean (Instrumental)",
-    "unit_id": [
-      2
-    ],
-    "version": {
-      "full": [
-        199
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-890",
-    "name": "Le temps des fleurs (Instrumental)",
-    "unit_id": [
-      9
-    ],
-    "version": {
-      "full": [
-        190
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-891",
-    "name": "Love×me⇄monsteR (Instrumental)",
-    "unit_id": [
-      7
-    ],
-    "version": {
-      "full": [
-        194
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-892",
-    "name": "UNDYING HOLY LOVE (Instrumental)",
-    "unit_id": [
-      15
-    ],
-    "version": {
-      "full": [
-        195
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-893",
-    "name": "Resurrection of Soul (Instrumental)",
-    "unit_id": [
-      3
-    ],
-    "version": {
-      "full": [
-        173
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-894",
-    "name": "金色千夜夢舞台 (Instrumental)",
-    "unit_id": [
-      8
-    ],
-    "version": {
-      "full": [
-        174
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-895",
-    "name": "Romantic Xday! (Instrumental)",
-    "unit_id": [
-      1
-    ],
-    "version": {
-      "full": [
-        196
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-896",
-    "name": "僕らのステラ (Instrumental)",
-    "unit_id": [
-      5
-    ],
-    "version": {
-      "full": [
-        198
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-897",
-    "name": "Chocola-Tic After School (Instrumental)",
-    "unit_id": [
-      10
-    ],
-    "version": {
-      "full": [
-        189
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-898",
-    "name": "Absolute Perfection (Instrumental)",
-    "unit_id": [
-      14
-    ],
-    "version": {
-      "full": [
-        191
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-899",
-    "name": "Luminous Crown (Instrumental)",
-    "unit_id": [
-      4
-    ],
-    "version": {
-      "full": [
-        175
       ]
     },
     "has_game_edit": "FALSE",
@@ -17206,51 +16544,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-672",
-    "name": "No name yet (Instrumental)",
-    "unit_id": [
-      17
-    ],
-    "version": {
-      "full": [
-        125
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-673",
-    "name": "Sleeper Mystery Train (Instrumental)",
-    "unit_id": [
-      17
-    ],
-    "version": {
-      "full": [
-        "mktls-369"
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-674",
-    "name": "ハンズクラフト (Instrumental)",
-    "unit_id": [
-      11
-    ],
-    "version": {
-      "full": [
-        229
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-510",
     "name": "Surprising Thanks!! (Crazy:B ver.)",
     "unit_id": [
@@ -17887,11 +17180,35 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-461",
+    "name": "題名のない今日",
+    "unit_id": [
+      19
+    ],
+    "character_id": [
+      [
+        31,
+        32
+      ]
+    ],
+    "duration": {
+      "full": 198
+    },
+    "lyric": "EIGO (ONEly Inc.) & 平井 大",
+    "composition": "平井 大",
+    "arrangement": "水野谷 怜 (Arte Refact)",
+    "version": {
+      "inst": "mktls-798"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-798",
     "name": "題名のない今日（Instrumental）",
     "unit_id": [
-      31,
-      32
+      19
     ],
     "version": {
       "full": [
@@ -18340,6 +17657,21 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-865",
+    "name": "NA NA NA SUMMER NIGHT BeeAT (Instrumental)",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        200
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-382",
     "name": "-Corner-（Instrumental）",
     "unit_id": [
@@ -18350,6 +17682,21 @@
     },
     "version": {
       "inst": "mktls-950"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-885",
+    "name": "Crazy Anthem (Instrumental)",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        188
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -18604,16 +17951,56 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-394",
-    "name": "Foggy night (Instrumental)",
+    "id": "mktls-866",
+    "name": "ヒカリスペクトル (Instrumental)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        210
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-886",
+    "name": "パラレルメイズ (Instrumental)",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        197
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-369",
+    "name": "Sleeper Mystery Train",
     "unit_id": [
       17
     ],
+    "character_id": [
+      [
+        30,
+        73
+      ]
+    ],
     "duration": {
-      "full": 34
+      "game": 148,
+      "full": 254
     },
+    "lyric": "松井 洋平",
+    "composition": "SHIBU & YU-G",
+    "arrangement": "SHIBU",
     "version": {
-      "inst": "mktls-962"
+      "inst": "mktls-673"
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -18641,6 +18028,138 @@
       "inst": "mktls-963"
     },
     "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-394",
+    "name": "Foggy night (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "duration": {
+      "full": 34
+    },
+    "version": {
+      "inst": "mktls-962"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-366",
+    "name": "Secret of Metropolis",
+    "unit_id": [
+      17
+    ],
+    "character_id": [
+      [
+        30,
+        73
+      ]
+    ],
+    "duration": {
+      "game": 118,
+      "full": 196
+    },
+    "lyric": "松井 洋平",
+    "composition": "西寺 郷太 & 谷口 尚久",
+    "arrangement": "谷口 尚久 & 西寺 郷太",
+    "version": {
+      "inst": "mktls-634"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-867",
+    "name": "ネビュラ (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "version": {
+      "full": [
+        204
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-673",
+    "name": "Sleeper Mystery Train (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "version": {
+      "full": [
+        "mktls-369"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-634",
+    "name": "Secret of Metropolis (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "version": {
+      "full": [
+        "mktls-366"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-888",
+    "name": "Bye-Bye Buddy (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "version": {
+      "full": [
+        193
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-672",
+    "name": "No name yet (Instrumental)",
+    "unit_id": [
+      17
+    ],
+    "version": {
+      "full": [
+        125
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-674",
+    "name": "ハンズクラフト (Instrumental)",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        229
+      ]
+    },
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -18777,6 +18296,51 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-868",
+    "name": "Angelic Grace (Instrumental)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        212
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-889",
+    "name": "Dreaming Ocean (Instrumental)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        199
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-789",
+    "name": "Feathers of Ark (Instrumental)",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        120
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-402",
     "name": "-Open the cover- (Instrumental)",
     "unit_id": [
@@ -18875,6 +18439,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-869",
+    "name": "祝福のLibrary (Instrumental)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        202
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-890",
+    "name": "Le temps des fleurs (Instrumental)",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        190
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-407",
     "name": "J△MMinG☆ (Instrumental)",
     "unit_id": [
@@ -18885,6 +18479,21 @@
     },
     "version": {
       "inst": "mktls-975"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-891",
+    "name": "Love×me⇄monsteR (Instrumental)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        194
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -18953,6 +18562,21 @@
       "inst": "mktls-979"
     },
     "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-871",
+    "name": "トゥウィンクル空中戦 (Instrumental)",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        205
+      ]
+    },
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -19073,6 +18697,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-872",
+    "name": "Black Out See Saw (Instrumental)",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        206
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-892",
+    "name": "UNDYING HOLY LOVE (Instrumental)",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        195
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-416",
     "name": "No one knows… (Instrumental)",
     "unit_id": [
@@ -19189,6 +18843,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-873",
+    "name": "罪の底 (Instrumental)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        207
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-893",
+    "name": "Resurrection of Soul (Instrumental)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        173
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-421",
     "name": "風雅 (Instrumental)",
     "unit_id": [
@@ -19292,6 +18976,51 @@
       "inst": "mktls-994"
     },
     "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-874",
+    "name": "絲 (Instrumental)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        208
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-894",
+    "name": "金色千夜夢舞台 (Instrumental)",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        174
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-870",
+    "name": "ROCK ROAR (Instrumental)",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        180
+      ]
+    },
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -19412,6 +19141,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-875",
+    "name": "幸せの歌 (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        209
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-895",
+    "name": "Romantic Xday! (Instrumental)",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        196
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-431",
     "name": "The Opening! (Instrumental)",
     "unit_id": [
@@ -19428,16 +19187,15 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-432",
-    "name": "Power Charge!++ (Instrumental)",
+    "id": "mktls-896",
+    "name": "僕らのステラ (Instrumental)",
     "unit_id": [
       5
     ],
-    "duration": {
-      "full": 49
-    },
     "version": {
-      "inst": "mktls-1001"
+      "full": [
+        198
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -19569,6 +19327,52 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-876",
+    "name": "NEW DAYBREAK (Instrumental)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        211
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-432",
+    "name": "Power Charge!++ (Instrumental)",
+    "unit_id": [
+      5
+    ],
+    "duration": {
+      "full": 49
+    },
+    "version": {
+      "inst": "mktls-1001"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-887",
+    "name": "RELAX PARADISE (Instrumental)",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        192
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-438",
     "name": "Magical Lightning-- (Instrumental)",
     "unit_id": [
@@ -19688,6 +19492,36 @@
       "inst": "mktls-1012"
     },
     "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-878",
+    "name": "Seven Days “Prismagic” (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        201
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-897",
+    "name": "Chocola-Tic After School (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        189
+      ]
+    },
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -20253,6 +20087,51 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-880",
+    "name": "KEEP OUT (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        203
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-790",
+    "name": "Deep Eclipse (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        121
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-898",
+    "name": "Absolute Perfection (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        191
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-450",
     "name": "-dazzling night- (Instrumental)",
     "unit_id": [
@@ -20410,6 +20289,66 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-881",
+    "name": "Wonderful Happiness (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        213
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-884",
+    "name": "Or the Beautiful Golden Drop (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        187
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-899",
+    "name": "Luminous Crown (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        175
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-877",
+    "name": "We’ll be “Knights” (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        181
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-824",
     "name": "SWINGIN' PARONIRIA (Instrumental)",
     "unit_id": [
@@ -20440,6 +20379,66 @@
       "full": [
         243
       ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-371",
+    "name": "Across the universe",
+    "unit_id": [
+      15
+    ],
+    "character_id": [
+      [
+        67,
+        68,
+        69,
+        70
+      ]
+    ],
+    "duration": {
+      "full": 212
+    },
+    "lyric": "松井 洋平",
+    "composition": "槇島 隆人 (SUPA LOVE)",
+    "arrangement": "槇島 隆人 (SUPA LOVE)",
+    "link": {
+      "spotify": "4Ircdfplz7G3aybDicPOF0"
+    },
+    "version": {
+      "inst": "mktls-833"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-372",
+    "name": "Foolish Alien",
+    "unit_id": [
+      16
+    ],
+    "character_id": [
+      [
+        71,
+        72,
+        73,
+        74
+      ]
+    ],
+    "duration": {
+      "full": 196
+    },
+    "lyric": "こだま さおり",
+    "composition": "SHOW (Digz, Inc. Group)",
+    "arrangement": "SHOW (Digz, Inc. Group)",
+    "link": {
+      "spotify": "4Ircdfplz7G3aybDicPOF0"
+    },
+    "version": {
+      "inst": "mktls-834"
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -20646,7 +20645,7 @@
   {
     "compliant": "TRUE",
     "id": "mktls-831",
-    "name": "ワチャガナドゥ？（Instrumental）",
+    "name": "ワチャガナドゥ？ (Instrumental)",
     "unit_id": [
       1
     ],
