@@ -23483,7 +23483,9 @@
       "spotify": "01fdugqjrFhBFmmpJEnOo9"
     },
     "version": {
-      "full": 246
+      "full": [
+        246
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE",
@@ -23501,7 +23503,7 @@
     },
     "version": {
       "full": [
-        "mktls-978"
+        247
       ]
     },
     "has_game_edit": "FALSE",
