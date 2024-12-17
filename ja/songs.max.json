@@ -7559,6 +7559,9 @@
     "link": {
       "youtube_3dmv": "https://youtu.be/qfrKTzTg9y8"
     },
+    "version": {
+      "inst": "mktls-1028"
+    },
     "order": 180,
     "has_game_edit": "TRUE",
     "limited": "FALSE",
@@ -10127,6 +10130,21 @@
     "unit_id": [
       6
     ],
+    "character_id": [
+      [
+        30,
+        9,
+        3,
+        2
+      ]
+    ],
+    "color": 2,
+    "difficulty": {
+      "easy": 9,
+      "normal": 14,
+      "hard": 23,
+      "expert": 27
+    },
     "duration": {
       "full": 227
     },
@@ -17753,6 +17771,22 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1028",
+    "name": "Life is so Dramatic! (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "version": {
+      "full": [
+        185
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-821",
     "name": "LEMON SQUASH CHEERS! (Instrumental)",
     "unit_id": [
@@ -23450,6 +23484,25 @@
     },
     "version": {
       "full": 246
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-903",
+    "name": "JUMPIN' LUCK BEAT (Instrumental)",
+    "unit_id": [
+      6
+    ],
+    "link": {
+      "spotify": "1x5lxifoxwkCj61IJxx5D8"
+    },
+    "version": {
+      "full": [
+        "mktls-978"
+      ]
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE",
