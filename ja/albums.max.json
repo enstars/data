@@ -2305,6 +2305,52 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1002",
+    "name": {
+      "alt": "あんさんぶるスターズ！！-Road to Show!!- ミュージックコレクション",
+      "raw": "特別上映版「あんさんぶるスターズ！！-Road to Show!!-」ミュージックコレクション"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2022-03-04T00:00:00+09:00",
+    "tracklist": [
+      [
+        185,
+        "mktls-1028"
+      ],
+      [
+        "mktls-1059",
+        "mktls-1060",
+        "mktls-1061",
+        "mktls-1062",
+        "mktls-1063",
+        "mktls-1064",
+        "mktls-1065",
+        "mktls-1066",
+        "mktls-1067",
+        "mktls-1068",
+        "mktls-1069",
+        "mktls-1070",
+        "mktls-1071",
+        "mktls-1072",
+        "mktls-1073",
+        "mktls-1074",
+        "mktls-1075",
+        "mktls-1076",
+        "mktls-1077",
+        "mktls-1078",
+        "mktls-1079",
+        "mktls-1080",
+        "mktls-1081",
+        "mktls-1082"
+      ]
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 90,
     "name": {
       "alt": "Trickstar「Finder Girl」ESアイドルソング season2",
