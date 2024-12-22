@@ -21277,19 +21277,392 @@
     "compliant": "TRUE",
     "id": 3298,
     "title": "Alluring Fragrant Blossom",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Exciting Times"
+      },
+      "live": {
+        "name": "Perfect Angle"
+      },
+      "support": {
+        "name": "Distracting Color"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3299,
     "title": "Playmate",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Fashion Talk"
+      },
+      "live": {
+        "name": "Recommended Game"
+      },
+      "support": {
+        "name": "Chill Sofa"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3300,
     "title": "Timber of Instruments",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Follow My Lead"
+      },
+      "live": {
+        "name": "Piano Challenge"
+      },
+      "support": {
+        "name": "Sudden Call"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3301,
+    "title": "Bonded Star Fes",
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Growing Ninja"
+      },
+      "live": {
+        "name": "Christmas with Friends"
+      },
+      "support": {
+        "name": "Present Planning"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3302,
+    "title": "Mysterious Star Fes",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Against Etiquette"
+      },
+      "live": {
+        "name": "Underground Christmas"
+      },
+      "support": {
+        "name": "Special Refuge"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3303,
+    "title": "Resonance & Star Fes",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Cultural Mix"
+      },
+      "live": {
+        "name": "Japanese Christmas"
+      },
+      "support": {
+        "name": "Samurai Brother"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3304,
+    "title": "Magic & Star Fes",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "The Magic Words"
+      },
+      "live": {
+        "name": "Sweet Christmas"
+      },
+      "support": {
+        "name": "Sweet Cake of Gratitude"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3305,
+    "title": "Equal Star Fes",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Fun with Master"
+      },
+      "live": {
+        "name": "Reminiscent Christmas"
+      },
+      "support": {
+        "name": "Last Year, This Year"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3306,
+    "title": "Encouraging Star Fes",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Driving Force"
+      },
+      "live": {
+        "name": "Christmas with Acquaintances"
+      },
+      "support": {
+        "name": "A Productive Call"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3307,
+    "title": "Magnificent Star Fes",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Memorable Event"
+      },
+      "live": {
+        "name": "Christmas with Children"
+      },
+      "support": {
+        "name": "Passionate Decorating"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3308,
+    "title": "Cheer for Star Fes",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Winter with Everyone"
+      },
+      "live": {
+        "name": "Anticipated Christmas"
+      },
+      "support": {
+        "name": "Harmonious Studies"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3309,
+    "title": "Jeweller of Desire",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Heartfelt Shine"
+      },
+      "live": {
+        "name": "Gemstone Gift"
+      },
+      "support": {
+        "name": "A Little Sister's Opinion"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3310,
+    "title": "Jeweller of Temptation",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Invisible Shine"
+      },
+      "live": {
+        "name": "Gemstone Value"
+      },
+      "support": {
+        "name": "Advice from Ritsu"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3311,
+    "title": "A Drop of Jewel",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Strange Shine"
+      },
+      "live": {
+        "name": "Gemstone Gifter"
+      },
+      "support": {
+        "name": "Investigation"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3312,
+    "title": "Large Jewel",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Perplexing Shine"
+      },
+      "live": {
+        "name": "Gemstones and Advice"
+      },
+      "support": {
+        "name": "The Real Truth"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3313,
+    "title": "Unfettered Being",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Guide to Different Worlds"
+      },
+      "live": {
+        "name": "A Normal Approach"
+      },
+      "support": {
+        "name": "An Amazing Trick"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3314,
+    "title": "Late Night Work",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Handmade Creativity"
+      },
+      "live": {
+        "name": "Mirroring"
+      },
+      "support": {
+        "name": "Erasing White"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3315,
+    "title": "Game of Creation",
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Restless Release Date"
+      },
+      "live": {
+        "name": "Playing in a Storm"
+      },
+      "support": {
+        "name": "Game Suggestion"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3324,
+    "title": "Igniting Energy",
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Festive Holy Night"
+      },
+      "live": {
+        "name": "Live Passion"
+      },
+      "support": {
+        "name": "That Christmas Feeling"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3325,
+    "title": "Fire of Sensibility",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Fiery Holy Night"
+      },
+      "live": {
+        "name": "Live to the Fullest"
+      },
+      "support": {
+        "name": "As Your Senior"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3326,
+    "title": "Fire of Excitement",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Youthful Holy Night"
+      },
+      "live": {
+        "name": "Live Warmth"
+      },
+      "support": {
+        "name": "Handmade Gift Ideas"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3327,
+    "title": "Igniting Enthusiasm",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Shared Holy Night"
+      },
+      "live": {
+        "name": "Live Gift"
+      },
+      "support": {
+        "name": "Why I'm Uncertain"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3328,
+    "title": "Fire of Mettle",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Decent Holy Night"
+      },
+      "live": {
+        "name": "Live Prep"
+      },
+      "support": {
+        "name": "Christmas Live Plan"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -23061,6 +23434,23 @@
       },
       "support": {
         "name": "Night at the Specimen Museum"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97006,
+    "title": "Fantasy Parade",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Ballet of the Holy Night"
+      },
+      "live": {
+        "name": "Cracking the Shell of Doubt"
+      },
+      "support": {
+        "name": "Opalescent Crescendo"
       }
     }
   },

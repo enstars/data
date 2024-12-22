@@ -231,5 +231,20 @@
     "song_name": "Fragments of Feelings",
     "story_name": "Magic Lantern",
     "story_author": "Akira"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 60910005,
+    "name": "Spotlight Time • Crafting Eternity ~Awakening the Night~",
+    "intro_lines": "Shu doesn't want to appear on variety shows; instead, he chooses to film a horror video for Spotlight Time…",
+    "story_name": "Crafting Eternity",
+    "story_author": "Mitsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "event_id": 60910006,
+    "name": "Spotlight Time • March to Dawn ~Dream of The Nutcracker~",
+    "intro_lines": "Mao is going to film a vlog for the next Spotlight Time. \"What if people find my routine boring?\" That's a big question for him…",
+    "story_name": "March to Dawn"
   }
 ]
