@@ -1119,6 +1119,9 @@
         "mktls-707"
       ]
     ],
+    "cover_id": [
+      2129
+    ],
     "is_album": "FALSE"
   },
   {
@@ -1142,6 +1145,9 @@
         "mktls-708",
         "mktls-709"
       ]
+    ],
+    "cover_id": [
+      2130
     ],
     "is_album": "FALSE"
   },
@@ -1167,6 +1173,9 @@
         "mktls-711"
       ]
     ],
+    "cover_id": [
+      2132
+    ],
     "is_album": "FALSE"
   },
   {
@@ -1190,6 +1199,9 @@
         "mktls-712",
         "mktls-713"
       ]
+    ],
+    "cover_id": [
+      2134
     ],
     "is_album": "FALSE"
   },
@@ -1215,6 +1227,9 @@
         "mktls-715"
       ]
     ],
+    "cover_id": [
+      2136
+    ],
     "is_album": "FALSE"
   },
   {
@@ -1238,6 +1253,9 @@
         "mktls-716",
         "mktls-717"
       ]
+    ],
+    "cover_id": [
+      2138
     ],
     "is_album": "FALSE"
   },
@@ -1263,6 +1281,9 @@
         "mktls-719"
       ]
     ],
+    "cover_id": [
+      2140
+    ],
     "is_album": "FALSE"
   },
   {
@@ -1284,6 +1305,9 @@
         "mktls-721",
         "mktls-722"
       ]
+    ],
+    "cover_id": [
+      2142
     ],
     "is_album": "FALSE"
   },
@@ -1409,6 +1433,10 @@
         "mktls-776"
       ]
     ],
+    "cover_id": [
+      "mktls-1",
+      "mktls-2"
+    ],
     "is_album": "TRUE"
   },
   {
@@ -1431,7 +1459,9 @@
         "mktls-628"
       ]
     ],
-    "link": "[\"https://nex-tone.link/85762",
+    "link": [
+      "https://nex-tone.link/85762"
+    ],
     "is_album": "FALSE"
   },
   {
@@ -3948,6 +3978,9 @@
         "mktls-828"
       ]
     ],
+    "cover_id": [
+      2340
+    ],
     "link": [
       "https://fwinc.lnk.to/O1ZH4y"
     ],
@@ -3971,6 +4004,9 @@
         "mktls-376",
         "mktls-838"
       ]
+    ],
+    "cover_id": [
+      2341
     ],
     "link": [
       "https://fwinc.lnk.to/I4pOdS"
@@ -3996,6 +4032,9 @@
         "mktls-829"
       ]
     ],
+    "cover_id": [
+      2344
+    ],
     "link": [
       "https://fwinc.lnk.to/IvIW85"
     ],
@@ -4020,6 +4059,9 @@
         "mktls-830"
       ]
     ],
+    "cover_id": [
+      2346
+    ],
     "link": [
       "https://fwinc.lnk.to/AbY2g3"
     ],
@@ -4043,6 +4085,9 @@
         "mktls-377",
         "mktls-839"
       ]
+    ],
+    "cover_id": [
+      2345
     ],
     "link": [
       "https://fwinc.lnk.to/8g0okQ"
@@ -4112,6 +4157,9 @@
         "mktls-902"
       ]
     ],
+    "cover_id": [
+      2347
+    ],
     "link": [
       "https://fwinc.lnk.to/t2AlU0"
     ],
@@ -4135,6 +4183,9 @@
         246,
         "mktls-831"
       ]
+    ],
+    "cover_id": [
+      2348
     ],
     "link": [
       "https://fwinc.lnk.to/eylgsA"
@@ -4160,6 +4211,9 @@
         "mktls-840"
       ]
     ],
+    "cover_id": [
+      "mktls-5"
+    ],
     "link": [
       "https://fwinc.lnk.to/5PNEyi"
     ],
@@ -4181,6 +4235,9 @@
       [
         237
       ]
+    ],
+    "cover_id": [
+      "mktls-4"
     ],
     "link": [
       "https://spri.lnk.to/veryberrysweetwhite"
@@ -4205,6 +4262,9 @@
         247,
         "mktls-903"
       ]
+    ],
+    "cover_id": [
+      "mktls-3"
     ],
     "link": [
       "https://fwinc.lnk.to/dwI4Uc"

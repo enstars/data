@@ -106,7 +106,43 @@
     "unit_name": "夢ノ咲ドリームスターズ",
     "character_id": [
       [
-        101
+        22,
+        27,
+        6,
+        19,
+        12,
+        11,
+        13,
+        18,
+        25,
+        28,
+        1,
+        5,
+        7,
+        35,
+        36,
+        4,
+        8,
+        29,
+        23,
+        16,
+        15,
+        30,
+        9,
+        3,
+        2,
+        21,
+        26,
+        14,
+        33,
+        24,
+        17,
+        20,
+        10,
+        38,
+        39,
+        37,
+        40
       ]
     ],
     "color": 0,
@@ -7540,7 +7576,16 @@
     "unit_name": "SCREEN10",
     "character_id": [
       [
-        101
+        68,
+        73,
+        4,
+        13,
+        18,
+        69,
+        17,
+        24,
+        29,
+        50
       ]
     ],
     "color": 0,
@@ -10701,17 +10746,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-566",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      5
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-307",
     "name": "夢ノ咲流星隊歌",
     "unit_id": [
@@ -11094,17 +11128,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-572",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      6
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-316",
     "name": "Dream Collection",
     "unit_id": [
@@ -11440,17 +11463,6 @@
     "has_game_edit": "FALSE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-557",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      4
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -11852,17 +11864,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-563",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      8
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-308",
     "name": "花燈の恋文",
     "unit_id": [
@@ -12154,17 +12155,6 @@
     "has_game_edit": "FALSE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-554",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      3
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -13183,17 +13173,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-560",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      2
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-298",
     "name": "RAINBOW CIRCUS",
     "unit_id": [
@@ -13548,17 +13527,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-569",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      7
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-354",
     "name": "2wink Introduction",
     "unit_id": [
@@ -13849,17 +13817,6 @@
     "has_game_edit": "FALSE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-575",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      1
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -14582,17 +14539,6 @@
     "has_game_edit": "FALSE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-706",
-    "name": "オリジナルショートドラマ",
-    "unit_id": [
-      1
-    ],
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "TRUE"
   },
   {
     "compliant": "TRUE",
