@@ -22,6 +22,9 @@
     ],
     "intro_lines": "英智からESを紹介するという仕事の依頼を受けた『Trickstar』。しかし、いつもと様子が違うスバル。自分でも何が原因かわからず、真緒は違和感の原因を探っていく…",
     "song_name": "BIGBANG REFLECTION!!",
+    "song_id": [
+      38
+    ],
     "story_name": "BIGBANG",
     "story_author": "日日日",
     "story_season": "夏",
@@ -72,6 +75,9 @@
     ],
     "intro_lines": "『ES横断計画』で、シャッフルユニットを組むことになった千秋たち。デートプランを考えてくれそうなメンバーが集められるが難航。メンバーは薫にアドバイスを求めるが、どうやら調子がいつもどおりでない様子。",
     "song_name": "デートプランA to Z",
+    "song_id": [
+      48
+    ],
     "story_name": "デートプラン",
     "story_author": "木野誠太郎",
     "story_season": "夏",
@@ -180,6 +186,9 @@
     ],
     "intro_lines": "個人の活動が増えつつあり、『fine』としての仕事を望む桃李。そんな中、弓弦の様子がぼんやりとしているようで、英智たちに相談することにする。",
     "song_name": "The Tempest Night",
+    "song_id": [
+      39
+    ],
     "story_name": "テンペスト",
     "story_author": "日日日",
     "story_season": "春",
@@ -230,6 +239,9 @@
     ],
     "intro_lines": "『Eden』が分裂し、『Adam』と『Eve』で対決！ というコズプロの企画に憤慨する日和。『Eden』の仕事も拒否するようになり、凪砂は日和に追放宣言を言い渡す……",
     "song_name": "楽園追放 -Faith Conquest-",
+    "song_id": [
+      49
+    ],
     "story_name": "コンクエスト",
     "story_author": "日日日",
     "story_season": "春",
@@ -335,6 +347,9 @@
     ],
     "intro_lines": "なずな復帰のライブに向けて意気込んでいた『Ra*bits』。ところがライブは中止の危機に。上手くいかないことに苛立ち、焦る友也はなずなの元へ謝りに行くが…",
     "song_name": "Love it Love it",
+    "song_id": [
+      51
+    ],
     "story_name": "ハイタッチ！",
     "story_author": "日日日",
     "story_season": "夏",
@@ -434,6 +449,9 @@
     ],
     "intro_lines": "とある事情で情報を集めていたこはく。手がかりを元に追っていると、感づいた斑と遭遇する。こはくの追っている人物にレオが関係していると知った斑は、捜査に加わろうとして……",
     "song_name": "/=EYE/=",
+    "song_id": [
+      52
+    ],
     "story_name": "暗夜行路",
     "story_author": "日日日",
     "story_season": "夏",
@@ -533,6 +551,9 @@
     ],
     "intro_lines": "芸術的なミュージシャンの祭典【日本ネヴァーランド杯】に向けて準備のため帰国した宗。みかも宗の帰りに合わせて準備をしていたが、行き詰まり路頭で迷っていた。",
     "song_name": "Eternal Weaving",
+    "song_id": [
+      53
+    ],
     "story_name": "ネヴァーランド",
     "story_author": "日日日",
     "story_season": "夏",
@@ -579,6 +600,9 @@
     ],
     "intro_lines": "正式な仕事を取ってきたと、『シナモン』で時間を潰していたメンバーに意気揚々と告げる燐音。しかしニキにはニキの都合があり、燐音と出会った頃の記憶が蘇るのだった。",
     "song_name": "Honeycomb Summer",
+    "song_id": [
+      59
+    ],
     "story_name": "ホットリミット",
     "story_author": "日日日",
     "story_season": "過去／夏、夏",
@@ -691,6 +715,9 @@
     ],
     "intro_lines": "ライブでの失敗や練習におけるメンバーとの実力差に落ち込む藍良。理想と現実の間を埋めようともがく姿を見た巽は、揺らぐ後輩の心に寄り添い、自身の中にある不安について打ち明けるのだった。",
     "song_name": "Living on the edge",
+    "song_id": [
+      58
+    ],
     "story_name": "フェザータッチ",
     "story_author": "日日日",
     "story_season": "夏",
@@ -737,6 +764,9 @@
     ],
     "intro_lines": "不安定な様子の晃牙。薫が話を聞こうとするが、突っぱねられてしまう。先輩ふたりに頼まれてアドニスがそれとなく伺ってみると、ライブハウスに悩みの元があると言う。",
     "song_name": "Nightless World",
+    "song_id": [
+      63
+    ],
     "story_name": "不夜城ライブ",
     "story_author": "日日日",
     "story_season": "夏、秋",
@@ -836,6 +866,9 @@
     ],
     "intro_lines": "事務所横断企画で映画の撮影に挑むことになり、白亜館にやってきた真たち。撮影は順調に進んでいくと思いきや、泉のこだわりがでてしまい…",
     "song_name": "Midnight Butlers",
+    "song_id": [
+      62
+    ],
     "story_name": "バトラー",
     "story_author": "木野誠太郎",
     "story_season": "夏",
@@ -884,6 +917,9 @@
     ],
     "intro_lines": "『シャッフルユニット』の企画で集められた桃李たち。楽しみにしながら集まるが、企画担当者がいなくなるという事態に見舞われてしまう。",
     "song_name": "Sweet Sweet White Song",
+    "song_id": [
+      66
+    ],
     "story_name": "Merry Xmas",
     "story_author": "西岡麻衣子",
     "story_season": "冬",
@@ -928,6 +964,9 @@
     ],
     "intro_lines": "再構成されることになった『流星隊』。統合し改めて『流星隊』と他の分隊に姿を変えるが、その際千秋たちは次のライブで脱退すると言い…",
     "song_name": "彗星Halation",
+    "song_id": [
+      60
+    ],
     "story_name": "コメットショウ",
     "story_author": "日日日",
     "story_season": "過去／夏、夏",
@@ -977,7 +1016,10 @@
       344
     ],
     "intro_lines": "ふたりの間で擦り合わせながらもすれ違う『2wink』。そんな中、茨から登竜門のひとつとされる音楽番組への出演依頼をされる。しかし、出場枠は一人分しか用意されておらず…",
-    "song_name": "Fighting Dreamers",
+    "song_name": "Fighting Dreamer",
+    "song_id": [
+      61
+    ],
     "story_name": "ツインピークス",
     "story_author": "日日日",
     "story_season": "夏、秋",
@@ -1079,6 +1121,9 @@
     ],
     "intro_lines": "紅郎と敬人が口論する現場に遭遇した颯馬。喧嘩の理由は聞けず仕舞いとなるが、事務所内で『紅月』の立場が危ういという話を聞く…",
     "song_name": "紅月いろは唄",
+    "song_id": [
+      64
+    ],
     "story_name": "天下布武",
     "story_author": "日日日",
     "story_season": "秋",
@@ -1127,6 +1172,9 @@
     ],
     "intro_lines": "『Knights』の方針で論争する泉と司。纏まる様子のない状況を見た凛月は決闘裁判を提案し、敗者にも『幸福な死』が訪れる勝負を目論むのだった。",
     "song_name": "Little Romance",
+    "song_id": [
+      67
+    ],
     "story_name": "euthanasia",
     "story_author": "日日日",
     "story_season": "秋",
@@ -1177,6 +1225,9 @@
     ],
     "intro_lines": "星奏館の中庭で機械らしきものを見つけたスバルと宙。宙は話の種にしようと夏目の元へ持っていくがあまり興味がないようで…",
     "song_name": "オモイノカケラ",
+    "song_id": [
+      65
+    ],
     "story_name": "幻灯機",
     "story_author": "日日日",
     "story_season": "秋",
@@ -1225,6 +1276,9 @@
     ],
     "intro_lines": "【ショコラフェス】の開催が企画されていたが、ある事情で危ぶまれてしまう。英智と弓弦は事情を伏せることにするが、桃李は気がかりで…",
     "song_name": "恋はプリマヴェーラ！",
+    "song_id": [
+      82
+    ],
     "story_name": "プリマヴェーラ",
     "story_author": "木野誠太郎",
     "story_season": "春、秋、冬",
@@ -1376,6 +1430,9 @@
     ],
     "intro_lines": "茨によってロケ先を迷宮に変えられた『Crazy:B』。挑戦型のバラエティ番組で、景品とペナルティをそれぞれ用意されているらしい。",
     "song_name": "指先のアリアドネ",
+    "song_id": [
+      88
+    ],
     "story_name": "アリアドネ",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -1477,6 +1534,9 @@
     ],
     "intro_lines": "真緒と翠は『結婚情報誌』を嬉しそうに手に取る『プロデューサー』を目撃する。ふたりは結婚しようとしていることを悟るのだった……",
     "song_name": "Aisle, be with you",
+    "song_id": [
+      90
+    ],
     "story_name": "Ring",
     "story_author": "西岡麻衣子",
     "story_season": "秋",
@@ -1576,6 +1636,9 @@
     ],
     "intro_lines": "有名ブランドの香水開発に関わる仕事の依頼が来た『Knights』。嵐の愛用するブランドで大喜びするが、少し考えさせてほしいと消極的で…",
     "song_name": "Mystic Fragrance",
+    "song_id": [
+      95
+    ],
     "story_name": "フレグランス",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -1733,6 +1796,9 @@
     ],
     "intro_lines": "『かぐや姫』を題材にタイアップとなった『シャッフル企画』。しかし五人の足並みが揃わない。そこへ日和はあることを明かし…",
     "song_name": "ムーンライトディスコ",
+    "song_id": [
+      100
+    ],
     "story_name": "かぐや姫",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -1836,6 +1902,9 @@
     ],
     "intro_lines": "仕事中、気の迷いからミスをしてしまったジュン。その後も調子がなかなか戻らない様子を見た茨は、予定していた新曲にある変更を加えて…",
     "song_name": "EXCEED",
+    "song_id": [
+      103
+    ],
     "story_name": "ソリッド",
     "story_author": "西岡麻衣子",
     "story_season": "秋",
@@ -1936,6 +2005,9 @@
     ],
     "intro_lines": "同日にあるESのイベントと事務所主催のライブで出演を迷う『紅月』。一方、颯馬も夢ノ咲学院の【ハロウィンパーティ】を控えており…",
     "song_name": "月光奇譚",
+    "song_id": [
+      105
+    ],
     "story_name": "スカーレットハロウィソ",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -1982,6 +2054,9 @@
     ],
     "intro_lines": "『サスペンスと恋愛』もののドラマに出演することになった『UNDEAD』。しかし、脚本は未完で結末はまだ明かされていないことを知り…",
     "song_name": "FORBIDDEN RAIN",
+    "song_id": [
+      92
+    ],
     "story_name": "ビースト",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -2028,6 +2103,9 @@
     ],
     "intro_lines": "真緒から『忍者同好会』の活動停止を告げられてしまった忍。解決策を模索するが名案は浮かばない。鉄虎から初心に戻ってみようと言われ…",
     "song_name": "熱血☆流星忍法帖",
+    "song_id": [
+      98
+    ],
     "story_name": "忍者団",
     "story_author": "西岡麻衣子",
     "story_season": "夏",
@@ -2076,6 +2154,9 @@
     ],
     "intro_lines": "映画のオーディションで選ばれた五人。しかし、凛月は零と共演することに対して複雑な様子。零も撮影が始まるとよそよそしくなり…",
     "song_name": "Noir Neige",
+    "song_id": [
+      109
+    ],
     "story_name": "黑雪",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -2122,6 +2203,10 @@
     ],
     "intro_lines": "『SS』の本戦が近付き、『fine』と『Eden』が総大将として特番収録に臨んでいた。様々な思惑、高まる緊張感と共にいよいよ大晦日を迎える…",
     "song_name": "Feathers of Ark;Deep of Eclipse",
+    "song_id": [
+      120,
+      121
+    ],
     "story_name": "SS",
     "story_author": "日日日",
     "story_season": "冬",
@@ -2182,6 +2267,9 @@
     ],
     "intro_lines": "『Trickstar』の次の新曲をそれぞれで考えることになり、企画書に頭を悩ませていた真緒。そんな折、思い出の桜の木が伐採されるという話を聞き…",
     "song_name": "Finder Girl",
+    "song_id": [
+      101
+    ],
     "story_name": "恋色四季",
     "story_author": "西岡麻衣子",
     "story_season": "冬",
@@ -2228,6 +2316,9 @@
     ],
     "intro_lines": "『SSVRS』の新ステージ【幻影飛行船】にテスト参加することになった『ALKALOID』。練習用ステージと聞いていたが、そこでは試練が待ち構えており…",
     "song_name": "Believe 4 leaves",
+    "song_id": [
+      108
+    ],
     "story_name": "幻影飛行船",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -2274,6 +2365,9 @@
     ],
     "intro_lines": "【ショコラフェス】の諸問題で、『2wink』はライブの企画を自分たちで考えることに。余裕だった二人だが、段々意見が合わなくなっていき…",
     "song_name": "Swee2wink Love Letter",
+    "song_id": [
+      122
+    ],
     "story_name": "ラブレター",
     "story_author": "梅田千歳",
     "story_season": "秋、冬",
@@ -2320,6 +2414,9 @@
     ],
     "intro_lines": "『Switch』が発足したての頃につくられた企画書が時を経て動くことになるが、『魔法使い』ではなく『スポーティ』な側面を打ち出す方向で…",
     "song_name": "Brilliant Smile",
+    "song_id": [
+      124
+    ],
     "story_name": "トライライツ",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -2366,6 +2463,9 @@
     ],
     "intro_lines": "宗は新曲のMVをみかと分担して制作を始めるが、『人形』をモチーフにした表現に難航する。苦戦するみかは貰った人形に悩みを打ち明け…",
     "song_name": "Acanthe",
+    "song_id": [
+      127
+    ],
     "story_name": "エルミタージュ",
     "story_author": "西岡麻衣子",
     "story_season": "冬",
@@ -2412,6 +2512,9 @@
     ],
     "intro_lines": "茨に呼び出され事務所へ足を運んだこはく。裏の仕事かと思いきや、ライブ企画を依頼され引き受けることに。ひなたに相談し、打ち合わせをしていた斑に「ゲーセンに行きたい」と告げるのだった。",
     "song_name": "No name yet",
+    "song_id": [
+      125
+    ],
     "story_name": "春宵一刻",
     "story_author": "木野誠太郎",
     "story_season": "夏、冬",
@@ -2458,6 +2561,9 @@
     ],
     "intro_lines": "【イースターフェス】に『シャッフルユニット』の参加も予定していると聞いた忍たち。チャンスと思ったひなたはメンバーを提案することに。",
     "song_name": "パラダイム・リバーシ！",
+    "song_id": [
+      129
+    ],
     "story_name": "イースター",
     "story_author": "梅田千歳",
     "story_season": "冬",
@@ -2554,6 +2660,9 @@
     ],
     "intro_lines": "新作ゲーム『VS』のプロモーションに『Trickstar』が起用され喜ぶ真。ところが北斗とゲーム実況対決を行うことに。真優位のまま進むと思われたが…",
     "song_name": "Daydream×Reality",
+    "song_id": [
+      154
+    ],
     "story_name": "VS GAME",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -2600,6 +2709,9 @@
     ],
     "intro_lines": "ある悩みを抱えていた薫をアドニスが見かけるが、うまく話を聞き出すことができずにいた。そこで他のメンバーを呼び出し相談することに。",
     "song_name": "Sustain Memories",
+    "song_id": [
+      162
+    ],
     "story_name": "ブライドライト",
     "story_author": "ゆーます",
     "story_season": "夏",
@@ -2646,6 +2758,9 @@
     ],
     "intro_lines": "なずなとの会話の中で、敬人が進学を考えていたことを知る颯馬。自分の進むべき道はアイドル以外の選択肢もあるのだと気づき…",
     "song_name": "夏鳥の詩 -サマーバード-",
+    "song_id": [
+      164
+    ],
     "story_name": "サマーバード",
     "story_author": "木野誠太郎",
     "story_season": "夏",
@@ -2744,6 +2859,9 @@
     ],
     "intro_lines": "バカンスも楽しめる南の島での仕事を取って来たつむぎ。つかの間の休息と思いきや、うっかり島に取り残されてしまうのだった。",
     "song_name": "Romancing Cruise",
+    "song_id": [
+      166
+    ],
     "story_name": "クルーズ",
     "story_author": "西岡麻衣子",
     "story_season": "夏",
@@ -2790,6 +2908,9 @@
     ],
     "intro_lines": "レオがスランプに陥って曲が書けなくなってしまったと言う。それもこれも働き詰めのせいで、夏の休暇がほしいと訴えるのだった。",
     "song_name": "Coruscate Breeze",
+    "song_id": [
+      165
+    ],
     "story_name": "サンシャイン",
     "story_author": "ゆーます",
     "story_season": "夏",
@@ -2890,6 +3011,9 @@
     ],
     "intro_lines": "力自慢のアイドルを集め、肉体派の『シャッフルユニット』を結成することに。最強の男たちの戦いが、今始まる――！",
     "song_name": "FIST OF SOUL",
+    "song_id": [
+      170
+    ],
     "story_name": "CROSS FIRE",
     "story_author": "木野誠太郎",
     "story_season": "過去／春、夏",
@@ -2936,6 +3060,9 @@
     ],
     "intro_lines": "『ALKALOID』の今後を問われ、即答できない一彩。答えを探すため『不思議の国のアリス』をテーマにしたライブへ出演することに…",
     "song_name": "VERMILION",
+    "song_id": [
+      156
+    ],
     "story_name": "トランプ",
     "story_author": "梅田千歳",
     "story_season": "秋",
@@ -3036,6 +3163,9 @@
     ],
     "intro_lines": "【ESハロウィン】に向け、気合充分の弓弦たち。豪華なお化け屋敷を開催しようと計画を進めるが、不可解な現象が起こりはじめ――",
     "song_name": "Ghostic Treat House",
+    "song_id": [
+      153
+    ],
     "story_name": "ゴースティック",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -3084,6 +3214,9 @@
     ],
     "intro_lines": "【ESハロウィン】に参加を決めた『Crazy:B』。子供騙しのイベントと乗り切れずにいるこはくは、怖いと評判のお化け屋敷を訪れる。",
     "song_name": "Helter-Spider",
+    "song_id": [
+      161
+    ],
     "story_name": "スパイダー",
     "story_author": "西岡麻衣子",
     "story_season": "秋",
@@ -3132,6 +3265,9 @@
     ],
     "intro_lines": "つむぎからお気に入りのカフェが閉店の危機にあると知らされた宗。安らげる場所を守るため、カフェ存続の道を探ることになるが……",
     "song_name": "Heart aid Cafeteria",
+    "song_id": [
+      171
+    ],
     "story_name": "オータムカフェテリア",
     "story_author": "ゆーます",
     "story_season": "秋",
@@ -3204,6 +3340,9 @@
     ],
     "intro_lines": "馴染みのメンバーでの『シャッフルユニット』企画の連絡を受け喜ぶ友也。しかし、本当の『ユニット』は曲者揃いなことが発覚し……!?",
     "song_name": "Have you been naughty or nice?",
+    "song_id": [
+      172
+    ],
     "story_name": "ナイトヘッド",
     "story_author": "西岡麻衣子",
     "story_season": "秋、冬",
@@ -3238,6 +3377,9 @@
     ],
     "intro_lines": "所長から『どんな願いでも叶えてやろう』と言われ、『MaM』の仕事をしたいと申し出た斑。何をするかわからぬまま、山奥に向かうが……",
     "song_name": "HELLO, NEW YEAR!",
+    "song_id": [
+      167
+    ],
     "story_name": "ポルターガイスト",
     "story_author": "日日日",
     "story_season": "冬",
@@ -3273,6 +3415,9 @@
     ],
     "intro_lines": "『社会人体験』の番組企画に参加する『Ra*bits』。不慣れな仕事に四苦八苦するなか、創は勤め先の新人の様子が気になるようで……",
     "song_name": "ハレノヒSugar Wave",
+    "song_id": [
+      163
+    ],
     "story_name": "出発新GO！",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -3308,6 +3453,9 @@
     ],
     "intro_lines": "稽古中のアクシデントで亀裂が生じてしまった『流星隊』 。それから半年、鉄虎が脱退し新しい団体のリーダーになるニュースが流れて…!?",
     "song_name": "Colors Arise",
+    "song_id": [
+      155
+    ],
     "story_name": "スーパーヴィラン",
     "story_author": "日日日",
     "story_season": "夏、冬",
@@ -3344,6 +3492,10 @@
     ],
     "intro_lines": "今年からＥＳでも開催されることになった【ショコラフェス】。茨は『Adam』・『Eve』としてのステージも披露することを発表する。",
     "song_name": "Melting Rouge Soul;Ruby Love",
+    "song_id": [
+      158,
+      157
+    ],
     "story_name": "Rouge&Ruby",
     "story_author": "梅田千歳",
     "story_season": "冬",
@@ -3379,6 +3531,9 @@
     ],
     "intro_lines": "作品の構想に悩みアイディアの源を求めるみかは、『SSVRS』に新設された『テストワールド』に案内され、次第にのめり込んでいく。",
     "song_name": "迷宮電子回廊",
+    "song_id": [
+      159
+    ],
     "story_name": "マキナ",
     "story_author": "梅田千歳",
     "story_season": "冬",
@@ -3452,6 +3607,9 @@
     ],
     "intro_lines": "【返礼祭】に向け、計画を練るひなた。ゆうたと共に準備を始めるが、今年は【ホワイトショコラフェス】に変わってしまうことが発覚し……",
     "song_name": "Turbulent Storm",
+    "song_id": [
+      160
+    ],
     "story_name": "Big Ocean",
     "story_author": "西岡麻衣子",
     "story_season": "冬",
@@ -3486,6 +3644,10 @@
       452
     ],
     "song_name": "Twilight Pentagram, Dawning Angels",
+    "song_id": [
+      168,
+      169
+    ],
     "story_name": "オルタード",
     "story_author": "日日日",
     "story_season": "過去／冬、冬、過去／春、過去／秋",
@@ -3521,6 +3683,9 @@
       454
     ],
     "song_name": "Or the Beautiful Golden Drop",
+    "song_id": [
+      187
+    ],
     "story_name": "Mad Party",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -3590,6 +3755,9 @@
       458
     ],
     "song_name": "Crazy Anthem",
+    "song_id": [
+      188
+    ],
     "story_name": "ナンバーエイト",
     "story_author": "木野誠太郎",
     "story_season": "冬",
@@ -3624,6 +3792,9 @@
       460
     ],
     "song_name": "パラレルメイズ",
+    "song_id": [
+      197
+    ],
     "story_name": "パラレルワールド",
     "story_author": "日日日",
     "story_season": "冬、春",
@@ -3658,6 +3829,9 @@
       462
     ],
     "song_name": "RELAX PARADISE",
+    "song_id": [
+      192
+    ],
     "story_name": "トロピカル",
     "story_author": "木野誠太郎",
     "story_season": "春",
@@ -3729,6 +3903,9 @@
       466
     ],
     "song_name": "Bye-Bye Buddy",
+    "song_id": [
+      193
+    ],
     "story_name": "ラストミッション",
     "story_author": "日日日",
     "story_season": "冬",
@@ -3763,6 +3940,9 @@
       468
     ],
     "song_name": "Dreaming Ocean",
+    "song_id": [
+      199
+    ],
     "story_name": "アトランティス",
     "story_author": "日日日",
     "story_season": "冬、秋",
@@ -3797,6 +3977,9 @@
       470
     ],
     "song_name": "Le temps des fleurs",
+    "song_id": [
+      190
+    ],
     "story_name": "レゾンデートル",
     "story_author": "日日日",
     "story_season": "冬、春",
@@ -3867,6 +4050,9 @@
       474
     ],
     "song_name": "Love×me⇄monsteR",
+    "song_id": [
+      194
+    ],
     "story_name": "２×２",
     "story_author": "日日日",
     "story_season": "冬、春",
@@ -3901,6 +4087,9 @@
       476
     ],
     "song_name": "UNDYING HOLY LOVE",
+    "song_id": [
+      195
+    ],
     "story_name": "HOLISTIC HOLIC",
     "story_author": "木野誠太郎",
     "story_season": "秋",
@@ -3971,6 +4160,9 @@
       480
     ],
     "song_name": "Resurrection of Soul",
+    "song_id": [
+      173
+    ],
     "story_name": "フラッシュバック",
     "story_author": "日日日",
     "story_season": "冬",
@@ -4005,6 +4197,9 @@
       482
     ],
     "song_name": "金色千夜夢舞台",
+    "song_id": [
+      174
+    ],
     "story_name": "天と地と",
     "story_author": "日日日",
     "story_season": "冬",
@@ -4039,6 +4234,9 @@
       484
     ],
     "song_name": "Romantic Xday!",
+    "song_id": [
+      196
+    ],
     "story_name": "Xday",
     "story_author": "日日日",
     "story_season": "過去／冬、秋、冬、春",
@@ -4109,6 +4307,9 @@
       488
     ],
     "song_name": "僕らのステラ",
+    "song_id": [
+      198
+    ],
     "story_name": "ステラマリス",
     "story_author": "日日日",
     "story_season": "春",
@@ -4144,6 +4345,9 @@
       490
     ],
     "song_name": "Chocola-Tic After School",
+    "song_id": [
+      189
+    ],
     "story_name": "キャンディーハウス",
     "story_author": "日日日",
     "story_season": "冬、春、秋",
@@ -4216,6 +4420,9 @@
       494
     ],
     "song_name": "Absolute Perfection",
+    "song_id": [
+      191
+    ],
     "story_name": "アブソリュート",
     "story_author": "日日日",
     "story_season": "過去／春、冬",
@@ -4252,6 +4459,9 @@
       496
     ],
     "song_name": "Luminous Crown",
+    "song_id": [
+      175
+    ],
     "story_name": "ギャンビット",
     "story_author": "日日日",
     "story_season": "冬",
@@ -4331,6 +4541,9 @@
       500
     ],
     "song_name": "SAKE OF LOVE",
+    "song_id": [
+      214
+    ],
     "story_name": "マトリックス",
     "story_author": "日日日",
     "story_season": "冬",
@@ -4416,6 +4629,9 @@
       502
     ],
     "song_name": "Ringing evil phone",
+    "song_id": [
+      254
+    ],
     "story_name": "イービルTELEPHONE",
     "story_author": "-",
     "story_season": "春",
@@ -4493,6 +4709,9 @@
       506
     ],
     "song_name": "SWINGIN' PARONIRIA",
+    "song_id": [
+      245
+    ],
     "story_name": "SWING NIGHT",
     "story_author": "-",
     "story_season": "春",
@@ -4554,6 +4773,9 @@
       508
     ],
     "song_name": "Twin Wedding Vows",
+    "song_id": [
+      243
+    ],
     "story_name": "天音色",
     "story_author": "-",
     "story_season": "春",
@@ -4628,6 +4850,9 @@
       512
     ],
     "song_name": "SunnyTrip Summer",
+    "song_id": [
+      244
+    ],
     "story_name": "スパークル",
     "story_author": "-",
     "story_season": "春",
@@ -4664,6 +4889,9 @@
       514
     ],
     "song_name": "喪失寓意 -LOST BALLADE-",
+    "song_id": [
+      255
+    ],
     "story_name": "迷い子バラッド",
     "story_author": "-",
     "story_season": "春",
@@ -4760,6 +4988,9 @@
       518
     ],
     "song_name": "UTAKATA DANCE FLOOR",
+    "song_id": [
+      239
+    ],
     "story_name": "瞬祭礼",
     "story_author": "-",
     "story_season": "春",
@@ -4796,6 +5027,9 @@
       520
     ],
     "song_name": "WILDLAND SURVIVOR",
+    "song_id": [
+      248
+    ],
     "story_name": "WILDLAND",
     "story_author": "-",
     "story_season": "春",
@@ -4872,6 +5106,9 @@
     ],
     "intro_lines": "『ATLANTIS』の建設企画を進める桃李のことを、側で見守る英智。桃李はとある本との出会いをきっかけに企画書を完成させるが、その企画は英智の感情を激しく揺さぶることになってしまう。",
     "song_name": "Fairy Tale Library",
+    "song_id": [
+      249
+    ],
     "story_name": "フェアリーテイル",
     "story_author": "-",
     "story_season": "春",
@@ -4909,6 +5146,9 @@
     ],
     "intro_lines": "勢いに乗って、『MaM』の新しい一歩を踏み出し張り切る斑。微妙な関係が続いている『プロデューサー』と一緒に何か大きい企画をしたいと考えていたところ、昨年度に没となったとある企画書を発見する。",
     "song_name": "ハロウィン・ランデブー",
+    "song_id": [
+      242
+    ],
     "story_name": "ルーピンハロウィン",
     "story_author": "-",
     "story_season": "春",
@@ -4946,6 +5186,9 @@
     ],
     "intro_lines": "新年度初仕事として都市開発計画のPRを担当する真たち。架空の町を創造するシミュレーションゲームに、のめり込んでいく真だったが……",
     "song_name": "ワチャガナドゥ？",
+    "song_id": [
+      246
+    ],
     "story_name": "FREEDOM",
     "story_author": "-",
     "story_season": "春",
@@ -4983,6 +5226,9 @@
     ],
     "intro_lines": "『ユニット』結成後初の仕事として、『お姫さまシリーズ』というお菓子の広告塔の仕事を受けることとなった『エスプリ』。しかし、ユメがお菓子メーカーとの面接の場で大問題を起こしてしまう。",
     "song_name": "ベリイ・ベリイ・スイート・ホワイト♡",
+    "song_id": [
+      237
+    ],
     "story_name": "スノーホワイト",
     "story_author": "-",
     "story_season": "過去／冬、夏",
@@ -5020,6 +5266,9 @@
     ],
     "intro_lines": "ロックな 『Ra*bits』 としてイベントに出てほしい、と大学の聖歌隊から出演依頼を受けたなずな。今まで追求してきた 『かわいい』とは違った方向性のステージを披露することへ、不安な気持ちを抱く。",
     "song_name": "JUMPIN' LUCK BEAT",
+    "song_id": [
+      247
+    ],
     "story_name": "HRCN!",
     "story_author": "-",
     "story_season": "春",
