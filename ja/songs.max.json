@@ -28,6 +28,9 @@
     "arrangement": "脇眞富 (Arte Refact)",
     "link": {
       "youtube_3dmv": "https://youtu.be/mQLLr-PBhp8",
+      "youtube_alt": [
+        "https://youtu.be/fUwOzPdUj94"
+      ],
       "spotify": "7nHIyQZVuNwEDM6OoNo4lc"
     },
     "version": {
@@ -1740,7 +1743,10 @@
     "composition": "中土智博 (APDREAM)",
     "arrangement": "中土智博 (APDREAM)",
     "link": {
-      "youtube_3dmv": "https://youtu.be/x358hbFHzqw"
+      "youtube_3dmv": "https://youtu.be/x358hbFHzqw",
+      "youtube_alt": [
+        "https://youtu.be/PczQxKxmszM"
+      ]
     },
     "version": {
       "inst": "mktls-596"
@@ -5491,6 +5497,37 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-372",
+    "name": "Foolish Alien",
+    "unit_id": [
+      16
+    ],
+    "character_id": [
+      [
+        71,
+        72,
+        73,
+        74
+      ]
+    ],
+    "duration": {
+      "full": 196
+    },
+    "lyric": "こだま さおり",
+    "composition": "SHOW (Digz, Inc. Group)",
+    "arrangement": "SHOW (Digz, Inc. Group)",
+    "link": {
+      "spotify": "4Ircdfplz7G3aybDicPOF0"
+    },
+    "version": {
+      "inst": "mktls-834"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 152,
     "name": "U.S.A.",
     "unit_id": [
@@ -5985,6 +6022,9 @@
     "arrangement": "中土智博 (APDREAM)",
     "link": {
       "youtube_3dmv": "https://youtu.be/-SzjxI3XnuM",
+      "youtube_alt": [
+        "https://youtu.be/QpT8picGZBU"
+      ],
       "spotify": "0Br4MT6lZmT8h8dlALWCrt"
     },
     "version": {
@@ -10321,6 +10361,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Pretty5",
     "character_id": [
       [
         41,
@@ -10510,6 +10551,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "Pretty5",
     "link": {
       "spotify": "4tUkQqH4RJN6nqgtYaIHRZ"
     },
@@ -10605,6 +10647,7 @@
     "unit_id": [
       101
     ],
+    "unit_name": "風早 巽 (CV.中澤 まさとも) & 迷えるゲストの皆さん",
     "link": {
       "spotify": "0myqYDIpewTwWiPMqgCjP2"
     },
@@ -13836,6 +13879,11 @@
     "lyric": "Mel*",
     "composition": "桑原 聖 (Arte Refact)",
     "arrangement": "酒井 拓也 (Arte Refact)",
+    "link": {
+      "youtube_alt": [
+        "https://youtu.be/W8orWGbOmjw"
+      ]
+    },
     "version": {
       "full": [
         9
@@ -13956,6 +14004,11 @@
     "lyric": "こだま さおり",
     "composition": "齋藤 真也",
     "arrangement": "齋藤 真也",
+    "link": {
+      "youtube_alt": [
+        "https://youtu.be/XZN5Ln8y8cI"
+      ]
+    },
     "version": {
       "inst": "mktls-619"
     },
@@ -22592,37 +22645,6 @@
     },
     "version": {
       "inst": "mktls-833"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-372",
-    "name": "Foolish Alien",
-    "unit_id": [
-      16
-    ],
-    "character_id": [
-      [
-        71,
-        72,
-        73,
-        74
-      ]
-    ],
-    "duration": {
-      "full": 196
-    },
-    "lyric": "こだま さおり",
-    "composition": "SHOW (Digz, Inc. Group)",
-    "arrangement": "SHOW (Digz, Inc. Group)",
-    "link": {
-      "spotify": "4Ircdfplz7G3aybDicPOF0"
-    },
-    "version": {
-      "inst": "mktls-834"
     },
     "has_game_edit": "FALSE",
     "limited": "FALSE",
