@@ -747,6 +747,34 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1003",
+    "name": {
+      "alt": "オン・ステージ 舞台オリジナルソングCD",
+      "raw": "あんさんぶるスターズ! オン・ステージ 舞台オリジナルソングCD"
+    },
+    "era": 1,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2018-09-12T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1033",
+        "mktls-1034",
+        "mktls-1035",
+        "mktls-1036",
+        "mktls-1037",
+        "mktls-1038",
+        "mktls-1039",
+        "mktls-1040",
+        "mktls-1041",
+        "mktls-1042"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 33,
     "name": {
       "alt": "アルバムシリーズ 流星隊",
@@ -2178,6 +2206,198 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1012",
+    "name": {
+      "alt": "あんスタ！ オリジナル・サウンドトラック",
+      "raw": "あんさんぶるスターズ！ オリジナル・サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2021-12-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1105",
+        "mktls-1106",
+        "mktls-1107",
+        "mktls-1108",
+        "mktls-1109",
+        "mktls-1110",
+        "mktls-1111",
+        "mktls-1112",
+        "mktls-1113",
+        "mktls-1114",
+        "mktls-1115",
+        "mktls-1116",
+        "mktls-1117",
+        "mktls-1118",
+        "mktls-1119",
+        "mktls-1120",
+        "mktls-1121",
+        "mktls-1122",
+        "mktls-1123",
+        "mktls-1124",
+        "mktls-1125",
+        "mktls-1126",
+        "mktls-1127",
+        "mktls-1128",
+        "mktls-1129",
+        "mktls-1130",
+        "mktls-1131",
+        "mktls-1132",
+        "mktls-1133",
+        "mktls-1134",
+        "mktls-1135",
+        "mktls-1136",
+        "mktls-1137",
+        "mktls-1138",
+        "mktls-1139",
+        "mktls-1140",
+        "mktls-1141"
+      ],
+      [
+        "mktls-1142",
+        "mktls-1143",
+        "mktls-1144",
+        "mktls-1145",
+        "mktls-1146",
+        "mktls-1147",
+        "mktls-1148",
+        "mktls-1149",
+        "mktls-1150",
+        "mktls-1151",
+        "mktls-1152",
+        "mktls-1153",
+        "mktls-1154",
+        "mktls-1155",
+        "mktls-1156",
+        "mktls-1157",
+        "mktls-1158",
+        "mktls-1159",
+        "mktls-1160",
+        "mktls-1161",
+        "mktls-1162",
+        "mktls-1163",
+        "mktls-1164",
+        "mktls-1165",
+        "mktls-1166",
+        "mktls-1167",
+        "mktls-1168",
+        "mktls-1169",
+        "mktls-1170",
+        "mktls-1171",
+        "mktls-1172",
+        "mktls-1173",
+        "mktls-1174",
+        "mktls-1175",
+        "mktls-1176",
+        "mktls-1177",
+        "mktls-1178",
+        "mktls-1179",
+        "mktls-1180"
+      ],
+      [
+        "mktls-1181",
+        "mktls-1182",
+        "mktls-1183",
+        "mktls-1184",
+        "mktls-1185",
+        "mktls-1186",
+        "mktls-1187",
+        "mktls-1188",
+        "mktls-1189",
+        "mktls-1190",
+        "mktls-1191",
+        "mktls-1192",
+        "mktls-1193",
+        "mktls-1194",
+        "mktls-1195",
+        "mktls-1196",
+        "mktls-1197",
+        "mktls-1198",
+        "mktls-1199",
+        "mktls-1200",
+        "mktls-1201",
+        "mktls-1202",
+        "mktls-1203",
+        "mktls-1204",
+        "mktls-1205",
+        "mktls-1206",
+        "mktls-1207",
+        "mktls-1208"
+      ],
+      [
+        "mktls-1209",
+        "mktls-1210",
+        "mktls-1211",
+        "mktls-1212",
+        "mktls-1213",
+        "mktls-1214",
+        "mktls-1215",
+        "mktls-1216",
+        "mktls-1217"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1013",
+    "name": {
+      "alt": "あんスタ！！ オリジナル・サウンドトラック",
+      "raw": "あんさんぶるスターズ！！ オリジナル・サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2021-12-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1218",
+        "mktls-1219",
+        "mktls-1220",
+        "mktls-1221",
+        "mktls-1222",
+        "mktls-1223",
+        "mktls-1224",
+        "mktls-1225",
+        "mktls-1226",
+        "mktls-1227",
+        "mktls-1228",
+        "mktls-1229",
+        "mktls-1230",
+        "mktls-1231",
+        "mktls-1232",
+        "mktls-1233",
+        "mktls-1234"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1010",
+    "name": {
+      "alt": "あんさんぶるスターズ！！「おはなし団の曲」",
+      "raw": "あんさんぶるスターズ！！「おはなし団の曲」"
+    },
+    "unit_id": [
+      101
+    ],
+    "unit_name": "高坂知也と重松千晴",
+    "release_Date": "2022-01-01T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1083"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/3JRcH0Fpd1"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 84,
     "name": {
       "alt": "紅月「月光奇譚」ESアイドルソング season2",
@@ -2466,6 +2686,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1007",
+    "name": {
+      "alt": "『あんスタ！THE STAGE』-Track to Miracle-",
+      "raw": "『あんさんぶるスターズ！THE STAGE』-Track to Miracle-"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2022-03-23T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1029"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/8lyvh92dcz"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 93,
     "name": {
       "alt": "2wink「Swee2wink Love Letter」ESアイドルソング season2",
@@ -2726,6 +2967,28 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1008",
+    "name": {
+      "alt": "『あんスタ！THE STAGE』-Witness of Miracle-",
+      "raw": "『あんさんぶるスターズ！THE STAGE』-Witness of Miracle-"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2022-11-07T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1030",
+        "mktls-1031"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/pqzcp5w5xp"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 103,
     "name": {
       "alt": "ALKALOID「VERMILION」 ESアイドルソング season3",
@@ -2913,6 +3176,27 @@
     ],
     "link": [
       "https://nex-tone.link/aaathk2s44"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1009",
+    "name": {
+      "alt": "『あんスタ！THE STAGE』-Party Live-",
+      "raw": "『あんさんぶるスターズ！THE STAGE』-Party Live-"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2023-04-15T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1032"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/pv68i30w9i"
     ],
     "is_album": "FALSE"
   },
