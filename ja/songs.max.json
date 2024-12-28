@@ -1546,7 +1546,7 @@
   {
     "compliant": "TRUE",
     "id": 44,
-    "name": "斬 －決意ノ刃－",
+    "name": "斬 ー決意ノ刃ー",
     "unit_id": [
       8
     ],
@@ -10263,6 +10263,52 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1320",
+    "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        33
+      ]
+    ],
+    "lyric": "こだまさおり",
+    "composition": "こだまさおり",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 179,
+    "name": "年越しあんさんぶる！！2023→2024",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "ESオールスターズ",
+    "character_id": [
+      [
+        100
+      ]
+    ],
+    "link": {
+      "youtube_3dmv": "https://youtu.be/NjCNq4RNHA0"
+    },
+    "version": {
+      "full": [
+        19,
+        101,
+        187,
+        17
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "TRUE",
+    "stream_unavailable": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 200002,
     "name": "Dive Back In Time",
     "character_id": [
@@ -10340,40 +10386,11 @@
   },
   {
     "compliant": "TRUE",
-    "id": 179,
-    "name": "年越しあんさんぶる！！2023→2024",
-    "unit_id": [
-      101
-    ],
-    "unit_name": "ESオールスターズ",
-    "character_id": [
-      [
-        100
-      ]
-    ],
-    "link": {
-      "youtube_3dmv": "https://youtu.be/NjCNq4RNHA0"
-    },
-    "version": {
-      "full": [
-        19,
-        101,
-        187,
-        17
-      ]
-    },
-    "has_game_edit": "FALSE",
-    "limited": "TRUE",
-    "stream_unavailable": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-373",
     "name": "プリティのススメ♡",
     "unit_id": [
       101
     ],
-    "unit_name": "Pretty5",
     "character_id": [
       [
         41,
@@ -10563,7 +10580,6 @@
     "unit_id": [
       101
     ],
-    "unit_name": "Pretty5",
     "link": {
       "spotify": "4tUkQqH4RJN6nqgtYaIHRZ"
     },
@@ -12712,6 +12728,686 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1235",
+    "name": "[ACT1]BGM 01",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1236",
+    "name": "あなたと出会えてファンタスティック☆（Full ver.）",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1237",
+    "name": "[ACT1]BGM 02",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1238",
+    "name": "始まりの始まり",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1239",
+    "name": "西遊記悠久奇譚 メインテーマ",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1240",
+    "name": "[ACT1]BGM 03",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1241",
+    "name": "遥か西へ、天竺へ",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1242",
+    "name": "[ACT1]BGM 04",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1243",
+    "name": "[ACT1]BGM 05",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1244",
+    "name": "[ACT1]BGM 06",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1245",
+    "name": "あの懐かしき楽園を想う",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1246",
+    "name": "[ACT1]BGM 07",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1247",
+    "name": "[ACT1]BGM 08",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1248",
+    "name": "くるくる回って運命攫って",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1249",
+    "name": "[ACT1]BGM 09",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1250",
+    "name": "[ACT1]BGM 10",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1251",
+    "name": "愛と希望と贖罪の旅路",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1252",
+    "name": "[ACT1]BGM 11",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1253",
+    "name": "八つの戒め守れぬ者に",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1254",
+    "name": "[ACT1]BGM 12",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1255",
+    "name": "[ACT1]BGM 13",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1256",
+    "name": "辿り着く道の果てで",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1257",
+    "name": "朝日を背に踏み出して",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1258",
+    "name": "[ACT1]BGM 14",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1259",
+    "name": "[ACT1]BGM 15",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1260",
+    "name": "不自由こそ人生",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1261",
+    "name": "かけがえない日々よ、消え去るな",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1262",
+    "name": "欲深き愛のほとりで",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1263",
+    "name": "[ACT1]BGM 16",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1264",
+    "name": "[ACT1]BGM 17",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1265",
+    "name": "ああ、今別れの時",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1266",
+    "name": "[ACT1]BGM 18",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1267",
+    "name": "ようこそta-taへ",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1268",
+    "name": "僅かな影",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1269",
+    "name": "The die is cast",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1270",
+    "name": "[ACT2]BGM 01",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1271",
+    "name": "[ACT2]BGM 02",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1272",
+    "name": "[ACT2]BGM 03",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1273",
+    "name": "最悪な罠",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1274",
+    "name": "Chase the Phantom",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1275",
+    "name": "Mr. John Doe",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1276",
+    "name": "[ACT2]BGM 04",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1277",
+    "name": "To the Enemy Territory",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1278",
+    "name": "[ACT2]BGM 05",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1279",
+    "name": "[ACT2]BGM 06",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1280",
+    "name": "幻想は絶望の影",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1281",
+    "name": "Corrupt World～ようこそta-taへ-reprise-",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1282",
+    "name": "[ACT2]BGM 07",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1283",
+    "name": "利害の一致",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1284",
+    "name": "ファントムの名の元に",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1285",
+    "name": "The Final Stage",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1286",
+    "name": "[ACT2]BGM 08",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1287",
+    "name": "見つめる先は",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1288",
+    "name": "[ACT2]BGM 09",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1289",
+    "name": "[ACT2]BGM 10",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1290",
+    "name": "真相は霧のように",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1291",
+    "name": "革命の火を掲げ",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1292",
+    "name": "[ACT2]BGM 11",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1293",
+    "name": "[ACT2]BGM 12",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1294",
+    "name": "新しい関係",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1295",
+    "name": "Keep on Rolling",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1296",
+    "name": "[ACT3] BGM 01",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1297",
+    "name": "[ACT3] BGM 02",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1298",
+    "name": "ものがたりの始まり",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1299",
+    "name": "[ACT3] BGM 03",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1300",
+    "name": "[ACT3] BGM 04",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1301",
+    "name": "[ACT3] BGM 05",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1302",
+    "name": "ヒザの歌",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1303",
+    "name": "[ACT3] BGM 06",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1304",
+    "name": "[ACT3] BGM 07",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1305",
+    "name": "[ACT3] BGM 08",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1306",
+    "name": "[ACT3] BGM 09",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1307",
+    "name": "君も笑顔を浮かべてごらん",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1308",
+    "name": "狂気のお茶会",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1309",
+    "name": "恋とは、時に優しく、時に激しく",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1310",
+    "name": "[ACT3] BGM 10",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1311",
+    "name": "[ACT3] BGM 11",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1312",
+    "name": "狂気のお茶会は終わらない",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1313",
+    "name": "[ACT3] BGM 12",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1314",
+    "name": "[ACT3] BGM 13",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1315",
+    "name": "狂気のお茶会は今日も終わらない",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1316",
+    "name": "[ACT3] BGM 14",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1317",
+    "name": "[ACT3] BGM 15",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1318",
+    "name": "[ACT3] BGM 16",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1319",
+    "name": "カラ降るワンダフル！",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-318",
     "name": "Sentimental Liars",
     "unit_id": [
@@ -14125,7 +14821,7 @@
   {
     "compliant": "TRUE",
     "id": "mktls-585",
-    "name": "斬 －決意ノ刃－ (カラオケVer.)",
+    "name": "斬 ー決意ノ刃ー (カラオケVer.)",
     "unit_id": [
       8
     ],

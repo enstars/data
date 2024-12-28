@@ -49,6 +49,45 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1011",
+    "name": {
+      "alt": "あんスタオリジナルサウンドトラック",
+      "raw": "あんさんぶるスターズ オリジナルサウンドトラック"
+    },
+    "era": 1,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2015-11-07T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1084",
+        "mktls-1085",
+        "mktls-1086",
+        "mktls-1087",
+        "mktls-1088",
+        "mktls-1089",
+        "mktls-1090",
+        "mktls-1091",
+        "mktls-1092",
+        "mktls-1093",
+        "mktls-1094",
+        "mktls-1095",
+        "mktls-1096",
+        "mktls-1097",
+        "mktls-1098",
+        "mktls-1099",
+        "mktls-1100",
+        "mktls-1101",
+        "mktls-1102",
+        "mktls-1103",
+        "mktls-1104"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3,
     "name": {
       "alt": "ユニットソングCD Vol.3「fine」",
@@ -1350,6 +1389,9 @@
     "unit_id": [
       15
     ],
+    "cover_id": [
+      2143
+    ],
     "release_Date": "2020-01-29T00:00:00+09:00",
     "tracklist": [
       [
@@ -2211,6 +2253,7 @@
       "alt": "あんスタ！ オリジナル・サウンドトラック",
       "raw": "あんさんぶるスターズ！ オリジナル・サウンドトラック"
     },
+    "era": 1,
     "unit_id": [
       101
     ],
@@ -2347,6 +2390,7 @@
       "alt": "あんスタ！！ オリジナル・サウンドトラック",
       "raw": "あんさんぶるスターズ！！ オリジナル・サウンドトラック"
     },
+    "era": 2,
     "unit_id": [
       101
     ],
@@ -2378,9 +2422,10 @@
     "compliant": "TRUE",
     "id": "mktls-1010",
     "name": {
-      "alt": "あんさんぶるスターズ！！「おはなし団の曲」",
+      "alt": "あんスタ！！「おはなし団の曲」",
       "raw": "あんさんぶるスターズ！！「おはなし団の曲」"
     },
+    "era": 2,
     "unit_id": [
       101
     ],
@@ -2842,6 +2887,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1004",
+    "name": {
+      "alt": "劇団『ドラマティカ』ACT1／西遊記悠久奇譚 Sound Collection",
+      "raw": "劇団『ドラマティカ』ACT1／西遊記悠久奇譚 Sound Collection"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2022-07-06T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1235",
+        "mktls-1236",
+        "mktls-1237",
+        "mktls-1238",
+        "mktls-1239",
+        "mktls-1240",
+        "mktls-1241",
+        "mktls-1242",
+        "mktls-1243",
+        "mktls-1244",
+        "mktls-1245",
+        "mktls-1246",
+        "mktls-1247",
+        "mktls-1248",
+        "mktls-1249",
+        "mktls-1250",
+        "mktls-1251",
+        "mktls-",
+        "mktls-1252",
+        "mktls-1253",
+        "mktls-1254",
+        "mktls-1255",
+        "mktls-1256"
+      ],
+      [
+        "mktls-1257",
+        "mktls-1258",
+        "mktls-1259",
+        "mktls-1260",
+        "mktls-1261",
+        "mktls-1262",
+        "mktls-1263",
+        "mktls-1264",
+        "mktls-1265",
+        "mktls-1266"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/j2qelbq42x"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 98,
     "name": {
       "alt": "Trickstar「Daydream×Reality」ESアイドルソング season3",
@@ -3249,6 +3349,57 @@
     ],
     "link": [
       "https://nex-tone.link/ik0skfuor0"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1005",
+    "name": {
+      "alt": "劇団『ドラマティカ』ACT2／Phantom and Invisible Resonance Sound Collection",
+      "raw": "劇団『ドラマティカ』ACT2／Phantom and Invisible Resonance Sound Collection"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2023-05-31T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1267",
+        "mktls-1268",
+        "mktls-1269",
+        "mktls-1270",
+        "mktls-1271",
+        "mktls-1272",
+        "mktls-1273",
+        "mktls-1274",
+        "mktls-1275",
+        "mktls-1276",
+        "mktls-1277",
+        "mktls-1278",
+        "mktls-1279",
+        "mktls-1280"
+      ],
+      [
+        "mktls-1281",
+        "mktls-1282",
+        "mktls-1283",
+        "mktls-1284",
+        "mktls-1285",
+        "mktls-1286",
+        "mktls-1287",
+        "mktls-1288",
+        "mktls-1289",
+        "mktls-1290",
+        "mktls-1291",
+        "mktls-1292",
+        "mktls-1293",
+        "mktls-1294",
+        "mktls-1295"
+      ]
+    ],
+    "link": [
+      "https://nex-tone.link/wng7sfk720"
     ],
     "is_album": "FALSE"
   },
@@ -4183,6 +4334,50 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1006",
+    "name": {
+      "alt": "劇団『ドラマティカ』ACT3／カラ降るワンダフル！ Sound Collection",
+      "raw": "劇団『ドラマティカ』ACT3／カラ降るワンダフル！ Sound Collection"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2024-07-24T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1296",
+        "mktls-1297",
+        "mktls-1298",
+        "mktls-1299",
+        "mktls-1300",
+        "mktls-1301",
+        "mktls-1302",
+        "mktls-1303",
+        "mktls-1304",
+        "mktls-1305",
+        "mktls-1306",
+        "mktls-1307",
+        "mktls-1308",
+        "mktls-1309",
+        "mktls-1310",
+        "mktls-1311",
+        "mktls-1312",
+        "mktls-1313",
+        "mktls-1314",
+        "mktls-1315",
+        "mktls-1316",
+        "mktls-1317",
+        "mktls-1318",
+        "mktls-1319"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/G60MRE"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 138,
     "name": {
       "alt": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」",
@@ -4468,7 +4663,7 @@
     "compliant": "TRUE",
     "id": "mktls-1001",
     "name": {
-      "alt": "HELIOS Rising Heroes×ES!!「We Are Light」",
+      "alt": "HELIOS Rising Heroes×あんスタ！！「We Are Light」",
       "raw": "HELIOS Rising Heroes×あんさんぶるスターズ！！「We Are Light」"
     },
     "era": 2,
