@@ -380,6 +380,9 @@
     "unit_id": [
       9
     ],
+    "cover_id": [
+      2030
+    ],
     "release_Date": "2016-12-21T00:00:00+09:00",
     "tracklist": [
       [
@@ -542,6 +545,9 @@
     "volume": 4,
     "unit_id": [
       9
+    ],
+    "cover_id": [
+      2045
     ],
     "release_Date": "2017-09-06T00:00:00+09:00",
     "tracklist": [
@@ -755,6 +761,9 @@
     "unit_id": [
       19
     ],
+    "cover_id": [
+      2149
+    ],
     "release_Date": "2017-07-26T00:00:00+09:00",
     "tracklist": [
       [
@@ -778,6 +787,9 @@
     "era": 1,
     "unit_id": [
       19
+    ],
+    "cover_id": [
+      2152
     ],
     "release_Date": "2018-12-19T00:00:00+09:00",
     "tracklist": [
@@ -1035,6 +1047,9 @@
     "volume": 8,
     "unit_id": [
       9
+    ],
+    "cover_id": [
+      2111
     ],
     "release_Date": "2018-11-28T00:00:00+09:00",
     "tracklist": [
@@ -1555,6 +1570,9 @@
     "unit_id": [
       19
     ],
+    "cover_id": [
+      "mktls-14"
+    ],
     "release_Date": "2020-06-24T00:00:00+09:00",
     "tracklist": [
       [
@@ -1709,6 +1727,9 @@
     "volume": 6,
     "unit_id": [
       9
+    ],
+    "cover_id": [
+      "mktls-11"
     ],
     "release_Date": "2020-11-25T00:00:00+09:00",
     "tracklist": [
@@ -2838,6 +2859,9 @@
     "unit_id": [
       9
     ],
+    "cover_id": [
+      "mktls-12"
+    ],
     "release_Date": "2022-05-11T00:00:00+09:00",
     "tracklist": [
       [
@@ -3451,6 +3475,9 @@
     "unit_id": [
       9
     ],
+    "cover_id": [
+      "mktls-13"
+    ],
     "release_Date": "2023-05-31T00:00:00+09:00",
     "tracklist": [
       [
@@ -3733,6 +3760,9 @@
     "volume": 5,
     "unit_id": [
       9
+    ],
+    "cover_id": [
+      2273
     ],
     "release_Date": "2023-11-08T00:00:00+09:00",
     "tracklist": [
