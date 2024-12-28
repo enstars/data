@@ -8967,6 +8967,9 @@
     "type": "scout",
     "story_name": "天下の春",
     "story_author": "-",
+    "related_id": [
+      534
+    ],
     "event_id": 315,
     "banner_id": 4240,
     "cards": [
