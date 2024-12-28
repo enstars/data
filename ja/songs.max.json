@@ -25682,5 +25682,61 @@
     "has_game_edit": "FALSE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1321",
+    "name": "天翔KAGETSU",
+    "unit_id": [
+      8
+    ],
+    "unit_name": "紅月 with 滝 維吹",
+    "character_id": [
+      [
+        21,
+        26,
+        14,
+        82
+      ]
+    ],
+    "duration": {
+      "full": 244
+    },
+    "lyric": "こだま さおり",
+    "composition": "R・O・N",
+    "arrangement": "R・O・N",
+    "link": {
+      "youtube_3dmv": "https://youtu.be/S15PHcuskAg",
+      "spotify": "30oVnFACmUWY6T0p4bpIIv"
+    },
+    "version": {
+      "inst": "mktls-1322"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1322",
+    "name": "天翔KAGETSU (Instrumental)",
+    "unit_id": [
+      8
+    ],
+    "unit_name": "紅月 with 滝 維吹",
+    "duration": {
+      "full": 244
+    },
+    "link": {
+      "spotify": "52h9AVMx2M40s9AtSWqDzg"
+    },
+    "version": {
+      "full": [
+        "mktls-1321"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
   }
 ]

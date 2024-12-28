@@ -4896,5 +4896,29 @@
       "https://fwinc.lnk.to/dwI4Uc"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 153,
+    "name": {
+      "alt": "紅月 with 滝 維吹 「天翔KAGETSU」",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 紅月 with 滝 維吹 「天翔KAGETSU」"
+    },
+    "era": 2,
+    "volume": 10,
+    "unit_id": [
+      8
+    ],
+    "release_Date": "2024-12-29T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1321",
+        "mktls-1322"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/U9jQol"
+    ],
+    "is_album": "FALSE"
   }
 ]
