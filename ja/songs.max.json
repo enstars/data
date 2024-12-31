@@ -10352,6 +10352,31 @@
   },
   {
     "compliant": "TRUE",
+    "id": 231,
+    "name": "年越しあんさんぶる！！2024→2025",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "ESオールスターズ",
+    "character_id": [
+      [
+        100
+      ]
+    ],
+    "version": {
+      "full": [
+        243,
+        22,
+        48,
+        17
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "TRUE",
+    "stream_unavailable": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 200002,
     "name": "Dive Back In Time",
     "character_id": [
@@ -10618,6 +10643,31 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-379",
+    "name": "Dancin’ Celebrity Party!",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        22,
+        6,
+        41,
+        10
+      ]
+    ],
+    "lyric": "松井 洋平",
+    "composition": "酒井 拓也（Arte Refact）",
+    "arrangement": "酒井 拓也（Arte Refact）",
+    "version": {
+      "inst": "mktls-841"
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-835",
     "name": "プリティのススメ♡（Instrumental）",
     "unit_id": [
@@ -10725,6 +10775,19 @@
     "version": {
       "full": [
         "mktls-378"
+      ]
+    },
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-841",
+    "name": "Dancin’ Celebrity Party! (Instrumental)",
+    "version": {
+      "full": [
+        "mktls-379"
       ]
     },
     "has_game_edit": "FALSE",
