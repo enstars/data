@@ -10263,6 +10263,49 @@
   },
   {
     "compliant": "TRUE",
+    "id": 238,
+    "name": "天翔KAGETSU",
+    "unit_id": [
+      8
+    ],
+    "unit_name": "紅月 with 滝 維吹",
+    "character_id": [
+      [
+        21,
+        26,
+        82,
+        14
+      ]
+    ],
+    "color": 1,
+    "difficulty": {
+      "easy": 9,
+      "normal": 15,
+      "hard": 24,
+      "expert": 29,
+      "expert_charttype": 1
+    },
+    "duration": {
+      "full": 244
+    },
+    "lyric": "こだま さおり",
+    "composition": "R・O・N",
+    "arrangement": "R・O・N",
+    "event_id": 315,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/S15PHcuskAg",
+      "spotify": "30oVnFACmUWY6T0p4bpIIv"
+    },
+    "version": {
+      "inst": "mktls-1322"
+    },
+    "order": 243,
+    "has_game_edit": "FALSE",
+    "limited": "FALSE",
+    "stream_unavailable": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1320",
     "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
     "unit_id": [
@@ -25685,40 +25728,6 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1321",
-    "name": "天翔KAGETSU",
-    "unit_id": [
-      8
-    ],
-    "unit_name": "紅月 with 滝 維吹",
-    "character_id": [
-      [
-        21,
-        26,
-        14,
-        82
-      ]
-    ],
-    "duration": {
-      "full": 244
-    },
-    "lyric": "こだま さおり",
-    "composition": "R・O・N",
-    "arrangement": "R・O・N",
-    "event_id": 315,
-    "link": {
-      "youtube_3dmv": "https://youtu.be/S15PHcuskAg",
-      "spotify": "30oVnFACmUWY6T0p4bpIIv"
-    },
-    "version": {
-      "inst": "mktls-1322"
-    },
-    "has_game_edit": "FALSE",
-    "limited": "FALSE",
-    "stream_unavailable": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-1322",
     "name": "天翔KAGETSU (Instrumental)",
     "unit_id": [
@@ -25733,7 +25742,7 @@
     },
     "version": {
       "full": [
-        "mktls-1321"
+        238
       ]
     },
     "has_game_edit": "FALSE",
