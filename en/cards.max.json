@@ -5940,7 +5940,7 @@
         "name": "Signs of the Future"
       },
       "support": {
-        "name": "Warm Receiption for Break"
+        "name": "Warm Reception for Break"
       }
     },
     "quote": {
@@ -8025,7 +8025,7 @@
         "name": "Arts Against Goals"
       },
       "support": {
-        "name": "Clumsy Inviation"
+        "name": "Clumsy Invitation"
       }
     },
     "quote": {
@@ -8834,7 +8834,7 @@
         "name": "Cleaning and Composing"
       },
       "support": {
-        "name": "Sweet Words of Forteller"
+        "name": "Sweet Words of Foreteller"
       }
     },
     "quote": {
@@ -10488,7 +10488,7 @@
     "name": "Kaoru Hakaze",
     "skills": {
       "center": {
-        "name": "Feelings Wrapped in Bounquet"
+        "name": "Feelings Wrapped in Bouquet"
       },
       "live": {
         "name": "Advice on Approaches"
@@ -21668,19 +21668,76 @@
     "compliant": "TRUE",
     "id": 3329,
     "title": "Stitched Heart",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Repayment to Expectations"
+      },
+      "live": {
+        "name": "Mini Cast on Stage"
+      },
+      "support": {
+        "name": "Support All Around"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3330,
     "title": "The Purest Song",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Surging Songs"
+      },
+      "live": {
+        "name": "Composer's Advice"
+      },
+      "support": {
+        "name": "Song in The Distance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3331,
     "title": "A School Morning",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "New School Route"
+      },
+      "live": {
+        "name": "Adapting To School Life"
+      },
+      "support": {
+        "name": "Back to Uniform"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3336,
+    "title": "Lucky Bunny",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3337,
+    "title": "Inquiring Bunny",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3338,
+    "title": "Accompanying Bunny",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3339,
+    "title": "Fortuitous Bunny",
+    "name": "Kaoru Hakaze"
   },
   {
     "compliant": "TRUE",
