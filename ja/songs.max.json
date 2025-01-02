@@ -10273,8 +10273,8 @@
       [
         21,
         26,
-        82,
-        14
+        14,
+        82
       ]
     ],
     "color": 1,
@@ -10283,7 +10283,9 @@
       "normal": 15,
       "hard": 24,
       "expert": 29,
-      "expert_charttype": 1
+      "expert_charttype": [
+        1
+      ]
     },
     "duration": {
       "full": 244
@@ -10300,7 +10302,7 @@
       "inst": "mktls-1322"
     },
     "order": 243,
-    "has_game_edit": "FALSE",
+    "has_game_edit": "TRUE",
     "limited": "FALSE",
     "stream_unavailable": "FALSE"
   },
@@ -15777,6 +15779,7 @@
       11,
       8
     ],
+    "unit_name": "MaM with 紅月",
     "version": {
       "full": [
         "mktls-345"
