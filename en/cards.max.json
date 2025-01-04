@@ -21724,7 +21724,7 @@
   {
     "compliant": "TRUE",
     "id": 3333,
-    "title": "VIsion Adorning Memories",
+    "title": "Vision Adorning Memories",
     "name": "Arashi Narukami"
   },
   {
@@ -21743,25 +21743,69 @@
     "compliant": "TRUE",
     "id": 3336,
     "title": "Lucky Bunny",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Scramble Day"
+      },
+      "live": {
+        "name": "Leap Of Fortune"
+      },
+      "support": {
+        "name": "Fate of Doubt"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3337,
     "title": "Inquiring Bunny",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Fortune-telling TV Show"
+      },
+      "live": {
+        "name": "Fortune and Curiosity"
+      },
+      "support": {
+        "name": "Traces of Fate"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3338,
     "title": "Accompanying Bunny",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Chance Food Encounter"
+      },
+      "live": {
+        "name": "Fortunate Feast"
+      },
+      "support": {
+        "name": "Hope of Fate"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3339,
     "title": "Fortuitous Bunny",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Right Place, Right time"
+      },
+      "live": {
+        "name": "Share of Fortune"
+      },
+      "support": {
+        "name": "Fate and Expectation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
