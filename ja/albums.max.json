@@ -4995,5 +4995,29 @@
       "https://fwinc.lnk.to/U9jQol"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 154,
+    "name": {
+      "alt": "究極の9曲「Dancin’ Celebrity Party!」",
+      "raw": "究極の9曲「Dancin’ Celebrity Party!」"
+    },
+    "era": 2,
+    "volume": 7,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-01T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-379",
+        "mktls-841"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/gEfG2u"
+    ],
+    "is_album": "FALSE"
   }
 ]
