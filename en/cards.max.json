@@ -21719,25 +21719,69 @@
     "compliant": "TRUE",
     "id": 3332,
     "title": "Vision in Fresh Hues",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Mama-Style Education"
+      },
+      "live": {
+        "name": "Monster Group's Leader"
+      },
+      "support": {
+        "name": "Avoiding the Trap"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3333,
     "title": "Vision Adorning Memories",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Arashi-Style Fairytale"
+      },
+      "live": {
+        "name": "Rafflesia Group's Leader"
+      },
+      "support": {
+        "name": "Arrangement Reading"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3334,
     "title": "Vision's Enchanting Spell",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Work Policy Plan"
+      },
+      "live": {
+        "name": "Rabbit Group's Leader"
+      },
+      "support": {
+        "name": "Support of Divination"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3335,
     "title": "Vision Evokes Wonders",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Experienced POV"
+      },
+      "live": {
+        "name": "Lion Group's Leader"
+      },
+      "support": {
+        "name": "Risk Assessment"
+      }
+    }
   },
   {
     "compliant": "TRUE",
