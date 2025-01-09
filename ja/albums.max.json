@@ -5019,5 +5019,41 @@
       "https://fwinc.lnk.to/gEfG2u"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1017",
+    "name": {
+      "alt": "IDOL SONG CD「Debut」Special for Princess!",
+      "raw": "あんさんぶるスターズ！！IDOL SONG CD「Debut」Special for Princess!"
+    },
+    "era": 2,
+    "unit_id": [
+      18
+    ],
+    "release_Date": "2025-02-26T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1323",
+        233,
+        269,
+        237,
+        "mktls-1324",
+        "mktls-1325",
+        "mktls-1326",
+        "mktls-1327"
+      ],
+      [
+        "mktls-1328",
+        "mktls-1329",
+        "mktls-1330",
+        "mktls-1331",
+        "mktls-1332",
+        "mktls-1333",
+        "mktls-1334",
+        "mktls-1335"
+      ]
+    ],
+    "is_album": "FALSE"
   }
 ]
