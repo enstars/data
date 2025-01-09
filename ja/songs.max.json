@@ -5571,7 +5571,8 @@
     "version": {
       "full": [
         5
-      ]
+      ],
+      "inst": "mktls-1338"
     },
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
@@ -25505,6 +25506,22 @@
       ]
     ],
     "is_solo": "TRUE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1338",
+    "name": "百花繚乱、紅月夜（2025 ver.）",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        267
+      ]
+    },
+    "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
   }

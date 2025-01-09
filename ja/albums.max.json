@@ -5022,6 +5022,29 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1018",
+    "name": {
+      "alt": "紅月「百花繚乱、紅月夜」（2025 ver.）",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 紅月「百花繚乱、紅月夜」（2025 ver.）"
+    },
+    "era": 2,
+    "unit_id": [
+      8
+    ],
+    "release_Date": "2025-01-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        267,
+        "mktls-1338"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/CMJ56f"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1017",
     "name": {
       "alt": "IDOL SONG CD「Debut」Special for Princess!",
