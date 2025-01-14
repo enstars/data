@@ -21855,19 +21855,52 @@
     "compliant": "TRUE",
     "id": 3340,
     "title": "Earnest Kindness",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Request Service"
+      },
+      "live": {
+        "name": "A Photo to Please"
+      },
+      "support": {
+        "name": "Candid Shots"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3341,
     "title": "The Café's Transformation",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Work Perspective Check"
+      },
+      "live": {
+        "name": "Second Inspection"
+      },
+      "support": {
+        "name": "Voices Through Cards"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3342,
     "title": "A Pass-Down Recipe",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Budding Chef"
+      },
+      "live": {
+        "name": "Mochi Pounding Party"
+      },
+      "support": {
+        "name": "Different Flavors"
+      }
+    }
   },
   {
     "compliant": "TRUE",
