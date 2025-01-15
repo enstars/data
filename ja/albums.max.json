@@ -5045,6 +5045,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1019",
+    "name": {
+      "alt": "Valkyrie 「星の鳴動響きし時に」",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 Valkyrie 「星の鳴動響きし時に」"
+    },
+    "era": 2,
+    "volume": 11,
+    "unit_id": [
+      9
+    ],
+    "release_Date": "2025-01-13T00:00:00+09:00",
+    "tracklist": [
+      [
+        "326",
+        "mktls-1339"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/gl38zP"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1017",
     "name": {
       "alt": "IDOL SONG CD「Debut」Special for Princess!",

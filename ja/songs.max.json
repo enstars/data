@@ -10359,6 +10359,46 @@
   },
   {
     "compliant": "TRUE",
+    "id": 326,
+    "name": "星の鳴動響きし時に",
+    "unit_id": [
+      9
+    ],
+    "character_id": [
+      [
+        34,
+        35
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 8,
+      "normal": 14,
+      "hard": 23,
+      "expert": 28
+    },
+    "duration": {
+      "full": 379
+    },
+    "lyric": "松井 洋平",
+    "composition": "田中 公平",
+    "arrangement": "田中 公平",
+    "event_id": 316,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/KOOAOdwMk7Q",
+      "youtube_2dmv": "https://youtu.be/SREBxKqPe9w",
+      "spotify": "4HfzaFfOFv2zIAzXT37LC6"
+    },
+    "version": {
+      "inst": "mktls-1339"
+    },
+    "order": 245,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1320",
     "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
     "unit_id": [
@@ -10721,6 +10761,35 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-380",
+    "name": "YeeeeES! JUKEBOX",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Ibara Lecture VS Keito Lecture",
+    "character_id": [
+      [
+        16,
+        38,
+        1,
+        72,
+        37,
+        21,
+        19,
+        34,
+        67,
+        68
+      ]
+    ],
+    "version": {
+      "inst": "mktls-842"
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-835",
     "name": "プリティのススメ♡（Instrumental）",
     "unit_id": [
@@ -10838,9 +10907,29 @@
     "compliant": "TRUE",
     "id": "mktls-841",
     "name": "Dancin’ Celebrity Party! (Instrumental)",
+    "unit_id": [
+      101
+    ],
     "version": {
       "full": [
         "mktls-379"
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-842",
+    "name": "YeeeeES! JUKEBOX",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Ibara Lecture VS Keito Lecture",
+    "version": {
+      "full": [
+        "mktls-380"
       ]
     },
     "is_solo": "FALSE",
@@ -25512,13 +25601,29 @@
   {
     "compliant": "TRUE",
     "id": "mktls-1338",
-    "name": "百花繚乱、紅月夜（2025 ver.）",
+    "name": "百花繚乱、紅月夜（2025 ver.）(Instrumental)",
     "unit_id": [
       8
     ],
     "version": {
       "full": [
         267
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1339",
+    "name": "星の鳴動響きし時に（Instrumental）",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        326
       ]
     },
     "is_solo": "FALSE",
