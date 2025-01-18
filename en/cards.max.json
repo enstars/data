@@ -21904,27 +21904,95 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3343,
+    "title": "Off to My Future Self!",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3344,
+    "title": "Off to New Possibilities",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3345,
+    "title": "Off to Society",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3346,
+    "title": "Off to the Work World",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3347,
     "title": "Unlucky Bunny",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Bunny Dance Challenge"
+      },
+      "live": {
+        "name": "Sleepy Misfortune"
+      },
+      "support": {
+        "name": "Emotional Recommendation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3348,
     "title": "Loafing Bunny",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Reason to Trend"
+      },
+      "live": {
+        "name": "Interview with an Expert"
+      },
+      "support": {
+        "name": "Creating a Buzz"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3349,
     "title": "Positive Bunny",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Social Media Baton"
+      },
+      "live": {
+        "name": "Tag from a Junior"
+      },
+      "support": {
+        "name": "Role Model Request"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3350,
     "title": "Involved Bunny",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Struggles with Shyness"
+      },
+      "live": {
+        "name": "Compensation Dance"
+      },
+      "support": {
+        "name": "Unexpected Film"
+      }
+    }
   },
   {
     "compliant": "TRUE",
