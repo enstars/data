@@ -8523,7 +8523,8 @@
       "tw": "2025-02-03T23:59:59+08:00"
     },
     "type": "original",
-    "story_author": "-"
+    "story_author": "-",
+    "cards": []
   },
   {
     "compliant": "TRUE",
