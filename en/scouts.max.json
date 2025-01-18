@@ -438,5 +438,10 @@
     "compliant": "TRUE",
     "gacha_id": 5000063,
     "name": "Alluring Aspiration"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000069,
+    "name": "Limning Spring"
   }
 ]
