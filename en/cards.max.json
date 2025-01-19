@@ -21906,25 +21906,69 @@
     "compliant": "TRUE",
     "id": 3343,
     "title": "Off to My Future Self!",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Me, Then and Now"
+      },
+      "live": {
+        "name": "Celebrate Together"
+      },
+      "support": {
+        "name": "Tea-Making Expert"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3344,
     "title": "Off to New Possibilities",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Bonds with Others"
+      },
+      "live": {
+        "name": "Recognized Professional"
+      },
+      "support": {
+        "name": "An Employee's Lunch"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3345,
     "title": "Off to Society",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Meaning of Continuing"
+      },
+      "live": {
+        "name": "Refreshing Mood"
+      },
+      "support": {
+        "name": "Business Card Practice"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3346,
     "title": "Off to the Work World",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "To Those Who Wait"
+      },
+      "live": {
+        "name": "Special Stage!"
+      },
+      "support": {
+        "name": "Proof of an Employee"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -23681,6 +23725,30 @@
         "name": "Agile Bodyguard"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90129,
+    "title": "Spring Blooms in Ink",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90130,
+    "title": "Spring Awakes in Melody",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90131,
+    "title": "Spring Hides in Scrolls",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90132,
+    "title": "Meandering in Spring",
+    "name": "Hokuto Hidaka"
   },
   {
     "compliant": "TRUE",
