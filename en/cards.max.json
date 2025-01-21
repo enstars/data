@@ -23730,25 +23730,86 @@
     "compliant": "TRUE",
     "id": 90129,
     "title": "Spring Blooms in Ink",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Spring's Gentle Flow"
+      },
+      "live": {
+        "name": "Eyes of Medusa"
+      },
+      "support": {
+        "name": "Childhood Friend's Prank"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90130,
     "title": "Spring Awakes in Melody",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Verdant Boughs"
+      },
+      "live": {
+        "name": "Eyes of Strategy"
+      },
+      "support": {
+        "name": "Childhood Friend's Trap"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90131,
     "title": "Spring Hides in Scrolls",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Unfurling Skies"
+      },
+      "live": {
+        "name": "Eyes of the Night"
+      },
+      "support": {
+        "name": "Childhood Friend's Revenge"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90132,
     "title": "Meandering in Spring",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Emerald Peaks"
+      },
+      "live": {
+        "name": "Eyes of Revelation"
+      },
+      "support": {
+        "name": "Childhood Friend's Rescue"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90133,
+    "title": "Into Spring's Embrace",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Luminous Nightfall"
+      },
+      "live": {
+        "name": "Firelit Spring"
+      },
+      "support": {
+        "name": "Overflowing Spring"
+      }
+    }
   },
   {
     "compliant": "TRUE",
