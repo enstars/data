@@ -25594,7 +25594,26 @@
         82
       ]
     ],
+    "lyric": "松井 洋平",
+    "composition": "NullPencil_ & Wolf Kid（Digz, Inc. Group）",
+    "arrangement": "Wolf Kid（Digz, Inc. Group）",
+    "version": {
+      "inst": "mktls-1340"
+    },
     "is_solo": "TRUE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1340",
+    "name": "Longing Identity (Instrumental)",
+    "version": {
+      "full": [
+        "mktls-1337"
+      ]
+    },
+    "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
   },

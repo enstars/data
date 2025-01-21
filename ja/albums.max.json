@@ -5102,5 +5102,25 @@
       ]
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1018",
+    "name": {
+      "alt": "滝 維吹 「Longing Identity」",
+      "raw": "あんさんぶるスターズ！！ 滝 維吹 「Longing Identity」"
+    },
+    "era": 2,
+    "release_Date": "2025-01-21T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1337",
+        "mktls-1340"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/21P9gY"
+    ],
+    "is_album": "FALSE"
   }
 ]
