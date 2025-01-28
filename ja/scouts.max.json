@@ -9203,7 +9203,11 @@
       "kr": "2025-06-30T11:59:59+09:00"
     },
     "type": "scout",
+    "story_name": "devoted to you",
     "story_author": "-",
+    "related_id": [
+      538
+    ],
     "event_id": 317,
     "banner_id": 4266,
     "cards": [
