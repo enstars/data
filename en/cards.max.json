@@ -22042,19 +22042,52 @@
     "compliant": "TRUE",
     "id": 3351,
     "title": "Eyes of Sunshine",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Afternoon Talk"
+      },
+      "live": {
+        "name": "Precious Time"
+      },
+      "support": {
+        "name": "Favorite Scent"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3352,
     "title": "Sparks of Shared Passion",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Live House Experience"
+      },
+      "live": {
+        "name": "Passion for Bands"
+      },
+      "support": {
+        "name": "Excitement of Live"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3353,
     "title": "Anecdotes from the Road",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "A Calming Cup"
+      },
+      "live": {
+        "name": "New Store Information"
+      },
+      "support": {
+        "name": "Chitchat on Returning Home"
+      }
+    }
   },
   {
     "compliant": "TRUE",
