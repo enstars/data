@@ -22091,6 +22091,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3368,
+    "title": "Waltz's Intention",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3369,
+    "title": "Waltz's Request",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3370,
+    "title": "Waltz's Assistance",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3371,
+    "title": "Waltz's Participation",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
