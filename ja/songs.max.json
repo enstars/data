@@ -5533,6 +5533,7 @@
     "composition": "SHOW (Digz, Inc. Group)",
     "arrangement": "SHOW (Digz, Inc. Group)",
     "link": {
+      "youtube_3dmv": "https://youtu.be/FSO1owpqjBk",
       "spotify": "4Ircdfplz7G3aybDicPOF0"
     },
     "version": {
@@ -5568,6 +5569,9 @@
     "lyric": "Mel*",
     "composition": "原田篤（Arte Refact）",
     "arrangement": "山本恭平（Arte Refact）",
+    "link": {
+      "youtube_3dmv": "https://youtu.be/-o_GHje_9fc"
+    },
     "version": {
       "full": [
         5
@@ -5589,8 +5593,8 @@
     "character_id": [
       [
         35,
-        34,
-        30
+        30,
+        34
       ]
     ],
     "color": 1,
@@ -5607,6 +5611,9 @@
     "lyric": "宝野アリカ (ALI PROJECT)",
     "composition": "片倉三起也 (ALI PROJECT)",
     "arrangement": "片倉三起也 (ALI PROJECT)",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/edufWkhNzig"
+    },
     "version": {
       "inst": "mktls-949"
     },
@@ -5629,6 +5636,13 @@
         70
       ]
     ],
+    "color": 2,
+    "difficulty": {
+      "easy": 6,
+      "normal": 12,
+      "hard": 19,
+      "expert": "27+"
+    },
     "duration": {
       "full": 212
     },
@@ -7630,7 +7644,11 @@
       "easy": 8,
       "normal": 14,
       "hard": 22,
-      "expert": 27
+      "expert": 27,
+      "special": 102,
+      "special_charttype": [
+        3
+      ]
     },
     "duration": {
       "game": 138,
@@ -15888,9 +15906,6 @@
     "lyric": "松井 洋平",
     "composition": "矢鴇 つかさ (Arte Refact)",
     "arrangement": "加藤 達也 (APDREAM)",
-    "link": {
-      "youtube_2dmv": "https://youtu.be/edufWkhNzig"
-    },
     "version": {
       "inst": "mktls-591"
     },
