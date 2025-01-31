@@ -4457,7 +4457,7 @@
     "id": 136,
     "name": {
       "alt": "究極の９曲「プリティのススメ♡」",
-      "raw": "究極の９曲「プリティのススメ♡」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の９曲「プリティのススメ♡」"
     },
     "era": 2,
     "volume": 1,
@@ -4581,7 +4581,7 @@
     "id": 139,
     "name": {
       "alt": "究極の９曲「おんみつ！忍術音頭」",
-      "raw": "究極の９曲「おんみつ！忍術音頭」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の９曲「おんみつ！忍術音頭」"
     },
     "era": 2,
     "volume": 2,
@@ -4635,7 +4635,7 @@
     "id": 141,
     "name": {
       "alt": "究極の９曲「Let’s！キラキラアドベンチャー☆」",
-      "raw": "究極の９曲「Let’s！キラキラアドベンチャー☆」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の９曲「Let’s！キラキラアドベンチャー☆」"
     },
     "era": 2,
     "volume": 3,
@@ -4689,7 +4689,7 @@
     "id": 143,
     "name": {
       "alt": "究極の9曲「OWN」",
-      "raw": "究極の9曲「OWN」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲「OWN」"
     },
     "era": 2,
     "volume": 4,
@@ -4770,7 +4770,7 @@
     "id": 146,
     "name": {
       "alt": "究極の９曲「Venus in my eyes～離さない、今夜～」",
-      "raw": "究極の９曲「Venus in my eyes～離さない、今夜～」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の９曲「Venus in my eyes～離さない、今夜～」"
     },
     "era": 2,
     "volume": 5,
@@ -4895,7 +4895,7 @@
     "id": 150,
     "name": {
       "alt": "究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」",
-      "raw": "究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の９曲「風早先輩の懺悔室！〜迷えるＥＳアイドル版〜」"
     },
     "era": 2,
     "volume": 6,
@@ -5001,7 +5001,7 @@
     "id": 154,
     "name": {
       "alt": "究極の9曲「Dancin’ Celebrity Party!」",
-      "raw": "究極の9曲「Dancin’ Celebrity Party!」"
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「Dancin’ Celebrity Party!」"
     },
     "era": 2,
     "volume": 7,
@@ -5069,6 +5069,74 @@
   },
   {
     "compliant": "TRUE",
+    "id": 157,
+    "name": {
+      "alt": "滝 維吹 「Longing Identity」",
+      "raw": "あんさんぶるスターズ！！ 滝 維吹 「Longing Identity」"
+    },
+    "era": 2,
+    "release_Date": "2025-01-21T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1337",
+        "mktls-1340"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/21P9gY"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 158,
+    "name": {
+      "alt": "究極の９曲「YeeeeES! JUKEBOX」",
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「YeeeeES! JUKEBOX」"
+    },
+    "era": 2,
+    "volume": 8,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-26T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-380",
+        "mktls-842"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/20i1sB"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 159,
+    "name": {
+      "alt": "Knights「Heart Collector」",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 Knights「Heart Collector」"
+    },
+    "era": 2,
+    "volume": 12,
+    "unit_id": [
+      4
+    ],
+    "release_Date": "2025-01-28T00:00:00+09:00",
+    "tracklist": [
+      [
+        250,
+        "mktls-1341"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/xt3jap"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1017",
     "name": {
       "alt": "IDOL SONG CD「Debut」Special for Princess!",
@@ -5100,26 +5168,6 @@
         "mktls-1334",
         "mktls-1335"
       ]
-    ],
-    "is_album": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1018",
-    "name": {
-      "alt": "滝 維吹 「Longing Identity」",
-      "raw": "あんさんぶるスターズ！！ 滝 維吹 「Longing Identity」"
-    },
-    "era": 2,
-    "release_Date": "2025-01-21T00:00:00+09:00",
-    "tracklist": [
-      [
-        "mktls-1337",
-        "mktls-1340"
-      ]
-    ],
-    "link": [
-      "https://fwinc.lnk.to/21P9gY"
     ],
     "is_album": "FALSE"
   }

@@ -10485,6 +10485,44 @@
   },
   {
     "compliant": "TRUE",
+    "id": 250,
+    "name": "Heart Collector",
+    "unit_id": [
+      4
+    ],
+    "character_id": [
+      [
+        20,
+        10,
+        17,
+        33,
+        24
+      ]
+    ],
+    "color": 2,
+    "difficulty": {
+      "easy": 8,
+      "normal": 14,
+      "hard": 23,
+      "expert": 27
+    },
+    "lyric": "こだま さおり",
+    "composition": "石川 ゆう & Yugure",
+    "arrangement": "石川 ゆう",
+    "event_id": 317,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/Pc_HP-EfWgo"
+    },
+    "version": {
+      "inst": "mktls-1341"
+    },
+    "order": 248,
+    "is_solo": "FALSE",
+    "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-1320",
     "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
     "unit_id": [
@@ -11011,7 +11049,7 @@
   {
     "compliant": "TRUE",
     "id": "mktls-842",
-    "name": "YeeeeES! JUKEBOX",
+    "name": "YeeeeES! JUKEBOX (Instrumental)",
     "unit_id": [
       101
     ],
@@ -25669,6 +25707,22 @@
     "version": {
       "full": [
         326
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1341",
+    "name": "Heart Collector (Instrumental)",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        250
       ]
     },
     "is_solo": "FALSE",
