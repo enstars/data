@@ -22093,43 +22093,154 @@
     "compliant": "TRUE",
     "id": 3363,
     "title": "Unlimited Struggle",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "How to Seize the Future"
+      },
+      "live": {
+        "name": "Universe of Justice & Evil"
+      },
+      "support": {
+        "name": "The Answer I Find"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3364,
     "title": "Unlimited Chase",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "How to Survive Crisis"
+      },
+      "live": {
+        "name": "Universe of Purity & Trust"
+      },
+      "support": {
+        "name": "Pre-Investigation Trap"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3365,
     "title": "Unlimited Unity",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Life in Dreams"
+      },
+      "live": {
+        "name": "Universe of Ideals & Reality"
+      },
+      "support": {
+        "name": "Realistic Conversations"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3366,
+    "title": "Unlimited Flux",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Life in Reality"
+      },
+      "live": {
+        "name": "Universe You Shun & Face"
+      },
+      "support": {
+        "name": "A Troubling Development"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3367,
+    "title": "Unlimited Memories",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Ways to Understand"
+      },
+      "live": {
+        "name": "Universe of the Past & Present"
+      },
+      "support": {
+        "name": "Strategic Operation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3368,
     "title": "Waltz's Intention",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Sharp Eyes & Moves"
+      },
+      "live": {
+        "name": "A Fair Trade"
+      },
+      "support": {
+        "name": "Cast Judge"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3369,
     "title": "Waltz's Request",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Sharp Mind & Feeling"
+      },
+      "live": {
+        "name": "A Fair Job"
+      },
+      "support": {
+        "name": "Etiquette Class"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3370,
     "title": "Waltz's Assistance",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Audition and Program"
+      },
+      "live": {
+        "name": "Fair Perspective"
+      },
+      "support": {
+        "name": "Audition Progress"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3371,
     "title": "Waltz's Participation",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Tips on Table Manners"
+      },
+      "live": {
+        "name": "Fair Guide"
+      },
+      "support": {
+        "name": "Reviewed Etiquette"
+      }
+    }
   },
   {
     "compliant": "TRUE",
