@@ -14,13 +14,29 @@
     "image_color": "#fff3b8",
     "height": 179,
     "heights": [
-      179,
-      179
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 179
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 179
+      }
     ],
     "weight": 59,
     "weights": [
-      59,
-      59
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 59
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 59
+      }
     ],
     "birthday": "2000-01-10",
     "horoscope": 9,
@@ -140,13 +156,29 @@
     "image_color": "#a1d8e2",
     "height": 180,
     "heights": [
-      180,
-      180
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 180
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 180
+      }
     ],
     "weight": 63,
     "weights": [
-      63,
-      63
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 63
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 63
+      }
     ],
     "birthday": "2000-02-21",
     "horoscope": 11,
@@ -265,13 +297,29 @@
     "image_color": "#f5b2b2",
     "height": 153,
     "heights": [
-      153,
-      154
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 153
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 154
+      }
     ],
     "weight": 49,
     "weights": [
-      49,
-      49
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 49
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 49
+      }
     ],
     "birthday": "2000-01-13",
     "horoscope": 9,
@@ -389,13 +437,29 @@
     "image_color": "#3e62ad",
     "height": 175,
     "heights": [
-      175,
-      175
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 175
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 175
+      }
     ],
     "weight": 60,
     "weights": [
-      60,
-      60
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 60
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 60
+      }
     ],
     "birthday": "2000-10-18",
     "horoscope": 6,
@@ -513,13 +577,29 @@
     "image_color": "#0068b7",
     "height": 173,
     "heights": [
-      173,
-      173
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 173
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 173
+      }
     ],
     "weight": 55,
     "weights": [
-      55,
-      56
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 55
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 56
+      }
     ],
     "birthday": "2000-12-17",
     "horoscope": 8,
@@ -638,13 +718,29 @@
     "image_color": "#f3981d",
     "height": 171,
     "heights": [
-      171,
-      172
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 171
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 172
+      }
     ],
     "weight": 55,
     "weights": [
-      55,
-      56
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 55
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 56
+      }
     ],
     "birthday": "2000-06-22",
     "horoscope": 3,
@@ -762,13 +858,29 @@
     "image_color": "#65ab31",
     "height": 174,
     "heights": [
-      174,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 174
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 58,
     "weights": [
-      58,
-      58
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 58
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 58
+      }
     ],
     "birthday": "2000-04-30",
     "horoscope": 1,
@@ -886,13 +998,29 @@
     "image_color": "#941f57",
     "height": 169,
     "heights": [
-      169,
-      171
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 169
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 171
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-03-16",
     "horoscope": 11,
@@ -1010,13 +1138,29 @@
     "image_color": "#e60033",
     "height": 175,
     "heights": [
-      175,
-      175
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 175
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 175
+      }
     ],
     "weight": 60,
     "weights": [
-      60,
-      61
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 60
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 61
+      }
     ],
     "birthday": "2000-09-18",
     "horoscope": 5,
@@ -1137,13 +1281,29 @@
     "image_color": "#008db7",
     "height": 176,
     "heights": [
-      176,
-      176
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 176
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 176
+      }
     ],
     "weight": 60,
     "weights": [
-      60,
-      60
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 60
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 60
+      }
     ],
     "birthday": "2000-08-30",
     "horoscope": 5,
@@ -1264,13 +1424,29 @@
     "image_color": "#302833",
     "height": 170,
     "heights": [
-      170,
-      172
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 170
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 172
+      }
     ],
     "weight": 55,
     "weights": [
-      55,
-      57
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 55
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 57
+      }
     ],
     "birthday": "2000-06-15",
     "horoscope": 2,
@@ -1393,13 +1569,29 @@
     "image_color": "#00533f",
     "height": 179,
     "heights": [
-      179,
-      179
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 179
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 179
+      }
     ],
     "weight": 64,
     "weights": [
-      64,
-      63
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 64
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 63
+      }
     ],
     "birthday": "2000-08-29",
     "horoscope": 5,
@@ -1522,13 +1714,29 @@
     "image_color": "#ffdc00",
     "height": 160,
     "heights": [
-      160,
-      161
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 160
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 161
+      }
     ],
     "weight": 50,
     "weights": [
-      50,
-      50
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 50
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 50
+      }
     ],
     "birthday": "2000-06-09",
     "horoscope": 2,
@@ -1651,13 +1859,29 @@
     "image_color": "#ba2636",
     "height": 174,
     "heights": [
-      174,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 174
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 57,
     "weights": [
-      57,
-      57
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 57
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 57
+      }
     ],
     "birthday": "2000-01-04",
     "horoscope": 9,
@@ -1772,13 +1996,29 @@
     "image_color": "#fff1cf",
     "height": 167,
     "heights": [
-      167,
-      167
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 167
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 167
+      }
     ],
     "weight": 53,
     "weights": [
-      53,
-      53
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 53
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 53
+      }
     ],
     "birthday": "2000-11-27",
     "horoscope": 8,
@@ -1892,13 +2132,29 @@
     "image_color": "#522f60",
     "height": 174,
     "heights": [
-      174,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 174
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 55,
     "weights": [
-      55,
-      54
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 55
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 54
+      }
     ],
     "birthday": "2000-06-06",
     "horoscope": 2,
@@ -2011,13 +2267,29 @@
     "image_color": "#7ebea5",
     "height": 177,
     "heights": [
-      177,
-      177
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 177
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 177
+      }
     ],
     "weight": 58,
     "weights": [
-      58,
-      58
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 58
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 58
+      }
     ],
     "birthday": "2000-12-28",
     "horoscope": 9,
@@ -2130,13 +2402,29 @@
     "image_color": "#a73836",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 62,
     "weights": [
-      62,
-      62
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 62
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 62
+      }
     ],
     "birthday": "2000-10-27",
     "horoscope": 7,
@@ -2248,13 +2536,29 @@
     "image_color": "#b8d200",
     "height": 177,
     "heights": [
-      177,
-      177
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 177
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 177
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      61
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 61
+      }
     ],
     "birthday": "2000-07-24",
     "horoscope": 4,
@@ -2365,13 +2669,29 @@
     "image_color": "#74325c",
     "height": 172,
     "heights": [
-      172,
-      173
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 172
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 173
+      }
     ],
     "weight": 60,
     "weights": [
-      60,
-      61
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 60
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 61
+      }
     ],
     "birthday": "2000-11-14",
     "horoscope": 7,
@@ -2485,13 +2805,29 @@
     "image_color": "#192f60",
     "height": 173,
     "heights": [
-      173,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 173
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      62
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 62
+      }
     ],
     "birthday": "2000-08-16",
     "horoscope": 4,
@@ -2604,13 +2940,29 @@
     "image_color": "#e3acae",
     "height": 177,
     "heights": [
-      177,
-      177
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 177
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 177
+      }
     ],
     "weight": 59,
     "weights": [
-      59,
-      60
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 59
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 60
+      }
     ],
     "birthday": "2000-10-30",
     "horoscope": 7,
@@ -2721,13 +3073,29 @@
     "image_color": "#006a6c",
     "height": 171,
     "heights": [
-      171,
-      172
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 171
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 172
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-12-26",
     "horoscope": 9,
@@ -2841,13 +3209,29 @@
     "image_color": "#eb6ea0",
     "height": 170,
     "heights": [
-      170,
-      170
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 170
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 170
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-03-05",
     "horoscope": 11,
@@ -2966,13 +3350,29 @@
     "image_color": "#00a1e9",
     "height": 170,
     "heights": [
-      170,
-      170
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 170
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 170
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-03-05",
     "horoscope": 11,
@@ -3091,13 +3491,29 @@
     "image_color": "#b7282e",
     "height": 181,
     "heights": [
-      181,
-      181
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 181
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 181
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      63
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 63
+      }
     ],
     "birthday": "2000-05-18",
     "horoscope": 1,
@@ -3206,13 +3622,29 @@
     "image_color": "#89c3eb",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 56,
     "weights": [
-      56,
-      57
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 56
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 57
+      }
     ],
     "birthday": "2000-07-07",
     "horoscope": 3,
@@ -3327,13 +3759,29 @@
     "image_color": "#f4b3c2",
     "height": 168,
     "heights": [
-      168,
-      168
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 168
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 168
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      52
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 52
+      }
     ],
     "birthday": "2000-02-05",
     "horoscope": 10,
@@ -3446,13 +3894,29 @@
     "image_color": "#507ea4",
     "height": 176,
     "heights": [
-      176,
-      177
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 176
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 177
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      61
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 61
+      }
     ],
     "birthday": "2000-10-05",
     "horoscope": 6,
@@ -3563,13 +4027,29 @@
     "image_color": "#47266e",
     "height": 179,
     "heights": [
-      179,
-      180
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 179
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 180
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      62
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 62
+      }
     ],
     "birthday": "2000-11-02",
     "horoscope": 7,
@@ -3680,13 +4160,29 @@
     "image_color": "#fdd35c",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 63,
     "weights": [
-      63,
-      63
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 63
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 63
+      }
     ],
     "birthday": "2000-11-03",
     "horoscope": 7,
@@ -3797,13 +4293,29 @@
     "image_color": "#c9caca",
     "height": 175,
     "heights": [
-      175,
-      175
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 175
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 175
+      }
     ],
     "weight": 58,
     "weights": [
-      58,
-      58
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 58
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 58
+      }
     ],
     "birthday": "2000-07-18",
     "horoscope": 3,
@@ -3917,13 +4429,29 @@
     "image_color": "#915da3",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 64,
     "weights": [
-      64,
-      65
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 64
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 65
+      }
     ],
     "birthday": "2000-08-29",
     "horoscope": 5,
@@ -4036,13 +4564,29 @@
     "image_color": "#eedcb3",
     "height": 168,
     "heights": [
-      168,
-      168
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 168
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 168
+      }
     ],
     "weight": 53,
     "weights": [
-      53,
-      53
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 53
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 53
+      }
     ],
     "birthday": "2000-03-29",
     "horoscope": 0,
@@ -4161,13 +4705,29 @@
     "image_color": "#ffec47",
     "height": 160,
     "heights": [
-      160,
-      160
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 160
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 160
+      }
     ],
     "weight": 49,
     "weights": [
-      49,
-      50
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 49
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 50
+      }
     ],
     "birthday": "2000-04-27",
     "horoscope": 1,
@@ -4278,13 +4838,29 @@
     "image_color": "#ed6d35",
     "height": 168,
     "heights": [
-      168,
-      168
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 168
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 168
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      56
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 56
+      }
     ],
     "birthday": "2000-09-07",
     "horoscope": 5,
@@ -4398,13 +4974,29 @@
     "image_color": "#cab8d9",
     "height": 165,
     "heights": [
-      165,
-      165
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 165
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 165
+      }
     ],
     "weight": 50,
     "weights": [
-      50,
-      51
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 50
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 51
+      }
     ],
     "birthday": "2000-07-15",
     "horoscope": 3,
@@ -4518,13 +5110,29 @@
     "image_color": "#316745",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 60,
     "weights": [
-      60,
-      61
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 60
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 61
+      }
     ],
     "birthday": "2000-09-06",
     "horoscope": 5,
@@ -4641,13 +5249,29 @@
     "image_color": "#e83929",
     "height": 181,
     "heights": [
-      181,
-      181
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 181
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 181
+      }
     ],
     "weight": 65,
     "weights": [
-      65,
-      66
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 65
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 66
+      }
     ],
     "birthday": "2000-01-26",
     "horoscope": 10,
@@ -4764,13 +5388,29 @@
     "image_color": "#5654a2",
     "height": 174,
     "heights": [
-      174,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 174
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 55,
     "weights": [
-      55,
-      56
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 55
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 56
+      }
     ],
     "birthday": "2000-04-20",
     "horoscope": 1,
@@ -4889,13 +5529,29 @@
     "image_color": "#942343",
     "height": 168,
     "heights": [
-      168,
-      168
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 168
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 168
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-04-06",
     "horoscope": 0,
@@ -5010,13 +5666,29 @@
     "image_color": "#ec6d51",
     "height": 169,
     "heights": [
-      169,
-      169
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 169
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 169
+      }
     ],
     "weight": 53,
     "weights": [
-      53,
-      54
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 53
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 54
+      }
     ],
     "birthday": "2000-05-05",
     "horoscope": 1,
@@ -5128,13 +5800,29 @@
     "image_color": "#bbdbf3",
     "height": 172,
     "heights": [
-      172,
-      174
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 172
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 174
+      }
     ],
     "weight": 61,
     "weights": [
-      61,
-      60
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 61
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 60
+      }
     ],
     "birthday": "2000-11-02",
     "horoscope": 7,
@@ -5245,13 +5933,29 @@
     "image_color": "#001e43",
     "height": 170,
     "heights": [
-      170,
-      171
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 170
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 171
+      }
     ],
     "weight": 54,
     "weights": [
-      54,
-      55
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 54
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 55
+      }
     ],
     "birthday": "2000-09-22",
     "horoscope": 5,
@@ -5364,13 +6068,29 @@
     "image_color": "#edde7b",
     "height": 176,
     "heights": [
-      176,
-      176
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 176
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 176
+      }
     ],
     "weight": 59,
     "weights": [
-      59,
-      59
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 59
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 59
+      }
     ],
     "birthday": "2000-03-03",
     "horoscope": 11,
@@ -5484,13 +6204,29 @@
     "image_color": "#d70035",
     "height": 170,
     "heights": [
-      170,
-      171
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 170
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 171
+      }
     ],
     "weight": 53,
     "weights": [
-      53,
-      54
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 53
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 54
+      }
     ],
     "birthday": "2000-02-04",
     "horoscope": 10,
@@ -5606,13 +6342,29 @@
     "image_color": "#00608d",
     "height": 176,
     "heights": [
-      176,
-      176
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 176
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 176
+      }
     ],
     "weight": 58,
     "weights": [
-      58,
-      58
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 58
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 58
+      }
     ],
     "birthday": "2000-08-07",
     "horoscope": 4,
@@ -5723,13 +6475,29 @@
     "image_color": "#fff352",
     "height": 165,
     "heights": [
-      165,
-      166
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 165
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 166
+      }
     ],
     "weight": 50,
     "weights": [
-      50,
-      51
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 50
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 51
+      }
     ],
     "birthday": "2000-07-01",
     "horoscope": 3,
@@ -5845,13 +6613,29 @@
     "image_color": "#622d18",
     "height": 180,
     "heights": [
-      180,
-      180
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 180
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 180
+      }
     ],
     "weight": 64,
     "weights": [
-      64,
-      65
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 64
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 65
+      }
     ],
     "birthday": "2000-05-16",
     "horoscope": 1,
@@ -5960,13 +6744,29 @@
     "image_color": "#8da0b6",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 65,
     "weights": [
-      65,
-      65
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 65
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 65
+      }
     ],
     "birthday": "2000-12-11",
     "horoscope": 8,
@@ -6068,13 +6868,29 @@
     "image_color": "#915c8b",
     "height": 178,
     "heights": [
-      178,
-      178
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 178
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 178
+      }
     ],
     "weight": 64,
     "weights": [
-      64,
-      64
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": 64
+      },
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "ES Year 2",
+        "value": 64
+      }
     ],
     "birthday": "2000-02-25",
     "horoscope": 11,
@@ -6176,13 +6992,21 @@
     "image_color": "#80fff4",
     "height": 160,
     "heights": [
-      null,
-      160
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": 160
+      }
     ],
     "weight": 50,
     "weights": [
-      null,
-      50
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut"
+      },
+      {
+        "value": 50
+      }
     ],
     "birthday": "2000-09-12",
     "horoscope": 5,
@@ -6271,13 +7095,21 @@
     "image_color": "#66bbcc",
     "height": 165,
     "heights": [
-      null,
-      165
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": 165
+      }
     ],
     "weight": 51,
     "weights": [
-      null,
-      51
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut"
+      },
+      {
+        "value": 51
+      }
     ],
     "birthday": "2000-01-21",
     "horoscope": 10,
@@ -6371,13 +7203,21 @@
     "image_color": "#b9ccb8",
     "height": 163,
     "heights": [
-      null,
-      163
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": 163
+      }
     ],
     "weight": 50,
     "weights": [
-      null,
-      50
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut"
+      },
+      {
+        "value": 50
+      }
     ],
     "birthday": "2000-06-01",
     "horoscope": 2,
@@ -6465,13 +7305,21 @@
     "image_color": "#ccadd9",
     "height": 156,
     "heights": [
-      null,
-      158
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": 158
+      }
     ],
     "weight": 48,
     "weights": [
-      null,
-      48
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut"
+      },
+      {
+        "value": 48
+      }
     ],
     "birthday": "2000-12-02",
     "horoscope": 8,
@@ -6559,13 +7407,21 @@
     "image_color": "#298c7e",
     "height": 158,
     "heights": [
-      null,
-      158
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": 158
+      }
     ],
     "weight": 48,
     "weights": [
-      null,
-      48
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut"
+      },
+      {
+        "value": 48
+      }
     ],
     "birthday": "2000-05-22",
     "horoscope": 2,
