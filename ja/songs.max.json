@@ -13765,6 +13765,792 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-1342",
+    "name": "追憶",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1343",
+    "name": "エレメント",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1344",
+    "name": "魔法と追憶",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1345",
+    "name": "あの頃",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1346",
+    "name": "学院の奇人たち",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1347",
+    "name": "奇人の選抜",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1348",
+    "name": "秘密の部屋",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1349",
+    "name": "再会",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1350",
+    "name": "夏目の黒歴史",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1351",
+    "name": "鍵とお礼",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1352",
+    "name": "会いに行くよ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1353",
+    "name": "五奇人それぞれの思惑",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1354",
+    "name": "予兆",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1355",
+    "name": "英智の計画",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1356",
+    "name": "革命の本番",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1357",
+    "name": "革命の助け",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1358",
+    "name": "ドリフェスの浸食",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1359",
+    "name": "トラブル発生",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1360",
+    "name": "零の帰還",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1361",
+    "name": "怪物",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1362",
+    "name": "夏目の敵意",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1363",
+    "name": "怒りの対象",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1364",
+    "name": "怒りと心情",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1365",
+    "name": "台本の主役",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1366",
+    "name": "踏み潰しても",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1367",
+    "name": "終幕へ向けて",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1368",
+    "name": "最後の仕事",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1369",
+    "name": "契約書どおりの幸せ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1370",
+    "name": "討伐の終焉",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1371",
+    "name": "もうひとつの物語の始まり",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1372",
+    "name": "焼却",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1373",
+    "name": "償いの勧誘",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1374",
+    "name": "始まりの予感",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1375",
+    "name": "五奇人の現在",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1376",
+    "name": "物語の想造",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1377",
+    "name": "次の季節へ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1378",
+    "name": "糸電話の友",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1379",
+    "name": "友の協力",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1380",
+    "name": "クロスロード ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1381",
+    "name": "事件発生",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1382",
+    "name": "現場へ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1383",
+    "name": "失策と後悔",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1384",
+    "name": "カオス",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1385",
+    "name": "千秋の悩み",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1386",
+    "name": "吹き溜まり",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1387",
+    "name": "晃牙の即興ギター",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1388",
+    "name": "思惑",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1389",
+    "name": "堀馬の懇願",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1390",
+    "name": "友人思い",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1391",
+    "name": "自己紹介",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1392",
+    "name": "零の提案",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1393",
+    "name": "覚悟と試験",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1394",
+    "name": "敬人の秘策",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1395",
+    "name": "小さい魔物",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1396",
+    "name": "扇動",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1397",
+    "name": "零と晃牙",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1398",
+    "name": "衣装と期待",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1399",
+    "name": "準備完了",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1400",
+    "name": "威圧",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1401",
+    "name": "ROCK'N'ROLL",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1402",
+    "name": "敬人の夢",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1403",
+    "name": "敗北宜言",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1404",
+    "name": "過去から現在",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1405",
+    "name": "『UNDEAD』＆『紅月』 ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1406",
+    "name": "チェックメイト",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1407",
+    "name": "駆け引き",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1408",
+    "name": "病院へ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1409",
+    "name": "英智の視線",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1410",
+    "name": "置き去りのレオ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1320",
+    "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        33
+      ]
+    ],
+    "lyric": "こだまさおり",
+    "composition": "こだまさおり",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1411",
+    "name": "先輩と後輩",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1412",
+    "name": "『チェス』への拘り",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1413",
+    "name": "歪な仲間",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1414",
+    "name": "泉の諦め",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1415",
+    "name": "凛凍月との邂遁",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1416",
+    "name": "We'll be “Knights” 幸福ver.",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1417",
+    "name": "迷惑な電話",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1418",
+    "name": "言伝",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1419",
+    "name": "停いテンシ",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1420",
+    "name": "ある日の会話",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1421",
+    "name": "レオへの忠告",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1422",
+    "name": "泉とレオとリトル・ジョン",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1423",
+    "name": "不自由なこと",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1424",
+    "name": "楽曲という武器",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1425",
+    "name": "敵なしの戦い",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1426",
+    "name": "助っ人の会話",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1427",
+    "name": "英智の挑発",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1428",
+    "name": "レオと楽曲",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1429",
+    "name": "失望",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1430",
+    "name": "あの日の感慨",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1431",
+    "name": "レオと泉",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1432",
+    "name": "大事なもの",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1433",
+    "name": "前を向いて",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1434",
+    "name": "追想",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1435",
+    "name": "未来予想",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1436",
+    "name": "懐かしい曲",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1437",
+    "name": "未来は",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-318",
     "name": "Sentimental Liars",
     "unit_id": [
@@ -25739,792 +26525,6 @@
         250
       ]
     },
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1342",
-    "name": "追憶",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1343",
-    "name": "エレメント",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1344",
-    "name": "魔法と追憶",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1345",
-    "name": "あの頃",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1346",
-    "name": "学院の奇人たち",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1347",
-    "name": "奇人の選抜",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1348",
-    "name": "秘密の部屋",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1349",
-    "name": "再会",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1350",
-    "name": "夏目の黒歴史",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1351",
-    "name": "鍵とお礼",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1352",
-    "name": "会いに行くよ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1353",
-    "name": "五奇人それぞれの思惑",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1354",
-    "name": "予兆",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1355",
-    "name": "英智の計画",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1356",
-    "name": "革命の本番",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1357",
-    "name": "革命の助け",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1358",
-    "name": "ドリフェスの浸食",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1359",
-    "name": "トラブル発生",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1360",
-    "name": "零の帰還",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1361",
-    "name": "怪物",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1362",
-    "name": "夏目の敵意",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1363",
-    "name": "怒りの対象",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1364",
-    "name": "怒りと心情",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1365",
-    "name": "台本の主役",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1366",
-    "name": "踏み潰しても",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1367",
-    "name": "終幕へ向けて",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1368",
-    "name": "最後の仕事",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1369",
-    "name": "契約書どおりの幸せ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1370",
-    "name": "討伐の終焉",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1371",
-    "name": "もうひとつの物語の始まり",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1372",
-    "name": "焼却",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1373",
-    "name": "償いの勧誘",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1374",
-    "name": "始まりの予感",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1375",
-    "name": "五奇人の現在",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1376",
-    "name": "物語の想造",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1377",
-    "name": "次の季節へ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1378",
-    "name": "糸電話の友",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1379",
-    "name": "友の協力",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1380",
-    "name": "クロスロード ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1381",
-    "name": "事件発生",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1382",
-    "name": "現場へ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1383",
-    "name": "失策と後悔",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1384",
-    "name": "カオス",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1385",
-    "name": "千秋の悩み",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1386",
-    "name": "吹き溜まり",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1387",
-    "name": "晃牙の即興ギター",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1388",
-    "name": "思惑",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1389",
-    "name": "堀馬の懇願",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1390",
-    "name": "友人思い",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1391",
-    "name": "自己紹介",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1392",
-    "name": "零の提案",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1393",
-    "name": "覚悟と試験",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1394",
-    "name": "敬人の秘策",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1395",
-    "name": "小さい魔物",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1396",
-    "name": "扇動",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1397",
-    "name": "零と晃牙",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1398",
-    "name": "衣装と期待",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1399",
-    "name": "準備完了",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1400",
-    "name": "威圧",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1401",
-    "name": "ROCK'N'ROLL",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1402",
-    "name": "敬人の夢",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1403",
-    "name": "敗北宜言",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1404",
-    "name": "過去から現在",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1405",
-    "name": "『UNDEAD』＆『紅月』 ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1406",
-    "name": "チェックメイト",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1407",
-    "name": "駆け引き",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1408",
-    "name": "病院へ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1409",
-    "name": "英智の視線",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1410",
-    "name": "置き去りのレオ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1320",
-    "name": "意地悪なセナの全身にカビが生えて悶え苦しんで死ねばいいなの歌",
-    "unit_id": [
-      101
-    ],
-    "character_id": [
-      [
-        33
-      ]
-    ],
-    "lyric": "こだまさおり",
-    "composition": "こだまさおり",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1411",
-    "name": "先輩と後輩",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1412",
-    "name": "『チェス』への拘り",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1413",
-    "name": "歪な仲間",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1414",
-    "name": "泉の諦め",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1415",
-    "name": "凛凍月との邂遁",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1416",
-    "name": "We'll be “Knights” 幸福ver.",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1417",
-    "name": "迷惑な電話",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1418",
-    "name": "言伝",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1419",
-    "name": "停いテンシ",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1420",
-    "name": "ある日の会話",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1421",
-    "name": "レオへの忠告",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1422",
-    "name": "泉とレオとリトル・ジョン",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1423",
-    "name": "不自由なこと",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1424",
-    "name": "楽曲という武器",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1425",
-    "name": "敵なしの戦い",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1426",
-    "name": "助っ人の会話",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1427",
-    "name": "英智の挑発",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1428",
-    "name": "レオと楽曲",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1429",
-    "name": "失望",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1430",
-    "name": "あの日の感慨",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1431",
-    "name": "レオと泉",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1432",
-    "name": "大事なもの",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1433",
-    "name": "前を向いて",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1434",
-    "name": "追想",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1435",
-    "name": "未来予想",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1436",
-    "name": "懐かしい曲",
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1437",
-    "name": "未来は",
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
