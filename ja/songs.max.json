@@ -5578,6 +5578,7 @@
       ],
       "inst": "mktls-1338"
     },
+    "order": 133,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -5617,6 +5618,7 @@
     "version": {
       "inst": "mktls-949"
     },
+    "order": 134,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -5656,6 +5658,7 @@
     "version": {
       "inst": "mktls-833"
     },
+    "order": 135,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -10813,7 +10816,7 @@
     "unit_id": [
       101
     ],
-    "unit_name": "風早 巽 (CV.中澤 まさとも) & 迷えるゲストの皆さん",
+    "unit_name": "茨塾【HiMERU（CV：笠間 淳）、七種 茨（CV：逢坂 良太）、逆先 夏目（CV：野島 健児）、南雲 鉄虎（CV：中島 ヨシキ）、春川 宙（CV：山本 和臣）】 VS 敬人塾【蓮巳 敬人（CV：梅原 裕一郎）、伏見 弓弦（CV：橋本 晃太朗）、影片 みか（CV：大須賀 純）、天城 一彩（CV：梶原 岳人）、白鳥 藍良（CV：天﨑 滉平）】",
     "character_id": [
       [
         70,
@@ -11035,7 +11038,7 @@
     "unit_id": [
       101
     ],
-    "unit_name": "Ibara Lecture VS Keito Lecture",
+    "unit_name": "茨塾【HiMERU（CV：笠間 淳）、七種 茨（CV：逢坂 良太）、逆先 夏目（CV：野島 健児）、南雲 鉄虎（CV：中島 ヨシキ）、春川 宙（CV：山本 和臣）】 VS 敬人塾【蓮巳 敬人（CV：梅原 裕一郎）、伏見 弓弦（CV：橋本 晃太朗）、影片 みか（CV：大須賀 純）、天城 一彩（CV：梶原 岳人）、白鳥 藍良（CV：天﨑 滉平）】",
     "version": {
       "full": [
         "mktls-380"
@@ -26523,6 +26526,48 @@
     "version": {
       "full": [
         250
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1438",
+    "name": "瞬きSign☆",
+    "unit_name": "PIKAPIKA",
+    "character_id": [
+      [
+        27,
+        37,
+        9,
+        4
+      ]
+    ],
+    "lyric": "磯谷 佳江",
+    "composition": "CHOKKAKU & 福岡 良太 & Tommy",
+    "arrangement": "CHOKKAKU",
+    "link": {
+      "youtube_3dmv": [
+        "https://youtu.be/vZFeqyFYX04"
+      ]
+    },
+    "version": {
+      "inst": "mktls-1439"
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1439",
+    "name": "瞬きSign☆ (Instrumental)",
+    "unit_name": "PIKAPIKA",
+    "version": {
+      "full": [
+        "mktls-1438"
       ]
     },
     "is_solo": "FALSE",
