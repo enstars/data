@@ -5665,6 +5665,35 @@
   },
   {
     "compliant": "TRUE",
+    "id": 253,
+    "name": "瞬きSign☆",
+    "unit_name": "PIKAPIKA",
+    "character_id": [
+      [
+        27,
+        37,
+        9,
+        4
+      ]
+    ],
+    "lyric": "磯谷 佳江",
+    "composition": "CHOKKAKU & 福岡 良太 & Tommy",
+    "arrangement": "CHOKKAKU",
+    "link": {
+      "youtube_3dmv": [
+        "https://youtu.be/vZFeqyFYX04"
+      ]
+    },
+    "version": {
+      "inst": "mktls-1439"
+    },
+    "order": 136,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 152,
     "name": "U.S.A.",
     "unit_id": [
@@ -5705,7 +5734,7 @@
     "version": {
       "inst": "mktls-791"
     },
-    "order": 136,
+    "order": 137,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5753,7 +5782,7 @@
     "version": {
       "inst": "mktls-792"
     },
-    "order": 137,
+    "order": 138,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5806,7 +5835,7 @@
     "version": {
       "inst": "mktls-793"
     },
-    "order": 138,
+    "order": 139,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5856,7 +5885,7 @@
     "version": {
       "inst": "mktls-794"
     },
-    "order": 139,
+    "order": 140,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5903,7 +5932,7 @@
     "version": {
       "inst": "mktls-795"
     },
-    "order": 140,
+    "order": 141,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5951,7 +5980,7 @@
     "version": {
       "inst": "mktls-796"
     },
-    "order": 141,
+    "order": 142,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -5993,7 +6022,7 @@
     "version": {
       "inst": "mktls-797"
     },
-    "order": 142,
+    "order": 143,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6034,7 +6063,7 @@
     "version": {
       "inst": "mktls-628"
     },
-    "order": 143,
+    "order": 144,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6077,7 +6106,7 @@
       ],
       "inst": "mktls-778"
     },
-    "order": 144,
+    "order": 145,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6125,7 +6154,7 @@
     "version": {
       "inst": "mktls-690"
     },
-    "order": 145,
+    "order": 146,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6186,7 +6215,7 @@
         "mktls-495"
       ]
     },
-    "order": 146,
+    "order": 147,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6231,7 +6260,7 @@
     "version": {
       "inst": "mktls-629"
     },
-    "order": 147,
+    "order": 148,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6272,7 +6301,7 @@
     "version": {
       "inst": "mktls-630"
     },
-    "order": 148,
+    "order": 149,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6314,7 +6343,7 @@
     "version": {
       "inst": "mktls-631"
     },
-    "order": 149,
+    "order": 150,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6353,7 +6382,7 @@
     "version": {
       "inst": "mktls-632"
     },
-    "order": 150,
+    "order": 151,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6392,7 +6421,7 @@
     "version": {
       "inst": "mktls-635"
     },
-    "order": 151,
+    "order": 152,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6437,7 +6466,7 @@
     "version": {
       "inst": "mktls-636"
     },
-    "order": 152,
+    "order": 153,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6482,7 +6511,7 @@
     "version": {
       "inst": "mktls-638"
     },
-    "order": 153,
+    "order": 154,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6524,7 +6553,7 @@
     "version": {
       "inst": "mktls-640"
     },
-    "order": 154,
+    "order": 155,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6571,7 +6600,7 @@
     "version": {
       "inst": "mktls-691"
     },
-    "order": 155,
+    "order": 156,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6617,7 +6646,7 @@
     "version": {
       "inst": "mktls-692"
     },
-    "order": 156,
+    "order": 157,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6653,7 +6682,7 @@
     "version": {
       "inst": "mktls-641"
     },
-    "order": 157,
+    "order": 158,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6688,7 +6717,7 @@
         17
       ]
     },
-    "order": 158,
+    "order": 159,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -6727,7 +6756,7 @@
     "version": {
       "inst": "mktls-642"
     },
-    "order": 159,
+    "order": 160,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6767,7 +6796,7 @@
     "version": {
       "inst": "mktls-643"
     },
-    "order": 160,
+    "order": 161,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6809,7 +6838,7 @@
     "version": {
       "inst": "mktls-644"
     },
-    "order": 161,
+    "order": 162,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6849,7 +6878,7 @@
     "version": {
       "inst": "mktls-645"
     },
-    "order": 162,
+    "order": 163,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6892,7 +6921,7 @@
     "version": {
       "inst": "mktls-701"
     },
-    "order": 163,
+    "order": 164,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6929,7 +6958,7 @@
       ],
       "inst": "mktls-788"
     },
-    "order": 164,
+    "order": 165,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -6970,7 +6999,7 @@
     "version": {
       "inst": "mktls-646"
     },
-    "order": 165,
+    "order": 166,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7025,7 +7054,7 @@
         "mktls-509"
       ]
     },
-    "order": 166,
+    "order": 167,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7070,7 +7099,7 @@
     "version": {
       "inst": "mktls-648"
     },
-    "order": 167,
+    "order": 168,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7114,7 +7143,7 @@
     "version": {
       "inst": "mktls-650"
     },
-    "order": 168,
+    "order": 169,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7158,7 +7187,7 @@
     "version": {
       "inst": "mktls-693"
     },
-    "order": 169,
+    "order": 170,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7203,7 +7232,7 @@
     "version": {
       "inst": "mktls-652"
     },
-    "order": 170,
+    "order": 171,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7250,7 +7279,7 @@
     "version": {
       "inst": "mktls-694"
     },
-    "order": 171,
+    "order": 172,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7291,7 +7320,7 @@
     "version": {
       "inst": "mktls-654"
     },
-    "order": 172,
+    "order": 173,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7331,7 +7360,7 @@
     "version": {
       "inst": "mktls-656"
     },
-    "order": 173,
+    "order": 174,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7372,7 +7401,7 @@
     "version": {
       "inst": "mktls-658"
     },
-    "order": 174,
+    "order": 175,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7414,7 +7443,7 @@
     "version": {
       "inst": "mktls-660"
     },
-    "order": 175,
+    "order": 176,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7461,7 +7490,7 @@
     "version": {
       "inst": "mktls-695"
     },
-    "order": 176,
+    "order": 177,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7502,7 +7531,7 @@
     "version": {
       "inst": "mktls-789"
     },
-    "order": 177,
+    "order": 178,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7543,7 +7572,7 @@
     "version": {
       "inst": "mktls-790"
     },
-    "order": 178,
+    "order": 179,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7581,7 +7610,7 @@
         17
       ]
     },
-    "order": 179,
+    "order": 180,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -7622,7 +7651,7 @@
     "version": {
       "inst": "mktls-662"
     },
-    "order": 180,
+    "order": 181,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7667,7 +7696,7 @@
     "version": {
       "inst": "mktls-664"
     },
-    "order": 181,
+    "order": 182,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7706,7 +7735,7 @@
     "version": {
       "inst": "mktls-666"
     },
-    "order": 182,
+    "order": 183,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7746,7 +7775,7 @@
     "version": {
       "inst": "mktls-668"
     },
-    "order": 183,
+    "order": 184,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7792,7 +7821,7 @@
     "version": {
       "inst": "mktls-1028"
     },
-    "order": 184,
+    "order": 185,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7840,7 +7869,7 @@
     "version": {
       "inst": "mktls-670"
     },
-    "order": 185,
+    "order": 186,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7879,7 +7908,7 @@
     "version": {
       "inst": "mktls-703"
     },
-    "order": 186,
+    "order": 187,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7918,7 +7947,7 @@
     "version": {
       "inst": "mktls-672"
     },
-    "order": 187,
+    "order": 188,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -7965,7 +7994,7 @@
     "version": {
       "inst": "mktls-696"
     },
-    "order": 188,
+    "order": 189,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8020,7 +8049,7 @@
         "mktls-523"
       ]
     },
-    "order": 189,
+    "order": 190,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8065,7 +8094,7 @@
     "version": {
       "inst": "mktls-675"
     },
-    "order": 190,
+    "order": 191,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8110,7 +8139,7 @@
     "version": {
       "inst": "mktls-676"
     },
-    "order": 191,
+    "order": 192,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8150,7 +8179,7 @@
     "version": {
       "inst": "mktls-677"
     },
-    "order": 192,
+    "order": 193,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8194,7 +8223,7 @@
     "version": {
       "inst": "mktls-678"
     },
-    "order": 193,
+    "order": 194,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8236,7 +8265,7 @@
     "version": {
       "inst": "mktls-679"
     },
-    "order": 194,
+    "order": 195,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8283,7 +8312,7 @@
     "version": {
       "inst": "mktls-697"
     },
-    "order": 195,
+    "order": 196,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8324,7 +8353,7 @@
     "version": {
       "inst": "mktls-680"
     },
-    "order": 196,
+    "order": 197,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8365,7 +8394,7 @@
     "version": {
       "inst": "mktls-681"
     },
-    "order": 197,
+    "order": 198,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8406,7 +8435,7 @@
     "version": {
       "inst": "mktls-682"
     },
-    "order": 198,
+    "order": 199,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8453,7 +8482,7 @@
     "version": {
       "inst": "mktls-698"
     },
-    "order": 199,
+    "order": 200,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8503,7 +8532,7 @@
     "version": {
       "inst": "mktls-699"
     },
-    "order": 200,
+    "order": 201,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8538,7 +8567,7 @@
         17
       ]
     },
-    "order": 201,
+    "order": 202,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "FALSE"
@@ -8575,7 +8604,7 @@
     "version": {
       "inst": "mktls-683"
     },
-    "order": 202,
+    "order": 203,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8615,7 +8644,7 @@
     "version": {
       "inst": "mktls-684"
     },
-    "order": 203,
+    "order": 204,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8659,7 +8688,7 @@
     "version": {
       "inst": "mktls-685"
     },
-    "order": 204,
+    "order": 205,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8701,7 +8730,7 @@
     "version": {
       "inst": "mktls-686"
     },
-    "order": 205,
+    "order": 206,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8740,7 +8769,7 @@
     "version": {
       "inst": "mktls-687"
     },
-    "order": 206,
+    "order": 207,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8778,7 +8807,7 @@
     "version": {
       "inst": "mktls-688"
     },
-    "order": 207,
+    "order": 208,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8816,7 +8845,7 @@
     "version": {
       "inst": "mktls-689"
     },
-    "order": 208,
+    "order": 209,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8858,7 +8887,7 @@
     "version": {
       "inst": "mktls-705"
     },
-    "order": 209,
+    "order": 210,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8903,7 +8932,7 @@
       ],
       "inst": "mktls-1027"
     },
-    "order": 210,
+    "order": 211,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8945,7 +8974,7 @@
     "version": {
       "inst": "mktls-799"
     },
-    "order": 211,
+    "order": 212,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -8986,7 +9015,7 @@
     "version": {
       "inst": "mktls-800"
     },
-    "order": 212,
+    "order": 213,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9041,7 +9070,7 @@
         "mktls-537"
       ]
     },
-    "order": 213,
+    "order": 214,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9082,7 +9111,7 @@
     "version": {
       "inst": "mktls-884"
     },
-    "order": 214,
+    "order": 215,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9125,7 +9154,7 @@
     "version": {
       "inst": "mktls-885"
     },
-    "order": 215,
+    "order": 216,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9165,7 +9194,7 @@
     "version": {
       "inst": "mktls-886"
     },
-    "order": 216,
+    "order": 217,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9213,7 +9242,7 @@
     "version": {
       "inst": "mktls-887"
     },
-    "order": 217,
+    "order": 218,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9251,7 +9280,7 @@
     "version": {
       "inst": "mktls-888"
     },
-    "order": 218,
+    "order": 219,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9292,7 +9321,7 @@
     "version": {
       "inst": "mktls-889"
     },
-    "order": 219,
+    "order": 220,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9330,7 +9359,7 @@
     "version": {
       "inst": "mktls-890"
     },
-    "order": 220,
+    "order": 221,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9368,7 +9397,7 @@
     "version": {
       "inst": "mktls-891"
     },
-    "order": 221,
+    "order": 222,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9411,7 +9440,7 @@
     "version": {
       "inst": "mktls-892"
     },
-    "order": 222,
+    "order": 223,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9452,7 +9481,7 @@
     "version": {
       "inst": "mktls-893"
     },
-    "order": 223,
+    "order": 224,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9493,7 +9522,7 @@
     "version": {
       "inst": "mktls-894"
     },
-    "order": 224,
+    "order": 225,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9533,7 +9562,7 @@
     "version": {
       "inst": "mktls-895"
     },
-    "order": 225,
+    "order": 226,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9574,7 +9603,7 @@
     "version": {
       "inst": "mktls-896"
     },
-    "order": 226,
+    "order": 227,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9613,7 +9642,7 @@
     "version": {
       "inst": "mktls-897"
     },
-    "order": 227,
+    "order": 228,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9656,7 +9685,7 @@
     "version": {
       "inst": "mktls-898"
     },
-    "order": 228,
+    "order": 229,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9702,7 +9731,7 @@
     "version": {
       "inst": "mktls-899"
     },
-    "order": 229,
+    "order": 230,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9744,7 +9773,7 @@
     "version": {
       "inst": "mktls-900"
     },
-    "order": 230,
+    "order": 231,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9795,7 +9824,7 @@
     "version": {
       "inst": "mktls-832"
     },
-    "order": 231,
+    "order": 232,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9850,7 +9879,7 @@
         "mktls-552"
       ]
     },
-    "order": 232,
+    "order": 233,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9893,7 +9922,7 @@
     "version": {
       "inst": "mktls-822"
     },
-    "order": 233,
+    "order": 234,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9934,7 +9963,7 @@
     "version": {
       "inst": "mktls-824"
     },
-    "order": 234,
+    "order": 235,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -9973,7 +10002,7 @@
     "version": {
       "inst": "mktls-825"
     },
-    "order": 235,
+    "order": 236,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10014,7 +10043,7 @@
     "version": {
       "inst": "mktls-826"
     },
-    "order": 236,
+    "order": 237,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10057,7 +10086,7 @@
     "version": {
       "inst": "mktls-823"
     },
-    "order": 237,
+    "order": 238,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10101,7 +10130,7 @@
     "version": {
       "inst": "mktls-827"
     },
-    "order": 238,
+    "order": 239,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10143,7 +10172,7 @@
     "version": {
       "inst": "mktls-828"
     },
-    "order": 239,
+    "order": 240,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10184,7 +10213,7 @@
     "version": {
       "inst": "mktls-829"
     },
-    "order": 240,
+    "order": 241,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10230,7 +10259,7 @@
       ],
       "inst": "mktls-902"
     },
-    "order": 241,
+    "order": 242,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10269,7 +10298,7 @@
     "version": {
       "inst": "mktls-830"
     },
-    "order": 242,
+    "order": 243,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10310,7 +10339,7 @@
     "version": {
       "inst": "mktls-831"
     },
-    "order": 243,
+    "order": 244,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10351,7 +10380,7 @@
     "version": {
       "inst": "mktls-1327"
     },
-    "order": 244,
+    "order": 245,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10392,7 +10421,7 @@
     "version": {
       "inst": "mktls-903"
     },
-    "order": 245,
+    "order": 246,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10441,7 +10470,7 @@
     "version": {
       "inst": "mktls-1322"
     },
-    "order": 246,
+    "order": 247,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10481,7 +10510,7 @@
     "version": {
       "inst": "mktls-1339"
     },
-    "order": 247,
+    "order": 248,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -10519,7 +10548,7 @@
     "version": {
       "inst": "mktls-1341"
     },
-    "order": 248,
+    "order": 249,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -26534,40 +26563,15 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1438",
-    "name": "瞬きSign☆",
-    "unit_name": "PIKAPIKA",
-    "character_id": [
-      [
-        27,
-        37,
-        9,
-        4
-      ]
-    ],
-    "lyric": "磯谷 佳江",
-    "composition": "CHOKKAKU & 福岡 良太 & Tommy",
-    "arrangement": "CHOKKAKU",
-    "link": {
-      "youtube_3dmv": [
-        "https://youtu.be/vZFeqyFYX04"
-      ]
-    },
-    "version": {
-      "inst": "mktls-1439"
-    },
-    "is_solo": "FALSE",
-    "has_game_edit": "FALSE",
-    "limited": "FALSE"
-  },
-  {
-    "compliant": "TRUE",
     "id": "mktls-1439",
     "name": "瞬きSign☆ (Instrumental)",
+    "unit_id": [
+      101
+    ],
     "unit_name": "PIKAPIKA",
     "version": {
       "full": [
-        "mktls-1438"
+        253
       ]
     },
     "is_solo": "FALSE",
