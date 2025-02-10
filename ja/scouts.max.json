@@ -9205,6 +9205,7 @@
     "type": "scout",
     "story_name": "devoted to you",
     "story_author": "-",
+    "story_season": "春",
     "related_id": [
       538
     ],
@@ -9235,6 +9236,7 @@
     "type": "scout",
     "story_name": "devoted to you",
     "story_author": "-",
+    "story_season": "春",
     "related_id": [
       539
     ],
@@ -9244,6 +9246,34 @@
       4269,
       4270,
       4271
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 541,
+    "name": "フィーチャースカウト ライカ編",
+    "start": {
+      "en": "2026-12-14T12:00:00-05:00",
+      "jp": "2025-02-10T15:00:00+09:00",
+      "cn": "2025-06-09T12:00:00+08:00",
+      "kr": "2025-06-30T12:00:00+09:00"
+    },
+    "end": {
+      "en": "2026-12-28T11:59:59-05:00",
+      "jp": "2025-02-25T14:59:59+09:00",
+      "cn": "2025-06-23T11:59:59+08:00",
+      "kr": "2025-07-14T11:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "宝物になる一瞬を",
+    "story_author": "-",
+    "story_season": "夏",
+    "event_id": 318,
+    "banner_id": 4277,
+    "cards": [
+      4277,
+      4278,
+      4279
     ]
   }
 ]
