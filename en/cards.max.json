@@ -22246,19 +22246,137 @@
     "compliant": "TRUE",
     "id": 3372,
     "title": "Warm Breeze",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Route to Destination"
+      },
+      "live": {
+        "name": "Seaside Driving"
+      },
+      "support": {
+        "name": "Caring for Vegetables"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3373,
     "title": "Compromise in Friendship",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Similar or Not"
+      },
+      "live": {
+        "name": "Friend and Guest"
+      },
+      "support": {
+        "name": "Unexpected Helper"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3374,
     "title": "Music Everywhere",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Greetings in Music"
+      },
+      "live": {
+        "name": "Street Piano Performance"
+      },
+      "support": {
+        "name": "Paris Sightseeing"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3420,
+    "title": "ES Idol 2",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3421,
+    "title": "ES Idol 2",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Charm Stage"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3422,
+    "title": "ES Idol 2",
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Sparkle Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3423,
+    "title": "ES Idol 2",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3424,
+    "title": "ES Idol 2",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
