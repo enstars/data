@@ -31,6 +31,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "ティーカップ収集",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ティーカップ収集"
+      }
+    ],
     "specialty": "社交ダンス",
     "circle": [
       "sports",
@@ -84,6 +91,13 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "他人の物まね",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "他人の物まね"
+      }
+    ],
     "specialty": "手品",
     "circle": [
       "dramatica",
@@ -137,6 +151,13 @@
     "age": 16,
     "blood_type": "B",
     "hobby": "カラオケ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "カラオケ"
+      }
+    ],
     "specialty": "速記",
     "circle": [
       "archivemanga",
@@ -191,6 +212,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "掃除",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "掃除"
+      }
+    ],
     "specialty": "体術",
     "circle": [
       "kitchen",
@@ -245,6 +273,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "クロスワードパズル",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "クロスワードパズル"
+      }
+    ],
     "specialty": "歌",
     "circle": [
       "dramatica",
@@ -300,6 +335,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "大吉の散歩、渾名の命名",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "大吉の散歩、渾名の命名"
+      }
+    ],
     "specialty": "ヒップホップダンス",
     "circle": [
       "bioanimal",
@@ -354,6 +396,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "UFOキャッチャー、格ゲー",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "UFOキャッチャー、格ゲー"
+      }
+    ],
     "specialty": "電子機器いじり",
     "circle": [
       "craftmonster",
@@ -408,6 +457,13 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "TV鑑賞、マンガ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "TV観賞、マンガ"
+      }
+    ],
     "specialty": "ギター",
     "circle": [
       "archivemanga",
@@ -462,6 +518,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "特撮番組鑑賞",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "特撮番組鑑賞"
+      }
+    ],
     "specialty": "スタント技",
     "circle": [
       "sports",
@@ -514,6 +577,13 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "海辺の散歩",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "海辺の散歩"
+      }
+    ],
     "specialty": "手刀",
     "circle": [
       "bioocean",
@@ -566,6 +636,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "筋トレ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "筋トレ"
+      }
+    ],
     "specialty": "炎を使った漢の料理",
     "circle": [
       "shin",
@@ -620,6 +697,13 @@
     "age": 16,
     "blood_type": "O",
     "hobby": "ゆるキャラグッズ集め",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ゆるキャラグッズ集め"
+      }
+    ],
     "specialty": "逆立ち",
     "circle": [
       "archivemanga",
@@ -674,6 +758,13 @@
     "age": 17,
     "blood_type": "AB",
     "hobby": "カエルの飼育",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "カエルの飼育"
+      }
+    ],
     "specialty": "火の輪くぐり",
     "circle": [
       "bioocean",
@@ -728,6 +819,13 @@
     "age": 16,
     "blood_type": "A",
     "hobby": "シルバー集め",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "シルバー集め"
+      }
+    ],
     "specialty": "格闘技やスポーツ全般",
     "circle": [
       "shin",
@@ -779,6 +877,13 @@
     "age": 15,
     "blood_type": "B",
     "hobby": "アイドル研究",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "アイドル研究"
+      }
+    ],
     "specialty": "アイドルに関する知識",
     "circle": [
       "pretty5",
@@ -829,6 +934,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "ジオラマづくり",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ジオラマづくり"
+      }
+    ],
     "specialty": "細かい手仕事",
     "circle": [
       "sweets",
@@ -878,6 +990,13 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "整理整頓、文筆",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "整理整頓、文筆"
+      }
+    ],
     "specialty": "探しもの、物覚え",
     "circle": [
       "teaflavor",
@@ -927,6 +1046,13 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "人との関わり",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "人との関わり"
+      }
+    ],
     "specialty": "何でもできる",
     "circle": [
       "dramatica",
@@ -975,6 +1101,13 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "買い物",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "買い物"
+      }
+    ],
     "specialty": "記憶力",
     "circle": [
       "teaflavor",
@@ -1022,6 +1155,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "戦略",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "戦略"
+      }
+    ],
     "specialty": "褒め殺し",
     "circle": [
       "kitchen",
@@ -1072,6 +1212,13 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "嫌み",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "嫌み"
+      }
+    ],
     "specialty": "即興のポージング",
     "circle": [
       "archivemanga",
@@ -1121,6 +1268,13 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "人形の洋服作り",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "人形の洋服作り"
+      }
+    ],
     "specialty": "レース編み",
     "circle": [
       "dramatica",
@@ -1168,6 +1322,13 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "ぬいぐるみ収集",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ぬいぐるみ収集"
+      }
+    ],
     "specialty": "あやとり",
     "circle": [
       "pretty5",
@@ -1218,6 +1379,13 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "音楽鑑賞、ライブごっこ"
+      }
+    ],
     "specialty": "シンクロ（水泳）",
     "circle": [
       "gardenia",
@@ -1268,6 +1436,13 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "音楽鑑賞、ライブごっこ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "音楽鑑賞、ライブごっこ"
+      }
+    ],
     "specialty": "シンクロ（水泳）",
     "circle": [
       "bandbb",
@@ -1318,6 +1493,13 @@
     "age": 21,
     "blood_type": "A",
     "hobby": "ギャンブル",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ギャンブル"
+      }
+    ],
     "specialty": "アドリブ",
     "circle": [
       "asobi",
@@ -1363,6 +1545,13 @@
     "age": 17,
     "blood_type": "O",
     "hobby": "帽子集め",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "帽子集め"
+      }
+    ],
     "specialty": "推理",
     "circle": [
       "sweets",
@@ -1414,6 +1603,13 @@
     "age": 15,
     "blood_type": "B",
     "hobby": "習い事",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "習い事"
+      }
+    ],
     "specialty": "古典芸能",
     "circle": [
       "teakaori",
@@ -1463,6 +1659,13 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "料理",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "料理"
+      }
+    ],
     "specialty": "一度覚えた味は再現できる",
     "circle": [
       "kitchen",
@@ -1510,6 +1713,13 @@
     "age": 19,
     "blood_type": "B",
     "hobby": "庭園の散歩",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "庭園の散歩"
+      }
+    ],
     "specialty": "ジャズダンス",
     "circle": [
       "bandbb",
@@ -1557,6 +1767,13 @@
     "age": 18,
     "blood_type": "B",
     "hobby": "デート、マリンスポーツ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "デート、マリンスポーツ"
+      }
+    ],
     "specialty": "女の子の嗅ぎ分け",
     "circle": [
       "archivebook",
@@ -1604,6 +1821,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "カードゲーム",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "カードゲーム"
+      }
+    ],
     "specialty": "エレキギター",
     "circle": [
       "bioanimal",
@@ -1654,6 +1878,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "小さな生き物を眺める事",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "小さな生き物を眺める事"
+      }
+    ],
     "specialty": "オカリナ",
     "circle": [
       "sports",
@@ -1703,6 +1934,13 @@
     "age": 16,
     "blood_type": "A",
     "hobby": "音楽鑑賞、マンガ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "音楽鑑賞、マンガ"
+      }
+    ],
     "specialty": "動物に好かれやすい",
     "circle": [
       "dramatica",
@@ -1758,6 +1996,13 @@
     "age": 19,
     "blood_type": "O",
     "hobby": "携帯ゲーム",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "携帯ゲーム"
+      }
+    ],
     "specialty": "高さのあるパフォーマンス",
     "circle": [
       "bioanimal",
@@ -1805,6 +2050,13 @@
     "age": 16,
     "blood_type": "O",
     "hobby": "ひなたぼっこ、ダッシュ",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ひなたぼっこ、ダッシュ"
+      }
+    ],
     "specialty": "バク転",
     "circle": [
       "sports",
@@ -1855,6 +2107,13 @@
     "age": 16,
     "blood_type": "AB",
     "hobby": "絵、天体観測",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "絵、天体観測"
+      }
+    ],
     "specialty": "速読",
     "circle": [
       "teaflavor",
@@ -1905,6 +2164,13 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "読書",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "読書"
+      }
+    ],
     "specialty": "三味線",
     "circle": [
       "dramatica",
@@ -1953,6 +2219,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "刺繍（裁縫）",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "刺繍（裁縫）"
+      }
+    ],
     "specialty": "喧嘩",
     "circle": [
       "shin",
@@ -2001,6 +2274,13 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "精神統一、料理",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "精神統一、料理"
+      }
+    ],
     "specialty": "立ったまま寝られる",
     "circle": [
       "teakaori",
@@ -2051,6 +2331,13 @@
     "age": 17,
     "blood_type": "A",
     "hobby": "チェス",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "チェス"
+      }
+    ],
     "specialty": "騎射",
     "circle": [
       "archivebook",
@@ -2102,6 +2389,13 @@
     "age": 19,
     "blood_type": "O",
     "hobby": "作曲",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "作曲"
+      }
+    ],
     "specialty": "即興ダンス",
     "circle": [
       "dramatica",
@@ -2150,6 +2444,13 @@
     "age": 18,
     "blood_type": "A",
     "hobby": "後輩いびり",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "後輩いびり"
+      }
+    ],
     "specialty": "バレエ",
     "circle": [
       "kitchen",
@@ -2197,6 +2498,13 @@
     "age": 18,
     "blood_type": "AB",
     "hobby": "睡眠",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "睡眠"
+      }
+    ],
     "specialty": "ピアノ",
     "circle": [
       "teaflavor",
@@ -2246,6 +2554,13 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "ショッピング",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "ショッピング"
+      }
+    ],
     "specialty": "暗記",
     "circle": [
       "dramatica",
@@ -2296,6 +2611,13 @@
     "age": 17,
     "blood_type": "AB",
     "hobby": "無趣味",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "無趣味"
+      }
+    ],
     "specialty": "指パッチン",
     "circle": [
       "dramatica",
@@ -2348,6 +2670,13 @@
     "age": 18,
     "blood_type": "O",
     "hobby": "風水、おまじない、占い",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "風水、おまじない、占い"
+      }
+    ],
     "specialty": "相手のサポート",
     "circle": [
       "archivebook",
@@ -2395,6 +2724,13 @@
     "age": 17,
     "blood_type": "B",
     "hobby": "音楽鑑賞、音ゲー",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "音楽鑑賞、音ゲー"
+      }
+    ],
     "specialty": "パルクール",
     "circle": [
       "asobi",
@@ -2447,6 +2783,13 @@
     "age": 19,
     "blood_type": "A",
     "hobby": "楽しいこと探し",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "楽しいこと探し"
+      }
+    ],
     "specialty": "派手なパフォーマンス",
     "circle": [
       "teakaori",
@@ -2492,6 +2835,13 @@
     "age": 31,
     "blood_type": "A",
     "hobby": "昼寝、お酒",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "昼寝、お酒"
+      }
+    ],
     "specialty": "テーピング",
     "quote": "老いぼれてから後悔しないように、限られた時間を有効活用しろよ",
     "tagline": "今は隠居の元スーパーアイドル",
@@ -2528,6 +2878,13 @@
     "age": 29,
     "blood_type": "A",
     "hobby": "音読",
+    "hobbies": [
+      {
+        "date": "2020-03-15T15:00:00+09:00",
+        "reason": "ES Year 1",
+        "value": "音読"
+      }
+    ],
     "specialty": "歌",
     "quote": "傍観者を気取ってないで、私もサポートに動いたほうが良いですかね",
     "tagline": "スパルタ指導の元アイドル",
@@ -2559,6 +2916,13 @@
     "age": 16,
     "blood_type": "B",
     "hobby": "新しいことへの挑戦",
+    "hobbies": [
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": "新しいことへの挑戦"
+      }
+    ],
     "specialty": "サバイバル術",
     "school": "夢ノ咲学院",
     "quote": "さぁ冒険を始めよう！！！！",
@@ -2595,6 +2959,13 @@
     "age": 15,
     "blood_type": "B",
     "hobby": "楽器演奏、作曲",
+    "hobbies": [
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": "楽器演奏、作曲"
+      }
+    ],
     "specialty": "自己流武術、ブレイクダンス",
     "quote": "にゃはは、吾のこういう勘は当たるのよ～？",
     "tagline": "胸に新風、吹き込むイブキ",
@@ -2630,6 +3001,13 @@
     "age": 12,
     "blood_type": "A",
     "hobby": "積み木、パズル",
+    "hobbies": [
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": "積み木、パズル"
+      }
+    ],
     "specialty": "計算",
     "quote": "——羨ましいです、その感性",
     "tagline": "オーダーしてもスマイルしません",
@@ -2665,6 +3043,13 @@
     "age": 14,
     "blood_type": "O",
     "hobby": "ピアノ",
+    "hobbies": [
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": "ピアノ"
+      }
+    ],
     "specialty": "コスプレ、家事全般",
     "quote": "そういう契約、取引、交換条件？それでお願いするの……♪",
     "tagline": "あなたもきっとユメの世界♪",
@@ -2700,6 +3085,13 @@
     "age": 14,
     "blood_type": "B",
     "hobby": "日向ぼっこ、ポエム",
+    "hobbies": [
+      {
+        "date": "2024-04-28T15:00:00+09:00",
+        "reason": "4Piece Debut",
+        "value": "日向ぼっこ、ポエム"
+      }
+    ],
     "specialty": "歌",
     "quote": "ありがとうごぜぇやす、ありがとうごぜぇやす♪",
     "tagline": "歌なら空を飛べる鳥！",
