@@ -2578,7 +2578,9 @@
     "first_name": "維吹",
     "last_nameRuby": "たき",
     "first_nameRuby": "いぶき",
-    "unit": [],
+    "unit": [
+      8
+    ],
     "character_voice": "小林千晃",
     "image_color": "#66bbcc",
     "height": 165,
