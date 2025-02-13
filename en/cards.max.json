@@ -22295,6 +22295,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3379,
+    "title": "Deft Monster",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3380,
+    "title": "Confident Monster",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3381,
+    "title": "Delicate Monster",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3382,
+    "title": "Art Monster",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3420,
     "title": "ES Idol 2",
     "name": "Tetora Nagumo",
