@@ -22321,25 +22321,86 @@
     "compliant": "TRUE",
     "id": 3379,
     "title": "Deft Monster",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Surprising Design"
+      },
+      "live": {
+        "name": "Creative Crafter"
+      },
+      "support": {
+        "name": "Needs and Negotiation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3380,
     "title": "Confident Monster",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Universal Stance"
+      },
+      "live": {
+        "name": "Meticulous Crafter"
+      },
+      "support": {
+        "name": "Sales Visits"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3381,
     "title": "Delicate Monster",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Budget Balance"
+      },
+      "live": {
+        "name": "Functional Crafter"
+      },
+      "support": {
+        "name": "CIRCLE Reporter"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3382,
     "title": "Art Monster",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Laborious Process"
+      },
+      "live": {
+        "name": "Aesthetic Crafter"
+      },
+      "support": {
+        "name": "Creation Space"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3383,
+    "title": "Luck-Trying Monster",
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Fun Style"
+      },
+      "live": {
+        "name": "Surprising Crafter"
+      },
+      "support": {
+        "name": "Team Sales"
+      }
+    }
   },
   {
     "compliant": "TRUE",
