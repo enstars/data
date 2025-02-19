@@ -5667,6 +5667,9 @@
     "compliant": "TRUE",
     "id": 253,
     "name": "瞬きSign☆",
+    "unit_id": [
+      101
+    ],
     "unit_name": "PIKAPIKA",
     "character_id": [
       [
@@ -5676,14 +5679,18 @@
         4
       ]
     ],
-    "color": "w",
+    "color": 1,
+    "difficulty": {
+      "easy": 7,
+      "normal": 13,
+      "hard": 22,
+      "expert": "27+"
+    },
     "lyric": "磯谷 佳江",
     "composition": "CHOKKAKU & 福岡 良太 & Tommy",
     "arrangement": "CHOKKAKU",
     "link": {
-      "youtube_3dmv": [
-        "https://youtu.be/vZFeqyFYX04"
-      ]
+      "youtube_3dmv": "https://youtu.be/vZFeqyFYX04"
     },
     "version": {
       "inst": "mktls-1439"
@@ -10552,6 +10559,124 @@
     "order": 249,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 289,
+    "name": "フュージョン",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "DI:Verse",
+    "character_id": [
+      [
+        25,
+        42,
+        24,
+        38,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 9,
+      "normal": 16,
+      "hard": 24,
+      "expert": 29,
+      "special": 106,
+      "special_charttype": [
+        5,
+        1
+      ]
+    },
+    "lyric": "DECO*27 (OTOIRO)",
+    "composition": "DECO*27 (OTOIRO)",
+    "arrangement": "tepe (OROTOIRO)",
+    "event_id": 318,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/ZMe5wM4LwwI",
+      "youtube_alt": [
+        "https://youtu.be/XVEkMhzHLTQ",
+        "https://youtu.be/Rys-vZSKlsg"
+      ]
+    },
+    "version": {
+      "inst": "mktls-1440"
+    },
+    "order": 250,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 291,
+    "name": "KING",
+    "unit_id": [
+      16
+    ],
+    "unit_name": "Crazy:B with 天馬 司 & 神代 類",
+    "character_id": [
+      [
+        71,
+        72,
+        73,
+        74
+      ]
+    ],
+    "color": 3,
+    "difficulty": {
+      "easy": 8,
+      "normal": 15,
+      "hard": 23,
+      "expert": 28
+    },
+    "lyric": "Kanaria",
+    "composition": "Kanaria",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/xVGIcugrDwY"
+    },
+    "order": 251,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 290,
+    "name": "フラジール",
+    "unit_id": [
+      15
+    ],
+    "unit_name": "ALKALOID with 東雲 彰人 & 青柳 冬弥",
+    "character_id": [
+      [
+        67,
+        68,
+        69,
+        70
+      ]
+    ],
+    "color": 1,
+    "difficulty": {
+      "easy": 5,
+      "normal": 12,
+      "hard": 21,
+      "expert": "27+"
+    },
+    "lyric": "ぬゆり",
+    "composition": "ぬゆり",
+    "arrangement": "ぬゆり",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/7CbbxM-UQzU"
+    },
+    "order": 252,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
     "limited": "FALSE"
   },
   {
@@ -26573,6 +26698,23 @@
     "version": {
       "full": [
         253
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1440",
+    "name": "フュージョン (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "DI:Verse",
+    "version": {
+      "full": [
+        289
       ]
     },
     "is_solo": "FALSE",
