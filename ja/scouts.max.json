@@ -9302,5 +9302,55 @@
       4282,
       4283
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 543,
+    "name": "talk to me／YOLO",
+    "start": {
+      "jp": "2025-02-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-03-10T12:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "talk to me",
+    "story_author": "-",
+    "story_season": "春",
+    "related_id": [
+      542
+    ],
+    "event_id": 319,
+    "banner_id": 4285,
+    "cards": [
+      4285,
+      4286,
+      4287
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 542,
+    "name": "talk to me／WYWH",
+    "start": {
+      "jp": "2025-02-27T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-03-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "talk to me",
+    "story_author": "-",
+    "story_season": "春",
+    "related_id": [
+      543
+    ],
+    "event_id": 319,
+    "banner_id": 4288,
+    "cards": [
+      4288,
+      4289,
+      4290
+    ]
   }
 ]
