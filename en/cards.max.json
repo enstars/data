@@ -22422,6 +22422,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3391,
+    "title": "Tantalizing Thoughts",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3392,
+    "title": "Inexperienced Thoughts",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3393,
+    "title": "Thoughts Flying Free",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3394,
+    "title": "Thoughts Kept in Mind",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3420,
     "title": "ES Idol 2",
     "name": "Tetora Nagumo",
@@ -23053,6 +23077,36 @@
         "name": "Sharing Desserts"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90035,
+    "title": "Flourishing Splendor",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90036,
+    "title": "Vibrant Splendor",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90037,
+    "title": "Balmy Splendor",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90038,
+    "title": "Harmonious Splendor",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90039,
+    "title": "Joyous Spring",
+    "name": "Hinata Aoi"
   },
   {
     "compliant": "TRUE",
