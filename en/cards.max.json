@@ -22422,6 +22422,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3387,
+    "title": "Machina's Creator",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3388,
+    "title": "Machina's Destroyer",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3389,
+    "title": "Machina's Magic",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3390,
+    "title": "Machina's Dream",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3391,
     "title": "Tantalizing Thoughts",
     "name": "Shinobu Sengoku"
