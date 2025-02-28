@@ -4870,7 +4870,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1018",
+    "id": 160,
     "name": {
       "alt": "パフォーマンス選抜曲「瞬きSign☆」",
       "raw": "あんさんぶるスターズ！！ パフォーマンス選抜曲「瞬きSign☆」"
@@ -4894,7 +4894,28 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1017",
+    "id": 161,
+    "name": {
+      "alt": "プロセカコラボ楽曲「フュージョン」",
+      "raw": "フュージョン"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "DI:Verse",
+    "release_Date": "2025-02-14T00:00:00+09:00",
+    "tracklist": [
+      [
+        289,
+        "mktls-1440"
+      ]
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 162,
     "name": {
       "alt": "IDOL SONG CD「Debut」Special for Princess!",
       "raw": "あんさんぶるスターズ！！IDOL SONG CD「Debut」Special for Princess!"
@@ -4915,6 +4936,8 @@
         "mktls-1326",
         "mktls-1327"
       ],
+      null,
+      null,
       [
         "mktls-1328",
         "mktls-1329",
@@ -4925,6 +4948,183 @@
         "mktls-1334",
         "mktls-1335"
       ]
+    ],
+    "link": [
+      "https://spri.lnk.to/DebutTS"
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1014",
+    "name": {
+      "alt": "追憶セレクション『エレメント』サウンドトラック",
+      "raw": "追憶セレクション『エレメント』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1342",
+        "mktls-1343",
+        "mktls-1344",
+        "mktls-1345",
+        "mktls-1346",
+        "mktls-1347",
+        "mktls-1348",
+        "mktls-1349",
+        "mktls-1350",
+        "mktls-1351",
+        "mktls-1352",
+        "mktls-1353",
+        "mktls-1354",
+        "mktls-1355",
+        "mktls-1356",
+        "mktls-1357",
+        "mktls-1358",
+        "mktls-1359",
+        "mktls-1360",
+        "mktls-1361",
+        "mktls-1362",
+        "mktls-1363",
+        "mktls-1364",
+        "mktls-1365",
+        "mktls-1366",
+        "mktls-1367",
+        "mktls-1368",
+        "mktls-1369",
+        "mktls-1370",
+        "mktls-1371",
+        "mktls-1372",
+        "mktls-1373",
+        "mktls-1374",
+        "mktls-1375",
+        "mktls-1376",
+        "mktls-1377",
+        "mktls-1378",
+        "mktls-1379"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1015",
+    "name": {
+      "alt": "追憶セレクション『クロスロード』サウンドトラック",
+      "raw": "追憶セレクション『クロスロード』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1380",
+        "mktls-1381",
+        "mktls-1382",
+        "mktls-1383",
+        "mktls-1384",
+        "mktls-1385",
+        "mktls-1386",
+        182,
+        "mktls-1387",
+        "mktls-1388",
+        "mktls-1389",
+        "mktls-1390",
+        "mktls-1391",
+        "mktls-1392",
+        "mktls-1393",
+        "mktls-1394",
+        "mktls-1395",
+        "mktls-1396",
+        "mktls-1397",
+        "mktls-1398",
+        "mktls-1399",
+        "mktls-1400",
+        "mktls-1401",
+        "mktls-1402",
+        "mktls-1403",
+        "mktls-1404",
+        "mktls-1405"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1016",
+    "name": {
+      "alt": "追憶セレクション『チェックメイト』サウンドトラック",
+      "raw": "追憶セレクション『チェックメイト』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1406",
+        "mktls-1407",
+        "mktls-1408",
+        "mktls-1409",
+        "mktls-1410",
+        "mktls-1320",
+        "mktls-1411",
+        "mktls-1412",
+        "mktls-1413",
+        "mktls-1414",
+        "mktls-1415",
+        "mktls-1416",
+        "mktls-1417",
+        "mktls-1418",
+        "mktls-1419",
+        "mktls-1420",
+        "mktls-1421",
+        "mktls-1422",
+        "mktls-1423",
+        "mktls-1424",
+        "mktls-1425",
+        "mktls-1426",
+        "mktls-1427",
+        "mktls-1428",
+        "mktls-1429",
+        "mktls-1430",
+        "mktls-1431",
+        "mktls-1432",
+        "mktls-1433",
+        "mktls-1434",
+        "mktls-1435",
+        "mktls-1436",
+        "mktls-1437"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 163,
+    "name": {
+      "alt": " 究極の9曲 「今日も推しが推しで尊い」",
+      "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「今日も推しが推しで尊い」"
+    },
+    "era": 2,
+    "volume": 9,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "白鳥 藍良（CV：天﨑 滉平）、真白 友也（CV：比留間 俊哉）【日々樹 渉（CV：江口 拓也）、衣更 真緒（CV：梶 裕貴）、深海 奏汰（CV：西山 宏太朗）、乱 凪砂（CV：諏訪部 順一）、斎宮 宗（CV：高橋 広樹）、葵 ひなた（CV：斉藤 壮馬）、桜河 こはく（CV：海渡 翼）、乙狩 アドニス（CV：羽多野 渉）、鬼龍 紅郎（CV：神尾 晋一郎）、月永 レオ（CV：浅沼 晋太郎）、青葉 つむぎ（CV：石川 界人）、三毛縞 斑（CV：鳥海 浩輔）、エス（CV：豊島 修平）】",
+    "release_Date": "2025-02-28T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-381",
+        "mktls-843"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/DAHOuR"
     ],
     "is_album": "FALSE"
   }

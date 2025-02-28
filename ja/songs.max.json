@@ -10601,7 +10601,8 @@
       "youtube_3dmv": "https://youtu.be/ZMe5wM4LwwI",
       "youtube_alt": [
         "https://youtu.be/XVEkMhzHLTQ",
-        "https://youtu.be/Rys-vZSKlsg"
+        "https://youtu.be/Rys-vZSKlsg",
+        "https://youtu.be/7vD87QI2WgM"
       ]
     },
     "version": {
@@ -10681,6 +10682,42 @@
   },
   {
     "compliant": "TRUE",
+    "id": 240,
+    "name": "Wish upon a MUSIC!!",
+    "unit_id": [
+      10
+    ],
+    "character_id": [
+      [
+        39,
+        38,
+        37
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 7,
+      "normal": 14,
+      "hard": 22,
+      "expert": "27+"
+    },
+    "lyric": "こだま さおり",
+    "composition": "Aira（Dream Monster）",
+    "arrangement": "Aira（Dream Monster）",
+    "event_id": 319,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/or6y0pd0iJY?si"
+    },
+    "version": {
+      "inst": "mktls-1441"
+    },
+    "order": 253,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 179,
     "name": "年越しあんさんぶる！！2023→2024",
     "unit_id": [
@@ -10720,6 +10757,9 @@
         100
       ]
     ],
+    "link": {
+      "youtube_3dmv": "https://youtu.be/Hx-E10UCIvg"
+    },
     "version": {
       "full": [
         243,
@@ -11057,6 +11097,41 @@
   },
   {
     "compliant": "TRUE",
+    "id": "mktls-381",
+    "name": "今日も推しが推しで尊い",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "白鳥 藍良（CV：天﨑 滉平）、真白 友也（CV：比留間 俊哉）【日々樹 渉（CV：江口 拓也）、衣更 真緒（CV：梶 裕貴）、深海 奏汰（CV：西山 宏太朗）、乱 凪砂（CV：諏訪部 順一）、斎宮 宗（CV：高橋 広樹）、葵 ひなた（CV：斉藤 壮馬）、桜河 こはく（CV：海渡 翼）、乙狩 アドニス（CV：羽多野 渉）、鬼龍 紅郎（CV：神尾 晋一郎）、月永 レオ（CV：浅沼 晋太郎）、青葉 つむぎ（CV：石川 界人）、三毛縞 斑（CV：鳥海 浩輔）、エス（CV：豊島 修平）】",
+    "character_id": [
+      [
+        68,
+        3,
+        27,
+        18,
+        28,
+        50,
+        35,
+        15,
+        26,
+        33,
+        39,
+        40,
+        81
+      ]
+    ],
+    "lyric": "こだま さおり",
+    "composition": "GAK-amazuti- & 安部 大希-amazuti-",
+    "arrangement": "GAK-amazuti-",
+    "version": {
+      "inst": "mktls-843"
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": "mktls-835",
     "name": "プリティのススメ♡（Instrumental）",
     "unit_id": [
@@ -11197,6 +11272,23 @@
     "version": {
       "full": [
         "mktls-380"
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-843",
+    "name": "今日も推しが推しで尊い (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "白鳥 藍良（CV：天﨑 滉平）、真白 友也（CV：比留間 俊哉）【日々樹 渉（CV：江口 拓也）、衣更 真緒（CV：梶 裕貴）、深海 奏汰（CV：西山 宏太朗）、乱 凪砂（CV：諏訪部 順一）、斎宮 宗（CV：高橋 広樹）、葵 ひなた（CV：斉藤 壮馬）、桜河 こはく（CV：海渡 翼）、乙狩 アドニス（CV：羽多野 渉）、鬼龍 紅郎（CV：神尾 晋一郎）、月永 レオ（CV：浅沼 晋太郎）、青葉 つむぎ（CV：石川 界人）、三毛縞 斑（CV：鳥海 浩輔）、エス（CV：豊島 修平）】",
+    "version": {
+      "full": [
+        "mktls-381"
       ]
     },
     "is_solo": "FALSE",
@@ -26420,6 +26512,9 @@
         85
       ]
     ],
+    "lyric": "こだま さおり",
+    "composition": "鶴﨑 輝一",
+    "arrangement": "鶴﨑 輝一",
     "version": {
       "inst": "mktls-1324"
     },
@@ -26500,6 +26595,9 @@
         81
       ]
     ],
+    "lyric": "こだま さおり",
+    "composition": "KoTa",
+    "arrangement": "KoTa",
     "version": {
       "inst": "mktls-1332"
     },
@@ -26516,6 +26614,9 @@
         83
       ]
     ],
+    "lyric": "松井 洋平",
+    "composition": "アオワイファイ",
+    "arrangement": "アオワイファイ",
     "version": {
       "inst": "mktls-1333"
     },
@@ -26532,6 +26633,9 @@
         84
       ]
     ],
+    "lyric": "こだま さおり",
+    "composition": "SHOW（Digz, Inc. Group）",
+    "arrangement": "SHOW（Digz, Inc. Group）",
     "version": {
       "inst": "mktls-1334"
     },
@@ -26548,6 +26652,9 @@
         85
       ]
     ],
+    "lyric": "松井 洋平",
+    "composition": "ひろせ P（YCM）",
+    "arrangement": "ひろせ P（YCM）",
     "version": {
       "inst": "mktls-1335"
     },
@@ -26715,6 +26822,22 @@
     "version": {
       "full": [
         289
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1441",
+    "name": "Wish upon a MUSIC!! (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        240
       ]
     },
     "is_solo": "FALSE",
