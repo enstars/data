@@ -376,6 +376,11 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 5000020,
+    "name": "Blessed Zephyr"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000023,
     "name": "Shards of Time: Black"
   },
