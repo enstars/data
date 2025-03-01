@@ -22297,25 +22297,69 @@
     "compliant": "TRUE",
     "id": 3375,
     "title": "The One with a Target",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Make Use of Love"
+      },
+      "live": {
+        "name": "Aiming for the Top"
+      },
+      "support": {
+        "name": "Night of Soliloquys"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3376,
     "title": "The One about Communication",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Troubled by Love"
+      },
+      "live": {
+        "name": "Passionate Lines"
+      },
+      "support": {
+        "name": "Bittersweet Manga"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3377,
     "title": "The One with Hidden Wishes",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Event of Love"
+      },
+      "live": {
+        "name": "Feelings inside Chocolate"
+      },
+      "support": {
+        "name": "A Change of Pace"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3378,
     "title": "The One about Love",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Exchange of Love"
+      },
+      "live": {
+        "name": "Valentine's Memory"
+      },
+      "support": {
+        "name": "Personal Request"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -22406,19 +22450,52 @@
     "compliant": "TRUE",
     "id": 3384,
     "title": "Unclouded Bearing",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Memories and Future"
+      },
+      "live": {
+        "name": "Treasured Moments on Film"
+      },
+      "support": {
+        "name": "A Star's Greeting"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3385,
     "title": "Tasty and Healthy",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Chicken Hotpot Party"
+      },
+      "live": {
+        "name": "Merits of Cooking"
+      },
+      "support": {
+        "name": "Effective Diet"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3386,
     "title": "OOC and True Self",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Interesting Inside And Out"
+      },
+      "live": {
+        "name": "Long Hair 101"
+      },
+      "support": {
+        "name": "Study and Focus"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -22448,25 +22525,69 @@
     "compliant": "TRUE",
     "id": 3391,
     "title": "Tantalizing Thoughts",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Blushing Request"
+      },
+      "live": {
+        "name": "Secrets to Flash"
+      },
+      "support": {
+        "name": "Thank You Bundle"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3392,
     "title": "Inexperienced Thoughts",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Blushing Order"
+      },
+      "live": {
+        "name": "Feelings of Flash"
+      },
+      "support": {
+        "name": "Nuance Adjustment"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3393,
     "title": "Thoughts Flying Free",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "The Blushing Moment"
+      },
+      "live": {
+        "name": "Flash Evangelist"
+      },
+      "support": {
+        "name": "Ultimate Assignment"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3394,
     "title": "Thoughts Kept in Mind",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Trick To Blushing"
+      },
+      "live": {
+        "name": "Flash Instructor"
+      },
+      "support": {
+        "name": "Journey To Mastery"
+      }
+    }
   },
   {
     "compliant": "TRUE",
