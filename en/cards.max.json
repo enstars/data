@@ -6515,7 +6515,7 @@
     "name": "Jun Sazanami",
     "skills": {
       "center": {
-        "name": "Enviable Positions"
+        "name": "Enviable Position"
       },
       "live": {
         "name": "Dish Distribution"
@@ -10804,7 +10804,7 @@
         "name": "New Participant"
       },
       "support": {
-        "name": "Demand from Chieftan"
+        "name": "Demand from Chieftain"
       }
     },
     "quote": {
@@ -11665,7 +11665,7 @@
     "name": "Yuzuru Fushimi",
     "skills": {
       "center": {
-        "name": "Hearfelt LOVE"
+        "name": "Heartfelt LOVE"
       },
       "live": {
         "name": "With Deep Love"
@@ -13865,7 +13865,7 @@
     "name": "Midori Takamine",
     "skills": {
       "center": {
-        "name": "Chimes of Emotions"
+        "name": "Chimes of Emotion"
       },
       "live": {
         "name": "To My Big Brother"
@@ -15572,7 +15572,7 @@
         "name": "Beloved OCTOBER"
       },
       "live": {
-        "name": "Renumerated Charm"
+        "name": "Remunerated Charm"
       },
       "support": {
         "name": "Hair's Breadth Away"
@@ -15702,7 +15702,7 @@
         "name": "Fight to Protect"
       },
       "live": {
-        "name": "My King, My Friend, And ..."
+        "name": "My King, My Friend, And..."
       },
       "support": {
         "name": "A Small Discovery"
@@ -19424,7 +19424,7 @@
     "name": "Keito Hasumi",
     "skills": {
       "center": {
-        "name": "Knowledgable Lecturer"
+        "name": "Knowledgeable Lecturer"
       },
       "live": {
         "name": "Outdoor Study Meet"
@@ -21603,13 +21603,13 @@
     "name": "Yuzuru Fushimi",
     "skills": {
       "center": {
-        "name": "Fiery Holy Night"
+        "name": "Youthful Holy Night"
       },
       "live": {
-        "name": "Live to the Fullest"
+        "name": "Live Warmth"
       },
       "support": {
-        "name": "As Your Senior"
+        "name": "Handmade Gift Ideas"
       }
     }
   },
@@ -21620,13 +21620,13 @@
     "name": "Subaru Akehoshi",
     "skills": {
       "center": {
-        "name": "Youthful Holy Night"
+        "name": "Fiery Holy Night"
       },
       "live": {
-        "name": "Live Warmth"
+        "name": "Live to the Fullest"
       },
       "support": {
-        "name": "Handmade Gift Ideas"
+        "name": "As Your Senior"
       }
     }
   },
@@ -22408,7 +22408,7 @@
         "name": "Functional Crafter"
       },
       "support": {
-        "name": "CIRCLE Reporter"
+        "name": "CIRCLE Report"
       }
     }
   },
@@ -22501,25 +22501,69 @@
     "compliant": "TRUE",
     "id": 3387,
     "title": "Machina's Creator",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Miraculous Popularity"
+      },
+      "live": {
+        "name": "Unknown Possibilities"
+      },
+      "support": {
+        "name": "A Novel Art"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3388,
     "title": "Machina's Destroyer",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Tempting Trap"
+      },
+      "live": {
+        "name": "Future Possibilities"
+      },
+      "support": {
+        "name": "Hammer Ship"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3389,
     "title": "Machina's Magic",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Response Analysis"
+      },
+      "live": {
+        "name": "System Possibilities"
+      },
+      "support": {
+        "name": "World Of Change"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3390,
     "title": "Machina's Dream",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Virtual Growth Spurt"
+      },
+      "live": {
+        "name": "Test Play Possibilities"
+      },
+      "support": {
+        "name": "New Function"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -23227,31 +23271,86 @@
     "compliant": "TRUE",
     "id": 90035,
     "title": "Flourishing Splendor",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Peaceful Spring"
+      },
+      "live": {
+        "name": "Breeze's Vision"
+      },
+      "support": {
+        "name": "Savor and Share"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90036,
     "title": "Vibrant Splendor",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Starry Spring"
+      },
+      "live": {
+        "name": "Radiant Allure"
+      },
+      "support": {
+        "name": "Moment Keeper"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90037,
     "title": "Balmy Splendor",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Pensive Spring"
+      },
+      "live": {
+        "name": "Compassionate Heart"
+      },
+      "support": {
+        "name": "Event Host"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90038,
     "title": "Harmonious Splendor",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Auspicious Spring"
+      },
+      "live": {
+        "name": "Caring Heart"
+      },
+      "support": {
+        "name": "Daily Observer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90039,
     "title": "Joyous Spring",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Lively Spring"
+      },
+      "live": {
+        "name": "Flickering Lanterns"
+      },
+      "support": {
+        "name": "Spring Seeker"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -23385,7 +23484,7 @@
         "name": "Reassuring Dreams"
       },
       "support": {
-        "name": "Special Apple Pie"
+        "name": "\"Special\" Apple Pie"
       }
     }
   },
