@@ -10718,6 +10718,39 @@
   },
   {
     "compliant": "TRUE",
+    "id": 318,
+    "name": "B100d Hunter",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        13,
+        69,
+        51,
+        71
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 9,
+      "normal": 15,
+      "hard": 24,
+      "expert": "29+"
+    },
+    "lyric": "DIVELA",
+    "composition": "DIVELA",
+    "arrangement": "矢鴇 つかさ（Arte Refact）",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/J4PdZSNwETs"
+    },
+    "order": 254,
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 179,
     "name": "年越しあんさんぶる！！2023→2024",
     "unit_id": [
@@ -10781,11 +10814,18 @@
         0
       ]
     ],
+    "singer_name": "白鲨JAWS",
     "difficulty": {
       "easy": 7,
       "normal": 13,
       "hard": 17,
       "expert": 23
+    },
+    "notes": {
+      "easy": 74,
+      "normal": 116,
+      "hard": 177,
+      "expert": 257
     },
     "lyric": "鱼麦扣",
     "composition": "鱼麦扣",
@@ -10806,6 +10846,7 @@
         0
       ]
     ],
+    "singer_name": "西瓜Kune",
     "difficulty": {
       "easy": 5,
       "normal": 14,
@@ -10828,6 +10869,7 @@
         0
       ]
     ],
+    "singer_name": "白鲨JAWS",
     "difficulty": {
       "easy": 8,
       "normal": 12,
@@ -10839,12 +10881,44 @@
         2
       ]
     },
+    "notes": {
+      "easy": 85,
+      "normal": 172,
+      "hard": 243,
+      "expert": 450,
+      "special": 516
+    },
     "lyric": "鱼麦扣",
     "composition": "鱼麦扣",
     "arrangement": "白鲨JAWS",
     "link": {
       "youtube_2dmv": "https://youtu.be/KUBqBkGrmso"
     },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 319,
+    "name": "Invitation",
+    "character_id": [
+      [
+        0
+      ]
+    ],
+    "singer_name": "ろん",
+    "color": 3,
+    "difficulty": {
+      "easy": 9,
+      "normal": 16,
+      "hard": 24,
+      "expert": "29+"
+    },
+    "lyric": "れるりり",
+    "composition": "れるりり",
+    "arrangement": "れるりり",
+    "order": 329,
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
     "limited": "TRUE"
