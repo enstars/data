@@ -4956,7 +4956,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": 163,
+    "id": 164,
     "name": {
       "alt": " 究極の9曲 「今日も推しが推しで尊い」",
       "raw": "あんさんぶるスターズ！！ バラエティソングシリーズ 究極の9曲 「今日も推しが推しで尊い」"
@@ -4976,6 +4976,30 @@
     ],
     "link": [
       "https://fwinc.lnk.to/DAHOuR"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 165,
+    "name": {
+      "alt": "ボーカル選抜曲「セツナDrops」",
+      "raw": "あんさんぶるスターズ！！ ボーカル選抜曲「セツナDrops」"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "TearS",
+    "release_Date": "2025-03-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        251,
+        "mktls-1442"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/L5OVqq"
     ],
     "is_album": "FALSE"
   },
