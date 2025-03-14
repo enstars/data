@@ -22637,19 +22637,52 @@
     "compliant": "TRUE",
     "id": 3395,
     "title": "Shine As You Are",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Natural Charm"
+      },
+      "live": {
+        "name": "Journey to Find Grown-ups"
+      },
+      "support": {
+        "name": "Pick-me-up Bread"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3396,
     "title": "Favorites",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Joyful Present"
+      },
+      "live": {
+        "name": "Casual Consideration"
+      },
+      "support": {
+        "name": "Emergency Care"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3397,
     "title": "A Shining Coin",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Sweet Surprise"
+      },
+      "live": {
+        "name": "Magical Reward"
+      },
+      "support": {
+        "name": "Gold Coin Appraisal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
