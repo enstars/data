@@ -9354,5 +9354,48 @@
       4289,
       4290
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 545,
+    "name": "フィーチャースカウト カンナ編",
+    "start": {
+      "jp": "2025-03-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-03-25T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "『懐かんな』",
+    "story_author": "-",
+    "story_season": "夏",
+    "event_id": 320,
+    "banner_id": 4298,
+    "cards": [
+      4298,
+      4299,
+      4300
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 544,
+    "name": "Ha/Lo",
+    "start": {
+      "jp": "2025-03-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-03-30T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "堕天使の晩餐会",
+    "story_author": "-",
+    "story_season": "夏",
+    "event_id": 320,
+    "banner_id": 4304,
+    "cards": [
+      4304,
+      4305
+    ]
   }
 ]
