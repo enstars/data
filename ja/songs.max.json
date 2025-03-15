@@ -10736,7 +10736,12 @@
       "easy": 9,
       "normal": 15,
       "hard": 24,
-      "expert": "29+"
+      "expert": "29+",
+      "special": 105,
+      "special_charttype": [
+        5,
+        3
+      ]
     },
     "lyric": "DIVELA",
     "composition": "DIVELA",
@@ -10837,6 +10842,47 @@
       "inst": "mktls-1441"
     },
     "order": 257,
+    "is_solo": "FALSE",
+    "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 256,
+    "name": "堕天使たちの晩餐会",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Ha/Lo",
+    "character_id": [
+      [
+        7,
+        10,
+        3,
+        84
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 7,
+      "normal": 13,
+      "hard": 21,
+      "expert": 27
+    },
+    "notes": {
+      "expert": 667
+    },
+    "lyric": "松井 洋平",
+    "composition": "毛蟹（LIVE LAB.）",
+    "arrangement": "小松 一也",
+    "event_id": 320,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/9Hhp0-eTGeU"
+    },
+    "version": {
+      "inst": "mktls-1443"
+    },
+    "order": 258,
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
     "limited": "FALSE"
@@ -26996,6 +27042,19 @@
     "version": {
       "full": [
         251
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1443",
+    "name": "堕天使たちの晩餐会 (Instrumental)",
+    "version": {
+      "full": [
+        256
       ]
     },
     "is_solo": "FALSE",

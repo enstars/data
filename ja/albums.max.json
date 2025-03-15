@@ -4141,12 +4141,13 @@
     "id": 132,
     "name": {
       "alt": "シャッフルユニットソング「Ringing evil phone」",
-      "raw": "シャッフルユニットソング「Ringing evil phone」"
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソング EVIL NUM+「Ringing evil phone」"
     },
     "era": 2,
     "unit_id": [
       101
     ],
+    "unit_name": "EVIL NUM+",
     "release_Date": "2024-04-27T00:00:00+09:00",
     "tracklist": [
       [
@@ -4332,12 +4333,13 @@
     "id": 138,
     "name": {
       "alt": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」",
-      "raw": "シャッフルユニットソング「喪失寓意 -LOST BALLADE-」"
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソング M∀N∀「喪失寓意 -LOST BALLADE-」"
     },
     "era": 2,
     "unit_id": [
       101
     ],
+    "unit_name": "M∀N∀",
     "release_Date": "2024-07-29T00:00:00+09:00",
     "tracklist": [
       [
@@ -4956,6 +4958,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 163,
+    "name": {
+      "alt": "Switch「Wish upon a MUSIC!!」",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 Switch「Wish upon a MUSIC!!」"
+    },
+    "era": 2,
+    "volume": 13,
+    "unit_id": [
+      10
+    ],
+    "release_Date": "2025-02-27T00:00:00+09:00",
+    "tracklist": [
+      [
+        240,
+        "mktls-1441"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/lUQxrU"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 164,
     "name": {
       "alt": " 究極の9曲 「今日も推しが推しで尊い」",
@@ -5000,6 +5026,29 @@
     ],
     "link": [
       "https://fwinc.lnk.to/L5OVqq"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 166,
+    "name": {
+      "alt": "シャッフルユニットソング「堕天使たちの晩餐会」",
+      "raw": "あんさんぶるスターズ！！ シャッフルユニットソング Ha/Lo「堕天使たちの晩餐会」"
+    },
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Ha/Lo",
+    "release_Date": "2025-03-12T00:00:00+09:00",
+    "tracklist": [
+      [
+        256,
+        "mktls-1443"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/AjueL3"
     ],
     "is_album": "FALSE"
   },
