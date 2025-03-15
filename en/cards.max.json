@@ -22686,33 +22686,136 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3398,
+    "title": "Passions Beyond Dreams",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3399,
+    "title": "Brilliance Beyond Dreams",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3400,
+    "title": "Insights Beyond Dreams",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3401,
+    "title": "Trust Beyond Dreams",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3402,
+    "title": "Strength Beyond Dreams",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3403,
+    "title": "Life Beyond Dreams",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3404,
+    "title": "Happiness Beyond Dreams",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3405,
+    "title": "Magic Beyond Dreams",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3406,
     "title": "Onward with Shining Friends",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "With Loyalty"
+      },
+      "live": {
+        "name": "Perch by the Side"
+      },
+      "support": {
+        "name": "Skilled Negotiator"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3407,
     "title": "Onward to Ideals",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "With Rebellious Spirit"
+      },
+      "live": {
+        "name": "Contribution to the Successor"
+      },
+      "support": {
+        "name": "Carefree Way of Life"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3408,
     "title": "Onward from the Shadows",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "With the School"
+      },
+      "live": {
+        "name": "Unforseen Consideration"
+      },
+      "support": {
+        "name": "After School Routine"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3409,
     "title": "Onward Gently",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "With Hesitation"
+      },
+      "live": {
+        "name": "Taking a Step"
+      },
+      "support": {
+        "name": "Accustomed To the Eccentric"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3410,
     "title": "Onward in Grace",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "With Burning Light"
+      },
+      "live": {
+        "name": "Polished Confidence"
+      },
+      "support": {
+        "name": "Rare Motivation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
