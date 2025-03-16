@@ -22688,49 +22688,137 @@
     "compliant": "TRUE",
     "id": 3398,
     "title": "Passions Beyond Dreams",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Future Standing with You"
+      },
+      "live": {
+        "name": "Greater Transformation"
+      },
+      "support": {
+        "name": "Open Bird Cage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3399,
     "title": "Brilliance Beyond Dreams",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Journey I Walk with You"
+      },
+      "live": {
+        "name": "Vow Of an Idol"
+      },
+      "support": {
+        "name": "Tree that Blooms with Stars"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3400,
     "title": "Insights Beyond Dreams",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Days I Spend with You"
+      },
+      "live": {
+        "name": "Satisfying Smile"
+      },
+      "support": {
+        "name": "Tennis Club Tradition"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3401,
     "title": "Trust Beyond Dreams",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Where I Equal You"
+      },
+      "live": {
+        "name": "Outstanding Leadership"
+      },
+      "support": {
+        "name": "Proof Passed On"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3402,
     "title": "Strength Beyond Dreams",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "The World I Know with You"
+      },
+      "live": {
+        "name": "Bonds with My Friends"
+      },
+      "support": {
+        "name": "Pre-graduation Showdown"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3403,
     "title": "Life Beyond Dreams",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Scenery I Watch with You"
+      },
+      "live": {
+        "name": "My Path from Here"
+      },
+      "support": {
+        "name": "Interview Survey"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3404,
     "title": "Happiness Beyond Dreams",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Music I Listen To with You"
+      },
+      "live": {
+        "name": "Sunny Stage in the Shadows"
+      },
+      "support": {
+        "name": "Daytime Repayment"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3405,
     "title": "Magic Beyond Dreams",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Stories I Weave with You"
+      },
+      "live": {
+        "name": "Star that Knows its Way"
+      },
+      "support": {
+        "name": "Magician's Guide"
+      }
+    }
   },
   {
     "compliant": "TRUE",
