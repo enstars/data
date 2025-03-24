@@ -5404,7 +5404,8 @@
       "easy": 9,
       "normal": 15,
       "hard": 23,
-      "expert": 28
+      "expert": 28,
+      "special_charttype": " "
     },
     "duration": {
       "game": 149,
@@ -5742,7 +5743,7 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1323",
+    "id": 232,
     "name": "Be My Princess♡",
     "unit_id": [
       18
