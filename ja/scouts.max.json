@@ -9397,5 +9397,26 @@
       4304,
       4305
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 547,
+    "name": "unsafe／Maillard",
+    "start": {
+      "jp": "2025-03-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-04-10T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "unsafe",
+    "story_author": "-",
+    "event_id": 321,
+    "banner_id": 4306,
+    "cards": [
+      4306,
+      4307,
+      4308
+    ]
   }
 ]
