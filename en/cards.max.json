@@ -22909,19 +22909,52 @@
     "compliant": "TRUE",
     "id": 3411,
     "title": "Bouquet of Pure Tones",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Request Concert"
+      },
+      "live": {
+        "name": "Exciting Flowers"
+      },
+      "support": {
+        "name": "Aftertaste of Joy"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3412,
     "title": "English Time",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Thoughts Beyond Words"
+      },
+      "live": {
+        "name": "Explanation and Decoding"
+      },
+      "support": {
+        "name": "Stunt Show Time"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3413,
     "title": "Pretty Activities",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Place I Want To Take You"
+      },
+      "live": {
+        "name": "Classmate's Information"
+      },
+      "support": {
+        "name": "Exceptional Croquettes"
+      }
+    }
   },
   {
     "compliant": "TRUE",
