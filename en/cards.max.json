@@ -23043,6 +23043,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3430,
+    "title": "Scorpio the Fiend",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3431,
+    "title": "Scorpio's Nemesis",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3432,
+    "title": "Scorpio's Predator",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3433,
+    "title": "Scorpio's Henchman",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
@@ -25000,6 +25024,12 @@
         "name": "Opalescent Crescendo"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97007,
+    "title": "Spirit in Everything",
+    "name": "Adonis Otogari"
   },
   {
     "compliant": "TRUE",
