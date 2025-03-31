@@ -10930,6 +10930,43 @@
   },
   {
     "compliant": "TRUE",
+    "id": 241,
+    "name": "円環のRefraction",
+    "unit_id": [
+      14
+    ],
+    "character_id": [
+      [
+        51,
+        50,
+        41,
+        42
+      ]
+    ],
+    "color": 2,
+    "difficulty": {
+      "easy": 8,
+      "normal": 14,
+      "hard": 23,
+      "expert": 27
+    },
+    "lyric": "こだま さおり",
+    "composition": "めんま",
+    "arrangement": "めんま",
+    "event_id": 321,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/5Gkj5aoZYrc"
+    },
+    "version": {
+      "inst": "mktls-1444"
+    },
+    "order": 260,
+    "is_solo": "FALSE",
+    "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 179,
     "name": "年越しあんさんぶる！！2023→2024",
     "unit_id": [
@@ -27068,9 +27105,28 @@
     "compliant": "TRUE",
     "id": "mktls-1443",
     "name": "堕天使たちの晩餐会 (Instrumental)",
+    "unit_id": [
+      101
+    ],
     "version": {
       "full": [
         256
+      ]
+    },
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1444",
+    "name": "円環のRefraction (Instrumental)",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        241
       ]
     },
     "is_solo": "FALSE",

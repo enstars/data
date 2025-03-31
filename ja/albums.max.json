@@ -4809,6 +4809,9 @@
       "raw": "あんさんぶるスターズ！！ 滝 維吹 「Longing Identity」"
     },
     "era": 2,
+    "unit_id": [
+      101
+    ],
     "release_Date": "2025-01-21T00:00:00+09:00",
     "tracklist": [
       [
@@ -4820,6 +4823,155 @@
       "https://fwinc.lnk.to/21P9gY"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1014",
+    "name": {
+      "alt": "追憶セレクション『エレメント』サウンドトラック",
+      "raw": "追憶セレクション『エレメント』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1342",
+        "mktls-1343",
+        "mktls-1344",
+        "mktls-1345",
+        "mktls-1346",
+        "mktls-1347",
+        "mktls-1348",
+        "mktls-1349",
+        "mktls-1350",
+        "mktls-1351",
+        "mktls-1352",
+        "mktls-1353",
+        "mktls-1354",
+        "mktls-1355",
+        "mktls-1356",
+        "mktls-1357",
+        "mktls-1358",
+        "mktls-1359",
+        "mktls-1360",
+        "mktls-1361",
+        "mktls-1362",
+        "mktls-1363",
+        "mktls-1364",
+        "mktls-1365",
+        "mktls-1366",
+        "mktls-1367",
+        "mktls-1368",
+        "mktls-1369",
+        "mktls-1370",
+        "mktls-1371",
+        "mktls-1372",
+        "mktls-1373",
+        "mktls-1374",
+        "mktls-1375",
+        "mktls-1376",
+        "mktls-1377",
+        "mktls-1378",
+        "mktls-1379"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1015",
+    "name": {
+      "alt": "追憶セレクション『クロスロード』サウンドトラック",
+      "raw": "追憶セレクション『クロスロード』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1380",
+        "mktls-1381",
+        "mktls-1382",
+        "mktls-1383",
+        "mktls-1384",
+        "mktls-1385",
+        "mktls-1386",
+        182,
+        "mktls-1387",
+        "mktls-1388",
+        "mktls-1389",
+        "mktls-1390",
+        "mktls-1391",
+        "mktls-1392",
+        "mktls-1393",
+        "mktls-1394",
+        "mktls-1395",
+        "mktls-1396",
+        "mktls-1397",
+        "mktls-1398",
+        "mktls-1399",
+        "mktls-1400",
+        "mktls-1401",
+        "mktls-1402",
+        "mktls-1403",
+        "mktls-1404",
+        "mktls-1405"
+      ]
+    ],
+    "is_album": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1016",
+    "name": {
+      "alt": "追憶セレクション『チェックメイト』サウンドトラック",
+      "raw": "追憶セレクション『チェックメイト』サウンドトラック"
+    },
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-01-22T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1406",
+        "mktls-1407",
+        "mktls-1408",
+        "mktls-1409",
+        "mktls-1410",
+        "mktls-1320",
+        "mktls-1411",
+        "mktls-1412",
+        "mktls-1413",
+        "mktls-1414",
+        "mktls-1415",
+        "mktls-1416",
+        "mktls-1417",
+        "mktls-1418",
+        "mktls-1419",
+        "mktls-1420",
+        "mktls-1421",
+        "mktls-1422",
+        "mktls-1423",
+        "mktls-1424",
+        "mktls-1425",
+        "mktls-1426",
+        "mktls-1427",
+        "mktls-1428",
+        "mktls-1429",
+        "mktls-1430",
+        "mktls-1431",
+        "mktls-1432",
+        "mktls-1433",
+        "mktls-1434",
+        "mktls-1435",
+        "mktls-1436",
+        "mktls-1437"
+      ]
+    ],
+    "is_album": "TRUE"
   },
   {
     "compliant": "TRUE",
@@ -5036,6 +5188,7 @@
       "alt": "シャッフルユニットソング「堕天使たちの晩餐会」",
       "raw": "あんさんぶるスターズ！！ シャッフルユニットソング Ha/Lo「堕天使たちの晩餐会」"
     },
+    "era": 2,
     "unit_id": [
       101
     ],
@@ -5054,151 +5207,26 @@
   },
   {
     "compliant": "TRUE",
-    "id": "mktls-1014",
+    "id": 167,
     "name": {
-      "alt": "追憶セレクション『エレメント』サウンドトラック",
-      "raw": "追憶セレクション『エレメント』サウンドトラック"
+      "alt": "Eden「円環のRefraction」",
+      "raw": "あんさんぶるスターズ！！ ESアイドルソング season5 Eden「円環のRefraction」"
     },
+    "era": 2,
+    "volume": 14,
     "unit_id": [
-      101
+      14
     ],
-    "release_Date": "2025-01-22T00:00:00+09:00",
+    "release_Date": "2025-03-28T00:00:00+09:00",
     "tracklist": [
       [
-        "mktls-1342",
-        "mktls-1343",
-        "mktls-1344",
-        "mktls-1345",
-        "mktls-1346",
-        "mktls-1347",
-        "mktls-1348",
-        "mktls-1349",
-        "mktls-1350",
-        "mktls-1351",
-        "mktls-1352",
-        "mktls-1353",
-        "mktls-1354",
-        "mktls-1355",
-        "mktls-1356",
-        "mktls-1357",
-        "mktls-1358",
-        "mktls-1359",
-        "mktls-1360",
-        "mktls-1361",
-        "mktls-1362",
-        "mktls-1363",
-        "mktls-1364",
-        "mktls-1365",
-        "mktls-1366",
-        "mktls-1367",
-        "mktls-1368",
-        "mktls-1369",
-        "mktls-1370",
-        "mktls-1371",
-        "mktls-1372",
-        "mktls-1373",
-        "mktls-1374",
-        "mktls-1375",
-        "mktls-1376",
-        "mktls-1377",
-        "mktls-1378",
-        "mktls-1379"
+        241,
+        "mktls-1444"
       ]
     ],
-    "is_album": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1015",
-    "name": {
-      "alt": "追憶セレクション『クロスロード』サウンドトラック",
-      "raw": "追憶セレクション『クロスロード』サウンドトラック"
-    },
-    "unit_id": [
-      101
+    "link": [
+      "https://fwinc.lnk.to/3egZXL"
     ],
-    "release_Date": "2025-01-22T00:00:00+09:00",
-    "tracklist": [
-      [
-        "mktls-1380",
-        "mktls-1381",
-        "mktls-1382",
-        "mktls-1383",
-        "mktls-1384",
-        "mktls-1385",
-        "mktls-1386",
-        182,
-        "mktls-1387",
-        "mktls-1388",
-        "mktls-1389",
-        "mktls-1390",
-        "mktls-1391",
-        "mktls-1392",
-        "mktls-1393",
-        "mktls-1394",
-        "mktls-1395",
-        "mktls-1396",
-        "mktls-1397",
-        "mktls-1398",
-        "mktls-1399",
-        "mktls-1400",
-        "mktls-1401",
-        "mktls-1402",
-        "mktls-1403",
-        "mktls-1404",
-        "mktls-1405"
-      ]
-    ],
-    "is_album": "TRUE"
-  },
-  {
-    "compliant": "TRUE",
-    "id": "mktls-1016",
-    "name": {
-      "alt": "追憶セレクション『チェックメイト』サウンドトラック",
-      "raw": "追憶セレクション『チェックメイト』サウンドトラック"
-    },
-    "unit_id": [
-      101
-    ],
-    "release_Date": "2025-01-22T00:00:00+09:00",
-    "tracklist": [
-      [
-        "mktls-1406",
-        "mktls-1407",
-        "mktls-1408",
-        "mktls-1409",
-        "mktls-1410",
-        "mktls-1320",
-        "mktls-1411",
-        "mktls-1412",
-        "mktls-1413",
-        "mktls-1414",
-        "mktls-1415",
-        "mktls-1416",
-        "mktls-1417",
-        "mktls-1418",
-        "mktls-1419",
-        "mktls-1420",
-        "mktls-1421",
-        "mktls-1422",
-        "mktls-1423",
-        "mktls-1424",
-        "mktls-1425",
-        "mktls-1426",
-        "mktls-1427",
-        "mktls-1428",
-        "mktls-1429",
-        "mktls-1430",
-        "mktls-1431",
-        "mktls-1432",
-        "mktls-1433",
-        "mktls-1434",
-        "mktls-1435",
-        "mktls-1436",
-        "mktls-1437"
-      ]
-    ],
-    "is_album": "TRUE"
+    "is_album": "FALSE"
   }
 ]
