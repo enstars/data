@@ -23045,49 +23045,137 @@
     "compliant": "TRUE",
     "id": 3426,
     "title": "Challenging Big Ocean",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Heartfelt Gratitude"
+      },
+      "live": {
+        "name": "Duration of Twinship"
+      },
+      "support": {
+        "name": "Unchanging Pace"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3427,
     "title": "Beyond Big Ocean",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Gratitude Expressed Together"
+      },
+      "live": {
+        "name": "Connected Journeys"
+      },
+      "support": {
+        "name": "Walls Have Ears"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3428,
     "title": "Navigating Big Ocean",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Sharing Gratitude with Friends"
+      },
+      "live": {
+        "name": "Automatic Lie"
+      },
+      "support": {
+        "name": "Spicy Shock"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3429,
     "title": "Diving into Big Ocean",
-    "name": "Koga Oogami"
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Accepting Gratitude"
+      },
+      "live": {
+        "name": "In Lieu of a Challenge"
+      },
+      "support": {
+        "name": "Revealing My Heart"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3430,
     "title": "Scorpio the Fiend",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Immoral Villain"
+      },
+      "live": {
+        "name": "Non-lethal Poison"
+      },
+      "support": {
+        "name": "Perfect Villain"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3431,
     "title": "Scorpio's Nemesis",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Ultimate Rabbit Shot"
+      },
+      "live": {
+        "name": "Undiscovered Poison"
+      },
+      "support": {
+        "name": "Smooth Improvisation"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3432,
     "title": "Scorpio's Predator",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Hero Running Late"
+      },
+      "live": {
+        "name": "Slow-Acting Poison"
+      },
+      "support": {
+        "name": "Hero Show Master"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3433,
     "title": "Scorpio's Henchman",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Summoned Spade"
+      },
+      "live": {
+        "name": "Harmless Poison"
+      },
+      "support": {
+        "name": "Story of Helping"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -25053,7 +25141,18 @@
     "compliant": "TRUE",
     "id": 97007,
     "title": "Spirit in Everything",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Nature's Blessing"
+      },
+      "live": {
+        "name": "Balance & Harmony"
+      },
+      "support": {
+        "name": "Thus Spake the Oak Sage"
+      }
+    }
   },
   {
     "compliant": "TRUE",
