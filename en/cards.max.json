@@ -23179,6 +23179,24 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3434,
+    "title": "A Hearty Dish",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3435,
+    "title": "Bitter Compliments",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3436,
+    "title": "A Man's Promise",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
