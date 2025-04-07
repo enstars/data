@@ -10812,6 +10812,11 @@
       "hard": 24,
       "expert": "29+"
     },
+    "notes": {
+      "easy": 201,
+      "normal": 345,
+      "hard": 608
+    },
     "lyric": "れるりり",
     "composition": "れるりり",
     "arrangement": "れるりり",
@@ -10839,6 +10844,11 @@
       "normal": 16,
       "hard": 25,
       "expert": 30
+    },
+    "notes": {
+      "easy": 254,
+      "normal": 436,
+      "hard": 677
     },
     "lyric": "Rute",
     "composition": "ELEMENTAS",
@@ -10949,6 +10959,12 @@
       "normal": 14,
       "hard": 23,
       "expert": 27
+    },
+    "notes": {
+      "easy": 163,
+      "normal": 260,
+      "hard": 489,
+      "expert": 714
     },
     "lyric": "こだま さおり",
     "composition": "めんま",
