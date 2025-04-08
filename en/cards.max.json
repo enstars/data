@@ -23181,19 +23181,52 @@
     "compliant": "TRUE",
     "id": 3434,
     "title": "A Hearty Dish",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Free Time Exploration"
+      },
+      "live": {
+        "name": "Cooking and Me"
+      },
+      "support": {
+        "name": "A Bite to Share"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3435,
     "title": "Bitter Compliments",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Honest Thoughts"
+      },
+      "live": {
+        "name": "Simple Question"
+      },
+      "support": {
+        "name": "Natural Overlook"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3436,
     "title": "A Man's Promise",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Trusty Fingertips"
+      },
+      "live": {
+        "name": "Someone Who Can Sew"
+      },
+      "support": {
+        "name": "Secret Handbag"
+      }
+    }
   },
   {
     "compliant": "TRUE",
