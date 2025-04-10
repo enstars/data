@@ -23230,6 +23230,30 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3442,
+    "title": "Eccentric Casting",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3443,
+    "title": "Eccentric Duty",
+    "name": "Tsumugi Aoba"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3444,
+    "title": "Eccentric Script",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3445,
+    "title": "Eccentric Event",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3620,
     "title": "Elite Trainer",
     "name": "Ibara Saegusa",
