@@ -23231,7 +23231,7 @@
   {
     "compliant": "TRUE",
     "id": 3437,
-    "title": "Origin of the Wish",
+    "title": "Origin of Wish",
     "name": "Rei Sakuma"
   },
   {
@@ -23262,25 +23262,69 @@
     "compliant": "TRUE",
     "id": 3442,
     "title": "Eccentric Casting",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "The Story I End"
+      },
+      "live": {
+        "name": "Night to Remember"
+      },
+      "support": {
+        "name": "Plan I Hold in My Heart"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3443,
     "title": "Eccentric Duty",
-    "name": "Tsumugi Aoba"
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Past I Tried to End"
+      },
+      "live": {
+        "name": "Eyes on The Stars"
+      },
+      "support": {
+        "name": "Unintentional Feelings"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3444,
     "title": "Eccentric Script",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "The Ended Movement"
+      },
+      "live": {
+        "name": "Free-spirited Frolic"
+      },
+      "support": {
+        "name": "Hospital Room Storyteller"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3445,
     "title": "Eccentric Event",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Never-ending Friendship"
+      },
+      "live": {
+        "name": "Sound of The Dawn Bell"
+      },
+      "support": {
+        "name": "Shopping Hiyori"
+      }
+    }
   },
   {
     "compliant": "TRUE",
