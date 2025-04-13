@@ -23232,31 +23232,86 @@
     "compliant": "TRUE",
     "id": 3437,
     "title": "Origin of Wish",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Changing World"
+      },
+      "live": {
+        "name": "Commanding Sky"
+      },
+      "support": {
+        "name": "Stimulating Boredom Relief"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3438,
     "title": "Origin of the Story",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Changing Values"
+      },
+      "live": {
+        "name": "Overlooking Sky"
+      },
+      "support": {
+        "name": "Feathers in the Void"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3439,
     "title": "Origin of Change",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Changing Fate"
+      },
+      "live": {
+        "name": "Connected Sky"
+      },
+      "support": {
+        "name": "Whimsical Change"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3440,
     "title": "Origin of Creation",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Changing Meeting"
+      },
+      "live": {
+        "name": "Intersecting Sky"
+      },
+      "support": {
+        "name": "Sacred Room"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3441,
     "title": "Origin of Mastery",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Changing Stage"
+      },
+      "live": {
+        "name": "Sky I Can Touch"
+      },
+      "support": {
+        "name": "Dance of Joy"
+      }
+    }
   },
   {
     "compliant": "TRUE",
