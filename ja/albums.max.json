@@ -5228,5 +5228,29 @@
       "https://fwinc.lnk.to/3egZXL"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 168,
+    "name": {
+      "alt": "ダンス選抜曲「LOCK YOUR GAZE」",
+      "raw": "あんさんぶるスターズ！！ ダンス選抜曲「LOCK YOUR GAZE」"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "MODE/D",
+    "release_Date": "2025-04-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        252,
+        "mktls-1445"
+      ]
+    ],
+    "link": [
+      "https://fwinc.lnk.to/JmRYz9"
+    ],
+    "is_album": "FALSE"
   }
 ]
