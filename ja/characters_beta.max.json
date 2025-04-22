@@ -4132,6 +4132,10 @@
           "date": "2020-03-15T15:00:00+09:00",
           "reason": "ES Year 1",
           "value": "character_full1_73"
+        },
+        {
+          "date": "2020-08-08T21:59:59+09:00",
+          "reason": "Double Face Debut"
         }
       ],
       "fs1_5": 2874,
@@ -6742,6 +6746,11 @@
           "date": "2020-03-15T15:00:00+09:00",
           "reason": "ES Year 1",
           "value": "character_full1_38"
+        },
+        {
+          "date": "2025-02-28T15:00:00+09:00",
+          "reason": "Wish",
+          "value": "character_full1_38 New"
         }
       ],
       "fs1_5": 2782,
@@ -6884,6 +6893,11 @@
           "date": "2020-03-15T15:00:00+09:00",
           "reason": "ES Year 1",
           "value": "character_full1_39"
+        },
+        {
+          "date": "2025-02-28T15:00:00+09:00",
+          "reason": "Wish",
+          "value": "character_full1_39 New"
         }
       ],
       "fs1_5": 2610,
@@ -7030,6 +7044,11 @@
           "date": "2020-03-15T15:00:00+09:00",
           "reason": "ES Year 1",
           "value": "character_full1_37"
+        },
+        {
+          "date": "2025-02-28T15:00:00+09:00",
+          "reason": "Wish",
+          "value": "character_full1_37 New"
         }
       ],
       "fs1_5": 2832,
@@ -7181,6 +7200,10 @@
           "date": "2020-03-15T15:00:00+09:00",
           "reason": "ES Year 1",
           "value": "character_full1_40"
+        },
+        {
+          "date": "2020-08-08T21:59:59+09:00",
+          "reason": "Double Face Debut"
         }
       ],
       "fs1_5": 2678,
