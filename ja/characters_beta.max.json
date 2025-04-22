@@ -4163,7 +4163,8 @@
         },
         {
           "date": "2020-08-08T21:59:59+09:00",
-          "reason": "Double Face Debut"
+          "reason": "Double Face Debut",
+          "value": "character_full1_73_sp"
         }
       ],
       "fs1_5": 2874,
@@ -7252,7 +7253,8 @@
         },
         {
           "date": "2020-08-08T21:59:59+09:00",
-          "reason": "Double Face Debut"
+          "reason": "Double Face Debut",
+          "value": "character_full1_40_sp"
         }
       ],
       "fs1_5": 2678,
