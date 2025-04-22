@@ -2540,9 +2540,7 @@
     "sort_id": 51,
     "first_name": "エス",
     "first_nameRuby": "えす",
-    "unit": [
-      18
-    ],
+    "unit": [],
     "character_voice": "豊島修平",
     "image_color": "#80fff4",
     "height": 160,
@@ -2578,9 +2576,7 @@
     "first_name": "維吹",
     "last_nameRuby": "たき",
     "first_nameRuby": "いぶき",
-    "unit": [
-      8
-    ],
+    "unit": [],
     "character_voice": "小林千晃",
     "image_color": "#66bbcc",
     "height": 165,
@@ -2613,9 +2609,7 @@
     "sort_id": 52,
     "first_name": "カンナ",
     "first_nameRuby": "かんな",
-    "unit": [
-      18
-    ],
+    "unit": [],
     "character_voice": "榊原優希",
     "image_color": "#b9ccb8",
     "height": 163,
@@ -2648,9 +2642,7 @@
     "sort_id": 53,
     "first_name": "ユメ",
     "first_nameRuby": "ゆめ",
-    "unit": [
-      18
-    ],
+    "unit": [],
     "character_voice": "草野太一",
     "image_color": "#ccadd9",
     "height": 156,
@@ -2683,9 +2675,7 @@
     "sort_id": 54,
     "first_name": "ライカ",
     "first_nameRuby": "らいか",
-    "unit": [
-      18
-    ],
+    "unit": [],
     "character_voice": "照井悠希",
     "image_color": "#298c7e",
     "height": 158,
