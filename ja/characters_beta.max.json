@@ -10,6 +10,14 @@
     "unit": [
       2
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          2
+        ]
+      }
+    ],
     "character_voice": "緑川光",
     "image_color": "#fff3b8",
     "height": 179,
@@ -153,6 +161,14 @@
     "unit": [
       2
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          2
+        ]
+      }
+    ],
     "character_voice": "江口拓也",
     "image_color": "#a1d8e2",
     "height": 180,
@@ -295,6 +311,14 @@
     "unit": [
       2
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          2
+        ]
+      }
+    ],
     "character_voice": "村瀬歩",
     "image_color": "#f5b2b2",
     "height": 153,
@@ -436,6 +460,14 @@
     "unit": [
       2
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          2
+        ]
+      }
+    ],
     "character_voice": "橋本晃太朗",
     "image_color": "#3e62ad",
     "height": 175,
@@ -576,6 +608,14 @@
     "first_nameRuby": "ほくと",
     "unit": [
       1
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          1
+        ]
+      }
     ],
     "character_voice": "前野智昭",
     "image_color": "#0068b7",
@@ -719,6 +759,14 @@
     "unit": [
       1
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          1
+        ]
+      }
+    ],
     "character_voice": "柿原徹也",
     "image_color": "#f3981d",
     "height": 171,
@@ -859,6 +907,14 @@
     "first_nameRuby": "まこと",
     "unit": [
       1
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          1
+        ]
+      }
     ],
     "character_voice": "森久保祥太郎",
     "image_color": "#65ab31",
@@ -1001,6 +1057,14 @@
     "unit": [
       1
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          1
+        ]
+      }
+    ],
     "character_voice": "梶裕貴",
     "image_color": "#941f57",
     "height": 169,
@@ -1141,6 +1205,14 @@
     "first_nameRuby": "ちあき",
     "unit": [
       5
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          5
+        ]
+      }
     ],
     "character_voice": "帆世雄一",
     "image_color": "#e60033",
@@ -1286,6 +1358,14 @@
     "unit": [
       5
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          5
+        ]
+      }
+    ],
     "character_voice": "西山宏太朗",
     "image_color": "#008db7",
     "height": 176,
@@ -1429,6 +1509,14 @@
     "first_nameRuby": "てとら",
     "unit": [
       5
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          5
+        ]
+      }
     ],
     "character_voice": "中島ヨシキ",
     "image_color": "#302833",
@@ -1576,6 +1664,14 @@
     "unit": [
       5
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          5
+        ]
+      }
+    ],
     "character_voice": "渡辺拓海",
     "image_color": "#00533f",
     "height": 179,
@@ -1721,6 +1817,14 @@
     "first_nameRuby": "しのぶ",
     "unit": [
       5
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          5
+        ]
+      }
     ],
     "character_voice": "新田杏樹",
     "image_color": "#ffdc00",
@@ -1868,6 +1972,14 @@
     "unit": [
       15
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          15
+        ]
+      }
+    ],
     "character_voice": "梶原岳人",
     "image_color": "#ba2636",
     "height": 174,
@@ -2006,6 +2118,14 @@
     "unit": [
       15
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          15
+        ]
+      }
+    ],
     "character_voice": "天﨑滉平",
     "image_color": "#fff1cf",
     "height": 167,
@@ -2143,6 +2263,14 @@
     "unit": [
       15
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          15
+        ]
+      }
+    ],
     "character_voice": "重松千晴",
     "image_color": "#522f60",
     "height": 174,
@@ -2278,6 +2406,14 @@
     "first_nameRuby": "たつみ",
     "unit": [
       15
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          15
+        ]
+      }
     ],
     "character_voice": "中澤まさとも",
     "image_color": "#7ebea5",
@@ -2415,6 +2551,14 @@
     "unit": [
       14
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          14
+        ]
+      }
+    ],
     "character_voice": "諏訪部順一",
     "image_color": "#a73836",
     "height": 178,
@@ -2550,6 +2694,14 @@
     "unit": [
       14
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          14
+        ]
+      }
+    ],
     "character_voice": "花江夏樹",
     "image_color": "#b8d200",
     "height": 177,
@@ -2683,6 +2835,14 @@
     "first_nameRuby": "いばら",
     "unit": [
       14
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          14
+        ]
+      }
     ],
     "character_voice": "逢坂良太",
     "image_color": "#74325c",
@@ -2821,6 +2981,14 @@
     "unit": [
       14
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          14
+        ]
+      }
+    ],
     "character_voice": "内田雄馬",
     "image_color": "#192f60",
     "height": 173,
@@ -2957,6 +3125,14 @@
     "unit": [
       9
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          9
+        ]
+      }
+    ],
     "character_voice": "高橋広樹",
     "image_color": "#e3acae",
     "height": 177,
@@ -3090,6 +3266,14 @@
     "first_nameRuby": "みか",
     "unit": [
       9
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          9
+        ]
+      }
     ],
     "character_voice": "大須賀純",
     "image_color": "#006a6c",
@@ -3227,6 +3411,14 @@
     "first_nameRuby": "ひなた",
     "unit": [
       7
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          7
+        ]
+      }
     ],
     "character_voice": "斉藤壮馬",
     "image_color": "#eb6ea0",
@@ -3370,6 +3562,14 @@
     "unit": [
       7
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          7
+        ]
+      }
+    ],
     "character_voice": "斉藤壮馬",
     "image_color": "#00a1e9",
     "height": 170,
@@ -3512,6 +3712,14 @@
     "unit": [
       16
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          16
+        ]
+      }
+    ],
     "character_voice": "阿座上洋平",
     "image_color": "#b7282e",
     "height": 181,
@@ -3643,6 +3851,14 @@
     "first_nameRuby": "ひめる",
     "unit": [
       16
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          16
+        ]
+      }
     ],
     "character_voice": "笠間淳",
     "image_color": "#89c3eb",
@@ -3782,6 +3998,22 @@
       16,
       17
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          16
+        ]
+      },
+      {
+        "date": "2020-08-08T21:59:59+09:00",
+        "reason": "Double Face Debut",
+        "value": [
+          16,
+          17
+        ]
+      }
+    ],
     "character_voice": "海渡翼",
     "image_color": "#f4b3c2",
     "height": 168,
@@ -3918,6 +4150,14 @@
     "unit": [
       16
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          16
+        ]
+      }
+    ],
     "character_voice": "山口智広",
     "image_color": "#507ea4",
     "height": 176,
@@ -4051,6 +4291,14 @@
     "first_nameRuby": "れい",
     "unit": [
       3
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          3
+        ]
+      }
     ],
     "character_voice": "増田俊樹",
     "image_color": "#47266e",
@@ -4186,6 +4434,14 @@
     "unit": [
       3
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          3
+        ]
+      }
+    ],
     "character_voice": "細貝圭",
     "image_color": "#fdd35c",
     "height": 178,
@@ -4319,6 +4575,14 @@
     "first_nameRuby": "こうが",
     "unit": [
       3
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          3
+        ]
+      }
     ],
     "character_voice": "小野友樹",
     "image_color": "#c9caca",
@@ -4457,6 +4721,14 @@
     "unit": [
       3
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          3
+        ]
+      }
+    ],
     "character_voice": "羽多野渉",
     "image_color": "#915da3",
     "height": 178,
@@ -4592,6 +4864,14 @@
     "first_nameRuby": "ともや",
     "unit": [
       6
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          6
+        ]
+      }
     ],
     "character_voice": "比留間俊哉",
     "image_color": "#eedcb3",
@@ -4735,6 +5015,14 @@
     "unit": [
       6
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          6
+        ]
+      }
+    ],
     "character_voice": "米内佑希",
     "image_color": "#ffec47",
     "height": 160,
@@ -4868,6 +5156,14 @@
     "first_nameRuby": "みつる",
     "unit": [
       6
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          6
+        ]
+      }
     ],
     "character_voice": "小林大紀",
     "image_color": "#ed6d35",
@@ -5006,6 +5302,14 @@
     "unit": [
       6
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          6
+        ]
+      }
+    ],
     "character_voice": "高坂知也",
     "image_color": "#cab8d9",
     "height": 165,
@@ -5142,6 +5446,14 @@
     "first_nameRuby": "けいと",
     "unit": [
       8
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          8
+        ]
+      }
     ],
     "character_voice": "梅原裕一郎",
     "image_color": "#316745",
@@ -5283,6 +5595,14 @@
     "unit": [
       8
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          8
+        ]
+      }
+    ],
     "character_voice": "神尾晋一郎",
     "image_color": "#e83929",
     "height": 181,
@@ -5422,6 +5742,14 @@
     "first_nameRuby": "そうま",
     "unit": [
       8
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          8
+        ]
+      }
     ],
     "character_voice": "神永圭佑",
     "image_color": "#5654a2",
@@ -5565,6 +5893,14 @@
     "unit": [
       4
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          4
+        ]
+      }
+    ],
     "character_voice": "土田玲央",
     "image_color": "#942343",
     "height": 168,
@@ -5703,6 +6039,14 @@
     "unit": [
       4
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          4
+        ]
+      }
+    ],
     "character_voice": "浅沼晋太郎",
     "image_color": "#ec6d51",
     "height": 169,
@@ -5838,6 +6182,14 @@
     "unit": [
       4
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          4
+        ]
+      }
+    ],
     "character_voice": "伊藤マサミ",
     "image_color": "#bbdbf3",
     "height": 172,
@@ -5971,6 +6323,14 @@
     "first_nameRuby": "りつ",
     "unit": [
       4
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          4
+        ]
+      }
     ],
     "character_voice": "山下大輝",
     "image_color": "#001e43",
@@ -6108,6 +6468,14 @@
     "unit": [
       4
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          4
+        ]
+      }
+    ],
     "character_voice": "北村諒",
     "image_color": "#edde7b",
     "height": 176,
@@ -6244,6 +6612,14 @@
     "first_nameRuby": "なつめ",
     "unit": [
       10
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          10
+        ]
+      }
     ],
     "character_voice": "野島健児",
     "image_color": "#d70035",
@@ -6384,6 +6760,14 @@
     "unit": [
       10
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          10
+        ]
+      }
+    ],
     "character_voice": "石川界人",
     "image_color": "#00608d",
     "height": 176,
@@ -6517,6 +6901,14 @@
     "first_nameRuby": "そら",
     "unit": [
       10
+    ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          10
+        ]
+      }
     ],
     "character_voice": "山本和臣",
     "image_color": "#fff352",
@@ -6657,6 +7049,22 @@
       11,
       17
     ],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": [
+          11
+        ]
+      },
+      {
+        "date": "2020-08-08T21:59:59+09:00",
+        "reason": "Double Face Debut",
+        "value": [
+          11,
+          17
+        ]
+      }
+    ],
     "character_voice": "鳥海浩輔",
     "image_color": "#622d18",
     "height": 180,
@@ -6789,6 +7197,12 @@
     "last_nameRuby": "さがみ",
     "first_nameRuby": "じん",
     "unit": [],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": []
+      }
+    ],
     "character_voice": "樋柴智康",
     "image_color": "#8da0b6",
     "height": 178,
@@ -6914,6 +7328,12 @@
     "last_nameRuby": "くぬぎ",
     "first_nameRuby": "あきおみ",
     "unit": [],
+    "units": [
+      {
+        "reason": "ES Year 1",
+        "value": []
+      }
+    ],
     "character_voice": "駒田航",
     "image_color": "#915c8b",
     "height": 178,
@@ -7039,6 +7459,19 @@
     "unit": [
       18
     ],
+    "units": [
+      {
+        "reason": "4Piece Debut",
+        "value": []
+      },
+      {
+        "date": "2024-11-09T15:00:00+09:00",
+        "reason": "Special for Princess! Debut",
+        "value": [
+          18
+        ]
+      }
+    ],
     "character_voice": "豊島修平",
     "image_color": "#80fff4",
     "height": 160,
@@ -7140,6 +7573,19 @@
     "last_nameRuby": "たき",
     "first_nameRuby": "いぶき",
     "unit": [],
+    "units": [
+      {
+        "reason": "4Piece Debut",
+        "value": []
+      },
+      {
+        "date": "2025-01-09T15:00:00+09:00",
+        "reason": "KAGETSU",
+        "value": [
+          8
+        ]
+      }
+    ],
     "character_voice": "小林千晃",
     "image_color": "#66bbcc",
     "height": 165,
@@ -7246,6 +7692,19 @@
     "unit": [
       18
     ],
+    "units": [
+      {
+        "reason": "4Piece Debut",
+        "value": []
+      },
+      {
+        "date": "2024-11-09T15:00:00+09:00",
+        "reason": "Special for Princess! Debut",
+        "value": [
+          18
+        ]
+      }
+    ],
     "character_voice": "榊原優希",
     "image_color": "#b9ccb8",
     "height": 163,
@@ -7346,6 +7805,19 @@
     "unit": [
       18
     ],
+    "units": [
+      {
+        "reason": "4Piece Debut",
+        "value": []
+      },
+      {
+        "date": "2024-11-09T15:00:00+09:00",
+        "reason": "Special for Princess! Debut",
+        "value": [
+          18
+        ]
+      }
+    ],
     "character_voice": "草野太一",
     "image_color": "#ccadd9",
     "height": 156,
@@ -7445,6 +7917,19 @@
     "first_nameRuby": "らいか",
     "unit": [
       18
+    ],
+    "units": [
+      {
+        "reason": "4Piece Debut",
+        "value": []
+      },
+      {
+        "date": "2024-11-09T15:00:00+09:00",
+        "reason": "Special for Princess! Debut",
+        "value": [
+          18
+        ]
+      }
     ],
     "character_voice": "照井悠希",
     "image_color": "#298c7e",
