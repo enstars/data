@@ -18566,6 +18566,156 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3068,
+    "title": "Adoration and Surprise",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3069,
+    "title": "Heartheat and Surprise",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3070,
+    "title": "Fun and Surprises",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3071,
+    "title": "Excitement and Surprise",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3072,
+    "title": "Challenge and Surprise",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3073,
+    "title": "Passion and Surprise",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3074,
+    "title": "Togetherness and Surprise",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3075,
+    "title": "Sincerity and Surprise",
+    "name": "Shinobu Sengoku"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3076,
+    "title": "Hope and Surprise",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3077,
+    "title": "LOVE and Surprise",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3078,
+    "title": "Prayer and Surprise",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3079,
+    "title": "Brightness and Surprise",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3080,
+    "title": "Creation and Surprise",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3081,
+    "title": "Mischief and Surprise",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3082,
+    "title": "Satisfaction and Surprise",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3083,
+    "title": "Natural Self and Surprise",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3084,
+    "title": "Music and Surprise",
+    "name": "Koga Oogami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3085,
+    "title": "Impulse and Surprise",
+    "name": "Tomoya Mashiro"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3086,
+    "title": "Learning and Surprise",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3087,
+    "title": "Enjoyment and Surprise",
+    "name": "Mitsuru Tenma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3088,
+    "title": "Resilience and Surprise",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3089,
+    "title": "Training and Surprise",
+    "name": "Souma Kanzaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3090,
+    "title": "Joy and Surprise",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3091,
+    "title": "Duality and Surprise",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3092,
+    "title": "Happy Surprise",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3117,
     "title": "Game and Actuality",
     "name": "Makoto Yuuki",
@@ -23385,19 +23535,52 @@
     "compliant": "TRUE",
     "id": 3446,
     "title": "Path to Brilliance",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Obvious Enthusiasm"
+      },
+      "live": {
+        "name": "City Night"
+      },
+      "support": {
+        "name": "Idol Research"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3447,
     "title": "One Step into the World",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Tangible History"
+      },
+      "live": {
+        "name": "My Future Composure"
+      },
+      "support": {
+        "name": "Spirit of Inquiry"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3448,
     "title": "A Job That Fits",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "A Battle I Can't Lose"
+      },
+      "live": {
+        "name": "Gamer Soul"
+      },
+      "support": {
+        "name": "Famous After School Battle"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -25256,6 +25439,30 @@
         "name": "Overflowing Spring"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90134,
+    "title": "Flame of Protection",
+    "name": "Hinata Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90135,
+    "title": "Stone of the Sage",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90136,
+    "title": "Water of Rebirth",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90137,
+    "title": "Law of Cycles",
+    "name": "Tetora Nagumo"
   },
   {
     "compliant": "TRUE",
