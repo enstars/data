@@ -4172,6 +4172,11 @@
           "date": "2020-08-08T21:59:59+09:00",
           "reason": "Double Face Debut",
           "value": "character_full1_73_sp"
+        },
+        {
+          "date": "2024-04-28T15:00:00+09:00",
+          "reason": "ES Year 2",
+          "value": "character_full1_73"
         }
       ],
       "fs1_5": 2874,
@@ -7269,6 +7274,11 @@
           "date": "2020-08-08T21:59:59+09:00",
           "reason": "Double Face Debut",
           "value": "character_full1_40_sp"
+        },
+        {
+          "date": "2024-04-28T15:00:00+09:00",
+          "reason": "ES Year 2",
+          "value": "character_full1_40"
         }
       ],
       "fs1_5": 2678,
