@@ -18586,7 +18586,18 @@
     "compliant": "TRUE",
     "id": 3071,
     "title": "Excitement and Surprise",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Coin for Sparkling"
+      },
+      "live": {
+        "name": "Subaru's Special Skill"
+      },
+      "support": {
+        "name": "Chance Moment"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18640,7 +18651,18 @@
     "compliant": "TRUE",
     "id": 3080,
     "title": "Creation and Surprise",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Coin for Inventing"
+      },
+      "live": {
+        "name": "Shu's Special Skill"
+      },
+      "support": {
+        "name": "Managed Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18658,7 +18680,18 @@
     "compliant": "TRUE",
     "id": 3083,
     "title": "Natural Self and Surprise",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Coin for Riding the Waves"
+      },
+      "live": {
+        "name": "Kaoru's Special SKill"
+      },
+      "support": {
+        "name": "Wave Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18676,7 +18709,18 @@
     "compliant": "TRUE",
     "id": 3086,
     "title": "Learning and Surprise",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Coin for Moving on"
+      },
+      "live": {
+        "name": "Nazuna's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Leap"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18694,7 +18738,18 @@
     "compliant": "TRUE",
     "id": 3089,
     "title": "Training and Surprise",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Coin for Honing Skills"
+      },
+      "live": {
+        "name": "Souma's Special Skill"
+      },
+      "support": {
+        "name": "Chance of Victory"
+      }
+    }
   },
   {
     "compliant": "TRUE",
