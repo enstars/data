@@ -18573,13 +18573,13 @@
   {
     "compliant": "TRUE",
     "id": 3069,
-    "title": "Heartheat and Surprise",
+    "title": "Heartbeat and Surprise",
     "name": "Tori Himemiya"
   },
   {
     "compliant": "TRUE",
     "id": 3070,
-    "title": "Fun and Surprises",
+    "title": "Fun and Surprise",
     "name": "Yuzuru Fushimi"
   },
   {
@@ -23634,6 +23634,104 @@
       },
       "support": {
         "name": "Famous After School Battle"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3449,
+    "title": "Dream-Realizing Mad Party",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3450,
+    "title": "Watching Over the Mad Party",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3451,
+    "title": "Vibrant Mad Party",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3452,
+    "title": "Leading Mad Party",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3453,
+    "title": "Flowering Mad Party",
+    "name": "Arashi Narukami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3454,
+    "title": "×××・Pretty",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "An Unusual Symbol"
+      },
+      "live": {
+        "name": "Hopes I Want to Fulfill"
+      },
+      "support": {
+        "name": "How to Find an Outfit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3455,
+    "title": "×××・Friend",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "My Personal Symbol"
+      },
+      "live": {
+        "name": "Dextrous Hands"
+      },
+      "support": {
+        "name": "The Depth of Cuteness"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3456,
+    "title": "×××・Create",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Symbol of Swaying Emotion"
+      },
+      "live": {
+        "name": "An Artist's Plans"
+      },
+      "support": {
+        "name": "Developing Distance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3457,
+    "title": "×××・Runway",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Symbol of A Model Tutor"
+      },
+      "live": {
+        "name": "Powerful Helper"
+      },
+      "support": {
+        "name": "A Shout Of Assertion"
       }
     }
   },
