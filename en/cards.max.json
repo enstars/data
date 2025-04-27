@@ -25597,25 +25597,63 @@
     "compliant": "TRUE",
     "id": 90134,
     "title": "Flame of Protection",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Ifrit's Protection"
+      },
+      "live": {
+        "name": "Incendio"
+      },
+      "support": {
+        "name": "Twins Reunited"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90135,
     "title": "Stone of the Sage",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Flamel's Legacy"
+      },
+      "live": {
+        "name": "Lapis Philosophorum"
+      },
+      "support": {
+        "name": "Always Side by Side"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90136,
     "title": "Water of Rebirth",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Undine's Fondness"
+      },
+      "live": {
+        "name": "Aguamenti"
+      },
+      "support": {
+        "name": "Watch Over Each Other"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90137,
     "title": "Law of Cycles",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "live": {
+        "name": "Circulare"
+      }
+    }
   },
   {
     "compliant": "TRUE",
