@@ -23641,31 +23641,86 @@
     "compliant": "TRUE",
     "id": 3449,
     "title": "Dream-Realizing Mad Party",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Special Outfit"
+      },
+      "live": {
+        "name": "A Drop of Admiration"
+      },
+      "support": {
+        "name": "Valuable Guidance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3450,
     "title": "Watching Over the Mad Party",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Special Tea Party"
+      },
+      "live": {
+        "name": "A Drop of Contribution"
+      },
+      "support": {
+        "name": "Suggested Specialty"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3451,
     "title": "Vibrant Mad Party",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Special Afternoon"
+      },
+      "live": {
+        "name": "A Drop of Greatness"
+      },
+      "support": {
+        "name": "Just Between Us"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3452,
     "title": "Leading Mad Party",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Special Arrangement"
+      },
+      "live": {
+        "name": "A Drop for My Friends"
+      },
+      "support": {
+        "name": "An Appeal to My Juniors"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3453,
     "title": "Flowering Mad Party",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Special Chit-chat"
+      },
+      "live": {
+        "name": "A Drop of Fragrance"
+      },
+      "support": {
+        "name": "Avid Listener"
+      }
+    }
   },
   {
     "compliant": "TRUE",
