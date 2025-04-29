@@ -25705,8 +25705,14 @@
     "title": "Law of Cycles",
     "name": "Tetora Nagumo",
     "skills": {
+      "center": {
+        "name": "The End of All Worldlines"
+      },
       "live": {
-        "name": "Circulare"
+        "name": "Circulaire"
+      },
+      "support": {
+        "name": "Welcome to the Guild"
       }
     }
   },
