@@ -18621,7 +18621,18 @@
     "compliant": "TRUE",
     "id": 3075,
     "title": "Sincerity and Surprise",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Coin for Sharing"
+      },
+      "live": {
+        "name": "Shinobu's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Show off"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18674,7 +18685,18 @@
     "compliant": "TRUE",
     "id": 3082,
     "title": "Satisfaction and Surprise",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Coin for Getting Full"
+      },
+      "live": {
+        "name": "Niki's Special Skill"
+      },
+      "support": {
+        "name": "Hungry Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18703,7 +18725,18 @@
     "compliant": "TRUE",
     "id": 3085,
     "title": "Impulse and Surprise",
-    "name": "Tomoya Mashiro"
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Coin for Moving the Heart"
+      },
+      "live": {
+        "name": "Tomoya's Special Skill"
+      },
+      "support": {
+        "name": "Direct Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18761,13 +18794,35 @@
     "compliant": "TRUE",
     "id": 3091,
     "title": "Duality and Surprise",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Coin for Balance"
+      },
+      "live": {
+        "name": "Natsume's Special Skill"
+      },
+      "support": {
+        "name": "Prophecy of Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3092,
     "title": "Happy Surprise",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Coin for Smiles"
+      },
+      "live": {
+        "name": "Sora's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Smile"
+      }
+    }
   },
   {
     "compliant": "TRUE",
