@@ -23849,19 +23849,52 @@
     "compliant": "TRUE",
     "id": 3458,
     "title": "Melody of Rain",
-    "name": "Shinobu Sengoku"
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Change of View"
+      },
+      "live": {
+        "name": "Rain of Blessings"
+      },
+      "support": {
+        "name": "Practice Photoshoot"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3459,
     "title": "My Best Friend",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Tea Party With Friends"
+      },
+      "live": {
+        "name": "Lively Flower Garden"
+      },
+      "support": {
+        "name": "Interesting Brew"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3460,
     "title": "A Much Anticipated Day",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "First Visit to a Store"
+      },
+      "live": {
+        "name": "Simple Charm"
+      },
+      "support": {
+        "name": "Reliable Pet Sitter"
+      }
+    }
   },
   {
     "compliant": "TRUE",
