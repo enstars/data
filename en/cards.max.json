@@ -18603,7 +18603,18 @@
     "compliant": "TRUE",
     "id": 3072,
     "title": "Challenge and Surprise",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Coin for Pursuing"
+      },
+      "live": {
+        "name": "Mao's Special Skill"
+      },
+      "support": {
+        "name": "Unmissable Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18615,7 +18626,18 @@
     "compliant": "TRUE",
     "id": 3074,
     "title": "Togetherness and Surprise",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Coin For Being With You"
+      },
+      "live": {
+        "name": "Kanata's Special Skill"
+      },
+      "support": {
+        "name": "Chance for a Friend"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18644,13 +18666,35 @@
     "compliant": "TRUE",
     "id": 3077,
     "title": "LOVE and Surprise",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Coin for Improving"
+      },
+      "live": {
+        "name": "Aira's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Appeal"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3078,
     "title": "Prayer and Surprise",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Coin for Granting Wishes"
+      },
+      "live": {
+        "name": "Tatsumi's Special Skill"
+      },
+      "support": {
+        "name": "Chance Wish"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18679,7 +18723,18 @@
     "compliant": "TRUE",
     "id": 3081,
     "title": "Mischief and Surprise",
-    "name": "Hinata Aoi"
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Coin for Having Fun"
+      },
+      "live": {
+        "name": "Hinata's Special Skill"
+      },
+      "support": {
+        "name": "Chance to be Energetic"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -23895,6 +23950,36 @@
         "name": "Reliable Pet Sitter"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3470,
+    "title": "Memories With Manga",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3471,
+    "title": "Pepped up by Manga",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3472,
+    "title": "Learned From Manga",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3473,
+    "title": "Motivated by Manga",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3474,
+    "title": "Impressed by Manga",
+    "name": "Jun Sazanami"
   },
   {
     "compliant": "TRUE",
