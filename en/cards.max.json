@@ -23953,33 +23953,130 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3463,
+    "title": "Exciting Groom Trip",
+    "name": "Chiaki Morisawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3464,
+    "title": "Determined Groom Trip",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3465,
+    "title": "Gentle Groom Trip",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3466,
+    "title": "Joyous Groom Trip",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3467,
+    "title": "Thoughtful Groom Trip",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3468,
+    "title": "Cheerful Groom Trip",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3469,
+    "title": "Creative Groom Trip",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3470,
     "title": "Memories With Manga",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "World of Adventure"
+      },
+      "live": {
+        "name": "Become the Main Character"
+      },
+      "support": {
+        "name": "Answers In My Mind"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3471,
     "title": "Pepped up by Manga",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "World of Action Movies"
+      },
+      "live": {
+        "name": "Traverse a Real Line"
+      },
+      "support": {
+        "name": "Virtual Reality Experience"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3472,
     "title": "Learned From Manga",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "World of Fantasy"
+      },
+      "live": {
+        "name": "Flexible Eye Level"
+      },
+      "support": {
+        "name": "The Way to Victory"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3473,
     "title": "Motivated by Manga",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "World of Healing"
+      },
+      "live": {
+        "name": "To Seek Catharsis"
+      },
+      "support": {
+        "name": "Dreams Coming True"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3474,
     "title": "Impressed by Manga",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Vicarious World"
+      },
+      "live": {
+        "name": "Punch-out Framework"
+      },
+      "support": {
+        "name": "Acquired Knowledge"
+      }
+    }
   },
   {
     "compliant": "TRUE",
