@@ -23955,43 +23955,120 @@
     "compliant": "TRUE",
     "id": 3463,
     "title": "Exciting Groom Trip",
-    "name": "Chiaki Morisawa"
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Heart-pounding March"
+      },
+      "live": {
+        "name": "Passionate Wedding"
+      },
+      "support": {
+        "name": "Dash to Victory"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3464,
     "title": "Determined Groom Trip",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Challenge March"
+      },
+      "live": {
+        "name": "Serious Wedding"
+      },
+      "support": {
+        "name": "Pillow Fight Afterglow"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3465,
     "title": "Gentle Groom Trip",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Cheerful March"
+      },
+      "live": {
+        "name": "Peaceful Wedding"
+      },
+      "support": {
+        "name": "On The Autumn Breeze"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3466,
     "title": "Joyous Groom Trip",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Gracious March"
+      },
+      "live": {
+        "name": "Educational Wedding"
+      },
+      "support": {
+        "name": "Souvenir Selection"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3467,
     "title": "Thoughtful Groom Trip",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Restful March"
+      },
+      "live": {
+        "name": "Sincere Wedding"
+      },
+      "support": {
+        "name": "Travel-Savvy Assistant"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3468,
     "title": "Cheerful Groom Trip",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Natural March"
+      },
+      "live": {
+        "name": "Live Wedding"
+      },
+      "support": {
+        "name": "Seasoned Live Host"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3469,
     "title": "Creative Groom Trip",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Meticulous March"
+      },
+      "live": {
+        "name": "Wedding Assist"
+      },
+      "support": {
+        "name": "Lost Property in Paris"
+      }
+    }
   },
   {
     "compliant": "TRUE",
