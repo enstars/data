@@ -18568,7 +18568,18 @@
     "compliant": "TRUE",
     "id": 3068,
     "title": "Adoration and Surprise",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Coin for Enjoying"
+      },
+      "live": {
+        "name": "Wataru's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Enjoy"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18580,7 +18591,18 @@
     "compliant": "TRUE",
     "id": 3070,
     "title": "Fun and Surprise",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Coin for Supporting"
+      },
+      "live": {
+        "name": "Yuzuru's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Support"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18660,7 +18682,18 @@
     "compliant": "TRUE",
     "id": 3076,
     "title": "Hope and Surprise",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Coin for Opening Doors"
+      },
+      "live": {
+        "name": "Hiiro's Special Skill"
+      },
+      "support": {
+        "name": "Optimistic Chance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18814,7 +18847,18 @@
     "compliant": "TRUE",
     "id": 3087,
     "title": "Enjoyment and Surprise",
-    "name": "Mitsuru Tenma"
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Coin for Number 1"
+      },
+      "live": {
+        "name": "Mitsuru's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Dash"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -18843,7 +18887,18 @@
     "compliant": "TRUE",
     "id": 3090,
     "title": "Joy and Surprise",
-    "name": "Arashi Narukami"
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Coin for Beauty"
+      },
+      "live": {
+        "name": "Arashi's Special Skill"
+      },
+      "support": {
+        "name": "Chance of Self-Improvement"
+      }
+    }
   },
   {
     "compliant": "TRUE",
