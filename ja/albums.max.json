@@ -5252,5 +5252,113 @@
       "https://fwinc.lnk.to/JmRYz9"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 169,
+    "name": {
+      "alt": "アプリ主題歌「BRIGHTEST STARS!!」",
+      "raw": "『あんさんぶるスターズ!!Bright me up!!』アプリ主題歌「BRIGHTEST STARS!!」"
+    },
+    "era": 2,
+    "unit_id": [
+      100
+    ],
+    "release_Date": "2025-04-25T00:00:00+09:00",
+    "tracklist": [
+      [
+        266,
+        "mktls-1446",
+        "mktls-1447",
+        "mktls-1448",
+        "mktls-1449",
+        "mktls-1450",
+        "mktls-1451",
+        "mktls-1452",
+        "mktls-1453",
+        "mktls-1454",
+        "mktls-1455",
+        "mktls-1456",
+        "mktls-1457",
+        "mktls-1458",
+        "mktls-1459",
+        "mktls-1460",
+        "mktls-1461",
+        "mktls-1462"
+      ]
+    ],
+    "link": [
+      "https://bio.to/Ulcnlx"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 170,
+    "name": {
+      "alt": "Trickstar 「CELEBRATE!!」",
+      "raw": "Trickstar 「CELEBRATE!!」あんさんぶるスターズ!! ESアイドルソング season6"
+    },
+    "era": 2,
+    "volume": 1,
+    "unit_id": [
+      1
+    ],
+    "release_Date": "2025-04-25T00:00:00+09:00",
+    "tracklist": [
+      [
+        275,
+        "mktls-1463"
+      ]
+    ],
+    "link": [
+      "https://bio.to/Wf0eED"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 171,
+    "name": {
+      "alt": "SPRINT・ING!「僕のウィーク・ポイント」",
+      "raw": "SPRINT・ING!「僕のウィーク・ポイント」あんさんぶるスターズ!! ⁠SELECTION 10 UNIT SONG"
+    },
+    "era": 2,
+    "volume": 1,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "SPRINT・ING!",
+    "release_Date": "2025-05-09T00:00:00+09:00",
+    "tracklist": [
+      "[\"294,\"mktls-1464\"]"
+    ],
+    "link": [
+      "https://bio.to/VXy0lk"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 172,
+    "name": {
+      "alt": "Switch「Switching Journey」",
+      "raw": "Switch「Switching Journey」あんさんぶるスターズ!! ESアイドルソング season6"
+    },
+    "volume": 2,
+    "unit_id": [
+      10
+    ],
+    "release_Date": "2025-05-29T00:00:00+09:00",
+    "tracklist": [
+      [
+        284,
+        "mktls-1465"
+      ]
+    ],
+    "link": [
+      "https://bio.to/fliqfa"
+    ],
+    "is_album": "FALSE"
   }
 ]

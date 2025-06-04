@@ -5998,6 +5998,9 @@
     "link": {
       "youtube_3dmv": "https://youtu.be/M4_93Y6x1so"
     },
+    "version": {
+      "inst": "mktls-1464"
+    },
     "order": 140,
     "is_solomv": "FALSE",
     "is_solo": "FALSE",
@@ -11252,7 +11255,7 @@
         42
       ]
     ],
-    "color": 2,
+    "color": 3,
     "difficulty": {
       "easy": 8,
       "normal": 14,
@@ -11294,12 +11297,40 @@
         100
       ]
     ],
+    "color": 0,
+    "difficulty": {
+      "easy": 9,
+      "normal": 15,
+      "hard": 23,
+      "expert": "27+"
+    },
     "lyric": "松井 洋平",
     "composition": "桑原 聖（Arte Refact）",
     "arrangement": "酒井 拓也（Arte Refact）",
     "link": {
       "youtube_3dmv": "https://youtu.be/InzSJ6v7Nrw",
       "youtube_alt": "[\"https://youtu.be/JI6WkpMMt08'}"
+    },
+    "version": {
+      "inst": "mktls-1462",
+      "unit": [
+        "mktls-1446",
+        "mktls-1447",
+        "mktls-1448",
+        "mktls-1449",
+        "mktls-1450",
+        "mktls-1451",
+        "mktls-1452",
+        "mktls-1453",
+        "mktls-1454",
+        "mktls-1455",
+        "mktls-1456",
+        "mktls-1457",
+        "mktls-1458",
+        "mktls-1459",
+        "mktls-1460",
+        "mktls-1461"
+      ]
     },
     "order": 262,
     "is_solomv": "FALSE",
@@ -11322,6 +11353,13 @@
         13
       ]
     ],
+    "color": 1,
+    "difficulty": {
+      "easy": 8,
+      "normal": 14,
+      "hard": 22,
+      "expert": 27
+    },
     "lyric": "こだま さおり",
     "composition": "渡辺 拓也",
     "arrangement": "渡辺 拓也",
@@ -11329,7 +11367,113 @@
     "link": {
       "youtube_3dmv": "https://youtu.be/6JBGmohSG5I"
     },
+    "version": {
+      "inst": "mktls-1463"
+    },
     "order": 263,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 381,
+    "name": "セイクリッド ルイン",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "鉄虎 & 敬人 & 斑 & カンナ",
+    "character_id": [
+      [
+        1,
+        21,
+        40,
+        83
+      ]
+    ],
+    "color": 3,
+    "difficulty": {
+      "easy": 9,
+      "normal": 16,
+      "hard": 24,
+      "expert": 29
+    },
+    "lyric": "祇羽",
+    "composition": "Drop",
+    "arrangement": "Drop & 原田 篤（Arte Refact）",
+    "link": {
+      "youtube_2dmv": "https://youtu.be/wGVAh3G5Gj4"
+    },
+    "order": 264,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 383,
+    "name": "ゴーゴー・キッチン",
+    "unit_id": [
+      101
+    ],
+    "character_id": [
+      [
+        0
+      ]
+    ],
+    "singer_name": "みすみゆり",
+    "color": 4,
+    "difficulty": {
+      "easy": 7,
+      "normal": 15,
+      "hard": 23,
+      "expert": "28+",
+      "expert_charttype": [
+        1
+      ]
+    },
+    "lyric": "みすみゆり（Bandai Namco Entertainment Inc.）",
+    "composition": "みすみゆり（Bandai Namco Entertainment Inc.）",
+    "order": 265,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "TRUE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 284,
+    "name": "Switching Journey",
+    "unit_id": [
+      10
+    ],
+    "character_id": [
+      [
+        38,
+        37,
+        39
+      ]
+    ],
+    "color": 3,
+    "difficulty": {
+      "easy": 7,
+      "normal": 14,
+      "hard": 23,
+      "expert": 28
+    },
+    "lyric": "松井 洋平",
+    "composition": "山本 恭平（Arte Refact）",
+    "arrangement": "河合 泰志（Arte Refact）",
+    "event_id": 323,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/W-Co4lubUkE"
+    },
+    "version": {
+      "inst": "mktls-1465"
+    },
+    "order": 267,
     "is_solomv": "FALSE",
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
@@ -11397,6 +11541,9 @@
     "compliant": "TRUE",
     "id": 200002,
     "name": "Dive Back In Time",
+    "unit_id": [
+      101
+    ],
     "character_id": [
       [
         0
@@ -11430,6 +11577,9 @@
     "compliant": "TRUE",
     "id": 200003,
     "name": "九九八十一",
+    "unit_id": [
+      101
+    ],
     "character_id": [
       [
         0
@@ -11454,6 +11604,9 @@
     "compliant": "TRUE",
     "id": 200005,
     "name": "VORTEX",
+    "unit_id": [
+      101
+    ],
     "character_id": [
       [
         0
@@ -18588,7 +18741,7 @@
     ],
     "version": {
       "full": [
-        "mktls-298"
+        310
       ]
     },
     "is_solomv": "FALSE",
@@ -28441,6 +28594,348 @@
     "version": {
       "full": [
         252
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1446",
+    "name": "BRIGHTEST STARS!!（fine ver.）",
+    "unit_id": [
+      2
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1447",
+    "name": "BRIGHTEST STARS!!（Trickstar ver.）",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1448",
+    "name": "BRIGHTEST STARS!!（流星隊 ver.）",
+    "unit_id": [
+      5
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1449",
+    "name": "BRIGHTEST STARS!!（ALKALOID ver.）",
+    "unit_id": [
+      15
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1450",
+    "name": "BRIGHTEST STARS!!（Eden ver.）",
+    "unit_id": [
+      14
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1451",
+    "name": "BRIGHTEST STARS!!（Valkyrie ver.）",
+    "unit_id": [
+      9
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1452",
+    "name": "BRIGHTEST STARS!!（2wink ver.）",
+    "unit_id": [
+      7
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1453",
+    "name": "BRIGHTEST STARS!!（Crazy:B ver.）",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1454",
+    "name": "BRIGHTEST STARS!!（UNDEAD ver.）",
+    "unit_id": [
+      3
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1455",
+    "name": "BRIGHTEST STARS!!（Ra*bits ver.）",
+    "unit_id": [
+      6
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1456",
+    "name": "BRIGHTEST STARS!!（紅月 ver.）",
+    "unit_id": [
+      8
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1457",
+    "name": "BRIGHTEST STARS!!（Knights ver.）",
+    "unit_id": [
+      4
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1458",
+    "name": "BRIGHTEST STARS!!（Switch ver.）",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1459",
+    "name": "BRIGHTEST STARS!!（MaM ver.）",
+    "unit_id": [
+      11
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1460",
+    "name": "BRIGHTEST STARS!!（Special for Princess! ver.）",
+    "unit_id": [
+      18
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1461",
+    "name": "BRIGHTEST STARS!!（Jin & Akiomi ver.）",
+    "unit_id": [
+      19
+    ],
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1462",
+    "name": "BRIGHTEST STARS!!（Instrumental）",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "ESオールスターズ",
+    "version": {
+      "full": [
+        266
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1463",
+    "name": "CELEBRATE!!（Instrumental）",
+    "unit_id": [
+      1
+    ],
+    "version": {
+      "full": [
+        275
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1464",
+    "name": "僕のウィーク・ポイント (Instrumental)",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "SPRINT・ING!",
+    "version": {
+      "full": [
+        294
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1465",
+    "name": "Switching Journey (Instrumental)",
+    "unit_id": [
+      10
+    ],
+    "version": {
+      "full": [
+        284
       ]
     },
     "is_solomv": "FALSE",
