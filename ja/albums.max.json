@@ -5361,5 +5361,30 @@
       "https://bio.to/fliqfa"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 173,
+    "name": {
+      "alt": "Cascade of…「Graceful Punishment」",
+      "raw": "Cascade of…「Graceful Punishment」あんさんぶるスターズ!! ⁠SELECTION 10 UNIT SONG"
+    },
+    "era": 2,
+    "volume": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Cascade of...",
+    "release_Date": "2025-06-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        295,
+        "mktls-1466"
+      ]
+    ],
+    "link": [
+      "https://bio.to/2Mdp8a"
+    ],
+    "is_album": "FALSE"
   }
 ]
