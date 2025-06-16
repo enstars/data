@@ -6076,6 +6076,12 @@
         4
       ]
     },
+    "notes": {
+      "easy": 138,
+      "normal": 249,
+      "hard": 428,
+      "expert": 695
+    },
     "lyric": "こだまさおり",
     "composition": "サイトウ リョースケ & katsuki.CF & TARO MIZOTE(Relic Lyric, inc.)",
     "arrangement": "TARO MIZOTE & サイトウ リョースケ(Relic Lyric, inc.)",
@@ -11538,6 +11544,12 @@
       "hard": 23,
       "expert": 28
     },
+    "notes": {
+      "easy": 146,
+      "normal": 225,
+      "hard": 472,
+      "expert": 807
+    },
     "lyric": "松井 洋平",
     "composition": "山本 恭平（Arte Refact）",
     "arrangement": "河合 泰志（Arte Refact）",
@@ -11549,6 +11561,44 @@
       "inst": "mktls-1465"
     },
     "order": 268,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "TRUE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 293,
+    "name": "ハニートラップ・マリアージュ",
+    "unit_id": [
+      16
+    ],
+    "character_id": [
+      [
+        74,
+        72,
+        71,
+        73
+      ]
+    ],
+    "color": 2,
+    "difficulty": {
+      "easy": 8,
+      "normal": 14,
+      "hard": 22,
+      "expert": "27+"
+    },
+    "notes": {
+      "expert": 762
+    },
+    "lyric": "こだま さおり",
+    "composition": "槇島 隆人 & 賀佐 泰洋（SUPA LOVE）",
+    "arrangement": "賀佐 泰洋（SUPA LOVE）",
+    "event_id": 324,
+    "version": {
+      "inst": "mktls-1467"
+    },
+    "order": 269,
     "is_solomv": "FALSE",
     "is_solo": "FALSE",
     "has_game_edit": "TRUE",
@@ -29029,6 +29079,23 @@
     "version": {
       "full": [
         295
+      ]
+    },
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1467",
+    "name": "ハニートラップ・マリアージュ (Instrumental)",
+    "unit_id": [
+      16
+    ],
+    "version": {
+      "full": [
+        293
       ]
     },
     "is_solomv": "FALSE",

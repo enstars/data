@@ -5386,5 +5386,29 @@
       "https://bio.to/2Mdp8a"
     ],
     "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 174,
+    "name": {
+      "alt": "Crazy:B「ハニートラップ・マリアージュ」",
+      "raw": "Crazy:B「ハニートラップ・マリアージュ」あんさんぶるスターズ!! ESアイドルソング season6"
+    },
+    "era": 2,
+    "volume": 3,
+    "unit_id": [
+      16
+    ],
+    "release_Date": "2025-06-13T00:00:00+09:00",
+    "tracklist": [
+      [
+        293,
+        "mktls-1467"
+      ]
+    ],
+    "link": [
+      "https://bio.to/68Bvws"
+    ],
+    "is_album": "FALSE"
   }
 ]
