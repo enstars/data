@@ -5996,7 +5996,8 @@
     "composition": "SHOW (Digz, Inc. Group)",
     "arrangement": "SHOW (Digz, Inc. Group)",
     "link": {
-      "youtube_3dmv": "https://youtu.be/M4_93Y6x1so"
+      "youtube_3dmv": "https://youtu.be/M4_93Y6x1so",
+      "spotify": "1oXJbcoNEVPKI9IoXa8ODD"
     },
     "version": {
       "inst": "mktls-1464"
@@ -6086,7 +6087,8 @@
     "composition": "サイトウ リョースケ & katsuki.CF & TARO MIZOTE(Relic Lyric, inc.)",
     "arrangement": "TARO MIZOTE & サイトウ リョースケ(Relic Lyric, inc.)",
     "link": {
-      "youtube_3dmv": "https://youtu.be/3yaHpk2RVRo"
+      "youtube_3dmv": "https://youtu.be/3yaHpk2RVRo",
+      "spotify": "63zae15sg8CriJSruguGuX"
     },
     "version": {
       "inst": "mktls-1466"
@@ -11358,7 +11360,8 @@
     "arrangement": "酒井 拓也（Arte Refact）",
     "link": {
       "youtube_3dmv": "https://youtu.be/InzSJ6v7Nrw",
-      "youtube_alt": "[\"https://youtu.be/JI6WkpMMt08'}"
+      "youtube_alt": "[\"https://youtu.be/JI6WkpMMt08'}",
+      "spotify": "6goODWB6IHzU96zSBLZEbf"
     },
     "version": {
       "inst": "mktls-1462",
@@ -11556,7 +11559,8 @@
     "arrangement": "河合 泰志（Arte Refact）",
     "event_id": 323,
     "link": {
-      "youtube_3dmv": "https://youtu.be/W-Co4lubUkE"
+      "youtube_3dmv": "https://youtu.be/W-Co4lubUkE",
+      "spotify": "2UvlKKola0spjTZ23VvuOY"
     },
     "version": {
       "inst": "mktls-1465"
@@ -11597,7 +11601,8 @@
     "arrangement": "賀佐 泰洋（SUPA LOVE）",
     "event_id": 324,
     "link": {
-      "youtube_3dmv": "https://youtu.be/7MAl15om-jQ"
+      "youtube_3dmv": "https://youtu.be/7MAl15om-jQ",
+      "spotify": "0gr9gmL1e9bHsnD1JiSSRZ"
     },
     "version": {
       "inst": "mktls-1467"
@@ -17025,6 +17030,9 @@
     "compliant": "TRUE",
     "id": "mktls-905",
     "name": "ALWAYS HERO! (Instrumental)",
+    "link": {
+      "spotify": "6CBtf4yXT5d6iqUGpwAui3"
+    },
     "version": {
       "full": [
         "mktls-321"
@@ -17040,6 +17048,9 @@
     "compliant": "TRUE",
     "id": "mktls-906",
     "name": "まりんぶるう・らんでぶう (Instrumental)",
+    "link": {
+      "spotify": "5pmGBfBlDWR5i3l4eF4P9B"
+    },
     "version": {
       "full": [
         "mktls-322"
@@ -17055,6 +17066,9 @@
     "compliant": "TRUE",
     "id": "mktls-907",
     "name": "IRON HEART TIGER! (Instrumental)",
+    "link": {
+      "spotify": "6R1GogFMi0aOf8ubkcm5Pb"
+    },
     "version": {
       "full": [
         "mktls-323"
@@ -17070,6 +17084,9 @@
     "compliant": "TRUE",
     "id": "mktls-908",
     "name": "真昼の残像 (Instrumental)",
+    "link": {
+      "spotify": "2f8lUCj3jfx1ngrDBsaje4"
+    },
     "version": {
       "full": [
         "mktls-324"
@@ -17085,6 +17102,9 @@
     "compliant": "TRUE",
     "id": "mktls-909",
     "name": "疾風迅雷 忍び道 (Instrumental)",
+    "link": {
+      "spotify": "5KF3egREoOW4z2BUisaoXx"
+    },
     "version": {
       "full": [
         "mktls-325"
@@ -29779,6 +29799,9 @@
     "unit_id": [
       2
     ],
+    "link": {
+      "spotify": "5QWMsh79qGSDwxKepdUIqk"
+    },
     "version": {
       "full": [
         266
@@ -29797,6 +29820,9 @@
     "unit_id": [
       1
     ],
+    "link": {
+      "spotify": "3zmkuejVhhgO8EGuB9MIXO"
+    },
     "version": {
       "full": [
         266
@@ -29815,6 +29841,9 @@
     "unit_id": [
       5
     ],
+    "link": {
+      "spotify": "5DLc6GLz14V8w4lncgFM4W"
+    },
     "version": {
       "full": [
         266
@@ -29833,6 +29862,9 @@
     "unit_id": [
       15
     ],
+    "link": {
+      "spotify": "0s8FoiNx2xk0apcrlNDAId"
+    },
     "version": {
       "full": [
         266
@@ -29851,6 +29883,9 @@
     "unit_id": [
       14
     ],
+    "link": {
+      "spotify": "46obNbbME2SX9p7ogkcwxh"
+    },
     "version": {
       "full": [
         266
@@ -29869,6 +29904,9 @@
     "unit_id": [
       9
     ],
+    "link": {
+      "spotify": "08m2fgvCpM1A74jd50qjqi"
+    },
     "version": {
       "full": [
         266
@@ -29887,6 +29925,9 @@
     "unit_id": [
       7
     ],
+    "link": {
+      "spotify": "5tUKebJ4zKIfBgx0vsGBlG"
+    },
     "version": {
       "full": [
         266
@@ -29905,6 +29946,9 @@
     "unit_id": [
       16
     ],
+    "link": {
+      "spotify": "4XgsajLuBH7JgPY9Futq3S"
+    },
     "version": {
       "full": [
         266
@@ -29923,6 +29967,9 @@
     "unit_id": [
       3
     ],
+    "link": {
+      "spotify": "5wypMXBhK8fWEHtZYzKF0e"
+    },
     "version": {
       "full": [
         266
@@ -29941,6 +29988,9 @@
     "unit_id": [
       6
     ],
+    "link": {
+      "spotify": "1NWlqmv4ZWoyWp7gD1DVzH"
+    },
     "version": {
       "full": [
         266
@@ -29959,6 +30009,9 @@
     "unit_id": [
       8
     ],
+    "link": {
+      "spotify": "4utXoovP9Y8pJ0YBcoyqkU"
+    },
     "version": {
       "full": [
         266
@@ -29977,6 +30030,9 @@
     "unit_id": [
       4
     ],
+    "link": {
+      "spotify": "40TrhWVGGDPOe4rvpsDD9P"
+    },
     "version": {
       "full": [
         266
@@ -29995,6 +30051,9 @@
     "unit_id": [
       10
     ],
+    "link": {
+      "spotify": "2w2X4xqUOKwjJT8yOeFJRI"
+    },
     "version": {
       "full": [
         266
@@ -30013,6 +30072,9 @@
     "unit_id": [
       11
     ],
+    "link": {
+      "spotify": "0rAQfWGgYpumVlhiDDFhpn"
+    },
     "version": {
       "full": [
         266
@@ -30160,6 +30222,9 @@
     "unit_id": [
       16
     ],
+    "link": {
+      "spotify": "4j7odRkHNCaaKeVE3RkTdO"
+    },
     "version": {
       "full": [
         293
