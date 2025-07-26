@@ -499,7 +499,7 @@
     "tracklist": [
       [
         138,
-        "mktls-311",
+        306,
         186,
         "mktls-600",
         "mktls-601",
@@ -893,7 +893,7 @@
         41,
         186,
         138,
-        "mktls-311",
+        306,
         20,
         "mktls-330",
         "mktls-331",
@@ -5408,6 +5408,78 @@
     ],
     "link": [
       "https://bio.to/68Bvws"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 175,
+    "name": {
+      "alt": "2wink「来来☆2winkイリュージョン」",
+      "raw": "2wink「来来☆2winkイリュージョン」あんさんぶるスターズ！！ESアイドルソング season6"
+    },
+    "era": 2,
+    "volume": 4,
+    "unit_id": [
+      7
+    ],
+    "release_Date": "2025-06-27T00:00:00+09:00",
+    "tracklist": [
+      [
+        277,
+        "mktls-1469"
+      ]
+    ],
+    "link": [
+      "https://bio.to/UwwCxx"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 176,
+    "name": {
+      "alt": "Neptu「Deep into you」",
+      "raw": "Neptu「Deep into you」あんさんぶるスターズ!! ⁠SELECTION 10 UNIT SONG"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "Neptu",
+    "release_Date": "2025-07-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        296,
+        "mktls-1468"
+      ]
+    ],
+    "link": [
+      "https://bio.to/8KygFD"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 177,
+    "name": {
+      "alt": "UNDEAD「Wanderlust Sailing」",
+      "raw": "UNDEAD「Wanderlust Sailing」あんさんぶるスターズ！！ESアイドルソング season6"
+    },
+    "era": 2,
+    "volume": 5,
+    "unit_id": [
+      3
+    ],
+    "release_Date": "2025-07-13T00:00:00+09:00",
+    "tracklist": [
+      [
+        280,
+        "mktls-1470"
+      ]
+    ],
+    "link": [
+      "https://bio.to/0h7Z7u"
     ],
     "is_album": "FALSE"
   }
