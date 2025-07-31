@@ -11802,6 +11802,51 @@
   },
   {
     "compliant": "TRUE",
+    "id": 257,
+    "name": "君恋志願",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "瑠璃茉莉",
+    "character_id": [
+      [
+        28,
+        69,
+        8,
+        24,
+        11
+      ]
+    ],
+    "color": 4,
+    "difficulty": {
+      "easy": 7,
+      "normal": 13,
+      "hard": 18,
+      "expert": 25,
+      "expert_charttype": [
+        1
+      ]
+    },
+    "notes": {
+      "hard": 329,
+      "expert": 583
+    },
+    "lyric": "こだま さおり",
+    "composition": "MIMiNARI",
+    "arrangement": "MIMiNARI",
+    "event_id": 327,
+    "link": {
+      "youtube_3dmv": "https://youtu.be/PF5Oe8o1SKc",
+      "spotify": "1FpXk92XR1PgmCWnqZOxMB"
+    },
+    "order": 272,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
     "id": 179,
     "name": "年越しあんさんぶる！！2023→2024",
     "unit_id": [
@@ -30765,6 +30810,25 @@
       ]
     },
     "order": 1489,
+    "is_solomv": "FALSE",
+    "is_solo": "FALSE",
+    "has_game_edit": "FALSE",
+    "limited": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": "mktls-1471",
+    "name": "君恋志願",
+    "unit_id": [
+      101
+    ],
+    "unit_name": "瑠璃茉莉",
+    "version": {
+      "full": [
+        257
+      ]
+    },
+    "order": 1490,
     "is_solomv": "FALSE",
     "is_solo": "FALSE",
     "has_game_edit": "FALSE",
