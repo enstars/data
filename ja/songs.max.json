@@ -11828,6 +11828,8 @@
       ]
     },
     "notes": {
+      "easy": 135,
+      "normal": 205,
       "hard": 329,
       "expert": 583
     },
@@ -11838,6 +11840,9 @@
     "link": {
       "youtube_3dmv": "https://youtu.be/PF5Oe8o1SKc",
       "spotify": "1FpXk92XR1PgmCWnqZOxMB"
+    },
+    "version": {
+      "inst": "mktls-1471"
     },
     "order": 272,
     "is_solomv": "FALSE",
