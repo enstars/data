@@ -149,7 +149,7 @@
     "release_Date": "2015-12-23T00:00:00+09:00",
     "tracklist": [
       [
-        "mktls-307",
+        6,
         31,
         "mktls-566",
         "mktls-567",
@@ -827,7 +827,7 @@
     "release_Date": "2018-03-07T00:00:00+09:00",
     "tracklist": [
       [
-        "mktls-307",
+        6,
         31,
         45,
         83,
@@ -5480,6 +5480,193 @@
     ],
     "link": [
       "https://bio.to/0h7Z7u"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 178,
+    "name": {
+      "alt": "瑠璃茉莉「君恋志願」",
+      "raw": "瑠璃茉莉「君恋志願」あんさんぶるスターズ！！ シャッフルユニットソング"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "瑠璃茉莉",
+    "release_Date": "2025-07-29T00:00:00+09:00",
+    "tracklist": [
+      [
+        257,
+        "mktls-1471"
+      ]
+    ],
+    "link": [
+      "https://bio.to/aLH8NY"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 179,
+    "name": {
+      "alt": "PM6:∞「らびゅ&ピース伝説」",
+      "raw": "PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ!! ⁠SELECTION 10 UNIT SONG"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "PM6:∞",
+    "release_Date": "2025-08-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        297,
+        "mktls-1472"
+      ]
+    ],
+    "link": [
+      "https://bio.to/JqNgGO"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 180,
+    "name": {
+      "alt": "大神 晃牙「SCAB」",
+      "raw": "大神 晃牙「SCAB」あんさんぶるスターズ!! ESアイドルソング Solo -Bright me up!!-"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-08-10T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1473",
+        "mktls-1474"
+      ]
+    ],
+    "link": [
+      "https://bio.to/bHZ3Vu"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 181,
+    "name": {
+      "alt": "伏見 弓弦「ESCAPE」",
+      "raw": "伏見 弓弦「ESCAPE」あんさんぶるスターズ!! ESアイドルソング Solo -Bright me up!!-"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-08-25T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1475",
+        "mktls-1476"
+      ]
+    ],
+    "link": [
+      "https://bio.to/ODnohI"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 182,
+    "name": {
+      "alt": "Ra*bits「RaRaRa＊Station!」",
+      "raw": "Ra*bits「RaRaRa*Station!」あんさんぶるスターズ!! ESアイドルソング season6"
+    },
+    "era": 2,
+    "volume": 6,
+    "unit_id": [
+      6
+    ],
+    "release_Date": "2025-08-29T00:00:00+09:00",
+    "tracklist": [
+      [
+        278,
+        "mktls-1477"
+      ]
+    ],
+    "link": [
+      "https://bio.to/PzuHrQ"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 183,
+    "name": {
+      "alt": "GODASH「Ai☆$!!」",
+      "raw": "GODASH「Ai☆$!!」あんさんぶるスターズ!! ⁠SELECTION 10 UNIT SONG"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "unit_name": "GODASH",
+    "release_Date": "2025-09-09T00:00:00+09:00",
+    "tracklist": [
+      [
+        298,
+        "mktls-1478"
+      ]
+    ],
+    "link": [
+      "https://bio.to/UDi89M"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 184,
+    "name": {
+      "alt": "桜河 こはく「桜色のクレーム」",
+      "raw": "桜河 こはく「桜色のクレーム」あんさんぶるスターズ!! ESアイドルソング Solo -Bright me up!!-"
+    },
+    "era": 2,
+    "unit_id": [
+      101
+    ],
+    "release_Date": "2025-09-10T00:00:00+09:00",
+    "tracklist": [
+      [
+        "mktls-1479",
+        "mktls-1480"
+      ]
+    ],
+    "link": [
+      "https://bio.to/L1eadD"
+    ],
+    "is_album": "FALSE"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 185,
+    "name": {
+      "alt": "メランコリーを駆け抜けろ♥",
+      "raw": "メランコリーを駆け抜けろ♥"
+    },
+    "era": 2,
+    "unit_id": [
+      18
+    ],
+    "release_Date": "2025-09-11T00:00:00+09:00",
+    "tracklist": [
+      [
+        287
+      ]
+    ],
+    "link": [
+      "https://spri.lnk.to/Melancholywokakenukero"
     ],
     "is_album": "FALSE"
   }
