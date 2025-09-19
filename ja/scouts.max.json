@@ -8893,7 +8893,13 @@
       "cn": "2025-04-13T23:59:59+08:00"
     },
     "type": "original",
-    "story_author": "-"
+    "story_author": "-",
+    "banner_id": 90134,
+    "cards": [
+      90134,
+      90135,
+      90136
+    ]
   },
   {
     "compliant": "TRUE",
@@ -9551,6 +9557,350 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 549,
+    "name": "全能ACE／躍起",
+    "start": {
+      "jp": "2025-04-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-04-25T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "全能ACE",
+    "story_author": "-",
+    "related_id": [
+      548
+    ],
+    "event_id": 322,
+    "banner_id": 4316,
+    "cards": [
+      4316,
+      4317,
+      4318
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 548,
+    "name": "全能ACE／懸命",
+    "start": {
+      "jp": "2025-04-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-04-30T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "全能ACE",
+    "story_author": "-",
+    "related_id": [
+      549
+    ],
+    "event_id": 322,
+    "banner_id": 4319,
+    "cards": [
+      4319,
+      4320,
+      4321
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 551,
+    "name": "アンビバレンス／inspired",
+    "start": {
+      "jp": "2025-04-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-10T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "アンビバレンス",
+    "story_author": "-",
+    "related_id": [
+      550
+    ],
+    "event_id": 323,
+    "banner_id": 4346,
+    "cards": [
+      4346,
+      4347,
+      4348
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101149,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループA",
+    "start": {
+      "jp": "2025-04-29T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-03T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101150,
+      101151,
+      101152,
+      101153,
+      101154
+    ],
+    "banner_id": 4330,
+    "cards": [
+      4330,
+      4337,
+      4342
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 550,
+    "name": "アンビバレンス／empathy",
+    "start": {
+      "jp": "2025-04-29T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "アンビバレンス",
+    "story_author": "-",
+    "related_id": [
+      551
+    ],
+    "event_id": 323,
+    "banner_id": 4350,
+    "cards": [
+      4350,
+      4351,
+      4352
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101150,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループB",
+    "start": {
+      "jp": "2025-05-03T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-07T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101149,
+      101151,
+      101152,
+      101153,
+      101154
+    ],
+    "banner_id": 4332,
+    "cards": [
+      4332,
+      4334,
+      4343
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101151,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループC",
+    "start": {
+      "jp": "2025-05-07T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-11T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101149,
+      101150,
+      101152,
+      101153,
+      101154
+    ],
+    "banner_id": 4335,
+    "cards": [
+      4335,
+      4339,
+      4344
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101171,
+    "name": "SELECTION 10 UNIT SONG 01 記念スカウト『僕のウィーク・ポイント』グループA",
+    "start": {
+      "jp": "2025-05-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101175
+    ],
+    "banner_id": 4363,
+    "cards": [
+      4363,
+      4364,
+      4365
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101175,
+    "name": "SELECTION 10 UNIT SONG 01 記念スカウト『僕のウィーク・ポイント』グループB",
+    "start": {
+      "jp": "2025-05-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101171
+    ],
+    "banner_id": 4366,
+    "cards": [
+      4366,
+      4367,
+      4368,
+      4369
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 553,
+    "name": "夜雨クライシス／知勇",
+    "start": {
+      "jp": "2025-05-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-25T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "夜雨クライシス",
+    "story_author": "-",
+    "related_id": [
+      552
+    ],
+    "event_id": 324,
+    "banner_id": 4357,
+    "cards": [
+      4357,
+      4358,
+      4359
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101152,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループD",
+    "start": {
+      "jp": "2025-05-11T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-15T10:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101149,
+      101150,
+      101151,
+      101153,
+      101154
+    ],
+    "banner_id": 4329,
+    "cards": [
+      4329,
+      4333,
+      4338
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 552,
+    "name": "夜雨クライシス／不撓",
+    "start": {
+      "jp": "2025-05-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-30T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "夜雨クライシス",
+    "story_author": "-",
+    "related_id": [
+      553
+    ],
+    "event_id": 324,
+    "banner_id": 4360,
+    "cards": [
+      4360,
+      4361,
+      4362
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101153,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループE",
+    "start": {
+      "jp": "2025-05-15T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-19T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101149,
+      101150,
+      101151,
+      101152,
+      101154
+    ],
+    "banner_id": 4336,
+    "cards": [
+      4336,
+      4340,
+      4341
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101154,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第一弾 グループF",
+    "start": {
+      "jp": "2025-05-19T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-05-23T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101149,
+      101150,
+      101151,
+      101152,
+      101153
+    ],
+    "banner_id": 4331,
+    "cards": [
+      4331,
+      4345
+    ]
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000071,
     "name": "EVOLUTION～进化～",
     "start": {
@@ -9565,13 +9915,272 @@
       "kr": "2025-06-08T23:59:59+09:00",
       "tw": "2025-06-08T23:59:59+08:00"
     },
-    "type": "scout",
+    "type": "original",
     "story_author": "-",
     "banner_id": 90138,
     "cards": [
       90138,
       90139,
       90140
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 555,
+    "name": "荒地の翅／Bullet",
+    "start": {
+      "jp": "2025-05-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-06-10T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "荒地の翅",
+    "story_author": "-",
+    "related_id": [
+      554
+    ],
+    "event_id": 325,
+    "banner_id": 4377,
+    "cards": [
+      4377,
+      4378,
+      4379
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 554,
+    "name": "荒地の翅／Bullwhip",
+    "start": {
+      "jp": "2025-05-30T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-06-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "荒地の翅",
+    "story_author": "-",
+    "related_id": [
+      555
+    ],
+    "event_id": 325,
+    "banner_id": 4380,
+    "cards": [
+      4380,
+      4381,
+      4382
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101178,
+    "name": "SELECTION 10 UNIT SONG 02 記念スカウト『Graceful Punishment』",
+    "start": {
+      "jp": "2025-06-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-06-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "banner_id": 4393,
+    "cards": [
+      4393,
+      4394,
+      4395,
+      4396,
+      4397
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 557,
+    "name": "眩惑モジュレーション／SIGEL",
+    "start": {
+      "jp": "2025-06-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-06-25T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "眩惑モジュレーション",
+    "story_author": "-",
+    "related_id": [
+      556
+    ],
+    "event_id": 326,
+    "banner_id": 4387,
+    "cards": [
+      4387,
+      4388,
+      4389
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 556,
+    "name": "眩惑モジュレーション／LAGU",
+    "start": {
+      "jp": "2025-06-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-06-29T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "眩惑モジュレーション",
+    "story_author": "-",
+    "related_id": [
+      557
+    ],
+    "event_id": 326,
+    "banner_id": 4390,
+    "cards": [
+      4390,
+      4391,
+      4392
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 559,
+    "name": "万華ソリダリティー／discovery",
+    "start": {
+      "jp": "2025-06-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "万華ソリダリティー",
+    "story_author": "-",
+    "related_id": [
+      558,
+      561
+    ],
+    "event_id": 327,
+    "banner_id": 4402,
+    "cards": [
+      4402,
+      4403,
+      4404
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 558,
+    "name": "万華ソリダリティー／solve",
+    "start": {
+      "jp": "2025-06-29T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "万華ソリダリティー",
+    "story_author": "-",
+    "related_id": [
+      559,
+      561
+    ],
+    "event_id": 327,
+    "banner_id": 4405,
+    "cards": [
+      4405,
+      4406,
+      4407
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101186,
+    "name": "SELECTION 10 UNIT SONG 03 記念スカウト『Deep into you』 グループA",
+    "start": {
+      "jp": "2025-07-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101187
+    ],
+    "banner_id": 4426,
+    "cards": [
+      4426,
+      4427,
+      4428
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101187,
+    "name": "⁠SELECTION 10 UNIT SONG 03 記念スカウト『Deep into you』 グループB",
+    "start": {
+      "jp": "2025-07-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101186
+    ],
+    "banner_id": 4429,
+    "cards": [
+      4429,
+      4430,
+      4431,
+      4432
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 561,
+    "name": "万華ソリダリティー／pursuit",
+    "start": {
+      "jp": "2025-07-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-25T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "万華ソリダリティー",
+    "story_author": "-",
+    "related_id": [
+      559,
+      558
+    ],
+    "event_id": 328,
+    "banner_id": 4408,
+    "cards": [
+      4408,
+      4409,
+      4410
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 560,
+    "name": "熱視線",
+    "start": {
+      "jp": "2025-07-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-07-30T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "熱視線",
+    "story_author": "-",
+    "event_id": 328,
+    "banner_id": 4437,
+    "cards": [
+      4437,
+      4438,
+      4439,
+      4440
     ]
   },
   {
@@ -9588,7 +10197,7 @@
       "kr": "2025-08-03T23:59:59+09:00",
       "tw": "2025-08-03T23:59:59+08:00"
     },
-    "type": "scout",
+    "type": "original",
     "story_author": "-",
     "banner_id": 90141,
     "cards": [
@@ -9596,6 +10205,336 @@
       90142,
       90143,
       90144
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 563,
+    "name": "フィーチャースカウト 維吹編",
+    "start": {
+      "jp": "2025-07-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-10T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "南国の薫り、海を越えて",
+    "story_author": "-",
+    "event_id": 329,
+    "banner_id": 4441,
+    "cards": [
+      4441,
+      4442,
+      4443
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 562,
+    "name": "瑠璃茉莉",
+    "start": {
+      "jp": "2025-07-30T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "ナツコイ",
+    "story_author": "-",
+    "event_id": 329,
+    "banner_id": 4447,
+    "cards": [
+      4447,
+      4448
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101202,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第二弾 グループA",
+    "start": {
+      "jp": "2025-08-01T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-05T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101203,
+      101204,
+      101205
+    ],
+    "banner_id": 4415,
+    "cards": [
+      4415,
+      4419,
+      4422
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101203,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第二弾 グループB",
+    "start": {
+      "jp": "2025-08-05T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-09T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101202,
+      101204,
+      101205
+    ],
+    "banner_id": 4417,
+    "cards": [
+      4417,
+      4420,
+      4421
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101204,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第二弾 グループC",
+    "start": {
+      "jp": "2025-08-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-13T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101202,
+      101203,
+      101205
+    ],
+    "banner_id": 4416,
+    "cards": [
+      4416,
+      4423,
+      4425
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101208,
+    "name": "SELECTION 10 UNIT SONG 04 記念スカウト『らびゅ&ピース伝説』 グループA",
+    "start": {
+      "jp": "2025-08-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101209
+    ],
+    "banner_id": 4452,
+    "cards": [
+      4452,
+      4453,
+      4454
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101209,
+    "name": "SELECTION 10 UNIT SONG 04 記念スカウト『らびゅ&ピース伝説』 グループB",
+    "start": {
+      "jp": "2025-08-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "related_id": [
+      101208
+    ],
+    "banner_id": 4455,
+    "cards": [
+      4455,
+      4456,
+      4457
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 565,
+    "name": "Bright me up!!スカウト Stage:晃牙",
+    "start": {
+      "jp": "2025-08-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-25T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "ダセぇ俺様",
+    "story_author": "-",
+    "event_id": 330,
+    "banner_id": 4449,
+    "cards": [
+      4449,
+      4450,
+      4451
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101205,
+    "name": "ありがとう10周年！！Ensemble FES SCOUT！！ 第二弾 グループD",
+    "start": {
+      "jp": "2025-08-13T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-17T14:59:59+09:00"
+    },
+    "type": "anniv",
+    "story_author": "-",
+    "related_id": [
+      101202,
+      101203,
+      101204
+    ],
+    "banner_id": 4418,
+    "cards": [
+      4418,
+      4424
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 564,
+    "name": "鬼夜叉",
+    "start": {
+      "jp": "2025-08-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-08-30T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "鬼夜叉",
+    "story_author": "-",
+    "event_id": 330,
+    "banner_id": 4465,
+    "cards": [
+      4465,
+      4466,
+      4467,
+      4468
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 567,
+    "name": "Bright me up!!スカウト Stage:弓弦",
+    "start": {
+      "jp": "2025-08-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-09-10T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "可能性を模索して",
+    "story_author": "-",
+    "event_id": 331,
+    "banner_id": 4469,
+    "cards": [
+      4469,
+      4470,
+      4471
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 566,
+    "name": "Mythos - Look back -",
+    "start": {
+      "jp": "2025-08-30T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-09-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "Mythos",
+    "story_author": "-",
+    "event_id": 331,
+    "banner_id": 4476,
+    "cards": [
+      4476,
+      4477,
+      4478,
+      4479
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101212,
+    "name": "SELECTION 10 UNIT SONG 05 『Ai☆$!!』記念スカウト",
+    "start": {
+      "jp": "2025-09-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-09-22T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "banner_id": 4483,
+    "cards": [
+      4483,
+      4484,
+      4485,
+      4486,
+      4487
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 569,
+    "name": "Bright me up!!スカウト Stage:こはく",
+    "start": {
+      "jp": "2025-09-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-09-25T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "靴擦れと筋肉痛",
+    "story_author": "-",
+    "event_id": 332,
+    "banner_id": 4480,
+    "cards": [
+      4480,
+      4481,
+      4482
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 568,
+    "name": "ロイヤルフラッシュ",
+    "start": {
+      "jp": "2025-09-14T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-09-29T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "ロイヤルフラッシュ",
+    "story_author": "-",
+    "event_id": 332,
+    "banner_id": 4492,
+    "cards": [
+      4492,
+      4493,
+      4494,
+      4495
     ]
   }
 ]
