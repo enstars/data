@@ -33669,5 +33669,90 @@
         "name": "Pulsing with the Engine"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90150,
+    "title": "Joy in the Mortal Realm",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Bluebird, Harbinger of Joy"
+      },
+      "live": {
+        "name": "Deity in the Sky"
+      },
+      "support": {
+        "name": "Learn to Detect Lies"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90151,
+    "title": "Wander the Mortal Realm",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Fox, Weaver of Love"
+      },
+      "live": {
+        "name": "Deity on the Cloud"
+      },
+      "support": {
+        "name": "Unexpected Answer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90152,
+    "title": "Revel in the Mortal Realm",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "White Dove, Messenger of Wishes"
+      },
+      "live": {
+        "name": "Deity upon the Water"
+      },
+      "support": {
+        "name": "Wondrous Help"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90153,
+    "title": "Dream in the Mortal Realm",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Black Cat, Whisperer of Dreams"
+      },
+      "live": {
+        "name": "Deity over the Mountains"
+      },
+      "support": {
+        "name": "Disrupted Plan"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90154,
+    "title": "Dazzling Godhood",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Non-Human Trial Card"
+      },
+      "live": {
+        "name": "Universal Love"
+      },
+      "support": {
+        "name": "Other Side of the World"
+      }
+    }
   }
 ]
