@@ -31812,6 +31812,17 @@
     "id": 3521,
     "title": "Two Dreams",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Shadows of Crossed Paths"
+      },
+      "live": {
+        "name": "Ash & Rainbow Stardust"
+      },
+      "support": {
+        "name": "Double Techniques"
+      }
+    },
     "quote": {
       "n": "Prepared to be dazzled!",
       "e": "It's festival time!"
@@ -31822,6 +31833,17 @@
     "id": 3522,
     "title": "Two Wishes",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Mission of the Shadows"
+      },
+      "live": {
+        "name": "Dreams of Shining Stardust"
+      },
+      "support": {
+        "name": "Double Power"
+      }
+    },
     "quote": {
       "n": "Are you ready?",
       "e": "Time to hit the stage♪"
@@ -31831,13 +31853,35 @@
     "compliant": "TRUE",
     "id": 3586,
     "title": "Time Infused with Wishes",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Full-bloom Smile"
+      },
+      "live": {
+        "name": "Illuminated Path"
+      },
+      "support": {
+        "name": "Expression Training"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3587,
     "title": "Lemon-Flavored Detour",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Aroma on the Wind"
+      },
+      "live": {
+        "name": "Bursting Freshness"
+      },
+      "support": {
+        "name": "Honest Thoughts"
+      }
+    },
     "quote": {
       "n": "It's getting fun♪",
       "e": "You'll see the best of me~"
@@ -31848,9 +31892,56 @@
     "id": 3588,
     "title": "Restless Figure",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Finest Looks"
+      },
+      "live": {
+        "name": "Delicious Life"
+      },
+      "support": {
+        "name": "An Unexpected Reaction"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on HiMERU.",
       "e": "HiMERU will captivate everyone here."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3602,
+    "title": "Spending Private Time",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3603,
+    "title": "Rethinking Private Time",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3604,
+    "title": "Unforseen Private Time",
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3605,
+    "title": "Inviting Private Time",
+    "name": "Mitsuru Tenma",
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
