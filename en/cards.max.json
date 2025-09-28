@@ -24834,6 +24834,90 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3093,
+    "title": "Delight and Surprise",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Coin for the Future"
+      },
+      "live": {
+        "name": "Eichi's Special Skill"
+      },
+      "support": {
+        "name": "Business Chance"
+      }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3101,
+    "title": "Mettle and Surprise",
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Coin for Training"
+      },
+      "live": {
+        "name": "Jun's Special Skill"
+      },
+      "support": {
+        "name": "Certain Chance"
+      }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3103,
+    "title": "Quest and Surprise",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Coin for Finding"
+      },
+      "live": {
+        "name": "Yuta's Special Skill"
+      },
+      "support": {
+        "name": "Chance to Seize"
+      }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3110,
+    "title": "Shock and Surprise",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Coin for Not Bending"
+      },
+      "live": {
+        "name": "Kuro's Special Skill"
+      },
+      "support": {
+        "name": "Unique Chance"
+      }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3270,
     "title": "Childhood PORTRAIT",
     "name": "Makoto Yuuki",
@@ -31912,13 +31996,35 @@
     "compliant": "TRUE",
     "id": 3602,
     "title": "Spending Private Time",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Relax Room"
+      },
+      "live": {
+        "name": "Refined Time"
+      },
+      "support": {
+        "name": "Quick DIY"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3603,
     "title": "Rethinking Private Time",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Trouble Room"
+      },
+      "live": {
+        "name": "Favorite Space"
+      },
+      "support": {
+        "name": "Off-day Fun"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -31929,6 +32035,17 @@
     "id": 3604,
     "title": "Unforseen Private Time",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Remade Room"
+      },
+      "live": {
+        "name": "Place to Relax"
+      },
+      "support": {
+        "name": "Unexpected Fortune"
+      }
+    },
     "quote": {
       "n": "Leave it to me...!",
       "e": "RYUSEI Green, on my mark!"
@@ -31939,6 +32056,17 @@
     "id": 3605,
     "title": "Inviting Private Time",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Friendly Room"
+      },
+      "live": {
+        "name": "Energizing Fort"
+      },
+      "support": {
+        "name": "Senpai State of Mind"
+      }
+    },
     "quote": {
       "n": "Dash with me!",
       "e": "Dash, dash, dash~☆"
@@ -31952,6 +32080,86 @@
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3598,
+    "title": "Backroad to the Spotlight",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Ideals×Permanence"
+      },
+      "live": {
+        "name": "Entitled to Truth"
+      },
+      "support": {
+        "name": "Unhidden Truth"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3599,
+    "title": "Presenting Secret Tricks",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Reality×Change"
+      },
+      "live": {
+        "name": "Liar's Obligation"
+      },
+      "support": {
+        "name": "A Confusing Confession"
+      }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3600,
+    "title": "Reversed Look",
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Cooperation×Detachment"
+      },
+      "live": {
+        "name": "The Practice of Lying"
+      },
+      "support": {
+        "name": "Reliable Friends"
+      }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3601,
+    "title": "Backstage Declaration",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Conflict×Greed"
+      },
+      "live": {
+        "name": "Theory of Truth"
+      },
+      "support": {
+        "name": "A Confusing Discussion"
+      }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
