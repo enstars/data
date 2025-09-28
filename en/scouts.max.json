@@ -1341,6 +1341,13 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 474,
+    "name": "Private Room",
+    "story_name": "Private Room",
+    "story_author": "Nishioka Maiko"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000058,
     "name": "Jewel of Jekyll",
     "story_author": "-"

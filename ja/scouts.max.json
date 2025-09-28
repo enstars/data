@@ -10571,5 +10571,26 @@
       90152,
       90153
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 571,
+    "name": "Bright me up!!スカウト Stage:忍",
+    "start": {
+      "jp": "2025-09-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-10-10T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "ピンチはチャンスに",
+    "story_author": "-",
+    "event_id": 333,
+    "banner_id": 4496,
+    "cards": [
+      4496,
+      4497,
+      4498
+    ]
   }
 ]
