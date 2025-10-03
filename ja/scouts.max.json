@@ -10592,5 +10592,27 @@
       4497,
       4498
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 570,
+    "name": "Witchcraft",
+    "start": {
+      "jp": "2025-09-29T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-10-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_name": "Witchcraft",
+    "story_author": "-",
+    "event_id": 333,
+    "banner_id": 4503,
+    "cards": [
+      4503,
+      4504,
+      4505,
+      4506
+    ]
   }
 ]
