@@ -32164,6 +32164,191 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3523,
+    "title": "Grace of Angels",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "The Shining World Bestowed"
+      },
+      "live": {
+        "name": "Dream-Filled Love Song"
+      },
+      "support": {
+        "name": "The Orchestra of ''fine''"
+      }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3524,
+    "title": "Humor of Angels",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "A Shared Tale of Dreams"
+      },
+      "live": {
+        "name": "Future Leading to Joy"
+      },
+      "support": {
+        "name": "The Show of ''fine''"
+      }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3525,
+    "title": "Loveliness of Angels",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Time to Treasure"
+      },
+      "live": {
+        "name": "Envisioned Dawn of Promises"
+      },
+      "support": {
+        "name": "The Smile of ''fine''"
+      }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3526,
+    "title": "Beauty of Angels",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Where We Seek to Belong"
+      },
+      "live": {
+        "name": "Wings Seeking Each Other"
+      },
+      "support": {
+        "name": "The Experience of ''fine''"
+      }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3606,
+    "title": "Tomorrow's Scars",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Medals I've Earned"
+      },
+      "live": {
+        "name": "Work to Advance"
+      },
+      "support": {
+        "name": "Gazes Meet"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3607,
+    "title": "A Gentle Hand",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Woven Steps"
+      },
+      "live": {
+        "name": "Unexpected Development"
+      },
+      "support": {
+        "name": "Wholehearted Care"
+      }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3608,
+    "title": "Subtle Instinct",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "A Spy's Understanding"
+      },
+      "live": {
+        "name": "Execution of Duties"
+      },
+      "support": {
+        "name": "Secret Identity"
+      }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3624,
+    "title": "ES Idol 2",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3625,
+    "title": "ES Idol 2",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
