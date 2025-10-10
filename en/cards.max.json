@@ -32349,6 +32349,78 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3613,
+    "title": "The Auspicious Feast",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3614,
+    "title": "The Shining Land's Feast",
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3615,
+    "title": "The Feast for the News",
+    "name": "Hiyori Tomoe",
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3616,
+    "title": "The Feast of Daily Life",
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3609,
+    "title": "Eternal Holistic",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3610,
+    "title": "Creed Holistic",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3611,
+    "title": "Devotion Holistic",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3612,
+    "title": "Affection Holistic",
+    "name": "Mayoi Ayase",
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
