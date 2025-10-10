@@ -1348,6 +1348,24 @@
   },
   {
     "compliant": "TRUE",
+    "gacha_id": 100346,
+    "name": "TRIP Series: fine",
+    "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 475,
+    "name": "Featured Scout 2: Kuro",
+    "story_author": "Suika"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 476,
+    "name": "Feast Under the Veiled Moon",
+    "story_author": "Yuumasu"
+  },
+  {
+    "compliant": "TRUE",
     "gacha_id": 5000058,
     "name": "Jewel of Jekyll",
     "story_author": "-"
