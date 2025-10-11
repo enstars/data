@@ -10626,5 +10626,46 @@
       4505,
       4506
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 101234,
+    "name": "SELECTION 10 UNIT SONG 06 記念スカウト『It's (k)not lov?』",
+    "start": {
+      "jp": "2025-10-09T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-10-22T23:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "banner_id": 4510,
+    "cards": [
+      4510,
+      4511,
+      4512,
+      4513,
+      4514
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 573,
+    "name": "Bright me up!!スカウト Stage:宙",
+    "start": {
+      "jp": "2025-10-10T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-10-25T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "笑顔にできる自分",
+    "story_author": "-",
+    "banner_id": 4507,
+    "cards": [
+      4507,
+      4508,
+      4509
+    ]
   }
 ]
