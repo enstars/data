@@ -32175,7 +32175,7 @@
         "name": "Dream-Filled Love Song"
       },
       "support": {
-        "name": "The Orchestra of ''fine''"
+        "name": "The Orchestra of <i>fine</i>"
       }
     },
     "quote": {
@@ -32196,7 +32196,7 @@
         "name": "Future Leading to Joy"
       },
       "support": {
-        "name": "The Show of ''fine''"
+        "name": "The Show of <i>fine</i>"
       }
     },
     "quote": {
@@ -32217,7 +32217,7 @@
         "name": "Envisioned Dawn of Promises"
       },
       "support": {
-        "name": "The Smile of ''fine''"
+        "name": "The Smile of <i>fine</i>"
       }
     },
     "quote": {
@@ -32238,7 +32238,7 @@
         "name": "Wings Seeking Each Other"
       },
       "support": {
-        "name": "The Experience of ''fine''"
+        "name": "The Experience of <i>fine</i>"
       }
     },
     "quote": {
@@ -32351,13 +32351,35 @@
     "compliant": "TRUE",
     "id": 3613,
     "title": "The Auspicious Feast",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Invisible Bonds"
+      },
+      "live": {
+        "name": "Moon and Horizon"
+      },
+      "support": {
+        "name": "During my Days Off"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3614,
     "title": "The Shining Land's Feast",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Hidden Study Space"
+      },
+      "live": {
+        "name": "Day Off Together"
+      },
+      "support": {
+        "name": "Business Promotion"
+      }
+    },
     "quote": {
       "n": "Here I am~♪",
       "e": "Hehe, I am in my best shape♪"
@@ -32368,6 +32390,17 @@
     "id": 3615,
     "title": "The Feast for the News",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Hidden Consideration"
+      },
+      "live": {
+        "name": "Worries Follow"
+      },
+      "support": {
+        "name": "Man's Best Friend"
+      }
+    },
     "quote": {
       "n": "Be more obsessed with me!",
       "e": "Keep your eyes on me!"
@@ -32378,6 +32411,17 @@
     "id": 3616,
     "title": "The Feast of Daily Life",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Hidden Detachment"
+      },
+      "live": {
+        "name": "Endless Interest"
+      },
+      "support": {
+        "name": "A Cameraman's Skill"
+      }
+    },
     "quote": {
       "n": "Let's go...☆",
       "e": "Time for the show~!"
