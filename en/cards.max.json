@@ -32431,13 +32431,35 @@
     "compliant": "TRUE",
     "id": 3609,
     "title": "Eternal Holistic",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Dawning Memories"
+      },
+      "live": {
+        "name": "Night of Vows"
+      },
+      "support": {
+        "name": "My True Feelings"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3610,
     "title": "Creed Holistic",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Will Brought to Light"
+      },
+      "live": {
+        "name": "Night of Accomplished Missions"
+      },
+      "support": {
+        "name": "Hometown Secret Remedy"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -32448,6 +32470,17 @@
     "id": 3611,
     "title": "Devotion Holistic",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Clear Situation"
+      },
+      "live": {
+        "name": "Night of Recollection"
+      },
+      "support": {
+        "name": "Unbearable Meeting"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -32458,6 +32491,17 @@
     "id": 3612,
     "title": "Affection Holistic",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Glowing Flame"
+      },
+      "live": {
+        "name": "Night of Belonging"
+      },
+      "support": {
+        "name": "Wavering Heart"
+      }
+    },
     "quote": {
       "n": "This is my Ensemble!",
       "e": "Now, let the music resound!"
