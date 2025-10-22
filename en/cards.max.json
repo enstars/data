@@ -32509,6 +32509,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3617,
+    "title": "Sweet Happiness",
+    "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Fragrant Dusk"
+      },
+      "live": {
+        "name": "Shared Luck"
+      },
+      "support": {
+        "name": "Busy Decorating"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3618,
+    "title": "Wonderful Afternoon",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Changing Expressions"
+      },
+      "live": {
+        "name": "Link to the Real World"
+      },
+      "support": {
+        "name": "The Page Found"
+      }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3619,
+    "title": "Tangled Break Time",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Different Trainings"
+      },
+      "live": {
+        "name": "Unexpected Promise"
+      },
+      "support": {
+        "name": "Out of Tune"
+      }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
