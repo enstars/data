@@ -32568,6 +32568,148 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3633,
+    "title": "Stand-in Stepping Out",
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Your Influence"
+      },
+      "live": {
+        "name": "Return to Safety"
+      },
+      "support": {
+        "name": "Road to Resolution"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3634,
+    "title": "Determined Stand-in",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Your Sound by My Side"
+      },
+      "live": {
+        "name": "Watched-over Departure"
+      },
+      "support": {
+        "name": "The Fruit of Courage"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3635,
+    "title": "Tasked Stand-in",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Your Words for Me"
+      },
+      "live": {
+        "name": "Emotions on the Wind"
+      },
+      "support": {
+        "name": "Sharing Clues"
+      }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3636,
+    "title": "Advisory Stand-in",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Answers I Seek with You"
+      },
+      "live": {
+        "name": "Guided Destination"
+      },
+      "support": {
+        "name": "A Literal Consultation"
+      }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3626,
+    "title": "Serious CHANBARANIGHT",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3627,
+    "title": "Moonlit CHANBARANIGHT",
+    "name": "Ritsu Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3628,
+    "title": "Solid CHANBARANIGHT",
+    "name": "Yuzuru Fushimi",
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3629,
+    "title": "Sincere CHANBARANIGHT",
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3630,
+    "title": "Active CHANBARANIGHT",
+    "name": "Tori Himemiya",
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3631,
+    "title": "Bonded CHANBARANIGHT",
+    "name": "Mika Kagehira",
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3632,
+    "title": "Elegant CHANBARANIGHT",
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
