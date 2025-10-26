@@ -32650,19 +32650,52 @@
     "compliant": "TRUE",
     "id": 3626,
     "title": "Serious CHANBARANIGHT",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Reason for Showdown"
+      },
+      "live": {
+        "name": "Head-to-Head Night"
+      },
+      "support": {
+        "name": "Victory Declaration"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3627,
     "title": "Moonlit CHANBARANIGHT",
-    "name": "Ritsu Sakuma"
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Way of Showdown"
+      },
+      "live": {
+        "name": "Unmissable Night"
+      },
+      "support": {
+        "name": "Moonlit Will"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3628,
     "title": "Solid CHANBARANIGHT",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Duty of Showdown"
+      },
+      "live": {
+        "name": "Night of Surprises"
+      },
+      "support": {
+        "name": "Tea of Sympathy"
+      }
+    },
     "quote": {
       "n": "Please let me take it from here.",
       "e": "Please leave this to me."
@@ -32673,6 +32706,17 @@
     "id": 3629,
     "title": "Sincere CHANBARANIGHT",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Showdown Details"
+      },
+      "live": {
+        "name": "Night of Warmth"
+      },
+      "support": {
+        "name": "Incomprehensible History"
+      }
+    },
     "quote": {
       "n": "Here I go~!",
       "e": "I'll do my best for everyone's sake...♪"
@@ -32683,6 +32727,17 @@
     "id": 3630,
     "title": "Active CHANBARANIGHT",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Behind the Showdown"
+      },
+      "live": {
+        "name": "Relaxing Night"
+      },
+      "support": {
+        "name": "Desperate Climbing"
+      }
+    },
     "quote": {
       "n": "Attention on me♪",
       "e": "How do you like it?"
@@ -32693,6 +32748,17 @@
     "id": 3631,
     "title": "Bonded CHANBARANIGHT",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Intent of Showdown"
+      },
+      "live": {
+        "name": "Night of Discovery"
+      },
+      "support": {
+        "name": "Inn Exploration"
+      }
+    },
     "quote": {
       "n": "It's showtime!",
       "e": "I'm in top form♪"
@@ -32703,6 +32769,17 @@
     "id": 3632,
     "title": "Elegant CHANBARANIGHT",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Ideals of Showdown"
+      },
+      "live": {
+        "name": "Night of Friendship"
+      },
+      "support": {
+        "name": "Love-filled Home"
+      }
+    },
     "quote": {
       "n": "It's getting fun♪",
       "e": "You'll see the best of me~"
