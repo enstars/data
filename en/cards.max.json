@@ -34676,5 +34676,22 @@
         "name": "Other Side of the World"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97010,
+    "title": "Ghost Treat",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Leap Over Midnight"
+      },
+      "live": {
+        "name": "The Halloween Bread Party"
+      },
+      "support": {
+        "name": "Bedsheet Ghost"
+      }
+    }
   }
 ]
