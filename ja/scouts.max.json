@@ -10690,5 +10690,47 @@
       4523,
       4524
     ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 575,
+    "name": "Bright me up!!スカウト Stage:真緒",
+    "start": {
+      "jp": "2025-10-25T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-11-10T14:59:59+09:00"
+    },
+    "type": "feature scout",
+    "story_name": "寄り道、迷い道、その先の",
+    "story_author": "-",
+    "event_id": 335,
+    "banner_id": 4525,
+    "cards": [
+      4525,
+      4526,
+      4527
+    ]
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 574,
+    "name": "Arcadian",
+    "start": {
+      "jp": "2025-10-30T15:00:00+09:00"
+    },
+    "end": {
+      "jp": "2025-11-14T14:59:59+09:00"
+    },
+    "type": "scout",
+    "story_author": "-",
+    "event_id": 335,
+    "banner_id": 4542,
+    "cards": [
+      4542,
+      4543,
+      4544,
+      4545
+    ]
   }
 ]
