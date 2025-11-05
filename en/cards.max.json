@@ -32787,6 +32787,48 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3590,
+    "title": "The Guiding Valkyrie",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "All Forms of Love"
+      },
+      "live": {
+        "name": "Melody of Ugliness and Grace"
+      },
+      "support": {
+        "name": "Valkyrie's Main Axis"
+      }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3591,
+    "title": "The Beckoning Valkyrie",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Dream of Offering Everything"
+      },
+      "live": {
+        "name": "Masterpiece of Sin and Love"
+      },
+      "support": {
+        "name": "Valkyrie's Divergent Axis"
+      }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 3693,
     "title": "Burning Soul",
     "name": "Koga Oogami",
@@ -32804,6 +32846,65 @@
     "quote": {
       "n": "Let's go!",
       "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3637,
+    "title": "Kaleidoscope Heart",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Emanating Glow"
+      },
+      "live": {
+        "name": "Essence of Justice"
+      },
+      "support": {
+        "name": "Favorite Basketball Shoes"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3638,
+    "title": "Acts of Kindness",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Unyielding Resolve"
+      },
+      "live": {
+        "name": "A Baffling Gift"
+      },
+      "support": {
+        "name": "Dorm Phenomena"
+      }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3639,
+    "title": "Homeward Miracle",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Shining Winter Scenes"
+      },
+      "live": {
+        "name": "Gift of Fate"
+      },
+      "support": {
+        "name": "A Peculiar Season"
+      }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
