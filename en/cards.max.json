@@ -32919,6 +32919,166 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3644,
+    "title": "Made Mood",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "A Style of My Own"
+      },
+      "live": {
+        "name": "Pretty Attendant"
+      },
+      "support": {
+        "name": "Welcoming Chance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3645,
+    "title": "Made Energy",
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Charm of My Own"
+      },
+      "live": {
+        "name": "Fickle Waiter"
+      },
+      "support": {
+        "name": "Chores Pay Off"
+      }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3646,
+    "title": "Made Service",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "A Reason of My Own"
+      },
+      "live": {
+        "name": "Unstoppable Server"
+      },
+      "support": {
+        "name": "Precious Luggage"
+      }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3647,
+    "title": "Made Research",
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "A Proposal of My Own"
+      },
+      "live": {
+        "name": "Service Master"
+      },
+      "support": {
+        "name": "A Bit of Trivia"
+      }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3640,
+    "title": "Path of Insight",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Attained Aspiration"
+      },
+      "live": {
+        "name": "Arrogant Shadow"
+      },
+      "support": {
+        "name": "A Nostalgic Scene"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3641,
+    "title": "Path of Resolve",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Captured Aspiration"
+      },
+      "live": {
+        "name": "Restless Sin"
+      },
+      "support": {
+        "name": "Encounter with the Past"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3642,
+    "title": "Path of Transformation",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Realized Aspiration"
+      },
+      "live": {
+        "name": "Alluring Flame"
+      },
+      "support": {
+        "name": "Formal Address"
+      }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3643,
+    "title": "Path of Devotion",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Fulfilled Aspiration"
+      },
+      "live": {
+        "name": "Reckless Desire"
+      },
+      "support": {
+        "name": "Imagining the Near Future"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 99274,
     "title": "Blossoming Moment",
     "name": "Eichi Tenshouin",
