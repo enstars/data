@@ -32033,7 +32033,7 @@
   {
     "compliant": "TRUE",
     "id": 3604,
-    "title": "Unforseen Private Time",
+    "title": "Unforeseen Private Time",
     "name": "Midori Takamine",
     "skills": {
       "center": {
@@ -33075,6 +33075,32 @@
     "quote": {
       "n": "Let's go!",
       "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3648,
+    "title": "A Frolic to Blaze the Night",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3649,
+    "title": "Hidden Street Treasure",
+    "name": "Madara Mikejima",
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3650,
+    "title": "Flavored My Way",
+    "name": "Niki Shiina",
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
