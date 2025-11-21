@@ -33081,13 +33081,35 @@
     "compliant": "TRUE",
     "id": 3648,
     "title": "A Frolic to Blaze the Night",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Millennial Hymn"
+      },
+      "live": {
+        "name": "Eternal Reverie"
+      },
+      "support": {
+        "name": "Carefree Escort"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3649,
     "title": "Hidden Street Treasure",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Breeze of Vitality"
+      },
+      "live": {
+        "name": "Unveiled Presence"
+      },
+      "support": {
+        "name": "Negotiation Master"
+      }
+    },
     "quote": {
       "n": "Prepared to be dazzled!",
       "e": "It's festival time!"
@@ -33098,6 +33120,17 @@
     "id": 3650,
     "title": "Flavored My Way",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Dual Effect"
+      },
+      "live": {
+        "name": "Turn of Progress"
+      },
+      "support": {
+        "name": "Learning the Steps"
+      }
+    },
     "quote": {
       "n": "I step up when it's showtime~!",
       "e": "Nahaha, feeling pumped?"
@@ -33458,6 +33491,78 @@
       "support": {
         "name": "Traveler's Amulet"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3667,
+    "title": "The Smile-Inducing Color",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3668,
+    "title": "The Heartfelt Color",
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3669,
+    "title": "The Delightful Color",
+    "name": "Tomoya Mashiro",
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3670,
+    "title": "The Profound Color",
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3663,
+    "title": "The Unrivaled Stage",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3664,
+    "title": "The Skybound Stage",
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3665,
+    "title": "The Celestial Stage",
+    "name": "Souma Kanzaki",
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3666,
+    "title": "Discordant Harmony",
+    "name": "Koga Oogami",
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
