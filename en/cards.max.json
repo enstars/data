@@ -33497,13 +33497,35 @@
     "compliant": "TRUE",
     "id": 3667,
     "title": "The Smile-Inducing Color",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Symbol of Expression"
+      },
+      "live": {
+        "name": "My World in Vivid Hues"
+      },
+      "support": {
+        "name": "Teacher's Advice"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3668,
     "title": "The Heartfelt Color",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Symbol of Discovery"
+      },
+      "live": {
+        "name": "Colors on Canvas"
+      },
+      "support": {
+        "name": "Favorite Scenery"
+      }
+    },
     "quote": {
       "n": "HaHa~! Sora is ready to go!",
       "e": "HaHiHuHeHo~☆"
@@ -33514,6 +33536,17 @@
     "id": 3669,
     "title": "The Delightful Color",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Symbol of Capture"
+      },
+      "live": {
+        "name": "Crafting a Masterpiece"
+      },
+      "support": {
+        "name": "Seeking Painting Themes"
+      }
+    },
     "quote": {
       "n": "Here I go!",
       "e": "I can do it even better!"
@@ -33524,6 +33557,17 @@
     "id": 3670,
     "title": "The Profound Color",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Symbol of Reflection"
+      },
+      "live": {
+        "name": "Drawing Daily Life"
+      },
+      "support": {
+        "name": "A Proposal to a Rival"
+      }
+    },
     "quote": {
       "n": "Challenge accepted!",
       "e": "I pledge on my honor as a knight...!"
@@ -33533,13 +33577,35 @@
     "compliant": "TRUE",
     "id": 3663,
     "title": "The Unrivaled Stage",
-    "name": "Keito Hasumi"
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "History in Motion"
+      },
+      "live": {
+        "name": "Moment of Splendor"
+      },
+      "support": {
+        "name": "Seeking Assistance"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3664,
     "title": "The Skybound Stage",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Value in Action"
+      },
+      "live": {
+        "name": "Radiant Celebration"
+      },
+      "support": {
+        "name": "A Puzzling Topic"
+      }
+    },
     "quote": {
       "n": "Follow me!",
       "e": "One last swing for the win!"
@@ -33550,6 +33616,17 @@
     "id": 3665,
     "title": "The Celestial Stage",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Unshakable Faith"
+      },
+      "live": {
+        "name": "Splendid Night"
+      },
+      "support": {
+        "name": "Joy of Growth"
+      }
+    },
     "quote": {
       "n": "En garde!",
       "e": "Please look this way!"
@@ -33560,6 +33637,17 @@
     "id": 3666,
     "title": "Discordant Harmony",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Indomitable Spirit"
+      },
+      "live": {
+        "name": "Transcendent Feelings"
+      },
+      "support": {
+        "name": "Harvest Reward"
+      }
+    },
     "quote": {
       "n": "Let's go!",
       "e": "Over here!"
