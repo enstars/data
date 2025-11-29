@@ -33655,6 +33655,26 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3592,
+    "title": "Sparkling Twin Stars",
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3593,
+    "title": "Dazzling Twin Stars",
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97001,
     "title": "From the Abyss",
     "name": "Jun Sazanami",
