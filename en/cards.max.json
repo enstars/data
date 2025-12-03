@@ -33658,6 +33658,17 @@
     "id": 3592,
     "title": "Sparkling Twin Stars",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Eyes Forward"
+      },
+      "live": {
+        "name": "One Shot, Straight Ahead!"
+      },
+      "support": {
+        "name": "2wink's Sweet Side☆"
+      }
+    },
     "quote": {
       "n": "I'll show you what I got!",
       "e": "Do you like it♪"
@@ -33668,9 +33679,79 @@
     "id": 3593,
     "title": "Dazzling Twin Stars",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Never Backward"
+      },
+      "live": {
+        "name": "Flash, Clash, Sky Battle!"
+      },
+      "support": {
+        "name": "2wink's Spicy Side!"
+      }
+    },
     "quote": {
       "n": "Let's go...☆",
       "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3671,
+    "title": "Blooming Time",
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Youth Reflected"
+      },
+      "live": {
+        "name": "Fresh Blooms"
+      },
+      "support": {
+        "name": "Preferred Tastes"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3672,
+    "title": "Growth On Air",
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Determined to Finish"
+      },
+      "live": {
+        "name": "Roam Around on Stage"
+      },
+      "support": {
+        "name": "Youth Interview"
+      }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3673,
+    "title": "A Step of Challenge",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Repair-Minded Look"
+      },
+      "live": {
+        "name": "Value of Challenges"
+      },
+      "support": {
+        "name": "Clumsy Handiwork"
+      }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
