@@ -33756,6 +33756,78 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3678,
+    "title": "Warm Bear",
+    "name": "Hiyori Tomoe"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3679,
+    "title": "Energetic Bear",
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3680,
+    "title": "Considerate Bear",
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3681,
+    "title": "Relaxed Bear",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3674,
+    "title": "Xday of Action",
+    "name": "Hokuto Hidaka"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3675,
+    "title": "Xday of Memories",
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3676,
+    "title": "Xday of Discovery",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3677,
+    "title": "Xday of Growth",
+    "name": "Mao Isara",
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97001,
     "title": "From the Abyss",
     "name": "Jun Sazanami",
