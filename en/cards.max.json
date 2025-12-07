@@ -33758,13 +33758,35 @@
     "compliant": "TRUE",
     "id": 3678,
     "title": "Warm Bear",
-    "name": "Hiyori Tomoe"
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Exclusive Memory"
+      },
+      "live": {
+        "name": "Way to Fulfill Wishes"
+      },
+      "support": {
+        "name": "Snowball Accident"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3679,
     "title": "Energetic Bear",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Melodic Memory"
+      },
+      "live": {
+        "name": "Endless Winter Fun"
+      },
+      "support": {
+        "name": "Christmas Scenery"
+      }
+    },
     "quote": {
       "n": "Enjoy the music!",
       "e": "Wahaha! This is getting fun~♪"
@@ -33775,6 +33797,17 @@
     "id": 3680,
     "title": "Considerate Bear",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Festive Memory"
+      },
+      "live": {
+        "name": "Warm Inclusiveness"
+      },
+      "support": {
+        "name": "Promised to Behave"
+      }
+    },
     "quote": {
       "n": "Let's go!",
       "e": "Got it!"
@@ -33785,6 +33818,17 @@
     "id": 3681,
     "title": "Relaxed Bear",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "A Shot of Memory"
+      },
+      "live": {
+        "name": "Gentle Expression"
+      },
+      "support": {
+        "name": "Wintery Photos"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
@@ -33794,13 +33838,35 @@
     "compliant": "TRUE",
     "id": 3674,
     "title": "Xday of Action",
-    "name": "Hokuto Hidaka"
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Gift on Xmas Eve"
+      },
+      "live": {
+        "name": "A Well-planned Day"
+      },
+      "support": {
+        "name": "Sleeping Angels"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3675,
     "title": "Xday of Memories",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "The Best Gift"
+      },
+      "live": {
+        "name": "A Grateful Day"
+      },
+      "support": {
+        "name": "Snowy Streets"
+      }
+    },
     "quote": {
       "n": "Let's have a blast!",
       "e": "I'll do my best to shine on everyone!"
@@ -33811,6 +33877,17 @@
     "id": 3676,
     "title": "Xday of Discovery",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "A Song as a Gift"
+      },
+      "live": {
+        "name": "A Special Day"
+      },
+      "support": {
+        "name": "The Past Recalled"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
@@ -33821,6 +33898,17 @@
     "id": 3677,
     "title": "Xday of Growth",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "A Smile as a Gift"
+      },
+      "live": {
+        "name": "A Purposeful Day"
+      },
+      "support": {
+        "name": "Preparation Steps"
+      }
+    },
     "quote": {
       "n": "Leave it to me!",
       "e": "I'm confident in my flexibility♪"
