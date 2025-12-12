@@ -35320,31 +35320,86 @@
     "compliant": "TRUE",
     "id": 90146,
     "title": "Ignite Wonder",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Return"
+      },
+      "live": {
+        "name": "A Sip of Youth Keys"
+      },
+      "support": {
+        "name": "Nostalgic Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90147,
     "title": "Ignite True Self",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Continuation"
+      },
+      "live": {
+        "name": "A Sip of Youth Bass"
+      },
+      "support": {
+        "name": "Heartfelt Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90145,
     "title": "Ignite Excitement",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Reversal"
+      },
+      "live": {
+        "name": "A Sip of Youth Vox"
+      },
+      "support": {
+        "name": "Decisive Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90148,
     "title": "Ignite Vitality",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Novelty"
+      },
+      "live": {
+        "name": "A Sip of Youth Gtr"
+      },
+      "support": {
+        "name": "Bonding Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 90149,
     "title": "Ignite Happiness",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Friendship"
+      },
+      "live": {
+        "name": "A Sip of Youth Drums"
+      },
+      "support": {
+        "name": "Comfort Snacks"
+      }
+    }
   },
   {
     "compliant": "TRUE",
