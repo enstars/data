@@ -34137,6 +34137,46 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3594,
+    "title": "The Guiding Soldier",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3595,
+    "title": "The Loving Soldier",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3596,
+    "title": "The Yearning Soldier",
+    "name": "Mayoi Ayase",
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3597,
+    "title": "The Seeking Soldier",
+    "name": "Tatsumi Kazehaya",
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90101,
     "title": "Weaving Wishes",
     "name": "Shu Itsuki",
