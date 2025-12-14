@@ -34177,6 +34177,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3682,
+    "title": "Sign of Expectation",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3683,
+    "title": "Escape from the Gym",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3684,
+    "title": "Lecture Tricks",
+    "name": "Keito Hasumi",
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90101,
     "title": "Weaving Wishes",
     "name": "Shu Itsuki",
