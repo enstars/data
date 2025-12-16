@@ -34140,6 +34140,17 @@
     "id": 3594,
     "title": "The Guiding Soldier",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Colors of the World"
+      },
+      "live": {
+        "name": "The Miracle of Touch"
+      },
+      "support": {
+        "name": "The Purity of ALKALOID"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -34150,6 +34161,17 @@
     "id": 3595,
     "title": "The Loving Soldier",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Spirit of LOVE"
+      },
+      "live": {
+        "name": "Bond with the World"
+      },
+      "support": {
+        "name": "The Earnestness of ALKALOID"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -34160,6 +34182,17 @@
     "id": 3596,
     "title": "The Yearning Soldier",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Step into the Spotlight"
+      },
+      "live": {
+        "name": "Shining in the Dark"
+      },
+      "support": {
+        "name": "The Deliberation of ALKALOID"
+      }
+    },
     "quote": {
       "n": "This is my Ensemble!",
       "e": "Now, let the music resound!"
@@ -34170,6 +34203,17 @@
     "id": 3597,
     "title": "The Seeking Soldier",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Tender Strength"
+      },
+      "live": {
+        "name": "The Everlasting One"
+      },
+      "support": {
+        "name": "The Wisdom of ALKALOID"
+      }
+    },
     "quote": {
       "n": "I'll go through this trial!",
       "e": "Let me do my best!"
@@ -34179,13 +34223,35 @@
     "compliant": "TRUE",
     "id": 3682,
     "title": "Sign of Expectation",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Projected Spotlight"
+      },
+      "live": {
+        "name": "Veil of Night"
+      },
+      "support": {
+        "name": "Playful Times"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3683,
     "title": "Escape from the Gym",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Close Companion"
+      },
+      "live": {
+        "name": "Caring Heart"
+      },
+      "support": {
+        "name": "Friendship in Action"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -34196,6 +34262,17 @@
     "id": 3684,
     "title": "Lecture Tricks",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Valuable Intel"
+      },
+      "live": {
+        "name": "Reliable Mentor"
+      },
+      "support": {
+        "name": "Activity Schedule"
+      }
+    },
     "quote": {
       "n": "Wait and see what we've got!",
       "e": "Just leave this to me!"
