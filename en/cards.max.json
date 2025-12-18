@@ -34280,6 +34280,42 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3701,
+    "title": "Legend of the Great Gold",
+    "name": "Mika Kagehira"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3702,
+    "title": "Watcher of the Great Gold",
+    "name": "Mitsuru Tenma",
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3703,
+    "title": "Preacher of the Great Gold",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3704,
+    "title": "Helper of the Great Gold",
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90101,
     "title": "Weaving Wishes",
     "name": "Shu Itsuki",
