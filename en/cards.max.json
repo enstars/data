@@ -34282,13 +34282,35 @@
     "compliant": "TRUE",
     "id": 3701,
     "title": "Legend of the Great Gold",
-    "name": "Mika Kagehira"
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Skysoaring Dragon God"
+      },
+      "live": {
+        "name": "Legend of Machina"
+      },
+      "support": {
+        "name": "Complicated Twist"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3702,
     "title": "Watcher of the Great Gold",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Pursuing God"
+      },
+      "live": {
+        "name": "Thoughts on the Legend"
+      },
+      "support": {
+        "name": "Completed Homework"
+      }
+    },
     "quote": {
       "n": "Dash with me!",
       "e": "Dash, dash, dash~☆"
@@ -34299,6 +34321,17 @@
     "id": 3703,
     "title": "Preacher of the Great Gold",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Imagining God"
+      },
+      "live": {
+        "name": "The Legend Begins"
+      },
+      "support": {
+        "name": "Words That Matter"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -34309,9 +34342,82 @@
     "id": 3704,
     "title": "Helper of the Great Gold",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Supportive God"
+      },
+      "live": {
+        "name": "Legend Interpreted"
+      },
+      "support": {
+        "name": "Admirable Strength"
+      }
+    },
     "quote": {
       "n": "This is my power.",
       "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3694,
+    "title": "Board of Strategy",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3695,
+    "title": "Board of Tactics",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3696,
+    "title": "Board of Bets",
+    "name": "Rinne Amagi",
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3697,
+    "title": "Board of Fate",
+    "name": "Madara Mikejima",
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3698,
+    "title": "Board of Challenge",
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3699,
+    "title": "Board of Breakthrough",
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3700,
+    "title": "Board of Observation",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
