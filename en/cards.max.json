@@ -34362,19 +34362,52 @@
     "compliant": "TRUE",
     "id": 3694,
     "title": "Board of Strategy",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Where Dice Fall"
+      },
+      "live": {
+        "name": "Seeking Potential"
+      },
+      "support": {
+        "name": "Chair of the Meeting"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3695,
     "title": "Board of Tactics",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Dice Battle"
+      },
+      "live": {
+        "name": "Seeking Double Catch"
+      },
+      "support": {
+        "name": "Work Feels Off"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3696,
     "title": "Board of Bets",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Dice Outcome"
+      },
+      "live": {
+        "name": "Seeking Territory"
+      },
+      "support": {
+        "name": "Morning Greeting"
+      }
+    },
     "quote": {
       "n": "Kyahaha☆ This is my stage!",
       "e": "I'm gonna take all the limelight!"
@@ -34385,6 +34418,17 @@
     "id": 3697,
     "title": "Board of Fate",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Dice's Aim"
+      },
+      "live": {
+        "name": "Seeking Field"
+      },
+      "support": {
+        "name": "New Assignment"
+      }
+    },
     "quote": {
       "n": "Prepared to be dazzled!",
       "e": "It's festival time!"
@@ -34395,6 +34439,17 @@
     "id": 3698,
     "title": "Board of Challenge",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Dice Fate"
+      },
+      "live": {
+        "name": "Seeking Sequence"
+      },
+      "support": {
+        "name": "Stand-in's Disaster"
+      }
+    },
     "quote": {
       "n": "Let's go...☆",
       "e": "Time for the show~!"
@@ -34405,6 +34460,17 @@
     "id": 3699,
     "title": "Board of Breakthrough",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Dice Forcast"
+      },
+      "live": {
+        "name": "Play Seeker"
+      },
+      "support": {
+        "name": "Anticipated Reunion"
+      }
+    },
     "quote": {
       "n": "It's getting fun♪",
       "e": "You'll see the best of me~"
@@ -34415,6 +34481,17 @@
     "id": 3700,
     "title": "Board of Observation",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Dice Strategy"
+      },
+      "live": {
+        "name": "Seeking Dice Roll"
+      },
+      "support": {
+        "name": "Taste of Wellness"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
