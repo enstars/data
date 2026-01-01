@@ -34499,6 +34499,101 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3705,
+    "title": "Advancing on Stage",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Stages of Growth"
+      },
+      "live": {
+        "name": "Star of the Stage"
+      },
+      "support": {
+        "name": "The View from Here"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3706,
+    "title": "Brother's Resolve",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Playful Mischief"
+      },
+      "live": {
+        "name": "In Perfect Step"
+      },
+      "support": {
+        "name": "Ties with My Brother"
+      }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3707,
+    "title": "Joyful New Year",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Drawing Happiness"
+      },
+      "live": {
+        "name": "Hope for the New Year"
+      },
+      "support": {
+        "name": "Checking the Stalls"
+      }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3713,
+    "title": "Crane and Treasure",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3714,
+    "title": "Snow and Treasure",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3715,
+    "title": "Sky and Treasure",
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3716,
+    "title": "Earth and Treasure",
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90101,
     "title": "Weaving Wishes",
     "name": "Shu Itsuki",
