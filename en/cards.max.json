@@ -34560,13 +34560,35 @@
     "compliant": "TRUE",
     "id": 3713,
     "title": "Crane and Treasure",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Grateful Bloom"
+      },
+      "live": {
+        "name": "Guardian of the Great Tree"
+      },
+      "support": {
+        "name": "An Unfamiliar Figure"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3714,
     "title": "Snow and Treasure",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Guiding Bloom"
+      },
+      "live": {
+        "name": "Whispering Sunshower"
+      },
+      "support": {
+        "name": "The Youth on Stage"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
@@ -34577,6 +34599,17 @@
     "id": 3715,
     "title": "Sky and Treasure",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Rising Bloom"
+      },
+      "live": {
+        "name": "Roots of the Lotus"
+      },
+      "support": {
+        "name": "Handmade Cookies"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on me!",
       "e": "I'll take it from here!"
@@ -34587,9 +34620,66 @@
     "id": 3716,
     "title": "Earth and Treasure",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Revealed Bloom"
+      },
+      "live": {
+        "name": "Crimson Peak"
+      },
+      "support": {
+        "name": "Training Interval"
+      }
+    },
     "quote": {
       "n": "Follow me!",
       "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3708,
+    "title": "Fulfilled-Dream Stella",
+    "name": "Kanata Shinkai"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3709,
+    "title": "Singing-Night Stella",
+    "name": "Tetora Nagumo",
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3710,
+    "title": "Wishing-Sea Stella",
+    "name": "Chiaki Morisawa",
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3711,
+    "title": "Echoed-Isle Stella",
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3712,
+    "title": "Tender-Heart Stella",
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
