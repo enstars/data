@@ -34640,13 +34640,35 @@
     "compliant": "TRUE",
     "id": 3708,
     "title": "Fulfilled-Dream Stella",
-    "name": "Kanata Shinkai"
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Guiding Horizon"
+      },
+      "live": {
+        "name": "Reverb of the Sea"
+      },
+      "support": {
+        "name": "What I Hold Dear"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3709,
     "title": "Singing-Night Stella",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Expanding Horizon"
+      },
+      "live": {
+        "name": "Reverb of Memory"
+      },
+      "support": {
+        "name": "The One Awaited"
+      }
+    },
     "quote": {
       "n": "Let's go~!",
       "e": "I'll show you my mettle!"
@@ -34657,6 +34679,17 @@
     "id": 3710,
     "title": "Wishing-Sea Stella",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Gazing Horizon"
+      },
+      "live": {
+        "name": "Reverb of Justice"
+      },
+      "support": {
+        "name": "Secret at the Shore"
+      }
+    },
     "quote": {
       "n": "Burn your passion!",
       "e": "Let's go! BOOM!"
@@ -34667,6 +34700,17 @@
     "id": 3711,
     "title": "Echoed-Isle Stella",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Forward Horizon"
+      },
+      "live": {
+        "name": "Reverb of the World"
+      },
+      "support": {
+        "name": "The World's Reality"
+      }
+    },
     "quote": {
       "n": "Leave it to me...!",
       "e": "RYUSEI Green, on my mark!"
@@ -34677,6 +34721,17 @@
     "id": 3712,
     "title": "Tender-Heart Stella",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Perceived Horizon"
+      },
+      "live": {
+        "name": "Reverb of the Scenery"
+      },
+      "support": {
+        "name": "The Scheduler"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Follow my steps!"
