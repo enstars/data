@@ -34994,6 +34994,149 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3651,
+    "title": "Demon's Alluring Fang",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Awakening Shout"
+      },
+      "live": {
+        "name": "Past and Future"
+      },
+      "support": {
+        "name": "UNDEAD's Everlasting Darkness"
+      }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3652,
+    "title": "Demon's Fiery Gaze",
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Rebellious Waves"
+      },
+      "live": {
+        "name": "To the True You"
+      },
+      "support": {
+        "name": "UNDEAD's Night Breeze"
+      }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3653,
+    "title": "Demon's Sharp Claw",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Lone Radiance"
+      },
+      "live": {
+        "name": "Light on the Water"
+      },
+      "support": {
+        "name": "UNDEAD's Lone Wolf"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3654,
+    "title": "Demon's Soothing Song",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Love Aflame"
+      },
+      "live": {
+        "name": "Embrace It All"
+      },
+      "support": {
+        "name": "UNDEAD's Night Hawk"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3717,
+    "title": "A Rosy Rest",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Soothing Heartbeat"
+      },
+      "live": {
+        "name": "The True Self"
+      },
+      "support": {
+        "name": "Blissful Moments"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3718,
+    "title": "Summit Debut",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Roar of Dreams"
+      },
+      "live": {
+        "name": "Fresh Breeze Incoming"
+      },
+      "support": {
+        "name": "Words of a Stand-In"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3719,
+    "title": "Unexpected Performance",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Duet of Illusions"
+      },
+      "live": {
+        "name": "Impromptu Escort"
+      },
+      "support": {
+        "name": "Call of the Stage"
+      }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90100,
     "title": "Tender Invitation of Spring",
     "name": "Yuzuru Fushimi",
