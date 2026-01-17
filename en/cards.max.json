@@ -35137,6 +35137,122 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3724,
+    "title": "Honeymoon Café",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Whirlwind Love"
+      },
+      "live": {
+        "name": "Sweet Good Times"
+      },
+      "support": {
+        "name": "Resolve to Confess"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3725,
+    "title": "Feverish Café",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Nourishing Love"
+      },
+      "live": {
+        "name": "Tranquil Space"
+      },
+      "support": {
+        "name": "Familiar to the Unusual"
+      }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3726,
+    "title": "Affectionate Café",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Staged Love"
+      },
+      "live": {
+        "name": "Intentional Mischief"
+      },
+      "support": {
+        "name": "Heart-Stirring Feelings"
+      }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3727,
+    "title": "Pure Café",
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Confusing Love"
+      },
+      "live": {
+        "name": "Inferring Motives"
+      },
+      "support": {
+        "name": "An Unexpected Specialty"
+      }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3720,
+    "title": "Cyber Candy",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3721,
+    "title": "Imaginary Candy",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3722,
+    "title": "Space Candy",
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3723,
+    "title": "Disguised Candy",
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90100,
     "title": "Tender Invitation of Spring",
     "name": "Yuzuru Fushimi",
