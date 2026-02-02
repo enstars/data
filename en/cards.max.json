@@ -32077,6 +32077,17 @@
     "id": 3662,
     "title": "Cheer for the Fest",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "The Energizer of Office"
+      },
+      "live": {
+        "name": "Beloved Announcements"
+      },
+      "support": {
+        "name": "Workplace Improv"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
@@ -35226,6 +35237,17 @@
     "id": 3721,
     "title": "Imaginary Candy",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "A Place Transformed to Reality"
+      },
+      "live": {
+        "name": "Eyes of the Virtual"
+      },
+      "support": {
+        "name": "A Worrier's Instinct"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
@@ -35236,6 +35258,17 @@
     "id": 3722,
     "title": "Space Candy",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "A Truth Revealed by Reality"
+      },
+      "live": {
+        "name": "Eyes of Shared Emotions"
+      },
+      "support": {
+        "name": "A Season of Excitement"
+      }
+    },
     "quote": {
       "n": "WelL, let's gO.",
       "e": "It's my turN♪"
@@ -35246,6 +35279,17 @@
     "id": 3723,
     "title": "Disguised Candy",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "A Moment Pulled Back to Reality"
+      },
+      "live": {
+        "name": "Eyes of Digital Legacy"
+      },
+      "support": {
+        "name": "Thrilling News"
+      }
+    },
     "quote": {
       "n": "Here I go~!",
       "e": "I'll do my best for everyone's sake...♪"
@@ -35334,6 +35378,270 @@
       "support": {
         "name": "Detoured Blessing"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3655,
+    "title": "Bridge of the Moon",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Vivid Light"
+      },
+      "live": {
+        "name": "Threads to Tomorrow"
+      },
+      "support": {
+        "name": "AKATSUKI's Path"
+      }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3656,
+    "title": "The Moon and Martial Arts",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Shining Red Star"
+      },
+      "live": {
+        "name": "Threads of Bonds"
+      },
+      "support": {
+        "name": "AKATSUKI's Bastion"
+      }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3657,
+    "title": "Dream Stage of the Moon",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Everlasting Light"
+      },
+      "live": {
+        "name": "Dreamwoven Threads"
+      },
+      "support": {
+        "name": "AKATSUKI's Gale"
+      }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3728,
+    "title": "Star of Adventure",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Seeking Signal"
+      },
+      "live": {
+        "name": "Evolution Path"
+      },
+      "support": {
+        "name": "Nostalgic Melody"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3729,
+    "title": "Scented Memory",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Unforgettable Silhouette"
+      },
+      "live": {
+        "name": "Steadfast Conviction"
+      },
+      "support": {
+        "name": "Dance of Flame"
+      }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3730,
+    "title": "First-Visit Scenery",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "A Well-Received Habit"
+      },
+      "live": {
+        "name": "Awaited Reward"
+      },
+      "support": {
+        "name": "Cheering Voices"
+      }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3738,
+    "title": "Scent of the Spotlight",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Evocative Sweetness"
+      },
+      "live": {
+        "name": "Growing Knowledge"
+      },
+      "support": {
+        "name": "Proper Measurement"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3739,
+    "title": "Resonant Scent",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Lovely Sweetness"
+      },
+      "live": {
+        "name": "Acquired Knowledge"
+      },
+      "support": {
+        "name": "A Taste of Misunderstanding"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3740,
+    "title": "Impression Scent",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Rich Sweetness"
+      },
+      "live": {
+        "name": "Applied Knowledge"
+      },
+      "support": {
+        "name": "Feigning Innocence"
+      }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3741,
+    "title": "Warm Scent",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Mellow Sweetness"
+      },
+      "live": {
+        "name": "Proficient Knowledge"
+      },
+      "support": {
+        "name": "Innate Skill"
+      }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3731,
+    "title": "Plum Blossoms in Spring",
+    "name": "Mayoi Ayase"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3732,
+    "title": "Brilliant Plum Blossoms",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3733,
+    "title": "Budding Memories",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3734,
+    "title": "Blooming Plum Blossoms",
+    "name": "Adonis Otogari",
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3735,
+    "title": "Plum Blossoms of Early Spring",
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3736,
+    "title": "Plum Blossoms in Season",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3737,
+    "title": "Plum Blossoms in Full Bloom",
+    "name": "Tomoya Mashiro",
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
     }
   },
   {
