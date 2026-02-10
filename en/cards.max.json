@@ -35586,19 +35586,52 @@
     "compliant": "TRUE",
     "id": 3731,
     "title": "Plum Blossoms in Spring",
-    "name": "Mayoi Ayase"
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Sudden Snow"
+      },
+      "live": {
+        "name": "Reciprocal Feelings"
+      },
+      "support": {
+        "name": "Felt Weight"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3732,
     "title": "Brilliant Plum Blossoms",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Tender Snow"
+      },
+      "live": {
+        "name": "Earned Growth"
+      },
+      "support": {
+        "name": "Safekept Scroll"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3733,
     "title": "Budding Memories",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Soft Snow"
+      },
+      "live": {
+        "name": "True Self"
+      },
+      "support": {
+        "name": "Friendly Atmosphere"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
@@ -35609,6 +35642,17 @@
     "id": 3734,
     "title": "Blooming Plum Blossoms",
     "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Snow Out of Season"
+      },
+      "live": {
+        "name": "Answered Effort"
+      },
+      "support": {
+        "name": "Snow-Clearing Training"
+      }
+    },
     "quote": {
       "n": "Let's go!",
       "e": "Got it!"
@@ -35619,6 +35663,17 @@
     "id": 3735,
     "title": "Plum Blossoms of Early Spring",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Reflective Snow"
+      },
+      "live": {
+        "name": "Honored Promise"
+      },
+      "support": {
+        "name": "A Trusted Friend"
+      }
+    },
     "quote": {
       "n": "This is what I got!",
       "e": "Things are getting interesting."
@@ -35629,6 +35684,17 @@
     "id": 3736,
     "title": "Plum Blossoms in Season",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Snow Warm to the Heart"
+      },
+      "live": {
+        "name": "Shared Friendship"
+      },
+      "support": {
+        "name": "A Way Through Snowy Days"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -35639,6 +35705,17 @@
     "id": 3737,
     "title": "Plum Blossoms in Full Bloom",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Awaited Snow"
+      },
+      "live": {
+        "name": "This Answered Moment"
+      },
+      "support": {
+        "name": "The Joy of Being Trusted"
+      }
+    },
     "quote": {
       "n": "Here I go!",
       "e": "I can do it even better!"
@@ -35795,6 +35872,149 @@
       "support": {
         "name": "Cheer Dance"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3658,
+    "title": "Star of Conviction",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Chasing First Light"
+      },
+      "live": {
+        "name": "The Eternal Twinkle"
+      },
+      "support": {
+        "name": "Trickstar's Endless Drive"
+      }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3659,
+    "title": "Star of Splendor",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Unity of Smiles"
+      },
+      "live": {
+        "name": "Where Youth Dwells"
+      },
+      "support": {
+        "name": "Trickstar's Loving Smile"
+      }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3660,
+    "title": "Star of Composure",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Skyward Ambition"
+      },
+      "live": {
+        "name": "Encouraged Path"
+      },
+      "support": {
+        "name": "Trickstar's Keen Eye"
+      }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3661,
+    "title": "Star of Fellowship",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Shared Soul"
+      },
+      "live": {
+        "name": "Grateful Devotion"
+      },
+      "support": {
+        "name": "Trickstar's Cheerful Mind"
+      }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3742,
+    "title": "Starlit Depths",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "The Usual Seat"
+      },
+      "live": {
+        "name": "A Glimmer Ahead"
+      },
+      "support": {
+        "name": "Endless Thoughts"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3743,
+    "title": "A Touch of Sweetness",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "No Holding Back"
+      },
+      "live": {
+        "name": "A Relishing Response"
+      },
+      "support": {
+        "name": "Seeking Inspiration"
+      }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3744,
+    "title": "A Weapon of My Own",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "One of a Kind"
+      },
+      "live": {
+        "name": "An Answer for Change"
+      },
+      "support": {
+        "name": "Taste of Spice"
+      }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
