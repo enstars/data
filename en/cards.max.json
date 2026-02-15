@@ -36021,13 +36021,35 @@
     "compliant": "TRUE",
     "id": 3759,
     "title": "Overflowing with Love",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "White Symbol"
+      },
+      "live": {
+        "name": "Floating Down"
+      },
+      "support": {
+        "name": "Light of Ambition"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3760,
     "title": "Caught by Surprise",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Whitening Sky"
+      },
+      "live": {
+        "name": "Playful Snowflakes"
+      },
+      "support": {
+        "name": "Unexpected Draw"
+      }
+    },
     "quote": {
       "n": "Alright, let's go.",
       "e": "That's quite exciting, isn't it?"
@@ -36038,6 +36060,17 @@
     "id": 3761,
     "title": "Lost in Confusion",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Daylight Incident"
+      },
+      "live": {
+        "name": "Caressing Breeze"
+      },
+      "support": {
+        "name": "Hesitant Gift"
+      }
+    },
     "quote": {
       "n": "Behold!",
       "e": "Follow me!"
@@ -36048,6 +36081,17 @@
     "id": 3762,
     "title": "Bound by Friendship",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "White Feather's Chosen"
+      },
+      "live": {
+        "name": "Roaming Breeze"
+      },
+      "support": {
+        "name": "Draw Result"
+      }
+    },
     "quote": {
       "n": "WelL, let's gO.",
       "e": "It's my turN♪"
@@ -36057,13 +36101,35 @@
     "compliant": "TRUE",
     "id": 3755,
     "title": "Paradise's Guidance",
-    "name": "Nagisa Ran"
+    "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Future Hope"
+      },
+      "live": {
+        "name": "World of Purity"
+      },
+      "support": {
+        "name": "Reason to Be"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3756,
     "title": "Paradise's Guardian",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Branded Hope"
+      },
+      "live": {
+        "name": "Steps of Purity"
+      },
+      "support": {
+        "name": "Unwary Sleep"
+      }
+    },
     "quote": {
       "n": "The time is now!",
       "e": "Ready, fire!"
@@ -36074,6 +36140,17 @@
     "id": 3757,
     "title": "Paradise's Vision",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Unleashed Hope"
+      },
+      "live": {
+        "name": "Glory of Purity"
+      },
+      "support": {
+        "name": "A Friend's Crisis"
+      }
+    },
     "quote": {
       "n": "Be more obsessed with me!",
       "e": "Keep your eyes on me!"
@@ -36084,9 +36161,70 @@
     "id": 3758,
     "title": "Paradise's Evolution",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Trailblazing Hope"
+      },
+      "live": {
+        "name": "Evolution of Purity"
+      },
+      "support": {
+        "name": "Where the Eyes Lead"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on me!",
       "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3685,
+    "title": "Self-Driven Meteor",
+    "name": "Tetora Nagumo",
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3686,
+    "title": "Gentle Meteor",
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3687,
+    "title": "Sincere Meteor",
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3688,
+    "title": "Blazing Meteor",
+    "name": "Chiaki Morisawa",
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3689,
+    "title": "Nurtured Meteor",
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
