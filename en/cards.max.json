@@ -36246,6 +36246,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3763,
+    "title": "Gentle Melody",
+    "name": "Shu Itsuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3764,
+    "title": "Proof of Persistence",
+    "name": "Mao Isara",
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3765,
+    "title": "Entertainment Gambit",
+    "name": "Tomoya Mashiro",
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90108,
     "title": "Twilight Haze",
     "name": "HiMERU",
