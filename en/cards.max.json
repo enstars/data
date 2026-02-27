@@ -36182,6 +36182,17 @@
     "id": 3685,
     "title": "Self-Driven Meteor",
     "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Power of Passion"
+      },
+      "live": {
+        "name": "Singing at Dawn"
+      },
+      "support": {
+        "name": "RYUSEITAI Will Colors"
+      }
+    },
     "quote": {
       "n": "Let's go~!",
       "e": "I'll show you my mettle!"
@@ -36192,6 +36203,17 @@
     "id": 3686,
     "title": "Gentle Meteor",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Everlasting Passion"
+      },
+      "live": {
+        "name": "Passion of Self"
+      },
+      "support": {
+        "name": "RYUSEITAI Freedom Colors"
+      }
+    },
     "quote": {
       "n": "Leave it to me...!",
       "e": "RYUSEI Green, on my mark!"
@@ -36202,6 +36224,17 @@
     "id": 3687,
     "title": "Sincere Meteor",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Shared Passion"
+      },
+      "live": {
+        "name": "Light at the Horizon"
+      },
+      "support": {
+        "name": "RYUSEITAI Hope Colors"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Follow my steps!"
@@ -36212,6 +36245,17 @@
     "id": 3688,
     "title": "Blazing Meteor",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Recharged Passion"
+      },
+      "live": {
+        "name": "Symbiosis with Fate"
+      },
+      "support": {
+        "name": "RYUSEITAI Passion Colors"
+      }
+    },
     "quote": {
       "n": "Burn your passion!",
       "e": "Let's go! BOOM!"
@@ -36222,6 +36266,17 @@
     "id": 3689,
     "title": "Nurtured Meteor",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Immersed in Passion"
+      },
+      "live": {
+        "name": "Courage of Style"
+      },
+      "support": {
+        "name": "RYUSEITAI Dream Colors"
+      }
+    },
     "quote": {
       "n": "Here I am~♪",
       "e": "Hehe, I am in my best shape♪"
@@ -36248,13 +36303,35 @@
     "compliant": "TRUE",
     "id": 3763,
     "title": "Gentle Melody",
-    "name": "Shu Itsuki"
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "The Boundary with Fantasy"
+      },
+      "live": {
+        "name": "Ever-Drawn Ideals"
+      },
+      "support": {
+        "name": "Returned Favor"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3764,
     "title": "Proof of Persistence",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Trustworthy Reassurance"
+      },
+      "live": {
+        "name": "The Weight of Duty"
+      },
+      "support": {
+        "name": "Recognized Merit"
+      }
+    },
     "quote": {
       "n": "Leave it to me!",
       "e": "I'm confident in my flexibility♪"
@@ -36265,9 +36342,56 @@
     "id": 3765,
     "title": "Entertainment Gambit",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Unyielding Spirit"
+      },
+      "live": {
+        "name": "Life as Experience"
+      },
+      "support": {
+        "name": "Entrusted Seat"
+      }
+    },
     "quote": {
       "n": "Here I go!",
       "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3771,
+    "title": "Mysteries on Exhibition",
+    "name": "Rei Sakuma"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3772,
+    "title": "Discoveries on Exhibition",
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3773,
+    "title": "Enigmas on Exhibition",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3774,
+    "title": "Curiosities on Exhibition",
+    "name": "Mao Isara",
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
