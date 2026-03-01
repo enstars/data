@@ -36362,13 +36362,35 @@
     "compliant": "TRUE",
     "id": 3771,
     "title": "Mysteries on Exhibition",
-    "name": "Rei Sakuma"
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Moments of Memory"
+      },
+      "live": {
+        "name": "Youth on Canvas"
+      },
+      "support": {
+        "name": "Cheerful Reaction"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3772,
     "title": "Discoveries on Exhibition",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Moments of Warmth"
+      },
+      "live": {
+        "name": "Memories on Canvas"
+      },
+      "support": {
+        "name": "A Sudden Movement"
+      }
+    },
     "quote": {
       "n": "Leave it to me...!",
       "e": "RYUSEI Green, on my mark!"
@@ -36379,6 +36401,17 @@
     "id": 3773,
     "title": "Enigmas on Exhibition",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Moments Preserved"
+      },
+      "live": {
+        "name": "Reality on Canvas"
+      },
+      "support": {
+        "name": "A Photo Taken Together"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
@@ -36389,9 +36422,121 @@
     "id": 3774,
     "title": "Curiosities on Exhibition",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Moments of Encounter"
+      },
+      "live": {
+        "name": "A Place on Canvas"
+      },
+      "support": {
+        "name": "Consideration for the Artist"
+      }
+    },
     "quote": {
       "n": "Leave it to me!",
       "e": "I'm confident in my flexibility♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3766,
+    "title": "Golden Crown",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Resolute GAMBIT"
+      },
+      "live": {
+        "name": "Conviction Embraced"
+      },
+      "support": {
+        "name": "Endgame Aftermath"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3767,
+    "title": "Twilight Crown",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Resolute SACRIFICE"
+      },
+      "live": {
+        "name": "Bestowed Blade"
+      },
+      "support": {
+        "name": "Laws of the Cosmos"
+      }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3768,
+    "title": "Graceful Crown",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Resolute QUEENSIDE"
+      },
+      "live": {
+        "name": "Harvested Aspiration"
+      },
+      "support": {
+        "name": "Helping Others"
+      }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3769,
+    "title": "Crown of Faith",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Resolute PROMOTION"
+      },
+      "live": {
+        "name": "Restored Tone"
+      },
+      "support": {
+        "name": "Search Keywords"
+      }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3770,
+    "title": "Crown of the World",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Resolute LURING"
+      },
+      "live": {
+        "name": "A Given Spark"
+      },
+      "support": {
+        "name": "The Scary Side of Adulthood"
+      }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
