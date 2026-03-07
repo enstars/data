@@ -24335,7 +24335,7 @@
         "name": "Madara's Special Skill"
       },
       "support": {
-        "name": "Change to Begin"
+        "name": "Chance to Begin"
       }
     },
     "quote": {
@@ -30626,6 +30626,17 @@
     "id": 3513,
     "title": "Lucky Bee",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Thrilling Zone"
+      },
+      "live": {
+        "name": "Whimsical Rout"
+      },
+      "support": {
+        "name": "Crazy Spirit"
+      }
+    },
     "quote": {
       "n": "Kyahaha☆ This is my stage!",
       "e": "I'm gonna take all the limelight!"
@@ -30636,6 +30647,17 @@
     "id": 3514,
     "title": "Secret Bee",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Light of Desire"
+      },
+      "live": {
+        "name": "Reliable Travel Plan"
+      },
+      "support": {
+        "name": "Crazy Charm"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on HiMERU.",
       "e": "HiMERU will captivate everyone here."
@@ -30646,6 +30668,17 @@
     "id": 3515,
     "title": "Blossom-Dancing Bee",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Stage of Path"
+      },
+      "live": {
+        "name": "Meeting the Unknown"
+      },
+      "support": {
+        "name": "Crazy Connection"
+      }
+    },
     "quote": {
       "n": "Are you ready?",
       "e": "Time to hit the stage♪"
@@ -30656,6 +30689,17 @@
     "id": 3516,
     "title": "Hungry Bee",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Live Feast"
+      },
+      "live": {
+        "name": "Foodie Adventure"
+      },
+      "support": {
+        "name": "Taste of Crazy"
+      }
+    },
     "quote": {
       "n": "I step up when it's showtime~!",
       "e": "Nahaha, feeling pumped?"
@@ -35230,7 +35274,18 @@
     "compliant": "TRUE",
     "id": 3720,
     "title": "Cyber Candy",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "A World Connected to Reality"
+      },
+      "live": {
+        "name": "Eyes of Smiling Colors"
+      },
+      "support": {
+        "name": "Another Figure"
+      }
+    }
   },
   {
     "compliant": "TRUE",
@@ -36541,6 +36596,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3775,
+    "title": "Promising Road Ahead",
+    "name": "Kohaku Oukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3776,
+    "title": "Joy of Growing Up",
+    "name": "Mitsuru Tenma",
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3777,
+    "title": "Senior's Duty",
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90108,
     "title": "Twilight Haze",
     "name": "HiMERU",
@@ -37212,6 +37293,74 @@
   },
   {
     "compliant": "TRUE",
+    "id": 90141,
+    "title": "Shining Jumble",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Whirlpool's Core"
+      },
+      "live": {
+        "name": "The Guiding Jazz"
+      },
+      "support": {
+        "name": "The Real Plan"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90142,
+    "title": "Inspiring Jumble",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Whirlpool's Force"
+      },
+      "live": {
+        "name": "The Breakthrough Jazz"
+      },
+      "support": {
+        "name": "The Familiar Scent"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90143,
+    "title": "Baffling Jumble",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Whirlpool's Ripple"
+      },
+      "live": {
+        "name": "The Passive Jazz"
+      },
+      "support": {
+        "name": "The Definition of Luck"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90144,
+    "title": "Bracing Jumble",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Whirlpool's Tides"
+      },
+      "live": {
+        "name": "The Composed Jazz"
+      },
+      "support": {
+        "name": "The Restless Night"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90146,
     "title": "Ignite Wonder",
     "name": "Wataru Hibiki",
@@ -37411,6 +37560,108 @@
       },
       "support": {
         "name": "Bedsheet Ghost"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97011,
+    "title": "Child of the Snowfield",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Guide of Twinkling Stars"
+      },
+      "live": {
+        "name": "Trails of Shooting Stars"
+      },
+      "support": {
+        "name": "Starfall Night with You"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90159,
+    "title": "Awaiting Spring",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Spring on the Plains"
+      },
+      "live": {
+        "name": "A Festival We Made"
+      },
+      "support": {
+        "name": "Tale Reimagined"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90160,
+    "title": "Following Spring",
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Spring Under Blue Skies"
+      },
+      "live": {
+        "name": "Exciting Festival"
+      },
+      "support": {
+        "name": "A Tough Choice"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90161,
+    "title": "Seeking Spring",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Streets in Spring"
+      },
+      "live": {
+        "name": "Festival with Friends"
+      },
+      "support": {
+        "name": "A Different Hero Show"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90162,
+    "title": "Warmth of Spring",
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Spring at the Foothills"
+      },
+      "live": {
+        "name": "Enjoying Festival"
+      },
+      "support": {
+        "name": "A Test of Teamwork"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90163,
+    "title": "Pastime in Spring",
+    "name": "Koga Ogami",
+    "skills": {
+      "center": {
+        "name": "Corridors to Spring"
+      },
+      "live": {
+        "name": "The Footsteps of Spring"
+      },
+      "support": {
+        "name": "Afternoon Routine"
       }
     }
   }
