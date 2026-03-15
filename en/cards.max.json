@@ -36598,13 +36598,35 @@
     "compliant": "TRUE",
     "id": 3775,
     "title": "Promising Road Ahead",
-    "name": "Kohaku Oukawa"
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Piercing Gaze"
+      },
+      "live": {
+        "name": "Feelings Unbound"
+      },
+      "support": {
+        "name": "Gentle Breeze"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3776,
     "title": "Joy of Growing Up",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Within Reach"
+      },
+      "live": {
+        "name": "Steady Weight"
+      },
+      "support": {
+        "name": "Repaying Old Kindness"
+      }
+    },
     "quote": {
       "n": "Dash with me!",
       "e": "Dash, dash, dash~☆"
@@ -36615,9 +36637,239 @@
     "id": 3777,
     "title": "Senior's Duty",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Rising Answer"
+      },
+      "live": {
+        "name": "A Familiar Case"
+      },
+      "support": {
+        "name": "Unexpected Points"
+      }
+    },
     "quote": {
       "n": "This is what I got!",
       "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3785,
+    "title": "Signs of Bloom",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Unwritten Future"
+      },
+      "live": {
+        "name": "A Day in Motion"
+      },
+      "support": {
+        "name": "Helping Out at the Stall"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3786,
+    "title": "Joy of Performance",
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Raging Tide"
+      },
+      "live": {
+        "name": "Shared Sorrow"
+      },
+      "support": {
+        "name": "Fun at Camp"
+      }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3787,
+    "title": "One Stitch Forward",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Affection for Original Work"
+      },
+      "live": {
+        "name": "Name of Pride"
+      },
+      "support": {
+        "name": "Fruits of Effort"
+      }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3788,
+    "title": "Watching Eyes",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "The One Chased"
+      },
+      "live": {
+        "name": "A Little Too Close"
+      },
+      "support": {
+        "name": "Lively Moment at Work"
+      }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3778,
+    "title": "Fiery Dragon",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "The Unyielding Way"
+      },
+      "live": {
+        "name": "Dragon's Head of STAR PRO"
+      },
+      "support": {
+        "name": "Questionable Article"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3779,
+    "title": "Valiant Dragon",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Delinquent's Way"
+      },
+      "live": {
+        "name": "Dragon's Head of Rhyth Lin"
+      },
+      "support": {
+        "name": "Old Routine"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3780,
+    "title": "Fighting Dragon",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "The Professional Way"
+      },
+      "live": {
+        "name": "Strategist's Insight"
+      },
+      "support": {
+        "name": "Worthy Opponent"
+      }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3781,
+    "title": "Determined Dragon",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "The Ordinary Way"
+      },
+      "live": {
+        "name": "Leader's Rally"
+      },
+      "support": {
+        "name": "Shrouded Truth"
+      }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3782,
+    "title": "Upright Dragon",
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "My Own Way"
+      },
+      "live": {
+        "name": "Rising Star"
+      },
+      "support": {
+        "name": "Rally to Row"
+      }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3783,
+    "title": "Advancing Dragon",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "The Commentator's Way"
+      },
+      "live": {
+        "name": "Roaring at the Bow"
+      },
+      "support": {
+        "name": "Martial Arts Practice"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3784,
+    "title": "Leaping Dragon",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "The Swimmer's Way"
+      },
+      "live": {
+        "name": "Win or Lose"
+      },
+      "support": {
+        "name": "Racing Warm-Up"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
