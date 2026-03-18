@@ -37916,5 +37916,22 @@
         "name": "Afternoon Routine"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 97012,
+    "title": "Night of Prayer",
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Enforcer's Judgment"
+      },
+      "live": {
+        "name": "Form of Protection"
+      },
+      "support": {
+        "name": "Ever-Watchful Enforcer"
+      }
+    }
   }
 ]
