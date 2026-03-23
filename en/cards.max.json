@@ -36942,6 +36942,36 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3690,
+    "title": "Thrilling Magic",
+    "name": "Natsume Sakasaki",
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3691,
+    "title": "Soothing Magic",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3692,
+    "title": "Radiant Magic",
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90109,
     "title": "Moonlit Lavender",
     "name": "Arashi Narukami",
