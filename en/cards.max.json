@@ -36945,6 +36945,17 @@
     "id": 3690,
     "title": "Thrilling Magic",
     "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Fresh Morning"
+      },
+      "live": {
+        "name": "Colors of Seasons"
+      },
+      "support": {
+        "name": "Switch's Strategist"
+      }
+    },
     "quote": {
       "n": "WelL, let's gO.",
       "e": "It's my turN♪"
@@ -36955,6 +36966,17 @@
     "id": 3691,
     "title": "Soothing Magic",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Night to Tomorrow"
+      },
+      "live": {
+        "name": "Colors of Pure Dreams"
+      },
+      "support": {
+        "name": "Switch's Magnet"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
@@ -36965,10 +36987,124 @@
     "id": 3692,
     "title": "Radiant Magic",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Sunlit Noon"
+      },
+      "live": {
+        "name": "Rainbow Passion"
+      },
+      "support": {
+        "name": "Switch's Uplifter"
+      }
+    },
     "quote": {
       "n": "HaHa~! Sora is ready to go!",
       "e": "HaHiHuHeHo~☆"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3789,
+    "title": "Radiant Vibration",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Heartfelt Presence"
+      },
+      "live": {
+        "name": "A Moment to Remember"
+      },
+      "support": {
+        "name": "Secret Performance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3790,
+    "title": "Full-Power Punch",
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Signature Move"
+      },
+      "live": {
+        "name": "Rhythm is Key"
+      },
+      "support": {
+        "name": "Guidance of SHIN"
+      }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3791,
+    "title": "Unknown Game",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Something Irresistible"
+      },
+      "live": {
+        "name": "Adorable Hobby"
+      },
+      "support": {
+        "name": "Child's Domain"
+      }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3796,
+    "title": "A Star that Binds",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3797,
+    "title": "A Star that Shifts",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3798,
+    "title": "A Star That Points",
+    "name": "Tatsumi Kazehaya",
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3799,
+    "title": "A Star That Arrives",
+    "name": "Kohaku Oukawa",
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3792,
+    "title": "A Star in Pursuit",
+    "name": "Hiiro Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3793,
+    "title": "A Star That Guides",
+    "name": "Rinne Amagi"
   },
   {
     "compliant": "TRUE",
