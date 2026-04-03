@@ -37066,19 +37066,52 @@
     "compliant": "TRUE",
     "id": 3796,
     "title": "A Star that Binds",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Growing Blossoms"
+      },
+      "live": {
+        "name": "Flying Hearts"
+      },
+      "support": {
+        "name": "Reclaim the Captain"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3797,
     "title": "A Star that Shifts",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Bee's Haven"
+      },
+      "live": {
+        "name": "Flying Secrets"
+      },
+      "support": {
+        "name": "Unattainable Intel"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3798,
     "title": "A Star That Points",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Petals of Support"
+      },
+      "live": {
+        "name": "Flying Diamonds"
+      },
+      "support": {
+        "name": "Unattainable Intel"
+      }
+    },
     "quote": {
       "n": "I'll go through this trial!",
       "e": "Let me do my best!"
@@ -37089,6 +37122,17 @@
     "id": 3799,
     "title": "A Star That Arrives",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Bee's Perspective"
+      },
+      "live": {
+        "name": "Flying Experts"
+      },
+      "support": {
+        "name": "Guide to the Village"
+      }
+    },
     "quote": {
       "n": "Are you ready?",
       "e": "Time to hit the stage♪"
@@ -37098,13 +37142,77 @@
     "compliant": "TRUE",
     "id": 3792,
     "title": "A Star in Pursuit",
-    "name": "Hiiro Amagi"
+    "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Long-Forgotten Truths"
+      },
+      "live": {
+        "name": "Aligned Cards"
+      },
+      "support": {
+        "name": "Pre-Duel Handshake"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3793,
     "title": "A Star That Guides",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Held Knowledge"
+      },
+      "live": {
+        "name": "Aligned Partners"
+      },
+      "support": {
+        "name": "Ruler's Reflection"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3794,
+    "title": "A Star True to Itself",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Unveiled Secrets"
+      },
+      "live": {
+        "name": "Aligned Souls"
+      },
+      "support": {
+        "name": "Legends of the Old Village"
+      }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3795,
+    "title": "A Star That Reveals",
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Forged Insights"
+      },
+      "live": {
+        "name": "Aligned Joy"
+      },
+      "support": {
+        "name": "Extreme Condition"
+      }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
+    }
   },
   {
     "compliant": "TRUE",
