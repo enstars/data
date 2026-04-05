@@ -5944,7 +5944,7 @@
     },
     "quote": {
       "n": "It's Master~'s magic!",
-      "e": "Where are our treatures~?"
+      "e": "Where are our treasures~?"
     }
   },
   {
@@ -14689,6 +14689,10 @@
       "support": {
         "name": "Gifts for Friends"
       }
+    },
+    "quote": {
+      "n": "Hehe, I caught you.",
+      "e": "... Come and see this new vision."
     }
   },
   {
@@ -19944,7 +19948,7 @@
       }
     },
     "quote": {
-      "n": "The faster you deny it, the more suspicious you sound. ",
+      "n": "The faster you deny it, the more suspicious you sound.",
       "e": "Let my true self bloom."
     }
   },
@@ -22461,6 +22465,10 @@
       "support": {
         "name": "First Train"
       }
+    },
+    "quote": {
+      "n": "My hometown doesn't have trains.",
+      "e": "It's fun to learn more!"
     }
   },
   {
@@ -22796,7 +22804,7 @@
     },
     "quote": {
       "n": "This is the prettiest water balloon!",
-      "e": "The scene can even drive the heat away...♪"
+      "e": "The scene can even drive the heat away…♪"
     }
   },
   {
@@ -22961,6 +22969,10 @@
       "support": {
         "name": "Seiza Explanation"
       }
+    },
+    "quote": {
+      "n": "Oh, uh, um...",
+      "e": "I'll make sure you notice me."
     }
   },
   {
@@ -23361,6 +23373,10 @@
       "support": {
         "name": "Eager Assistant"
       }
+    },
+    "quote": {
+      "n": "Attack! RYUSEI Red, Chiaki Morisawa!",
+      "e": "You're enjoying the heat!"
     }
   },
   {
@@ -23443,8 +23459,8 @@
       }
     },
     "quote": {
-      "n": "Screw you!",
-      "e": "We're rivals, you know!"
+      "n": "Alright, do you like this?",
+      "e": "I won't give up!"
     }
   },
   {
@@ -23464,8 +23480,8 @@
       }
     },
     "quote": {
-      "n": "Alright, do you like this?",
-      "e": "I won't give up!"
+      "n": "Screw you!",
+      "e": "We're rivals, you know!"
     }
   },
   {
@@ -23609,6 +23625,10 @@
       "support": {
         "name": "Impulsive Discussion"
       }
+    },
+    "quote": {
+      "n": "Like this?",
+      "e": "What matters is to enjoy the challenge!"
     }
   },
   {
@@ -23668,6 +23688,10 @@
       "support": {
         "name": "Second Match"
       }
+    },
+    "quote": {
+      "n": "Let me have a try♪",
+      "e": "Hit me with everything you've got!"
     }
   },
   {
@@ -23706,6 +23730,10 @@
       "support": {
         "name": "Riverside Jogging"
       }
+    },
+    "quote": {
+      "n": "Huff, huff...",
+      "e": "That's what I was planning on!"
     }
   },
   {
@@ -23765,6 +23793,10 @@
       "support": {
         "name": "My Charm Point"
       }
+    },
+    "quote": {
+      "n": "What even is my appeal?",
+      "e": "Call my name! And keep your eyes on me!"
     }
   },
   {
@@ -23929,6 +23961,10 @@
       "support": {
         "name": "In the Mirror"
       }
+    },
+    "quote": {
+      "n": "You look great, Shinobu!",
+      "e": "I wanna catch that light."
     }
   },
   {
@@ -24009,6 +24045,10 @@
       "support": {
         "name": "Classroom Napping"
       }
+    },
+    "quote": {
+      "n": "So I was just dreaming.",
+      "e": "We will never betray those who support us."
     }
   },
   {
@@ -24194,6 +24234,10 @@
       "support": {
         "name": "A Friend's Wish"
       }
+    },
+    "quote": {
+      "n": "I'll present you with the supreme moment",
+      "e": "Enjoy the time we spend together...♪"
     }
   },
   {
@@ -24358,6 +24402,10 @@
       "support": {
         "name": "Distressing Knowledge"
       }
+    },
+    "quote": {
+      "n": "I decide to follow its instruction.",
+      "e": "It's nice to have a change of mood."
     }
   },
   {
@@ -24438,6 +24486,10 @@
       "support": {
         "name": "A Whole New World"
       }
+    },
+    "quote": {
+      "n": "You're saying silly things again...",
+      "e": "Enjoy yourself in this paradise!"
     }
   },
   {
@@ -24455,6 +24507,10 @@
       "support": {
         "name": "Following in Circles"
       }
+    },
+    "quote": {
+      "n": "What's that...?",
+      "e": "Yahooooooo!"
     }
   },
   {
@@ -24788,6 +24844,10 @@
       "support": {
         "name": "Special Memo"
       }
+    },
+    "quote": {
+      "n": "Let me nap a little longer, okay?",
+      "e": "Time for the thrilling stage!"
     }
   },
   {
@@ -24931,6 +24991,10 @@
       "support": {
         "name": "Innocent Gaze"
       }
+    },
+    "quote": {
+      "n": "Ah, brother!",
+      "e": "I'll show you what I got!"
     }
   },
   {
@@ -25007,6 +25071,10 @@
       "support": {
         "name": "Bizarre Experience"
       }
+    },
+    "quote": {
+      "n": "As I suspected, it wasn't my imagination.",
+      "e": "Please enjoy yourself tonight."
     }
   },
   {
@@ -25087,6 +25155,10 @@
       "support": {
         "name": "Warm Heartbeat"
       }
+    },
+    "quote": {
+      "n": "So fluffy and cuddly～",
+      "e": "Let's share more happiness!"
     }
   },
   {
@@ -25146,6 +25218,10 @@
       "support": {
         "name": "Childhood Gift"
       }
+    },
+    "quote": {
+      "n": "You're such a sharp kid.",
+      "e": "I see someone else in the mirror."
     }
   },
   {
@@ -25226,6 +25302,10 @@
       "support": {
         "name": "Top Horror Experience"
       }
+    },
+    "quote": {
+      "n": "... Hmph!",
+      "e": "I'll make you all my prisoners."
     }
   },
   {
@@ -25306,6 +25386,10 @@
       "support": {
         "name": "A Place for Inner Peace"
       }
+    },
+    "quote": {
+      "n": "Humph, such a shallow and dull observation.",
+      "e": "It is your turn to make your contribution."
     }
   },
   {
@@ -25344,6 +25428,10 @@
       "support": {
         "name": "Beloved Bread"
       }
+    },
+    "quote": {
+      "n": "It's a nice change of pace.",
+      "e": "Sing for this fruitful autumn...♪"
     }
   },
   {
@@ -25403,6 +25491,10 @@
       "support": {
         "name": "Distracting Color"
       }
+    },
+    "quote": {
+      "n": "Which one suits me best?",
+      "e": "Don't you think this scene is the most beautiful in the world?"
     }
   },
   {
@@ -25819,6 +25911,10 @@
       "support": {
         "name": "A Little Sister's Opinion"
       }
+    },
+    "quote": {
+      "n": "N-no way...",
+      "e": "Its value depends on the individual."
     }
   },
   {
@@ -25899,6 +25995,10 @@
       "support": {
         "name": "Present Planning"
       }
+    },
+    "quote": {
+      "n": "Praise me, please~!",
+      "e": "Santa Claus and ninjas are real...!"
     }
   },
   {
@@ -25916,6 +26016,10 @@
       "support": {
         "name": "Special Refuge"
       }
+    },
+    "quote": {
+      "n": "You're never supposed to do that...",
+      "e": "The miracle will surely happen."
     }
   },
   {
@@ -26059,6 +26163,10 @@
       "support": {
         "name": "An Amazing Trick"
       }
+    },
+    "quote": {
+      "n": "This isn't my heart swelling, it's a dove☆",
+      "e": "I will take you to any world you want♪"
     }
   },
   {
@@ -26118,6 +26226,10 @@
       "support": {
         "name": "Why I'm Uncertain"
       }
+    },
+    "quote": {
+      "n": "Hehe, how beautiful~",
+      "e": "I want to wish all of you a Merry Christmas."
     }
   },
   {
@@ -26156,6 +26268,10 @@
       "support": {
         "name": "That Christmas Feeling"
       }
+    },
+    "quote": {
+      "n": "Christmas... Hmph.",
+      "e": "Stay with us until the end. Merry Christmas."
     }
   },
   {
@@ -26215,6 +26331,10 @@
       "support": {
         "name": "Support All Around"
       }
+    },
+    "quote": {
+      "n": "I'll finish it right to the last stitch.",
+      "e": "I hope it's enjoyable♪"
     }
   },
   {
@@ -26274,6 +26394,10 @@
       "support": {
         "name": "Fate of Doubt"
       }
+    },
+    "quote": {
+      "n": "What's going on...?",
+      "e": "Do you want to try a controlled luck?"
     }
   },
   {
@@ -26354,6 +26478,10 @@
       "support": {
         "name": "Avoiding the Trap"
       }
+    },
+    "quote": {
+      "n": "That's so over for a greeting.",
+      "e": "Let's paint from here!"
     }
   },
   {
@@ -26434,6 +26562,10 @@
       "support": {
         "name": "Candid Shots"
       }
+    },
+    "quote": {
+      "n": "I want to see if you got any good shots.",
+      "e": "I'll capture your attention."
     }
   },
   {
@@ -26493,6 +26625,10 @@
       "support": {
         "name": "Emotional Recommendation"
       }
+    },
+    "quote": {
+      "n": "Sniff...  sob...",
+      "e": "Do you believe luck is on your side?"
     }
   },
   {
@@ -26573,6 +26709,10 @@
       "support": {
         "name": "Tea-Making Expert"
       }
+    },
+    "quote": {
+      "n": "I have prepared some tea~♪",
+      "e": "I'll lead you on an exciting new journey♪"
     }
   },
   {
@@ -26738,6 +26878,10 @@
       "support": {
         "name": "Favorite Scent"
       }
+    },
+    "quote": {
+      "n": "Have a nice chat with me, will you♪",
+      "e": "Envelope my song in love♪"
     }
   },
   {
@@ -26797,6 +26941,10 @@
       "support": {
         "name": "Cast Judge"
       }
+    },
+    "quote": {
+      "n": "Starting from what I just learned...",
+      "e": "I'll finish everything with finesse."
     }
   },
   {
@@ -26877,6 +27025,10 @@
       "support": {
         "name": "The Answer I Find"
       }
+    },
+    "quote": {
+      "n": "Another fun day working for the \"evil.\"",
+      "e": "This is my path!"
     }
   },
   {
@@ -27182,6 +27334,10 @@
       "support": {
         "name": "Caring for Vegetables"
       }
+    },
+    "quote": {
+      "n": "I know you are also being considerate.",
+      "e": "Let this stage warm your heart.…♪"
     }
   },
   {
@@ -27346,6 +27502,10 @@
       "support": {
         "name": "Needs and Negotiation"
       }
+    },
+    "quote": {
+      "n": "The essence should be its sweets, not our cutlery.",
+      "e": "There is no limit to creation."
     }
   },
   {
@@ -27447,6 +27607,10 @@
       "support": {
         "name": "Night of Soliloquys"
       }
+    },
+    "quote": {
+      "n": "... Damn. What am I even doing?",
+      "e": "Let me steal your heart♪"
     }
   },
   {
@@ -27527,6 +27691,10 @@
       "support": {
         "name": "A Star's Greeting"
       }
+    },
+    "quote": {
+      "n": "Looks like you're soaked, too.",
+      "e": "Keep improving for my future self."
     }
   },
   {
@@ -27586,6 +27754,10 @@
       "support": {
         "name": "Thank You Bundle"
       }
+    },
+    "quote": {
+      "n": "It's still a little while until White Day",
+      "e": "Sometimes it's hard to confess my feelings..."
     }
   },
   {
@@ -27666,6 +27838,10 @@
       "support": {
         "name": "A Novel Art"
       }
+    },
+    "quote": {
+      "n": "Why...",
+      "e": "As long as people can listen to our songs..."
     }
   },
   {
@@ -27933,6 +28109,10 @@
       "support": {
         "name": "Pick-me-up Bread"
       }
+    },
+    "quote": {
+      "n": "Would you like to eat with me?",
+      "e": "I have my own charms!"
     }
   },
   {
@@ -27992,6 +28172,10 @@
       "support": {
         "name": "Skilled Negotiator"
       }
+    },
+    "quote": {
+      "n": "Just as you see.",
+      "e": "Thank you so much for everything."
     }
   },
   {
@@ -28093,6 +28277,10 @@
       "support": {
         "name": "Open Bird Cage"
       }
+    },
+    "quote": {
+      "n": "Don't let them escape!",
+      "e": "Stand side by side and live on."
     }
   },
   {
@@ -28110,6 +28298,10 @@
       "support": {
         "name": "Tree that Blooms with Stars"
       }
+    },
+    "quote": {
+      "n": "Everything is shining...",
+      "e": "Shine brighter than ever!"
     }
   },
   {
@@ -28253,6 +28445,10 @@
       "support": {
         "name": "Festival Highlights"
       }
+    },
+    "quote": {
+      "n": "Welcome, everyone!",
+      "e": "Let's join the festive vibe!"
     }
   },
   {
@@ -28444,6 +28640,10 @@
       "support": {
         "name": "Aftertaste of Joy"
       }
+    },
+    "quote": {
+      "n": "I love everyone's smiling faces. I love composing music.",
+      "e": "Relish the present moment!"
     }
   },
   {
@@ -28503,6 +28703,10 @@
       "support": {
         "name": "Perfect Villain"
       }
+    },
+    "quote": {
+      "n": "It's a promise between the two of us...♪",
+      "e": "It's best to avoid being too careless, right?"
     }
   },
   {
@@ -28583,6 +28787,10 @@
       "support": {
         "name": "Unchanging Pace"
       }
+    },
+    "quote": {
+      "n": "Plop yourself next to your big brother♪",
+      "e": "Let's search for it together!"
     }
   },
   {
@@ -28748,6 +28956,10 @@
       "support": {
         "name": "A Bite to Share"
       }
+    },
+    "quote": {
+      "n": "You'll surely be satisfied, Sis♪",
+      "e": "Let's search for unknown tastes!"
     }
   },
   {
@@ -28807,6 +29019,10 @@
       "support": {
         "name": "Plan I Hold in My Heart"
       }
+    },
+    "quote": {
+      "n": "We have other opTIONS.",
+      "e": "I'll face the realiTY."
     }
   },
   {
@@ -28824,6 +29040,10 @@
       "support": {
         "name": "Unintentional Feelings"
       }
+    },
+    "quote": {
+      "n": "What's wrong with you...",
+      "e": "I'm happy to be your friend, Eichi♪"
     }
   },
   {
@@ -28883,6 +29103,10 @@
       "support": {
         "name": "Feathers in the Void"
       }
+    },
+    "quote": {
+      "n": "Isn't that all you wish for?",
+      "e": "You may learn a useful lesson from me, Sakasaki."
     }
   },
   {
@@ -28900,6 +29124,10 @@
       "support": {
         "name": "Stimulating Boredom Relief"
       }
+    },
+    "quote": {
+      "n": "Don't badmouth people with a grumpy face!",
+      "e": "Flowers can also grow on evil."
     }
   },
   {
@@ -28980,6 +29208,10 @@
       "support": {
         "name": "Idol Research"
       }
+    },
+    "quote": {
+      "n": "It's kind of calming.",
+      "e": "Can I convey my feelings, too?"
     }
   },
   {
@@ -29060,6 +29292,10 @@
       "support": {
         "name": "How to Find an Outfit"
       }
+    },
+    "quote": {
+      "n": "Unyaaaaah!?",
+      "e": "It's kinda embarrassing..."
     }
   },
   {
@@ -29140,6 +29376,10 @@
       "support": {
         "name": "Valuable Guidance"
       }
+    },
+    "quote": {
+      "n": "I-I know it already!",
+      "e": "You newbies will never reach my level♪"
     }
   },
   {
@@ -29241,6 +29481,10 @@
       "support": {
         "name": "Practice Photoshoot"
       }
+    },
+    "quote": {
+      "n": "Yay! I've doodled a lot of things here.",
+      "e": "You should seek for fun!"
     }
   },
   {
@@ -29300,6 +29544,10 @@
       "support": {
         "name": "Answers In My Mind"
       }
+    },
+    "quote": {
+      "n": "Now I just need to press the button...!",
+      "e": "Join the protagonist for the adventure!"
     }
   },
   {
@@ -29401,6 +29649,10 @@
       "support": {
         "name": "Dash to Victory"
       }
+    },
+    "quote": {
+      "n": "The explosions are going off just as I'm running!",
+      "e": "A happy endding that left everyone smiling...♪"
     }
   },
   {
@@ -29418,6 +29670,10 @@
       "support": {
         "name": "Pillow Fight Afterglow"
       }
+    },
+    "quote": {
+      "n": "Just pausing to take in the moment for a bit.",
+      "e": "We made it a huge success, didn't we? Morisawa♪"
     }
   },
   {
@@ -29540,6 +29796,10 @@
       "support": {
         "name": "The Me I Want to Show"
       }
+    },
+    "quote": {
+      "n": "Dreams are things you make happen by yourself.",
+      "e": "I'll grab everyone's attention!"
     }
   },
   {
@@ -29599,6 +29859,10 @@
       "support": {
         "name": "Budding Novelist"
       }
+    },
+    "quote": {
+      "n": "Strive to reach the top!",
+      "e": "Books broaden your horizons!"
     }
   },
   {
@@ -29700,6 +29964,10 @@
       "support": {
         "name": "Place in the Evening Breeze"
       }
+    },
+    "quote": {
+      "n": "I'll have to shut that mouth myself~",
+      "e": "Bring everyone in and sing!"
     }
   },
   {
@@ -29848,6 +30116,10 @@
       "support": {
         "name": "My True Motivation"
       }
+    },
+    "quote": {
+      "n": "Fine! I'll tell you about it!",
+      "e": "It'll reach you whenever you are♪"
     }
   },
   {
@@ -29907,6 +30179,10 @@
       "support": {
         "name": "No Help Needed"
       }
+    },
+    "quote": {
+      "n": "What should I do...",
+      "e": "Enjoy this transient clear sky."
     }
   },
   {
@@ -29987,6 +30263,10 @@
       "support": {
         "name": "Dreams in Slumber"
       }
+    },
+    "quote": {
+      "n": "Zzzzz...♪",
+      "e": "I'll make it someday!"
     }
   },
   {
@@ -30067,6 +30347,10 @@
       "support": {
         "name": "Sleepless Night"
       }
+    },
+    "quote": {
+      "n": "I got carried away in the excitement♪",
+      "e": "Give you all as an idol."
     }
   },
   {
@@ -30126,6 +30410,10 @@
       "support": {
         "name": "Delicious Magic"
       }
+    },
+    "quote": {
+      "n": "Master~, Senpai, thank you for always working so hard.",
+      "e": "Let's enjoy summer to the fullest♪"
     }
   },
   {
@@ -30206,6 +30494,10 @@
       "support": {
         "name": "The Carefree Secret"
       }
+    },
+    "quote": {
+      "n": "Are you messing with me, Morisawa?",
+      "e": "Let's keep the laid-back and happy vibe until the very end...☆"
     }
   },
   {
@@ -30307,6 +30599,10 @@
       "support": {
         "name": "Beach Visitor"
       }
+    },
+    "quote": {
+      "n": "I could watch it forever.",
+      "e": "The voice stays, the heart speaks."
     }
   },
   {
@@ -30366,6 +30662,10 @@
       "support": {
         "name": "Sky of Blessings"
       }
+    },
+    "quote": {
+      "n": "Looks like the rain's stopped.",
+      "e": "Cool off in the water!"
     }
   },
   {
@@ -30446,6 +30746,10 @@
       "support": {
         "name": "Wish to Live"
       }
+    },
+    "quote": {
+      "n": "Are you ready, my next meal~?!",
+      "e": "Yeah, we're all ready to go♪"
     }
   },
   {
@@ -30463,6 +30767,10 @@
       "support": {
         "name": "After the Turmoil"
       }
+    },
+    "quote": {
+      "n": "Ugh... I'm so hungry...",
+      "e": "Mmmm~! Tastyyyyy...♪"
     }
   },
   {
@@ -30720,6 +31028,10 @@
       "support": {
         "name": "Asleep or Awake"
       }
+    },
+    "quote": {
+      "n": "Hmmm... I didn't fall asleep, really",
+      "e": "I must show you what I've got."
     }
   },
   {
@@ -30779,6 +31091,10 @@
       "support": {
         "name": "Wandering Monster"
       }
+    },
+    "quote": {
+      "n": "I hope someone can respond",
+      "e": "Let me lead you into this world of illusions..."
     }
   },
   {
@@ -30859,6 +31175,10 @@
       "support": {
         "name": "New Parent"
       }
+    },
+    "quote": {
+      "n": "Guess that's karma, isn't it?",
+      "e": "Stay where you areeee!"
     }
   },
   {
@@ -31024,6 +31344,10 @@
       "support": {
         "name": "Morning Seaspray"
       }
+    },
+    "quote": {
+      "n": "The cold water feels refreshing!",
+      "e": "Sweat gives you confidence."
     }
   },
   {
@@ -31104,6 +31428,10 @@
       "support": {
         "name": "Warrior's March"
       }
+    },
+    "quote": {
+      "n": "Listen up!",
+      "e": "Seriously, whose throne is this?"
     }
   },
   {
@@ -31184,6 +31512,10 @@
       "support": {
         "name": "Messy Speech"
       }
+    },
+    "quote": {
+      "n": "You know who should be the next president, right?",
+      "e": "I'll make everyone's dream a reality."
     }
   },
   {
@@ -31348,6 +31680,10 @@
       "support": {
         "name": "Where Time Was Spent"
       }
+    },
+    "quote": {
+      "n": "This place can calm my minD...",
+      "e": "This is my magic and my worlD...♪"
     }
   },
   {
@@ -31407,6 +31743,10 @@
       "support": {
         "name": "The Bored God"
       }
+    },
+    "quote": {
+      "n": "I'm bored to melt.",
+      "e": "The memories gently unfurl in the sea."
     }
   },
   {
@@ -31487,6 +31827,10 @@
       "support": {
         "name": "A World of Flowers"
       }
+    },
+    "quote": {
+      "n": "Who do you think I am?",
+      "e": "For the sake of my beloved grandfather's honor."
     }
   },
   {
@@ -31567,6 +31911,10 @@
       "support": {
         "name": "Boisterous Days"
       }
+    },
+    "quote": {
+      "n": "You really did buy a lot.",
+      "e": "I'm standing right here, right now...!"
     }
   },
   {
@@ -31626,6 +31974,10 @@
       "support": {
         "name": "Unexpected Freebie"
       }
+    },
+    "quote": {
+      "n": "Don't mention it!",
+      "e": "Strength is essential for survival, you know?"
     }
   },
   {
@@ -31727,6 +32079,10 @@
       "support": {
         "name": "Stable Teamwork"
       }
+    },
+    "quote": {
+      "n": "I totally nailed that one!",
+      "e": "You're the last person I'm losing to!"
     }
   },
   {
@@ -31744,6 +32100,10 @@
       "support": {
         "name": "V for Victory"
       }
+    },
+    "quote": {
+      "n": "Make a VICTORY SIGN with me!",
+      "e": "We're the ones taking the win!"
     }
   },
   {
@@ -31992,6 +32352,10 @@
       "support": {
         "name": "Expression Training"
       }
+    },
+    "quote": {
+      "n": "Do a duet with me!",
+      "e": "I love it when I can sing and shine...☆"
     }
   },
   {
@@ -32051,6 +32415,10 @@
       "support": {
         "name": "Quick DIY"
       }
+    },
+    "quote": {
+      "n": "Time to put your money where your mouth is.",
+      "e": "This day is finally over..."
     }
   },
   {
@@ -32152,6 +32520,10 @@
       "support": {
         "name": "Unhidden Truth"
       }
+    },
+    "quote": {
+      "n": "I've always been this way, right?",
+      "e": "It was seriously a ton of fun~♪"
     }
   },
   {
@@ -32316,6 +32688,10 @@
       "support": {
         "name": "Gazes Meet"
       }
+    },
+    "quote": {
+      "n": "That's one less thing I have to worry about.",
+      "e": "I have to forge my own path...♪"
     }
   },
   {
@@ -32417,6 +32793,10 @@
       "support": {
         "name": "During my Days Off"
       }
+    },
+    "quote": {
+      "n": "Over here~ Say cheese...☆",
+      "e": "What's a good snack to go with this drink?"
     }
   },
   {
@@ -32497,6 +32877,10 @@
       "support": {
         "name": "My True Feelings"
       }
+    },
+    "quote": {
+      "n": "What I originally wanted to do—",
+      "e": "My heart will sing with gratitude."
     }
   },
   {
@@ -32577,6 +32961,10 @@
       "support": {
         "name": "Busy Decorating"
       }
+    },
+    "quote": {
+      "n": "I'll share happiness with you♪",
+      "e": "Wishes keep coming back around, right?"
     }
   },
   {
@@ -32636,6 +33024,10 @@
       "support": {
         "name": "Road to Resolution"
       }
+    },
+    "quote": {
+      "n": "... This letter could be a good choice.",
+      "e": "... I'll leave my wish in your hands."
     }
   },
   {
@@ -32716,6 +33108,10 @@
       "support": {
         "name": "Victory Declaration"
       }
+    },
+    "quote": {
+      "n": "Now this is a showdown!",
+      "e": "Let's go head-to-head...!"
     }
   },
   {
@@ -32733,6 +33129,10 @@
       "support": {
         "name": "Moonlit Will"
       }
+    },
+    "quote": {
+      "n": "Let's give this fight everything we've got!",
+      "e": "Game over, Ma~kun!"
     }
   },
   {
@@ -32918,6 +33318,10 @@
       "support": {
         "name": "Favorite Basketball Shoes"
       }
+    },
+    "quote": {
+      "n": "They suit me, don't they?",
+      "e": "Let's brighten everyone's hearts with color!"
     }
   },
   {
@@ -32987,6 +33391,10 @@
       "support": {
         "name": "Welcoming Chance"
       }
+    },
+    "quote": {
+      "n": "Hi, everyone♪",
+      "e": "Let me get you in the mood♪"
     }
   },
   {
@@ -33067,6 +33475,10 @@
       "support": {
         "name": "A Nostalgic Scene"
       }
+    },
+    "quote": {
+      "n": "You don't have to hold it in.",
+      "e": "This sweet night of wildness shall never end!"
     }
   },
   {
@@ -33147,6 +33559,10 @@
       "support": {
         "name": "Carefree Escort"
       }
+    },
+    "quote": {
+      "n": "Allow me to lend you a hand, my lady♪",
+      "e": "Let us gaze upon this shining moment!"
     }
   },
   {
@@ -33563,6 +33979,10 @@
       "support": {
         "name": "Teacher's Advice"
       }
+    },
+    "quote": {
+      "n": "I'll do my best I promise...",
+      "e": "Every shade is part of you!"
     }
   },
   {
@@ -33643,6 +34063,10 @@
       "support": {
         "name": "Seeking Assistance"
       }
+    },
+    "quote": {
+      "n": "Please consider helping with our program...!",
+      "e": "Here's AKATSUKI."
     }
   },
   {
@@ -33765,6 +34189,10 @@
       "support": {
         "name": "Preferred Tastes"
       }
+    },
+    "quote": {
+      "n": "Here, have some if you'd like.",
+      "e": "HiMERU will always stay perfect."
     }
   },
   {
@@ -33824,6 +34252,10 @@
       "support": {
         "name": "Snowball Accident"
       }
+    },
+    "quote": {
+      "n": "Tsumugi, flash a peace sign☆",
+      "e": "Some days are meant to be spent together, right?"
     }
   },
   {
@@ -33904,6 +34336,10 @@
       "support": {
         "name": "Sleeping Angels"
       }
+    },
+    "quote": {
+      "n": "Zzz...♪",
+      "e": "This time, I will push it through."
     }
   },
   {
@@ -34289,6 +34725,10 @@
       "support": {
         "name": "Playful Times"
       }
+    },
+    "quote": {
+      "n": "Aaah, I can just sit here?",
+      "e": "May this passion reaches you."
     }
   },
   {
@@ -34348,6 +34788,10 @@
       "support": {
         "name": "Complicated Twist"
       }
+    },
+    "quote": {
+      "n": "We're left with two gods instead~",
+      "e": "If you're set on the future, I'll be yer match."
     }
   },
   {
@@ -34428,6 +34872,10 @@
       "support": {
         "name": "Chair of the Meeting"
       }
+    },
+    "quote": {
+      "n": "Best luck to everyone...♪",
+      "e": "Utterly delightful, isn't it♪"
     }
   },
   {
@@ -34445,6 +34893,10 @@
       "support": {
         "name": "Work Feels Off"
       }
+    },
+    "quote": {
+      "n": "I've found out the trutH",
+      "e": "You'll take some serious daMAGE."
     }
   },
   {
@@ -34567,6 +35019,10 @@
       "support": {
         "name": "The View from Here"
       }
+    },
+    "quote": {
+      "n": "It's been a while since I rode the Ferris wheel.",
+      "e": "Please sit in the front row and watch me!"
     }
   },
   {
@@ -34626,6 +35082,10 @@
       "support": {
         "name": "An Unfamiliar Figure"
       }
+    },
+    "quote": {
+      "n": "How do I look in glasses?",
+      "e": "We finally made it here!"
     }
   },
   {
@@ -34706,6 +35166,10 @@
       "support": {
         "name": "What I Hold Dear"
       }
+    },
+    "quote": {
+      "n": "I guess we both have each other to thank.",
+      "e": "We'll protect you, you know?"
     }
   },
   {
@@ -35146,6 +35610,10 @@
       "support": {
         "name": "Blissful Moments"
       }
+    },
+    "quote": {
+      "n": "I'm a pretty lucky guy, aren't I?",
+      "e": "So I can always be the best Knight...♪"
     }
   },
   {
@@ -35205,6 +35673,10 @@
       "support": {
         "name": "Resolve to Confess"
       }
+    },
+    "quote": {
+      "n": "So please, do not fight over me!",
+      "e": "Welcome♪ Would you like some tea?"
     }
   },
   {
@@ -35285,6 +35757,10 @@
       "support": {
         "name": "Another Figure"
       }
+    },
+    "quote": {
+      "n": "You're looking fluffy and adorable~!",
+      "e": "If you like Sora come meet Sora!"
     }
   },
   {
@@ -35513,6 +35989,10 @@
       "support": {
         "name": "Nostalgic Melody"
       }
+    },
+    "quote": {
+      "n": "Feels like it was a long time ago.",
+      "e": "I’ll show you a whole new world!"
     }
   },
   {
@@ -35572,6 +36052,10 @@
       "support": {
         "name": "Proper Measurement"
       }
+    },
+    "quote": {
+      "n": "I need 30 grams of glutinous rice flour...",
+      "e": "Treat yourself to something sweet sometimes."
     }
   },
   {
@@ -35652,6 +36136,10 @@
       "support": {
         "name": "Felt Weight"
       }
+    },
+    "quote": {
+      "n": "Sorry for the trouble.",
+      "e": "I just need the courage to speak up."
     }
   },
   {
@@ -35669,6 +36157,10 @@
       "support": {
         "name": "Safekept Scroll"
       }
+    },
+    "quote": {
+      "n": "I'll give it to him later.",
+      "e": "I'll get stronger too."
     }
   },
   {
@@ -37216,6 +37708,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3800,
+    "title": "Defining Your Style",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3801,
+    "title": "A Distinct Charm",
+    "name": "Hiyori Tomoe",
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3802,
+    "title": "The Space Between Roommates",
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90109,
     "title": "Moonlit Lavender",
     "name": "Arashi Narukami",
@@ -37586,6 +38104,10 @@
       "support": {
         "name": "Abundant Individuality"
       }
+    },
+    "quote": {
+      "n": "Everyone brings their own unique spark!",
+      "e": "It's fun to create together with everyone!"
     }
   },
   {
@@ -37603,6 +38125,10 @@
       "support": {
         "name": "Idol Paragon"
       }
+    },
+    "quote": {
+      "n": "Thank you very much!",
+      "e": "Haha, nice singing."
     }
   },
   {
@@ -37641,6 +38167,10 @@
       "support": {
         "name": "Kindred Kindness"
       }
+    },
+    "quote": {
+      "n": "I've heard you loud and clear.",
+      "e": "Let's sing with no regret!"
     }
   },
   {
