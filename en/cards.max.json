@@ -10109,7 +10109,7 @@
   {
     "compliant": "TRUE",
     "id": 2603,
-    "title": "The Gentleness of Strength",
+    "title": "The gentleness of Strength",
     "name": "Adonis Otogari",
     "skills": {
       "center": {
@@ -37710,13 +37710,35 @@
     "compliant": "TRUE",
     "id": 3800,
     "title": "Defining Your Style",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Face-to-Face Time"
+      },
+      "live": {
+        "name": "Future Unfolding"
+      },
+      "support": {
+        "name": "Greengrocer's Star"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 3801,
     "title": "A Distinct Charm",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Playful Charm"
+      },
+      "live": {
+        "name": "New Form"
+      },
+      "support": {
+        "name": "Tea Compatibility"
+      }
+    },
     "quote": {
       "n": "Be more obsessed with me!",
       "e": "Keep your eyes on me!"
@@ -37727,6 +37749,17 @@
     "id": 3802,
     "title": "The Space Between Roommates",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Perfect Day Off"
+      },
+      "live": {
+        "name": "Free Space"
+      },
+      "support": {
+        "name": "Ringing Bell"
+      }
+    },
     "quote": {
       "n": "Alright, let's go.",
       "e": "That's quite exciting, isn't it?"
