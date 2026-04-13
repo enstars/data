@@ -37557,7 +37557,7 @@
   {
     "compliant": "TRUE",
     "id": 3796,
-    "title": "A Star that Binds",
+    "title": "A Star That Binds",
     "name": "Aira Shiratori",
     "skills": {
       "center": {
@@ -37574,7 +37574,7 @@
   {
     "compliant": "TRUE",
     "id": 3797,
-    "title": "A Star that Shifts",
+    "title": "A Star That Shifts",
     "name": "HiMERU",
     "skills": {
       "center": {
@@ -37601,7 +37601,7 @@
         "name": "Flying Diamonds"
       },
       "support": {
-        "name": "Unattainable Intel"
+        "name": "Unpredictable Tactic"
       }
     },
     "quote": {
@@ -37763,6 +37763,252 @@
     "quote": {
       "n": "Alright, let's go.",
       "e": "That's quite exciting, isn't it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4000,
+    "title": "An Idol",
+    "name": "Esu Sagiri",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4001,
+    "title": "An Idol",
+    "name": "Ibuki Taki",
+    "skills": {
+      "center": {
+        "name": "Vocal Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4002,
+    "title": "An Idol",
+    "name": "Kanna Natsu",
+    "skills": {
+      "center": {
+        "name": "Performance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Performance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4003,
+    "title": "An Idol",
+    "name": "Fuyume Hanamura",
+    "skills": {
+      "center": {
+        "name": "Dance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4004,
+    "title": "An Idol",
+    "name": "Raika Hojo",
+    "skills": {
+      "center": {
+        "name": "Vocal Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Vocal"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4005,
+    "title": "New Idol in ES",
+    "name": "Esu Sagiri",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4006,
+    "title": "New Idol in ES",
+    "name": "Ibuki Taki",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4007,
+    "title": "New Idol in ES",
+    "name": "Kanna Natsu",
+    "skills": {
+      "center": {
+        "name": "Vocal Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Glitter Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4008,
+    "title": "New Idol in ES",
+    "name": "Fuyume Hanamura",
+    "skills": {
+      "center": {
+        "name": "Performance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4009,
+    "title": "New Idol in ES",
+    "name": "Raika Hojo",
+    "skills": {
+      "center": {
+        "name": "Dance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4068,
+    "title": "Pact EVIL",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Trying NUM+"
+      },
+      "live": {
+        "name": "Whisper Temptation"
+      },
+      "support": {
+        "name": "New Event"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4065,
+    "title": "Dawn EVIL",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Seeking TELEPHONE"
+      },
+      "live": {
+        "name": "Whisper Negotiation"
+      },
+      "support": {
+        "name": "Devil's Fruit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4066,
+    "title": "Power EVIL",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Mischief TELEPHONE"
+      },
+      "live": {
+        "name": "Whisper Request"
+      },
+      "support": {
+        "name": "Dire Situation"
+      }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4067,
+    "title": "Temptation EVIL",
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Lessons in TELEPHONE"
+      },
+      "live": {
+        "name": "Whisper Desire"
+      },
+      "support": {
+        "name": "Brilliant Improvisation"
+      }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
