@@ -37954,6 +37954,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4069,
+    "title": "Balance EVIL",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Admiring NUM+"
+      },
+      "live": {
+        "name": "Whisper Cost"
+      },
+      "support": {
+        "name": "Avoiding Tardiness"
+      }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4065,
     "title": "Dawn EVIL",
     "name": "Natsume Sakasaki",
@@ -38009,6 +38030,72 @@
     "quote": {
       "n": "Here I go~!",
       "e": "I'll do my best for everyone's sake...♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3745,
+    "title": "Garden of Tenderness",
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3746,
+    "title": "Garden of Devotion",
+    "name": "Hiyori Tomoe",
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3747,
+    "title": "Garden of Longing",
+    "name": "Ibara Saegusa",
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3748,
+    "title": "Garding of Keeping",
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4070,
+    "title": "Perceiving Intelligence",
+    "name": "Kaoru Hakaze"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4071,
+    "title": "Intuitive Intelligence",
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4072,
+    "title": "Probing Intelligence",
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
