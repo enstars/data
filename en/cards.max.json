@@ -38037,6 +38037,17 @@
     "id": 3745,
     "title": "Garden of Tenderness",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Embrace Knowledge"
+      },
+      "live": {
+        "name": "Dance in Flames"
+      },
+      "support": {
+        "name": "Eden's Strength"
+      }
+    },
     "quote": {
       "n": "This is my power.",
       "e": "Can you keep up with me?"
@@ -38047,6 +38058,17 @@
     "id": 3746,
     "title": "Garden of Devotion",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Embrace Love"
+      },
+      "live": {
+        "name": "Our Radiant Selves"
+      },
+      "support": {
+        "name": "Eden's Elegance"
+      }
+    },
     "quote": {
       "n": "Be more obsessed with me!",
       "e": "Keep your eyes on me!"
@@ -38057,6 +38079,17 @@
     "id": 3747,
     "title": "Garden of Longing",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Inner Drive"
+      },
+      "live": {
+        "name": "Cheers to Every Flavor"
+      },
+      "support": {
+        "name": "Eden's Intellect"
+      }
+    },
     "quote": {
       "n": "The time is now!",
       "e": "Ready, fire!"
@@ -38065,8 +38098,19 @@
   {
     "compliant": "TRUE",
     "id": 3748,
-    "title": "Garding of Keeping",
+    "title": "Garden of Keeping",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Open Heart"
+      },
+      "live": {
+        "name": "An Irresistible Call"
+      },
+      "support": {
+        "name": "Eden's Insight"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on me!",
       "e": "I'll take it from here!"
@@ -38076,13 +38120,35 @@
     "compliant": "TRUE",
     "id": 4070,
     "title": "Perceiving Intelligence",
-    "name": "Kaoru Hakaze"
+    "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Deduction Path"
+      },
+      "live": {
+        "name": "Piercing Intellect"
+      },
+      "support": {
+        "name": "Counter Master"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4071,
     "title": "Intuitive Intelligence",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Deduction Hint"
+      },
+      "live": {
+        "name": "Glimpse of Intellect"
+      },
+      "support": {
+        "name": "Aquarium Graduate"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on me!",
       "e": "I'll take it from here!"
@@ -38093,6 +38159,17 @@
     "id": 4072,
     "title": "Probing Intelligence",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Deduction Shortcut"
+      },
+      "live": {
+        "name": "Spark of Intellect"
+      },
+      "support": {
+        "name": "Proof of Charm"
+      }
+    },
     "quote": {
       "n": "Here I am~♪",
       "e": "Hehe, I am in my best shape♪"
