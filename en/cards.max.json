@@ -38177,6 +38177,109 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4073,
+    "title": "Enticing Intelligence",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Step Toward Resolution"
+      },
+      "live": {
+        "name": "Sharpened Intellect"
+      },
+      "support": {
+        "name": "Refined Footwork"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4074,
+    "title": "Creative Intelligence",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Clue to the Resolution"
+      },
+      "live": {
+        "name": "Crafted Intellect"
+      },
+      "support": {
+        "name": "A Place for Creation"
+      }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4075,
+    "title": "Confident Intelligence",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Move Toward Resolution"
+      },
+      "live": {
+        "name": "Critical Intellect"
+      },
+      "support": {
+        "name": "Surprising Identity"
+      }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4076,
+    "title": "Dancing Ballroom",
+    "name": "Mao Isara"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4077,
+    "title": "Melodic Ballroom",
+    "name": "Leo Tsukinaga"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4078,
+    "title": "Adventure Ballroom",
+    "name": "Esu Sagiri"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4079,
+    "title": "Dreamlike Ballroom",
+    "name": "Fuyume Hanamura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4080,
+    "title": "Sparkling Ballroom",
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4081,
+    "title": "Elegant Ballroom",
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90109,
     "title": "Moonlit Lavender",
     "name": "Arashi Narukami",
