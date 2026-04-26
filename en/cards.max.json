@@ -38238,31 +38238,86 @@
     "compliant": "TRUE",
     "id": 4076,
     "title": "Dancing Ballroom",
-    "name": "Mao Isara"
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Effort Piece"
+      },
+      "live": {
+        "name": "Charming PRINCESS"
+      },
+      "support": {
+        "name": "Star Arrival"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4077,
     "title": "Melodic Ballroom",
-    "name": "Leo Tsukinaga"
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Discovery Piece"
+      },
+      "live": {
+        "name": "Approaching PRINCESS"
+      },
+      "support": {
+        "name": "Dance Mastery"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4078,
     "title": "Adventure Ballroom",
-    "name": "Esu Sagiri"
+    "name": "Esu Sagiri",
+    "skills": {
+      "center": {
+        "name": "Surprise Piece"
+      },
+      "live": {
+        "name": "Expectant PRINCESS"
+      },
+      "support": {
+        "name": "Grand Adventure"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4079,
     "title": "Dreamlike Ballroom",
-    "name": "Fuyume Hanamura"
+    "name": "Fuyume Hanamura",
+    "skills": {
+      "center": {
+        "name": "Illuminating Piece"
+      },
+      "live": {
+        "name": "Devoted PRINCESS"
+      },
+      "support": {
+        "name": "Wandering Judge"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4080,
     "title": "Sparkling Ballroom",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Growth Piece"
+      },
+      "live": {
+        "name": "Moving PRINCESS"
+      },
+      "support": {
+        "name": "Burst of Words"
+      }
+    },
     "quote": {
       "n": "Let's have a blast!",
       "e": "I'll do my best to shine on everyone!"
@@ -38273,6 +38328,17 @@
     "id": 4081,
     "title": "Elegant Ballroom",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Spirit Piece"
+      },
+      "live": {
+        "name": "Earnest PRINCESS"
+      },
+      "support": {
+        "name": "Unbearable Sight"
+      }
+    },
     "quote": {
       "n": "Challenge accepted!",
       "e": "I pledge on my honor as a knight...!"
