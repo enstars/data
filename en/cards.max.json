@@ -38346,6 +38346,56 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3749,
+    "title": "Sword of Pride",
+    "name": "Tsukasa Suou",
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3750,
+    "title": "Sword of Melody",
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3751,
+    "title": "Sword of Conviction",
+    "name": "Izumi Sena",
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3752,
+    "title": "Sword of Radiance",
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 3753,
+    "title": "Sword of Mastery",
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90109,
     "title": "Moonlit Lavender",
     "name": "Arashi Narukami",
