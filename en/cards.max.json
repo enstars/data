@@ -33371,6 +33371,17 @@
     "id": 3754,
     "title": "Cheer for the Fest",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "The Energizer of Triangle"
+      },
+      "live": {
+        "name": "Heated Match Announcements"
+      },
+      "support": {
+        "name": "Competitive Improv"
+      }
+    },
     "quote": {
       "n": "Follow me!",
       "e": "One last swing for the win!"
@@ -38349,6 +38360,17 @@
     "id": 3749,
     "title": "Sword of Pride",
     "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Holy Knights and the Princess"
+      },
+      "live": {
+        "name": "A Reckless Dash to You"
+      },
+      "support": {
+        "name": "Knights' Unyielding Resolve"
+      }
+    },
     "quote": {
       "n": "Challenge accepted!",
       "e": "I pledge on my honor as a knight...!"
@@ -38359,6 +38381,17 @@
     "id": 3750,
     "title": "Sword of Melody",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "A Melody from Knights"
+      },
+      "live": {
+        "name": "Lost in Time with You"
+      },
+      "support": {
+        "name": "Knights' Free-Spirited Heart"
+      }
+    },
     "quote": {
       "n": "Enjoy the music!",
       "e": "Wahaha! This is getting fun~♪"
@@ -38369,6 +38402,17 @@
     "id": 3751,
     "title": "Sword of Conviction",
     "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "A Knight's Finest Outfit"
+      },
+      "live": {
+        "name": "Dizzy from Your Teasing"
+      },
+      "support": {
+        "name": "Knights' Prideful Heart"
+      }
+    },
     "quote": {
       "n": "Hey, pay attention to this!",
       "e": "It's a good chance to show yourself, right?"
@@ -38379,6 +38423,17 @@
     "id": 3752,
     "title": "Sword of Radiance",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "The Vampire Knight and You"
+      },
+      "live": {
+        "name": "A Night with You"
+      },
+      "support": {
+        "name": "Knights' Dreamlike Reverie"
+      }
+    },
     "quote": {
       "n": "Alright, let's go.",
       "e": "That's quite exciting, isn't it?"
@@ -38389,9 +38444,79 @@
     "id": 3753,
     "title": "Sword of Mastery",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Guardian Knight's Support"
+      },
+      "live": {
+        "name": "For Your Blues"
+      },
+      "support": {
+        "name": "Knights' Aesthetic Sense"
+      }
+    },
     "quote": {
       "n": "It's getting fun♪",
       "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4082,
+    "title": "A Drop of the Strike",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Flower of Dignity"
+      },
+      "live": {
+        "name": "Heart of Clarity"
+      },
+      "support": {
+        "name": "A Life to Be Saved"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4083,
+    "title": "A Cleansing Drop",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Flower of Devotion"
+      },
+      "live": {
+        "name": "Heart of Integrity"
+      },
+      "support": {
+        "name": "A Noble's Scolding"
+      }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4084,
+    "title": "A Torrential Drop",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Flower of Passion"
+      },
+      "live": {
+        "name": "Heart of Eternity"
+      },
+      "support": {
+        "name": "Drenched Rabbit's Return"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
