@@ -38572,6 +38572,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4085,
+    "title": "A Drop of Severity",
+    "name": "Tatsumi Kazehaya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4086,
+    "title": "A Binding Drop",
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4087,
+    "title": "A Prudent Drop",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97003,
     "title": "Into the New World",
     "name": "Niki Shiina",
