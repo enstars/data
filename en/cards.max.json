@@ -38574,13 +38574,35 @@
     "compliant": "TRUE",
     "id": 4085,
     "title": "A Drop of Severity",
-    "name": "Tatsumi Kazehaya"
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Flower of Radiance"
+      },
+      "live": {
+        "name": "Heart of Purification"
+      },
+      "support": {
+        "name": "A Taking-Flight Dove"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4086,
     "title": "A Binding Drop",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Flower of Cheer"
+      },
+      "live": {
+        "name": "Heart of Divination"
+      },
+      "support": {
+        "name": "Birds-Related Misfortune"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Follow my steps!"
@@ -38591,9 +38613,56 @@
     "id": 4087,
     "title": "A Prudent Drop",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "Flower of Healing"
+      },
+      "live": {
+        "name": "Heart of Fortune"
+      },
+      "support": {
+        "name": "A Feng Shui Proposal"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4088,
+    "title": "Night of Unity",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4089,
+    "title": "Night of Redemption",
+    "name": "Rei Sakuma",
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4090,
+    "title": "Night of Tactics",
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4091,
+    "title": "Night of Freedom",
+    "name": "Koga Oogami",
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
