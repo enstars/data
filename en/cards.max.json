@@ -38633,13 +38633,35 @@
     "compliant": "TRUE",
     "id": 4088,
     "title": "Night of Unity",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Impulsive Romance"
+      },
+      "live": {
+        "name": "A Swaying Heart"
+      },
+      "support": {
+        "name": "A Thousand and One Nights"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4089,
     "title": "Night of Redemption",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Innocent Romance"
+      },
+      "live": {
+        "name": "A Shifting Heart"
+      },
+      "support": {
+        "name": "Lighthearted Tall Tales"
+      }
+    },
     "quote": {
       "n": "Let's sally forth.",
       "e": "Kekeke..."
@@ -38650,6 +38672,17 @@
     "id": 4090,
     "title": "Night of Tactics",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Eternal Romance"
+      },
+      "live": {
+        "name": "A Crumbling Fantasy"
+      },
+      "support": {
+        "name": "Shocking Gossip"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Alright, let me see your smile!"
@@ -38660,6 +38693,17 @@
     "id": 4091,
     "title": "Night of Freedom",
     "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Sensible Romance"
+      },
+      "live": {
+        "name": "An Unshakable Bond"
+      },
+      "support": {
+        "name": "Rejecting Rebellion"
+      }
+    },
     "quote": {
       "n": "Let's go!",
       "e": "Over here!"
