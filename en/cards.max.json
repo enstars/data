@@ -38711,6 +38711,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4092,
+    "title": "Innocent PROMESSA",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4093,
+    "title": "Leading PROMESSA",
+    "name": "Mika Kagehira",
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4094,
+    "title": "Encouraging PROMESSA",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97003,
     "title": "Into the New World",
     "name": "Niki Shiina",
