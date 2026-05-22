@@ -13967,7 +13967,7 @@
     "name": "Souma Kanzaki",
     "skills": {
       "center": {
-        "name": "Duty given by the Sea"
+        "name": "Duty Given by the Sea"
       },
       "live": {
         "name": "Required to Command"
@@ -19749,7 +19749,7 @@
     "name": "Ritsu Sakuma",
     "skills": {
       "center": {
-        "name": "Afterclass Solo"
+        "name": "After Class Solo"
       },
       "live": {
         "name": "Chatting Music"
@@ -29308,7 +29308,7 @@
         "name": "My Personal Symbol"
       },
       "live": {
-        "name": "Dextrous Hands"
+        "name": "Dexterous Hands"
       },
       "support": {
         "name": "The Depth of Cuteness"
@@ -34980,7 +34980,7 @@
     "name": "Arashi Narukami",
     "skills": {
       "center": {
-        "name": "Dice Forcast"
+        "name": "Dice Forecast"
       },
       "live": {
         "name": "Play Seeker"
@@ -38713,13 +38713,35 @@
     "compliant": "TRUE",
     "id": 4092,
     "title": "Innocent PROMESSA",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Angel of Rules"
+      },
+      "live": {
+        "name": "Inevitable Rules"
+      },
+      "support": {
+        "name": "Library Ownership Stamp"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4093,
     "title": "Leading PROMESSA",
     "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Compliance with Rules"
+      },
+      "live": {
+        "name": "Serene Rules"
+      },
+      "support": {
+        "name": "Lost Item Search"
+      }
+    },
     "quote": {
       "n": "It's showtime!",
       "e": "I'm in top form♪"
@@ -38730,9 +38752,46 @@
     "id": 4094,
     "title": "Encouraging PROMESSA",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "List of Rules"
+      },
+      "live": {
+        "name": "Cautious Rules"
+      },
+      "support": {
+        "name": "A Difficult Life"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4095,
+    "title": "Passionate PROMESSA",
+    "name": "Tsukasa Suou"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4096,
+    "title": "Commanding PROMESSA",
+    "name": "Tori Himemiya",
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4097,
+    "title": "Advising PROMESSA",
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
