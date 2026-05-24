@@ -38772,13 +38772,35 @@
     "compliant": "TRUE",
     "id": 4095,
     "title": "Passionate PROMESSA",
-    "name": "Tsukasa Suou"
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Angel of Order"
+      },
+      "live": {
+        "name": "Absolute Rules"
+      },
+      "support": {
+        "name": "Love for Books"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4096,
     "title": "Commanding PROMESSA",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "In the Name of Order"
+      },
+      "live": {
+        "name": "Explicit Rules"
+      },
+      "support": {
+        "name": "Reading in Secret"
+      }
+    },
     "quote": {
       "n": "Attention on me♪",
       "e": "How do you like it?"
@@ -38789,9 +38811,100 @@
     "id": 4097,
     "title": "Advising PROMESSA",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Harmony of Order"
+      },
+      "live": {
+        "name": "Implicit Rules"
+      },
+      "support": {
+        "name": "Lingering Story"
+      }
+    },
     "quote": {
       "n": "This is my power.",
       "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4098,
+    "title": "Feelings That Connect Us",
+    "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Performing Amaneiro"
+      },
+      "live": {
+        "name": "Heart of Fate"
+      },
+      "support": {
+        "name": "Choice at Hand"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4099,
+    "title": "Timbre That Connects Us",
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Aiming for the Top"
+      },
+      "live": {
+        "name": "Heart of Passion"
+      },
+      "support": {
+        "name": "Talent Showcase"
+      }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4100,
+    "title": "Role That Connects Us",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Divine Guidance"
+      },
+      "live": {
+        "name": "Heart of Purity"
+      },
+      "support": {
+        "name": "Brothers' Fate"
+      }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4101,
+    "title": "Instrument That Connects Us",
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Divine Talent"
+      },
+      "live": {
+        "name": "Heart of Emotion"
+      },
+      "support": {
+        "name": "Preferred Roles"
+      }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
     }
   },
   {
