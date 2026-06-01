@@ -37099,6 +37099,12 @@
   },
   {
     "compliant": "TRUE",
+    "id": 3803,
+    "title": "WELCOME FEST",
+    "name": "Hajime Shino"
+  },
+  {
+    "compliant": "TRUE",
     "id": 3775,
     "title": "Promising Road Ahead",
     "name": "Kohaku Oukawa",
@@ -38905,6 +38911,32 @@
     "quote": {
       "n": "Please keep your eyes on HiMERU.",
       "e": "HiMERU will captivate everyone here."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4102,
+    "title": "HAPPY PARADE",
+    "name": "Subaru Akehoshi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4103,
+    "title": "HAPPY MOOD",
+    "name": "Sora Harukawa",
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4104,
+    "title": "HAPPY CAST",
+    "name": "Jun Sazanami",
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
