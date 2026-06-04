@@ -38917,13 +38917,35 @@
     "compliant": "TRUE",
     "id": 4102,
     "title": "HAPPY PARADE",
-    "name": "Subaru Akehoshi"
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Blooming Charm"
+      },
+      "live": {
+        "name": "WINK SUNNY"
+      },
+      "support": {
+        "name": "Greatest Dream"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4103,
     "title": "HAPPY MOOD",
     "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Gentle Charm"
+      },
+      "live": {
+        "name": "ATTEND SUNNY"
+      },
+      "support": {
+        "name": "Adventure Begins"
+      }
+    },
     "quote": {
       "n": "HaHa~! Sora is ready to go!",
       "e": "HaHiHuHeHo~☆"
@@ -38934,6 +38956,17 @@
     "id": 4104,
     "title": "HAPPY CAST",
     "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Warmhearted Charm"
+      },
+      "live": {
+        "name": "SMILE SUNNY"
+      },
+      "support": {
+        "name": "Scout Squad"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on me!",
       "e": "I'll take it from here!"
