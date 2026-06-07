@@ -38974,6 +38974,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4105,
+    "title": "HAPPY BALLOON",
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "Boundless Charm"
+      },
+      "live": {
+        "name": "WINK CANDY"
+      },
+      "support": {
+        "name": "Workplace Trust"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4106,
+    "title": "HAPPY TICKET",
+    "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Guiding Charm"
+      },
+      "live": {
+        "name": "ATTEND CANDY"
+      },
+      "support": {
+        "name": "Praise for Underclassmen"
+      }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4107,
+    "title": "HAPPY SERVICE",
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Expressive Charm"
+      },
+      "live": {
+        "name": "SMILE CANDY"
+      },
+      "support": {
+        "name": "Sudden Surprise"
+      }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97003,
     "title": "Into the New World",
     "name": "Niki Shiina",
@@ -38987,6 +39046,120 @@
       "support": {
         "name": "Map to the Future"
       }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4108,
+    "title": "Vibrant Gourmet Street",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Piece of Courage"
+      },
+      "live": {
+        "name": "Gourmet of Justice"
+      },
+      "support": {
+        "name": "Veggie Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4109,
+    "title": "Growing Gourmet Street",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Piece of Radiance"
+      },
+      "live": {
+        "name": "Gourmet of Passion"
+      },
+      "support": {
+        "name": "Trial Recipe"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4110,
+    "title": "Flavorful Gourmet Street",
+    "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Piece of Joy"
+      },
+      "live": {
+        "name": "Gourmet in Motion"
+      },
+      "support": {
+        "name": "Before the Match"
+      }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4111,
+    "title": "Fresh Gourmet Street",
+    "name": "Raika Hojo",
+    "skills": {
+      "center": {
+        "name": "Piece of Melody"
+      },
+      "live": {
+        "name": "Gourmet of Surprises"
+      },
+      "support": {
+        "name": "Field Reflections"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4112,
+    "title": "Joyful Gourmet Street",
+    "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Piece of Discovery"
+      },
+      "live": {
+        "name": "Gourmet with Support"
+      },
+      "support": {
+        "name": "Place of Peace"
+      }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4113,
+    "title": "Showtime Gourmet Street",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "Piece of Sweetness"
+      },
+      "live": {
+        "name": "Gourmet of Hospitality"
+      },
+      "support": {
+        "name": "Bold Challenge"
+      }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
