@@ -40099,5 +40099,73 @@
         "name": "Ever-Watchful Enforcer"
       }
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90167,
+    "title": "Perfect Play",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "HEAVEN in HELL"
+      },
+      "live": {
+        "name": "Shadow Detective"
+      },
+      "support": {
+        "name": "Planner's Surprise"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90164,
+    "title": "Deduction LOADED",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Expose HELL"
+      },
+      "live": {
+        "name": "Pro Gamer"
+      },
+      "support": {
+        "name": "True Gift"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90165,
+    "title": "Bonds LOADED",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Shatter HELL"
+      },
+      "live": {
+        "name": "Star Protagonist"
+      },
+      "support": {
+        "name": "Assistant and Partner"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90166,
+    "title": "Perception LOADED",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Transcend HELL"
+      },
+      "live": {
+        "name": "Pace-Setting Mr. Painter"
+      },
+      "support": {
+        "name": "New Experience"
+      }
+    }
   }
 ]
