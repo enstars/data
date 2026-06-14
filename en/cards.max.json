@@ -4382,6 +4382,10 @@
       "support": {
         "name": "God of USB"
       }
+    },
+    "quote": {
+      "n": "Have you decided your wish?",
+      "e": "Leeet's start! Idol exercises~♪"
     }
   },
   {
@@ -4399,6 +4403,10 @@
       "support": {
         "name": "Assistant of USB"
       }
+    },
+    "quote": {
+      "n": "I have no complaints.",
+      "e": "Everyone, gather around~♪"
     }
   },
   {
@@ -4416,6 +4424,10 @@
       "support": {
         "name": "ES Business Dept Assistant"
       }
+    },
+    "quote": {
+      "n": "Come to me for advice, for anything.",
+      "e": "It's the grown-ups' turn to set things right."
     }
   },
   {
@@ -4433,6 +4445,10 @@
       "support": {
         "name": "ES Business Dept Leader"
       }
+    },
+    "quote": {
+      "n": "The last thing you can do in the entertainment industry, is dropping your guard.",
+      "e": "Never slack off and keep moving onward."
     }
   },
   {
@@ -9910,6 +9926,10 @@
       "support": {
         "name": "Resounding Stars"
       }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
     }
   },
   {
@@ -9927,6 +9947,10 @@
       "support": {
         "name": "Song for Revolutionary"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -9944,6 +9968,10 @@
       "support": {
         "name": "Song of the Enchanted"
       }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
     }
   },
   {
@@ -9961,6 +9989,10 @@
       "support": {
         "name": "Song for the Herald"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -9978,6 +10010,10 @@
       "support": {
         "name": "Song of Priest"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -11108,6 +11144,10 @@
       "support": {
         "name": "Series of Coincidences"
       }
+    },
+    "quote": {
+      "n": "Cuz we are crazy bees!",
+      "e": "Bring good luck to me!"
     }
   },
   {
@@ -11125,6 +11165,10 @@
       "support": {
         "name": "Iron Determination"
       }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
     }
   },
   {
@@ -11142,6 +11186,10 @@
       "support": {
         "name": "Cute Elements"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -11159,6 +11207,10 @@
       "support": {
         "name": "Power of Magic"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -11260,6 +11312,10 @@
       "support": {
         "name": "Delicious Support"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -12243,6 +12299,10 @@
       "support": {
         "name": "Wait and See"
       }
+    },
+    "quote": {
+      "n": "Show me what you got!",
+      "e": "Great! We won it!"
     }
   },
   {
@@ -12260,6 +12320,10 @@
       "support": {
         "name": "Little Makes Mickle"
       }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
     }
   },
   {
@@ -12277,6 +12341,10 @@
       "support": {
         "name": "Unexpected Attack"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
@@ -12294,6 +12362,10 @@
       "support": {
         "name": "Luring Enemy"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -13802,6 +13874,10 @@
       "support": {
         "name": "Little Prank"
       }
+    },
+    "quote": {
+      "n": "I shall return to the warm world of humans.",
+      "e": "Would you like to step into my world?"
     }
   },
   {
@@ -13819,6 +13895,10 @@
       "support": {
         "name": "Voluntary Proposal"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -13836,6 +13916,10 @@
       "support": {
         "name": "Hospitable Treat"
       }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
@@ -13853,6 +13937,10 @@
       "support": {
         "name": "Full of Expectations"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
@@ -15193,6 +15281,10 @@
       "support": {
         "name": "Outside VR"
       }
+    },
+    "quote": {
+      "n": "Just watch!",
+      "e": "That's what you can expect from a grown-up."
     }
   },
   {
@@ -15210,6 +15302,10 @@
       "support": {
         "name": "VR Hacker"
       }
+    },
+    "quote": {
+      "n": "Here I go.",
+      "e": "I'm ready."
     }
   },
   {
@@ -15290,6 +15386,10 @@
       "support": {
         "name": "Seeking Mermaid"
       }
+    },
+    "quote": {
+      "n": "♪ ~ ♪ ~ ♪",
+      "e": "What do you want to tell me?"
     }
   },
   {
@@ -15307,6 +15407,10 @@
       "support": {
         "name": "Encounter Mermaid"
       }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
     }
   },
   {
@@ -15324,6 +15428,10 @@
       "support": {
         "name": "Honed Cooking Skills"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   },
   {
@@ -15341,6 +15449,10 @@
       "support": {
         "name": "Seaside Exploration"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -17563,6 +17675,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
     }
   },
   {
@@ -17580,6 +17696,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -17597,6 +17717,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
     }
   },
   {
@@ -17614,6 +17738,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   },
   {
@@ -17631,6 +17759,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -17648,6 +17780,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
     }
   },
   {
@@ -17665,6 +17801,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
     }
   },
   {
@@ -17682,6 +17822,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
@@ -17699,6 +17843,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
     }
   },
   {
@@ -17716,6 +17864,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -17733,6 +17885,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
@@ -17750,6 +17906,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
     }
   },
   {
@@ -17767,6 +17927,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
@@ -17784,6 +17948,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -17801,6 +17969,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
     }
   },
   {
@@ -17818,6 +17990,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -17835,6 +18011,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -17869,6 +18049,10 @@
       "support": {
         "name": "Hearty Gratitude"
       }
+    },
+    "quote": {
+      "n": "Do you have a moment now?",
+      "e": "Please accept this gift!"
     }
   },
   {
@@ -17886,6 +18070,10 @@
       "support": {
         "name": "Magical Potion"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -17903,6 +18091,10 @@
       "support": {
         "name": "Lively Photoshoot"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -17920,6 +18112,10 @@
       "support": {
         "name": "Luck Booster"
       }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
     }
   },
   {
@@ -18609,6 +18805,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -18626,6 +18826,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
     }
   },
   {
@@ -18643,6 +18847,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
@@ -18660,6 +18868,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -18677,6 +18889,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -18694,6 +18910,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -18711,6 +18931,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
     }
   },
   {
@@ -18728,6 +18952,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -18745,6 +18973,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
     }
   },
   {
@@ -18762,6 +18994,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
     }
   },
   {
@@ -18779,6 +19015,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
     }
   },
   {
@@ -18796,6 +19036,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -19128,6 +19372,10 @@
       "support": {
         "name": "Spring Seeker"
       }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
     }
   },
   {
@@ -19145,6 +19393,10 @@
       "support": {
         "name": "Savor and Share"
       }
+    },
+    "quote": {
+      "n": "Sharing good food enhances its flavor",
+      "e": "his is a gift from the gentle spring breeze"
     }
   },
   {
@@ -19162,6 +19414,10 @@
       "support": {
         "name": "Moment Keeper"
       }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
     }
   },
   {
@@ -19179,6 +19435,10 @@
       "support": {
         "name": "Event Host"
       }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
@@ -19196,6 +19456,10 @@
       "support": {
         "name": "Daily Observer"
       }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
     }
   },
   {
@@ -19528,6 +19792,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
     }
   },
   {
@@ -19545,6 +19813,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
     }
   },
   {
@@ -19562,6 +19834,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
@@ -19579,6 +19855,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
@@ -19596,6 +19876,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
     }
   },
   {
@@ -19613,6 +19897,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -19630,6 +19918,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
@@ -19647,6 +19939,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -19664,6 +19960,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
     }
   },
   {
@@ -19681,6 +19981,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -19698,6 +20002,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
     }
   },
   {
@@ -20450,6 +20758,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
     }
   },
   {
@@ -20467,6 +20779,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
     }
   },
   {
@@ -20484,6 +20800,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
     }
   },
   {
@@ -20501,6 +20821,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -20518,6 +20842,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -20535,6 +20863,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -20552,6 +20884,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
@@ -20569,6 +20905,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
     }
   },
   {
@@ -20586,6 +20926,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
     }
   },
   {
@@ -20771,6 +21115,10 @@
       "support": {
         "name": "Perfect Picture"
       }
+    },
+    "quote": {
+      "n": "Let's take a photo on the stage together!",
+      "e": "Let's take a photo on the stage together!"
     }
   },
   {
@@ -20788,6 +21136,10 @@
       "support": {
         "name": "Prepare a Surprise"
       }
+    },
+    "quote": {
+      "n": "Uhh-ah~ Narucchan is happy, too~",
+      "e": "Can we retrieve the time we lost?"
     }
   },
   {
@@ -20805,6 +21157,10 @@
       "support": {
         "name": "Design Suggestions"
       }
+    },
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
@@ -20822,6 +21178,10 @@
       "support": {
         "name": "Narucchan Blend"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -22183,6 +22543,10 @@
       "support": {
         "name": "Challenging Time"
       }
+    },
+    "quote": {
+      "n": "Will it become some old photos that no one remembers?",
+      "e": "The future is right in this hand!"
     }
   },
   {
@@ -22200,6 +22564,10 @@
       "support": {
         "name": "Serious Time"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -22217,6 +22585,10 @@
       "support": {
         "name": "Soothing Time"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -23305,6 +23677,10 @@
       "support": {
         "name": "\"Special\" Apple Pie"
       }
+    },
+    "quote": {
+      "n": "Could you save me with your blood~?",
+      "e": "Welcome to the dreamland♪"
     }
   },
   {
@@ -23322,6 +23698,10 @@
       "support": {
         "name": "Pursuit of Beauty"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -23339,6 +23719,10 @@
       "support": {
         "name": "Shared Secret"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -23356,6 +23740,10 @@
       "support": {
         "name": "Eternal Shield"
       }
+    },
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
     }
   },
   {
@@ -24654,6 +25042,10 @@
       "support": {
         "name": "Pleasant Stage"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -24671,6 +25063,10 @@
       "support": {
         "name": "Exchange Dolls"
       }
+    },
+    "quote": {
+      "n": "If I could dress him up like a cute plushie...",
+      "e": "I'll cherish this moment forever..."
     }
   },
   {
@@ -24688,6 +25084,10 @@
       "support": {
         "name": "List of Ingredients"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -24705,6 +25105,10 @@
       "support": {
         "name": "Seeking for Advice"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -24722,6 +25126,10 @@
       "support": {
         "name": "Urgent Purchase"
       }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
     }
   },
   {
@@ -25054,6 +25462,10 @@
       "support": {
         "name": "Memorable Interview"
       }
+    },
+    "quote": {
+      "n": "Let's get started.",
+      "e": "Alright, let me handle this."
     }
   },
   {
@@ -25554,6 +25966,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
     }
   },
   {
@@ -25571,6 +25987,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -25588,6 +26008,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
     }
   },
   {
@@ -25605,6 +26029,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   },
   {
@@ -25622,6 +26050,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -25639,6 +26071,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
     }
   },
   {
@@ -25656,6 +26092,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
     }
   },
   {
@@ -25673,6 +26113,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
@@ -25690,6 +26134,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
     }
   },
   {
@@ -25707,6 +26155,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -25724,6 +26176,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
@@ -25741,6 +26197,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
     }
   },
   {
@@ -25758,6 +26218,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
@@ -25775,6 +26239,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -25792,6 +26260,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
     }
   },
   {
@@ -25809,6 +26281,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -25826,6 +26302,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -25843,6 +26323,10 @@
       "support": {
         "name": "Mysterious Invitation"
       }
+    },
+    "quote": {
+      "n": "Come chase me if you want to get your lifelong partner back☆",
+      "e": "Embark on an amazing voyage with this melody!"
     }
   },
   {
@@ -25860,6 +26344,10 @@
       "support": {
         "name": "Battle for Glasses"
       }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
     }
   },
   {
@@ -25877,6 +26365,10 @@
       "support": {
         "name": "Encounter at the Corner"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -25894,6 +26386,10 @@
       "support": {
         "name": "The Perfect Chance"
       }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
     }
   },
   {
@@ -26793,6 +27289,10 @@
       "support": {
         "name": "New Breezes"
       }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
@@ -26810,6 +27310,10 @@
       "support": {
         "name": "Bashful Deer"
       }
+    },
+    "quote": {
+      "n": "Why is everyone talking about the treasure map?!",
+      "e": "Bring me back along with the springtime."
     }
   },
   {
@@ -26827,6 +27331,10 @@
       "support": {
         "name": "Cheerful Rabbit"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -26844,6 +27352,10 @@
       "support": {
         "name": "Alluring Fox"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
     }
   },
   {
@@ -26861,6 +27373,10 @@
       "support": {
         "name": "Dedicated Horse"
       }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
     }
   },
   {
@@ -27130,6 +27646,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -27147,6 +27667,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
     }
   },
   {
@@ -27164,6 +27688,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
@@ -27181,6 +27709,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -27198,6 +27730,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -27215,6 +27751,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -27232,6 +27772,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
     }
   },
   {
@@ -27249,6 +27793,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -27266,6 +27814,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
     }
   },
   {
@@ -27283,6 +27835,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
     }
   },
   {
@@ -27300,6 +27856,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
     }
   },
   {
@@ -27317,6 +27877,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -27922,6 +28486,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
     }
   },
   {
@@ -27939,6 +28507,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
     }
   },
   {
@@ -27956,6 +28528,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
@@ -27973,6 +28549,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
@@ -27990,6 +28570,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
     }
   },
   {
@@ -28007,6 +28591,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -28024,6 +28612,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
@@ -28041,6 +28633,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -28058,6 +28654,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
     }
   },
   {
@@ -28075,6 +28675,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -28092,6 +28696,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
     }
   },
   {
@@ -28487,6 +29095,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
     }
   },
   {
@@ -28504,6 +29116,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
     }
   },
   {
@@ -28521,6 +29137,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
     }
   },
   {
@@ -28538,6 +29158,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -28555,6 +29179,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -28572,6 +29200,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -28589,6 +29221,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
@@ -28606,6 +29242,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
     }
   },
   {
@@ -28623,6 +29263,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
     }
   },
   {
@@ -28871,6 +29515,10 @@
       "support": {
         "name": "New Friend On Stage"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
@@ -28888,6 +29536,10 @@
       "support": {
         "name": "Keep On Challenging"
       }
+    },
+    "quote": {
+      "n": "I'll be the shiniest star!",
+      "e": "Let's have a sparkling adventure☆"
     }
   },
   {
@@ -28905,6 +29557,10 @@
       "support": {
         "name": "Constant Training"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
@@ -28922,6 +29578,10 @@
       "support": {
         "name": "Savior in Water"
       }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
@@ -28939,6 +29599,10 @@
       "support": {
         "name": "Free From Cage"
       }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
     }
   },
   {
@@ -30048,6 +30712,10 @@
       "support": {
         "name": "Guarding Palladion"
       }
+    },
+    "quote": {
+      "n": "A show should never stop at its climAX.",
+      "e": "Everything is within my grasP."
     }
   },
   {
@@ -30065,6 +30733,10 @@
       "support": {
         "name": "Pursuit of Self-Growth"
       }
+    },
+    "quote": {
+      "n": "I'm always my cutest self♪",
+      "e": "Do you like this side of me?"
     }
   },
   {
@@ -30082,6 +30754,10 @@
       "support": {
         "name": "A Flexible Plan"
       }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
     }
   },
   {
@@ -30099,6 +30775,10 @@
       "support": {
         "name": "Unexpected Participation"
       }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
     }
   },
   {
@@ -30893,6 +31573,10 @@
       "support": {
         "name": "Wings of Freedom"
       }
+    },
+    "quote": {
+      "n": "I didn't mean to quit...",
+      "e": "Break free from this cage with me!"
     }
   },
   {
@@ -30910,6 +31594,10 @@
       "support": {
         "name": "The Covert Plan"
       }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
@@ -30927,6 +31615,10 @@
       "support": {
         "name": "Unexpected Performance"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -31259,6 +31951,10 @@
       "support": {
         "name": "Overwhelming Temptation"
       }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
     }
   },
   {
@@ -31276,6 +31972,10 @@
       "support": {
         "name": "Unique Insights"
       }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
     }
   },
   {
@@ -31293,6 +31993,10 @@
       "support": {
         "name": "Lighthearted soul"
       }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
     }
   },
   {
@@ -31310,6 +32014,10 @@
       "support": {
         "name": "Lovely Whimsy"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -31327,6 +32035,10 @@
       "support": {
         "name": "Here And Now"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -33633,6 +34345,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
     }
   },
   {
@@ -33650,6 +34366,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -33667,6 +34387,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
     }
   },
   {
@@ -33684,6 +34408,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   },
   {
@@ -33701,6 +34429,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -33718,6 +34450,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
     }
   },
   {
@@ -33735,6 +34471,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
     }
   },
   {
@@ -33752,6 +34492,10 @@
       "support": {
         "name": "Extreme Zone"
       }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
@@ -33769,6 +34513,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
     }
   },
   {
@@ -33786,6 +34534,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -33803,6 +34555,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
     }
   },
   {
@@ -33820,6 +34576,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
     }
   },
   {
@@ -33837,6 +34597,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
@@ -33854,6 +34618,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -33871,6 +34639,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
     }
   },
   {
@@ -33888,6 +34660,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -33905,6 +34681,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -33922,6 +34702,10 @@
       "support": {
         "name": "Flower-Woven Ring"
       }
+    },
+    "quote": {
+      "n": "Ahaha, it's kinda embarrassing to recall that...",
+      "e": "Everything seems more beautiful because I'm with you."
     }
   },
   {
@@ -33939,6 +34723,10 @@
       "support": {
         "name": "Packed with Care"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -33956,6 +34744,10 @@
       "support": {
         "name": "The Well-Traveled Bear"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -33973,6 +34765,10 @@
       "support": {
         "name": "Traveler's Amulet"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -34431,6 +35227,10 @@
       "support": {
         "name": "Be a Manga Hero"
       }
+    },
+    "quote": {
+      "n": "T-this is incredible...!",
+      "e": "Tremble for the king's resurrection!"
     }
   },
   {
@@ -34448,6 +35248,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -34465,6 +35269,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
     }
   },
   {
@@ -34482,6 +35290,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
     }
   },
   {
@@ -34499,6 +35311,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -34516,6 +35332,10 @@
       "support": {
         "name": "Charm Stage"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -34533,6 +35353,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -34550,6 +35374,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
     }
   },
   {
@@ -34567,6 +35395,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -34584,6 +35416,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
     }
   },
   {
@@ -34601,6 +35437,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
     }
   },
   {
@@ -34618,6 +35458,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
     }
   },
   {
@@ -34635,6 +35479,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -35282,6 +36130,10 @@
       "support": {
         "name": "Gentle Chocolatier"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -35299,6 +36151,10 @@
       "support": {
         "name": "Innocent Chocolatier"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -35316,6 +36172,10 @@
       "support": {
         "name": "Romantic Chocolatier"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
     }
   },
   {
@@ -35333,6 +36193,10 @@
       "support": {
         "name": "Ardent Chocolatier"
       }
+    },
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
     }
   },
   {
@@ -35350,6 +36214,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
     }
   },
   {
@@ -35367,6 +36235,10 @@
       "support": {
         "name": "Cheer Performance"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
     }
   },
   {
@@ -35384,6 +36256,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
@@ -35401,6 +36277,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
     }
   },
   {
@@ -35418,6 +36298,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
     }
   },
   {
@@ -35435,6 +36319,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -35452,6 +36340,10 @@
       "support": {
         "name": "Fall in Stage"
       }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
@@ -35469,6 +36361,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -35486,6 +36382,10 @@
       "support": {
         "name": "Call Stage"
       }
+    },
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
     }
   },
   {
@@ -35503,6 +36403,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -35520,6 +36424,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
     }
   },
   {
@@ -35852,6 +36760,10 @@
       "support": {
         "name": "Folding Spring Breeze"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   },
   {
@@ -35869,6 +36781,10 @@
       "support": {
         "name": "Fantastic Gemstone"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -35886,6 +36802,10 @@
       "support": {
         "name": "Between Heaven and Sea"
       }
+    },
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
     }
   },
   {
@@ -35903,6 +36823,10 @@
       "support": {
         "name": "Interlaced Feelings"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -35920,6 +36844,10 @@
       "support": {
         "name": "Detoured Blessing"
       }
+    },
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
@@ -36294,6 +37222,10 @@
       "support": {
         "name": "Flash Cheer"
       }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
     }
   },
   {
@@ -36311,6 +37243,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
     }
   },
   {
@@ -36328,6 +37264,10 @@
       "support": {
         "name": "Sparkle Cheer"
       }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
     }
   },
   {
@@ -36345,6 +37285,10 @@
       "support": {
         "name": "Cheer Vocal"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -36362,6 +37306,10 @@
       "support": {
         "name": "Glitter Cheer"
       }
+    },
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
     }
   },
   {
@@ -36379,6 +37327,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -36396,6 +37348,10 @@
       "support": {
         "name": "Keep Voltage"
       }
+    },
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
     }
   },
   {
@@ -36413,6 +37369,10 @@
       "support": {
         "name": "Brilliant Cheer"
       }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
     }
   },
   {
@@ -36430,6 +37390,10 @@
       "support": {
         "name": "Cheer Dance"
       }
+    },
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
     }
   },
   {
@@ -36531,6 +37495,10 @@
       "support": {
         "name": "Endless Thoughts"
       }
+    },
+    "quote": {
+      "n": "But those three hours just flew by.",
+      "e": "Just believe in your own heart."
     }
   },
   {
@@ -36590,6 +37558,10 @@
       "support": {
         "name": "Light of Ambition"
       }
+    },
+    "quote": {
+      "n": "And that person is...",
+      "e": "Let's savor this shining moment."
     }
   },
   {
@@ -36670,6 +37642,10 @@
       "support": {
         "name": "Reason to Be"
       }
+    },
+    "quote": {
+      "n": "I have something just as precious and irreplaceable.",
+      "e": "An earthly paradise where everyone finds fulfillment."
     }
   },
   {
@@ -36855,6 +37831,10 @@
       "support": {
         "name": "Led by Inspiration"
       }
+    },
+    "quote": {
+      "n": "Leo Tsukinaga is now back from the universe!",
+      "e": "Fly into the endless universe with me♪"
     }
   },
   {
@@ -36872,6 +37852,10 @@
       "support": {
         "name": "Returned Favor"
       }
+    },
+    "quote": {
+      "n": "Something weighing on your mind?",
+      "e": "Never cease your explorations."
     }
   },
   {
@@ -36931,6 +37915,10 @@
       "support": {
         "name": "Cheerful Reaction"
       }
+    },
+    "quote": {
+      "n": "It was such a novel reaction of yours.",
+      "e": "Etch the image of this painting into your mind."
     }
   },
   {
@@ -37011,6 +37999,10 @@
       "support": {
         "name": "Endgame Aftermath"
       }
+    },
+    "quote": {
+      "n": "H-huh...?",
+      "e": "We'll beat you at your own game."
     }
   },
   {
@@ -37101,7 +38093,11 @@
     "compliant": "TRUE",
     "id": 3803,
     "title": "WELCOME FEST",
-    "name": "Hajime Shino"
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "Let's find your fave together!",
+      "e": "Did you meet anyone special?"
+    }
   },
   {
     "compliant": "TRUE",
@@ -37118,6 +38114,10 @@
       "support": {
         "name": "Gentle Breeze"
       }
+    },
+    "quote": {
+      "n": "Don't worry. I won't let you fall.",
+      "e": "Where are we headin' next?"
     }
   },
   {
@@ -37177,6 +38177,10 @@
       "support": {
         "name": "Helping Out at the Stall"
       }
+    },
+    "quote": {
+      "n": "What, I'm not your mom?",
+      "e": "Let's move forward and share as we go!"
     }
   },
   {
@@ -37257,6 +38261,10 @@
       "support": {
         "name": "Questionable Article"
       }
+    },
+    "quote": {
+      "n": "We found this magazine!",
+      "e": "No need to rush!"
     }
   },
   {
@@ -37274,6 +38282,10 @@
       "support": {
         "name": "Old Routine"
       }
+    },
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
     }
   },
   {
@@ -37396,6 +38408,10 @@
       "support": {
         "name": "Secret Elixir"
       }
+    },
+    "quote": {
+      "n": "HiMERU hopes to show you his best side...",
+      "e": "The sun, the moon, the stars... The cloud will enshroud all."
     }
   },
   {
@@ -37413,6 +38429,10 @@
       "support": {
         "name": "Spotlit Cinnabar"
       }
+    },
+    "quote": {
+      "n": "I'll do my best to uncover the truth!",
+      "e": "I'm in the spotlight, outshining any gemstones...♪"
     }
   },
   {
@@ -37430,6 +38450,10 @@
       "support": {
         "name": "Cinnabar of Friendship"
       }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
     }
   },
   {
@@ -37447,6 +38471,10 @@
       "support": {
         "name": "Guided Cinnabar"
       }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
     }
   },
   {
@@ -37527,6 +38555,10 @@
       "support": {
         "name": "Secret Performance"
       }
+    },
+    "quote": {
+      "n": "I need to hide—right now...!",
+      "e": "For everyone who trusts me!"
     }
   },
   {
@@ -37586,6 +38618,10 @@
       "support": {
         "name": "Reclaim the Captain"
       }
+    },
+    "quote": {
+      "n": "I am not okay with changing the leader!",
+      "e": "Dreams really can come true...!"
     }
   },
   {
@@ -37603,6 +38639,10 @@
       "support": {
         "name": "Unattainable Intel"
       }
+    },
+    "quote": {
+      "n": "It's hard to look up any information.",
+      "e": "Let this passion reach you!"
     }
   },
   {
@@ -37662,6 +38702,10 @@
       "support": {
         "name": "Pre-Duel Handshake"
       }
+    },
+    "quote": {
+      "n": "—Alright! It's battle time.",
+      "e": "Believe in yourself keep moving forward!"
     }
   },
   {
@@ -37679,6 +38723,10 @@
       "support": {
         "name": "Ruler's Reflection"
       }
+    },
+    "quote": {
+      "n": "Keep digging deeper.",
+      "e": "Fly free wherever you are!"
     }
   },
   {
@@ -37738,6 +38786,10 @@
       "support": {
         "name": "Greengrocer's Star"
       }
+    },
+    "quote": {
+      "n": "Um... Welcome",
+      "e": "I hope I can be someone who brings smiles to people..."
     }
   },
   {
@@ -37967,6 +39019,10 @@
       "support": {
         "name": "New Event"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -38005,6 +39061,10 @@
       "support": {
         "name": "Devil's Fruit"
       }
+    },
+    "quote": {
+      "n": "Time to work in the fieldS.",
+      "e": "Trust mE."
     }
   },
   {
@@ -38148,6 +39208,10 @@
       "support": {
         "name": "Counter Master"
       }
+    },
+    "quote": {
+      "n": "I did a pretty good job, if I may say so myself~",
+      "e": "Too bad—I've already seen right through your plan♪"
     }
   },
   {
@@ -38207,6 +39271,10 @@
       "support": {
         "name": "Refined Footwork"
       }
+    },
+    "quote": {
+      "n": "There's nowhere left for you to run.",
+      "e": "Is the game of tag already over?"
     }
   },
   {
@@ -38266,6 +39334,10 @@
       "support": {
         "name": "Star Arrival"
       }
+    },
+    "quote": {
+      "n": "He's even in our textbooks.",
+      "e": "Let's have one more dance♪"
     }
   },
   {
@@ -38283,6 +39355,10 @@
       "support": {
         "name": "Dance Mastery"
       }
+    },
+    "quote": {
+      "n": "This is starting to get interesting...☆",
+      "e": "Then I'll give it my all and take you on!"
     }
   },
   {
@@ -38481,6 +39557,10 @@
       "support": {
         "name": "A Life to Be Saved"
       }
+    },
+    "quote": {
+      "n": "We have to do something!",
+      "e": "I shall cut through that attachment."
     }
   },
   {
@@ -38540,6 +39620,10 @@
       "support": {
         "name": "Cordierite: Leading Role"
       }
+    },
+    "quote": {
+      "n": "W-what's going on...",
+      "e": "The most beautiful jewel is right before your eyes!"
     }
   },
   {
@@ -38557,6 +39641,10 @@
       "support": {
         "name": "Cordierite: Supportive Friend"
       }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
     }
   },
   {
@@ -38574,6 +39662,10 @@
       "support": {
         "name": "Cordierite: Cheerful Lad"
       }
+    },
+    "quote": {
+      "n": "HaHa~! Sora is ready to go!",
+      "e": "HaHiHuHeHo~☆"
     }
   },
   {
@@ -38591,6 +39683,10 @@
       "support": {
         "name": "A Taking-Flight Dove"
       }
+    },
+    "quote": {
+      "n": "Wait!",
+      "e": "Let me take you back where you belong."
     }
   },
   {
@@ -38650,6 +39746,10 @@
       "support": {
         "name": "A Thousand and One Nights"
       }
+    },
+    "quote": {
+      "n": "Don't be afraid.",
+      "e": "That's why I sing."
     }
   },
   {
@@ -38730,6 +39830,10 @@
       "support": {
         "name": "Library Ownership Stamp"
       }
+    },
+    "quote": {
+      "n": "... You're right. There's no stamp on the back page.",
+      "e": "Can you keep your promise...?"
     }
   },
   {
@@ -38789,6 +39893,10 @@
       "support": {
         "name": "Love for Books"
       }
+    },
+    "quote": {
+      "n": "I insist that he face appropriate consequences!",
+      "e": "I won't turn a blind eye to any violations...!"
     }
   },
   {
@@ -38848,6 +39956,10 @@
       "support": {
         "name": "Choice at Hand"
       }
+    },
+    "quote": {
+      "n": "Which one will you choose, me or him?",
+      "e": "I'm sure our future will shine, bright and beautiful."
     }
   },
   {
@@ -38928,6 +40040,10 @@
       "support": {
         "name": "Greatest Dream"
       }
+    },
+    "quote": {
+      "n": "I'll lead you along☆",
+      "e": "The parade's starting now♪"
     }
   },
   {
@@ -38987,6 +40103,10 @@
       "support": {
         "name": "Workplace Trust"
       }
+    },
+    "quote": {
+      "n": "I'd like to entrust this to the two of you.",
+      "e": "Let's make the most of this special day♪"
     }
   },
   {
@@ -39046,6 +40166,10 @@
       "support": {
         "name": "Map to the Future"
       }
+    },
+    "quote": {
+      "n": "It's not like you~",
+      "e": "Set off! To the sea, to the stars☆"
     }
   },
   {
@@ -39063,6 +40187,10 @@
       "support": {
         "name": "Veggie Cheer"
       }
+    },
+    "quote": {
+      "n": "Please, vegetables, lend me your power...!",
+      "e": "This is what I've got...!"
     }
   },
   {
@@ -39080,6 +40208,10 @@
       "support": {
         "name": "Trial Recipe"
       }
+    },
+    "quote": {
+      "n": "I'm making bread!",
+      "e": "Hope you get a nice, full meal!"
     }
   },
   {
@@ -39164,6 +40296,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4114,
+    "title": "Bewildering Taste",
+    "name": "Ibara Saegusa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4115,
+    "title": "Bewildering Expression",
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4116,
+    "title": "Bewildering Touch",
+    "name": "Arashi Narukami",
+    "quote": {
+      "n": "It's getting fun♪",
+      "e": "You'll see the best of me~"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90120,
     "title": "Light Up the Time",
     "name": "Wataru Hibiki",
@@ -39177,6 +40335,10 @@
       "support": {
         "name": "Descend on Stage"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -39194,6 +40356,10 @@
       "support": {
         "name": "Free-Spirited Dews"
       }
+    },
+    "quote": {
+      "n": "You're on good terms.",
+      "e": "I will cherish every minute we spend together."
     }
   },
   {
@@ -39211,6 +40377,10 @@
       "support": {
         "name": "Friend Unknown"
       }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
     }
   },
   {
@@ -39228,6 +40398,10 @@
       "support": {
         "name": "Thankful Breakfast"
       }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
     }
   },
   {
@@ -39245,6 +40419,10 @@
       "support": {
         "name": "Straightforward Question"
       }
+    },
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
     }
   },
   {
@@ -39262,6 +40440,10 @@
       "support": {
         "name": "The Golden Day"
       }
+    },
+    "quote": {
+      "n": "Would you like to tie your hair up?",
+      "e": "You'll see the moment when the miracle borns."
     }
   },
   {
@@ -39279,6 +40461,10 @@
       "support": {
         "name": "Prime Successor"
       }
+    },
+    "quote": {
+      "n": "Capture everything that catches my eye!",
+      "e": "That's the wisdom of a viper!"
     }
   },
   {
@@ -39296,6 +40482,10 @@
       "support": {
         "name": "Caring Steward"
       }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
@@ -39313,6 +40503,10 @@
       "support": {
         "name": "Agile Bodyguard"
       }
+    },
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
     }
   },
   {
@@ -39330,6 +40524,10 @@
       "support": {
         "name": "Clever Secretary"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -39347,6 +40545,94 @@
       "support": {
         "name": "Night at the Specimen Museum"
       }
+    },
+    "quote": {
+      "n": "Let the art resurrect.",
+      "e": "Let me show you the real eternity."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90125,
+    "title": "Marvelous Future",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Search for Purpose"
+      },
+      "live": {
+        "name": "Unstoppable Infinity"
+      },
+      "support": {
+        "name": "Patch Things Up"
+      }
+    },
+    "quote": {
+      "n": "Your support means everything to me.",
+      "e": "Come with me. Let's find new possibilities together."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90126,
+    "title": "Bright Future",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Search for Memories"
+      },
+      "live": {
+        "name": "Swift Infinity"
+      },
+      "support": {
+        "name": "Caught Off Guard"
+      }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90127,
+    "title": "Cute Future",
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Search for a Plan"
+      },
+      "live": {
+        "name": "Shortcut Infinity"
+      },
+      "support": {
+        "name": "Play a Prank"
+      }
+    },
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90128,
+    "title": "Rock Future",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Seeking Support"
+      },
+      "live": {
+        "name": "Shared Infinity"
+      },
+      "support": {
+        "name": "Offering Help"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
@@ -39364,6 +40650,10 @@
       "support": {
         "name": "Opalescent Crescendo"
       }
+    },
+    "quote": {
+      "n": "You're my guarding angel. I belong to you.",
+      "e": "Let's dance till the finale♪"
     }
   },
   {
@@ -39381,6 +40671,10 @@
       "support": {
         "name": "Childhood Friend's Prank"
       }
+    },
+    "quote": {
+      "n": "That's enough...!",
+      "e": "Just depict spring as you wish."
     }
   },
   {
@@ -39398,6 +40692,10 @@
       "support": {
         "name": "Childhood Friend's Trap"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -39415,6 +40713,10 @@
       "support": {
         "name": "Childhood Friend's Revenge"
       }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
     }
   },
   {
@@ -39432,6 +40734,10 @@
       "support": {
         "name": "Childhood Friend's Rescue"
       }
+    },
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
     }
   },
   {
@@ -39449,6 +40755,10 @@
       "support": {
         "name": "Overflowing Spring"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -39571,6 +40881,10 @@
       "support": {
         "name": "Thus Spake the Oak Sage"
       }
+    },
+    "quote": {
+      "n": "I'll do that again, please give me some feedback...",
+      "e": "The power of nature is protecting us."
     }
   },
   {
@@ -39588,6 +40902,10 @@
       "support": {
         "name": "Welcome to the Guild"
       }
+    },
+    "quote": {
+      "n": "I'm full now—thanks for the meal!",
+      "e": "The world's secrets are all in my hand."
     }
   },
   {
@@ -39605,6 +40923,10 @@
       "support": {
         "name": "Twins Reunited"
       }
+    },
+    "quote": {
+      "n": "I'm willing to lay down my life to protect this world",
+      "e": "Try my spells!"
     }
   },
   {
@@ -39622,6 +40944,10 @@
       "support": {
         "name": "Always Side by Side"
       }
+    },
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
     }
   },
   {
@@ -39639,6 +40965,10 @@
       "support": {
         "name": "Watch Over Each Other"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -39656,6 +40986,10 @@
       "support": {
         "name": "Unexpected Answer"
       }
+    },
+    "quote": {
+      "n": "You Masked Pervert!",
+      "e": "This sword shall sever everything."
     }
   },
   {
@@ -39673,6 +41007,10 @@
       "support": {
         "name": "Twist of Fate"
       }
+    },
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
     }
   },
   {
@@ -39690,6 +41028,10 @@
       "support": {
         "name": "Unavoidable Correction"
       }
+    },
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
     }
   },
   {
@@ -39707,6 +41049,10 @@
       "support": {
         "name": "The Shining Orion"
       }
+    },
+    "quote": {
+      "n": "You certainly know how to stir up trouble.",
+      "e": "Victory will be mine."
     }
   },
   {
@@ -39724,6 +41070,10 @@
       "support": {
         "name": "The Real Plan"
       }
+    },
+    "quote": {
+      "n": "Ahem~ Then I'll begin.",
+      "e": "We dance now, in this maelstrom's center♪"
     }
   },
   {
@@ -39741,6 +41091,10 @@
       "support": {
         "name": "The Familiar Scent"
       }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
     }
   },
   {
@@ -39758,6 +41112,10 @@
       "support": {
         "name": "The Definition of Luck"
       }
+    },
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
     }
   },
   {
@@ -39775,6 +41133,10 @@
       "support": {
         "name": "The Restless Night"
       }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
     }
   },
   {
@@ -39792,6 +41154,10 @@
       "support": {
         "name": "Nostalgic Snacks"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -39809,6 +41175,10 @@
       "support": {
         "name": "Heartfelt Snacks"
       }
+    },
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
     }
   },
   {
@@ -39826,6 +41196,10 @@
       "support": {
         "name": "Decisive Snacks"
       }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
     }
   },
   {
@@ -39843,6 +41217,10 @@
       "support": {
         "name": "Bonding Snacks"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
     }
   },
   {
@@ -39860,6 +41238,10 @@
       "support": {
         "name": "Comfort Snacks"
       }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
     }
   },
   {
@@ -39877,6 +41259,10 @@
       "support": {
         "name": "Pulsing with the Engine"
       }
+    },
+    "quote": {
+      "n": "Just imagining it is killing me!",
+      "e": "No doubt that Lady Luck only smiles at me!"
     }
   },
   {
@@ -39894,6 +41280,10 @@
       "support": {
         "name": "Learn to Detect Lies"
       }
+    },
+    "quote": {
+      "n": "Did I fall asleep...?",
+      "e": "What will happen in the mortal world this time?"
     }
   },
   {
@@ -39911,6 +41301,10 @@
       "support": {
         "name": "Unexpected Answer"
       }
+    },
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
     }
   },
   {
@@ -39928,6 +41322,10 @@
       "support": {
         "name": "Wondrous Help"
       }
+    },
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
     }
   },
   {
@@ -39945,6 +41343,10 @@
       "support": {
         "name": "Disrupted Plan"
       }
+    },
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
     }
   },
   {
@@ -39962,6 +41364,10 @@
       "support": {
         "name": "Other Side of the World"
       }
+    },
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
     }
   },
   {
@@ -39979,6 +41385,10 @@
       "support": {
         "name": "Bedsheet Ghost"
       }
+    },
+    "quote": {
+      "n": "Shh... It's time for mischief!",
+      "e": "Let's just stay up and play all night!"
     }
   },
   {
@@ -39996,6 +41406,10 @@
       "support": {
         "name": "Starfall Night with You"
       }
+    },
+    "quote": {
+      "n": "But from now on, I'm not holding back—",
+      "e": "I'll cross light-years to carve a trail that leads to you!"
     }
   },
   {
@@ -40013,6 +41427,10 @@
       "support": {
         "name": "Tale Reimagined"
       }
+    },
+    "quote": {
+      "n": "This is what makes a festival!",
+      "e": "If winter comes, can spring be far behind?"
     }
   },
   {
@@ -40030,6 +41448,10 @@
       "support": {
         "name": "A Tough Choice"
       }
+    },
+    "quote": {
+      "n": "Please keep your eyes on me!",
+      "e": "I'll take it from here!"
     }
   },
   {
@@ -40047,6 +41469,10 @@
       "support": {
         "name": "A Different Hero Show"
       }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
     }
   },
   {
@@ -40064,6 +41490,10 @@
       "support": {
         "name": "A Test of Teamwork"
       }
+    },
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
     }
   },
   {
@@ -40081,6 +41511,10 @@
       "support": {
         "name": "Afternoon Routine"
       }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
     }
   },
   {
@@ -40098,6 +41532,10 @@
       "support": {
         "name": "Ever-Watchful Enforcer"
       }
+    },
+    "quote": {
+      "n": "... Ahem, please look over here.",
+      "e": "You have until the anthem ends to repent."
     }
   },
   {
@@ -40115,6 +41553,10 @@
       "support": {
         "name": "Planner's Surprise"
       }
+    },
+    "quote": {
+      "n": "Ma~kun would probably have a hard time.",
+      "e": "Now, go ahead. Begin your run~"
     }
   },
   {
@@ -40132,6 +41574,10 @@
       "support": {
         "name": "True Gift"
       }
+    },
+    "quote": {
+      "n": "The mood wasn't as tense as it was yesterday.",
+      "e": "I've got it all figured out♪"
     }
   },
   {
@@ -40149,6 +41595,10 @@
       "support": {
         "name": "Assistant and Partner"
       }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
@@ -40166,6 +41616,10 @@
       "support": {
         "name": "New Experience"
       }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
     }
   }
 ]
