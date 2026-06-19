@@ -40427,6 +40427,68 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4117,
+    "title": "Bewildering Gaze",
+    "name": "Yuta Aoi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4118,
+    "title": "Bewildering Smile",
+    "name": "Rinne Amagi",
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4119,
+    "title": "Bewildering Vibe",
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4120,
+    "title": "Affection Sparkle",
+    "name": "Aira Shiratori"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4121,
+    "title": "Skyward Sparkle",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4122,
+    "title": "Melody Sparkle",
+    "name": "Mayoi Ayase",
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4123,
+    "title": "Discovery Sparkle",
+    "name": "Tatsumi Kazehaya",
+    "quote": {
+      "n": "I'll go through this trial!",
+      "e": "Let me do my best!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
     "name": "Rei Sakuma",
