@@ -40298,13 +40298,39 @@
     "compliant": "TRUE",
     "id": 4114,
     "title": "Bewildering Taste",
-    "name": "Ibara Saegusa"
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Hidden True Feelings"
+      },
+      "live": {
+        "name": "Trap of Words"
+      },
+      "support": {
+        "name": "Tenacious Opponent"
+      }
+    },
+    "quote": {
+      "n": "I assume I was the intended target?",
+      "e": "What are you looking for?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4115,
     "title": "Bewildering Expression",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Revealed True Feelings"
+      },
+      "live": {
+        "name": "Trap of Smiles"
+      },
+      "support": {
+        "name": "Meddlesome Heart"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Alright, let me see your smile!"
@@ -40315,6 +40341,17 @@
     "id": 4116,
     "title": "Bewildering Touch",
     "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Transparent True Feelings"
+      },
+      "live": {
+        "name": "Trap of Charm"
+      },
+      "support": {
+        "name": "Nice Reaction"
+      }
+    },
     "quote": {
       "n": "It's getting fun♪",
       "e": "You'll see the best of me~"
@@ -40429,13 +40466,39 @@
     "compliant": "TRUE",
     "id": 4117,
     "title": "Bewildering Gaze",
-    "name": "Yuta Aoi"
+    "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Candid True Feelings"
+      },
+      "live": {
+        "name": "Uncertain Path"
+      },
+      "support": {
+        "name": "Personal Project"
+      }
+    },
+    "quote": {
+      "n": "It's a solo job.",
+      "e": "Did you get that thing ready?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4118,
     "title": "Bewildering Smile",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Concealed True Feelings"
+      },
+      "live": {
+        "name": "Unwavering Confidence"
+      },
+      "support": {
+        "name": "Mutual Deceit"
+      }
+    },
     "quote": {
       "n": "Kyahaha☆ This is my stage!",
       "e": "I'm gonna take all the limelight!"
@@ -40446,6 +40509,17 @@
     "id": 4119,
     "title": "Bewildering Vibe",
     "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Heartfelt True Feelings"
+      },
+      "live": {
+        "name": "Taste of Doubt"
+      },
+      "support": {
+        "name": "Common Sense Thinking"
+      }
+    },
     "quote": {
       "n": "Follow me!",
       "e": "One last swing for the win!"
