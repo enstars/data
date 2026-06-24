@@ -40529,13 +40529,39 @@
     "compliant": "TRUE",
     "id": 4120,
     "title": "Affection Sparkle",
-    "name": "Aira Shiratori"
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Golden Season"
+      },
+      "live": {
+        "name": "Traveling Summer"
+      },
+      "support": {
+        "name": "Promise of Reunion"
+      }
+    },
+    "quote": {
+      "n": "I'll definitely come back again!",
+      "e": "I'd like to express my feelings in my own words."
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4121,
     "title": "Skyward Sparkle",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Golden Fruit"
+      },
+      "live": {
+        "name": "Fresh Summer"
+      },
+      "support": {
+        "name": "Scent of Lemon"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -40546,6 +40572,17 @@
     "id": 4122,
     "title": "Melody Sparkle",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "Golden Memories"
+      },
+      "live": {
+        "name": "Vacation Summer"
+      },
+      "support": {
+        "name": "Thorough Preparation"
+      }
+    },
     "quote": {
       "n": "This is my Ensemble!",
       "e": "Now, let the music resound!"
@@ -40556,6 +40593,17 @@
     "id": 4123,
     "title": "Discovery Sparkle",
     "name": "Tatsumi Kazehaya",
+    "skills": {
+      "center": {
+        "name": "Golden Holiday"
+      },
+      "live": {
+        "name": "Healing Summer"
+      },
+      "support": {
+        "name": "Filming in Paris"
+      }
+    },
     "quote": {
       "n": "I'll go through this trial!",
       "e": "Let me do my best!"
