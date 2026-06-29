@@ -2022,7 +2022,7 @@
   {
     "compliant": "TRUE",
     "character_id": 10,
-    "sort_id": 42,
+    "sort_id": 46,
     "last_name": "朱桜",
     "first_name": "司",
     "last_nameRuby": "すおう",
@@ -2073,7 +2073,7 @@
   {
     "compliant": "TRUE",
     "character_id": 33,
-    "sort_id": 43,
+    "sort_id": 47,
     "last_name": "月永",
     "first_name": "レオ",
     "last_nameRuby": "つきなが",
@@ -2121,7 +2121,7 @@
   {
     "compliant": "TRUE",
     "character_id": 24,
-    "sort_id": 44,
+    "sort_id": 48,
     "last_name": "瀬名",
     "first_name": "泉",
     "last_nameRuby": "せな",
@@ -2168,7 +2168,7 @@
   {
     "compliant": "TRUE",
     "character_id": 17,
-    "sort_id": 45,
+    "sort_id": 49,
     "last_name": "朔間",
     "first_name": "凛月",
     "last_nameRuby": "さくま",
@@ -2217,7 +2217,7 @@
   {
     "compliant": "TRUE",
     "character_id": 20,
-    "sort_id": 46,
+    "sort_id": 50,
     "last_name": "鳴上",
     "first_name": "嵐",
     "last_nameRuby": "なるかみ",
@@ -2267,7 +2267,7 @@
   {
     "compliant": "TRUE",
     "character_id": 38,
-    "sort_id": 47,
+    "sort_id": 51,
     "last_name": "逆先",
     "first_name": "夏目",
     "last_nameRuby": "さかさき",
@@ -2319,7 +2319,7 @@
   {
     "compliant": "TRUE",
     "character_id": 39,
-    "sort_id": 48,
+    "sort_id": 52,
     "last_name": "青葉",
     "first_name": "つむぎ",
     "last_nameRuby": "あおば",
@@ -2366,7 +2366,7 @@
   {
     "compliant": "TRUE",
     "character_id": 37,
-    "sort_id": 49,
+    "sort_id": 53,
     "last_name": "春川",
     "first_name": "宙",
     "last_nameRuby": "はるかわ",
@@ -2417,7 +2417,7 @@
   {
     "compliant": "TRUE",
     "character_id": 40,
-    "sort_id": 50,
+    "sort_id": 54,
     "last_name": "三毛縞",
     "first_name": "斑",
     "last_nameRuby": "みけじま",
@@ -2465,7 +2465,7 @@
   {
     "compliant": "TRUE",
     "character_id": 31,
-    "sort_id": 55,
+    "sort_id": 59,
     "last_name": "佐賀美",
     "first_name": "陣",
     "last_nameRuby": "さがみ",
@@ -2501,7 +2501,7 @@
   {
     "compliant": "TRUE",
     "character_id": 32,
-    "sort_id": 56,
+    "sort_id": 60,
     "last_name": "椚",
     "first_name": "章臣",
     "last_nameRuby": "くぬぎ",
@@ -2537,7 +2537,7 @@
   {
     "compliant": "TRUE",
     "character_id": 81,
-    "sort_id": 51,
+    "sort_id": 55,
     "first_name": "エス",
     "first_nameRuby": "えす",
     "unit": [],
@@ -2606,7 +2606,7 @@
   {
     "compliant": "TRUE",
     "character_id": 83,
-    "sort_id": 52,
+    "sort_id": 56,
     "first_name": "カンナ",
     "first_nameRuby": "かんな",
     "unit": [],
@@ -2639,7 +2639,7 @@
   {
     "compliant": "TRUE",
     "character_id": 84,
-    "sort_id": 53,
+    "sort_id": 57,
     "first_name": "ユメ",
     "first_nameRuby": "ゆめ",
     "unit": [],
@@ -2672,7 +2672,7 @@
   {
     "compliant": "TRUE",
     "character_id": 85,
-    "sort_id": 54,
+    "sort_id": 58,
     "first_name": "ライカ",
     "first_nameRuby": "らいか",
     "unit": [],
