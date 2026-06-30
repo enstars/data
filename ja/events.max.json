@@ -6496,33 +6496,6 @@
   },
   {
     "compliant": "TRUE",
-    "event_id": 344,
-    "start": {
-      "jp": "2026-03-15T15:00:00+09:00"
-    },
-    "end": {
-      "jp": "2026-03-23T21:59:59+09:00"
-    },
-    "type": "song",
-    "name": "Chewing◆噛み跡残すBUBBLE GUM DANCE",
-    "gacha_id": [
-      592
-    ],
-    "song_name": "BUBBLE GUM DANCE",
-    "story_name": "BUBBLE GUM DANCE",
-    "banner_id": 4736,
-    "unit_id": [
-      20
-    ],
-    "cards": [
-      4736,
-      4737,
-      4738,
-      4739
-    ]
-  },
-  {
-    "compliant": "TRUE",
     "event_id": 345,
     "start": {
       "jp": "2026-03-31T15:00:00+09:00"
