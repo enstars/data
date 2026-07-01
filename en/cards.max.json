@@ -40611,6 +40611,61 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4124,
+    "title": "Dancing Starlight",
+    "name": "Esu Sagiri",
+    "skills": {
+      "center": {
+        "name": "Where Smiles Lead"
+      },
+      "live": {
+        "name": "Star Explorer"
+      },
+      "support": {
+        "name": "A Cozy Base"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4125,
+    "title": "Time to Act",
+    "name": "Kanna Natsu",
+    "skills": {
+      "center": {
+        "name": "The Curious Inventor"
+      },
+      "live": {
+        "name": "Precision Mode"
+      },
+      "support": {
+        "name": "A Place for Rest"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4126,
+    "title": "Curious Encounters",
+    "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Complicated Relations"
+      },
+      "live": {
+        "name": "A Guiding Hand"
+      },
+      "support": {
+        "name": "A Beaming Smile"
+      }
+    },
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
     "name": "Rei Sakuma",
@@ -41805,5 +41860,11 @@
       "n": "Please let me take it from here.",
       "e": "Please leave this to me."
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90168,
+    "title": "Checkpoint SAVE",
+    "name": "Sora Harukawa"
   }
 ]
