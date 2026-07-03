@@ -1401,14 +1401,14 @@
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 540,
-    "name": "DI:Verse",
+    "gacha_id": 5000071,
+    "name": "EVOLUTION ~Transform~",
     "story_author": "-"
   },
   {
     "compliant": "TRUE",
-    "gacha_id": 5000071,
-    "name": "EVOLUTION ~Transform~",
+    "gacha_id": 540,
+    "name": "DI:Verse",
     "story_author": "-"
   },
   {
@@ -1417,5 +1417,10 @@
     "name": "Deities on Earth",
     "story_name": "Deities on Earth",
     "story_author": "-"
+  },
+  {
+    "compliant": "TRUE",
+    "gacha_id": 5000079,
+    "name": "When Spring Awakes"
   }
 ]
