@@ -40666,6 +40666,48 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4130,
+    "title": "Dawnlit Drifter",
+    "name": "Niki Shiina"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4131,
+    "title": "Oracle Drifter",
+    "name": "Tsumugi Aoba",
+    "quote": {
+      "n": "Here we go!",
+      "e": "Let me cast magic on you♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4127,
+    "title": "Arcane Drifter",
+    "name": "Yuzuru Fushimi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4128,
+    "title": "Legacy Drifter",
+    "name": "Rei Sakuma",
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4129,
+    "title": "Creed Drifter",
+    "name": "Madara Mikejima",
+    "quote": {
+      "n": "Prepared to be dazzled!",
+      "e": "It's festival time!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
     "name": "Rei Sakuma",
