@@ -6516,6 +6516,36 @@
   },
   {
     "compliant": "TRUE",
+    "event_id": 344,
+    "start": {
+      "en": "2027-12-18T12:00:00-05:00",
+      "jp": "2026-03-15T15:00:00+09:00"
+    },
+    "end": {
+      "en": "2027-12-26T21:59:59-05:00",
+      "jp": "2026-03-23T21:59:59+09:00"
+    },
+    "type": "song",
+    "name": "Chewing◆噛み跡残すBUBBLE GUM DANCE",
+    "gacha_id": [
+      592
+    ],
+    "intro_lines": "Rhythm Link所属のアイドルユニットとして日本での活動をスタートさせる『MELLOW DEAR US』。共同プロデュース初日を控えた夜。 ジュイスはナイスと共に過ごした過去の思い出を夢に見る。",
+    "song_name": "BUBBLE GUM DANCE",
+    "story_name": "BUBBLE GUM DANCE",
+    "banner_id": 4736,
+    "unit_id": [
+      20
+    ],
+    "cards": [
+      4736,
+      4737,
+      4738,
+      4739
+    ]
+  },
+  {
+    "compliant": "TRUE",
     "event_id": 345,
     "start": {
       "en": "2028-01-01T12:00:00-05:00",
