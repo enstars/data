@@ -40668,13 +40668,35 @@
     "compliant": "TRUE",
     "id": 4130,
     "title": "Dawnlit Drifter",
-    "name": "Niki Shiina"
+    "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "M∀N∀ Sustenance"
+      },
+      "live": {
+        "name": "Ballad of Guidance"
+      },
+      "support": {
+        "name": "Training in Secret"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4131,
     "title": "Oracle Drifter",
     "name": "Tsumugi Aoba",
+    "skills": {
+      "center": {
+        "name": "M∀N∀ Source"
+      },
+      "live": {
+        "name": "Ballad of Messages"
+      },
+      "support": {
+        "name": "A Strange Case"
+      }
+    },
     "quote": {
       "n": "Here we go!",
       "e": "Let me cast magic on you♪"
@@ -40684,13 +40706,35 @@
     "compliant": "TRUE",
     "id": 4127,
     "title": "Arcane Drifter",
-    "name": "Yuzuru Fushimi"
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "M∀N∀ Ways"
+      },
+      "live": {
+        "name": "Ballad of Insight"
+      },
+      "support": {
+        "name": "Kindness Returned"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4128,
     "title": "Legacy Drifter",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "M∀N∀ Will"
+      },
+      "live": {
+        "name": "Ballad of Deception"
+      },
+      "support": {
+        "name": "Searching Within"
+      }
+    },
     "quote": {
       "n": "Let's sally forth.",
       "e": "Kekeke..."
@@ -40701,6 +40745,17 @@
     "id": 4129,
     "title": "Creed Drifter",
     "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "M∀N∀ Core"
+      },
+      "live": {
+        "name": "Ballad of Vows"
+      },
+      "support": {
+        "name": "A Training Partner"
+      }
+    },
     "quote": {
       "n": "Prepared to be dazzled!",
       "e": "It's festival time!"
@@ -41913,6 +41968,17 @@
     "compliant": "TRUE",
     "id": 97013,
     "title": "Fairytale Journey",
-    "name": "Souma Kanzaki"
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Bell of Bonds"
+      },
+      "live": {
+        "name": "Verdant Surge"
+      },
+      "support": {
+        "name": "Fey Touched"
+      }
+    }
   }
 ]
