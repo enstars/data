@@ -40763,6 +40763,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4132,
+    "title": "Reliable Dominant",
+    "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Dominant Resolve"
+      },
+      "live": {
+        "name": "Devil's Control"
+      },
+      "support": {
+        "name": "Course Correction"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4133,
+    "title": "Driven Dominant",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Dominant Growth"
+      },
+      "live": {
+        "name": "Devil's Choice"
+      },
+      "support": {
+        "name": "Pride Score"
+      }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4134,
+    "title": "Robust Dominant",
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Dominant Craft"
+      },
+      "live": {
+        "name": "Devil's Hope"
+      },
+      "support": {
+        "name": "Clay Crafting"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Got it!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
     "name": "Rei Sakuma",
