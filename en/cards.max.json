@@ -40822,6 +40822,113 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4135,
+    "title": "Strategic Dominant",
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Supreme Ambition"
+      },
+      "live": {
+        "name": "Devil's Origin"
+      },
+      "support": {
+        "name": "Confident Guidance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4136,
+    "title": "Abundant Dominant",
+    "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Supreme Freedom"
+      },
+      "live": {
+        "name": "Devil's Creed"
+      },
+      "support": {
+        "name": "Joyful Tropical Fish"
+      }
+    },
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4137,
+    "title": "Cooperative Dominant",
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Supreme Redemption"
+      },
+      "live": {
+        "name": "Devil's Training"
+      },
+      "support": {
+        "name": "Hobby Circle Learning"
+      }
+    },
+    "quote": {
+      "n": "WelL, let's gO.",
+      "e": "It's my turN♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4138,
+    "title": "Inspired Twin Rooster Pagoda",
+    "name": "Wataru Hibiki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4139,
+    "title": "Resounding Twin Rooster Pagoda",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4140,
+    "title": "Seasoned Twin Rooster Pagoda",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4141,
+    "title": "Intense Twin Rooster Pagoda",
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4142,
+    "title": "Fateful Twin Rooster Pagoda",
+    "name": "Keito Hasumi",
+    "quote": {
+      "n": "Wait and see what we've got!",
+      "e": "Just leave this to me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4143,
+    "title": "Reflective Twin Rooster Pagoda",
+    "name": "Nazuna Nito",
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97004,
     "title": "Cherished Time",
     "name": "Rei Sakuma",
