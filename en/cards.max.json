@@ -40883,19 +40883,52 @@
     "compliant": "TRUE",
     "id": 4138,
     "title": "Inspired Twin Rooster Pagoda",
-    "name": "Wataru Hibiki"
+    "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Earnest Piece"
+      },
+      "live": {
+        "name": "All-Out Audience"
+      },
+      "support": {
+        "name": "Dream-Reality Mask"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4139,
     "title": "Resounding Twin Rooster Pagoda",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Confident Piece"
+      },
+      "live": {
+        "name": "Resounding Audience"
+      },
+      "support": {
+        "name": "Panic Cry"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4140,
     "title": "Seasoned Twin Rooster Pagoda",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Insightful Piece"
+      },
+      "live": {
+        "name": "Growing Audience"
+      },
+      "support": {
+        "name": "Judgment Duty"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -40905,13 +40938,35 @@
     "compliant": "TRUE",
     "id": 4141,
     "title": "Intense Twin Rooster Pagoda",
-    "name": "Ibuki Taki"
+    "name": "Ibuki Taki",
+    "skills": {
+      "center": {
+        "name": "Action Piece"
+      },
+      "live": {
+        "name": "Dazzling Audience"
+      },
+      "support": {
+        "name": "Unexpected Setlist"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4142,
     "title": "Fateful Twin Rooster Pagoda",
     "name": "Keito Hasumi",
+    "skills": {
+      "center": {
+        "name": "Unexpected Piece"
+      },
+      "live": {
+        "name": "Controlled Audience"
+      },
+      "support": {
+        "name": "Overseas Reception"
+      }
+    },
     "quote": {
       "n": "Wait and see what we've got!",
       "e": "Just leave this to me!"
@@ -40922,6 +40977,17 @@
     "id": 4143,
     "title": "Reflective Twin Rooster Pagoda",
     "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Emotional Piece"
+      },
+      "live": {
+        "name": "Enlightened Audience"
+      },
+      "support": {
+        "name": "Concerning Statement"
+      }
+    },
     "quote": {
       "n": "Let's go!",
       "e": "Leave it to your Ni~chan!"
@@ -42128,7 +42194,60 @@
     "compliant": "TRUE",
     "id": 90168,
     "title": "Checkpoint SAVE",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Creation of HEAVEN"
+      },
+      "live": {
+        "name": "Candid Con Artist"
+      },
+      "support": {
+        "name": "Multiple Identities"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90169,
+    "title": "Pursuit SAVE",
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Insight into HEAVEN"
+      },
+      "live": {
+        "name": "Relentless Risk-taker"
+      },
+      "support": {
+        "name": "Date with a Twist"
+      }
+    },
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 90170,
+    "title": "Rescue SAVE",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Protection of HEAVEN"
+      },
+      "live": {
+        "name": "Oathbound Leader"
+      },
+      "support": {
+        "name": "A Shared Promise"
+      }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
+    }
   },
   {
     "compliant": "TRUE",
