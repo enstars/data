@@ -41016,6 +41016,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4144,
+    "title": "Prince for a Day",
+    "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Straightforward Radiance"
+      },
+      "live": {
+        "name": "Mystic Starlight"
+      },
+      "support": {
+        "name": "Interaction with Horses"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4145,
+    "title": "Prince Companion",
+    "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Reflective Radiance"
+      },
+      "live": {
+        "name": "Twinkling Starlight"
+      },
+      "support": {
+        "name": "Boring Talk"
+      }
+    },
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4146,
+    "title": "Prince Guide",
+    "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Pure Radiance"
+      },
+      "live": {
+        "name": "Spring Starlight"
+      },
+      "support": {
+        "name": "Bond with a Beloved Horse"
+      }
+    },
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90121,
     "title": "Sizzling Moonlit Trek",
     "name": "Ibara Saegusa",
