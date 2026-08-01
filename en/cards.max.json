@@ -41075,6 +41075,101 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4147,
+    "title": "Prince Discovery",
+    "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Brilliant Radiance"
+      },
+      "live": {
+        "name": "Graceful Sunlight"
+      },
+      "support": {
+        "name": "Genuine Smile"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4148,
+    "title": "Prince Partner",
+    "name": "Tsukasa Suou",
+    "skills": {
+      "center": {
+        "name": "Striking Radiance"
+      },
+      "live": {
+        "name": "Pure Sunlight"
+      },
+      "support": {
+        "name": "Perfect Plan"
+      }
+    },
+    "quote": {
+      "n": "Challenge accepted!",
+      "e": "I pledge on my honor as a knight...!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4149,
+    "title": "Prince Encounter",
+    "name": "Mika Kagehira",
+    "skills": {
+      "center": {
+        "name": "Gentle Radiance"
+      },
+      "live": {
+        "name": "Streaming Sunlight"
+      },
+      "support": {
+        "name": "Perfect Prince"
+      }
+    },
+    "quote": {
+      "n": "It's showtime!",
+      "e": "I'm in top form♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4150,
+    "title": "Fleeting Illusion",
+    "name": "HiMERU"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4151,
+    "title": "Fleeting Connection",
+    "name": "Kohaku Oukawa",
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4152,
+    "title": "Fleeting Buzz",
+    "name": "Rinne Amagi",
+    "quote": {
+      "n": "Kyahaha☆ This is my stage!",
+      "e": "I'm gonna take all the limelight!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4153,
+    "title": "Fleeting Festival",
+    "name": "Niki Shiina",
+    "quote": {
+      "n": "I step up when it's showtime~!",
+      "e": "Nahaha, feeling pumped?"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90121,
     "title": "Sizzling Moonlit Trek",
     "name": "Ibara Saegusa",
