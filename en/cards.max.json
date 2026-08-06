@@ -41136,13 +41136,35 @@
     "compliant": "TRUE",
     "id": 4150,
     "title": "Fleeting Illusion",
-    "name": "HiMERU"
+    "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Moment of Authenticity"
+      },
+      "live": {
+        "name": "Hidden Melody"
+      },
+      "support": {
+        "name": "Unspoken Answer"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4151,
     "title": "Fleeting Connection",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Moment of Release"
+      },
+      "live": {
+        "name": "True Melody"
+      },
+      "support": {
+        "name": "Bewildering Life Together"
+      }
+    },
     "quote": {
       "n": "Are you ready?",
       "e": "Time to hit the stage♪"
@@ -41153,6 +41175,17 @@
     "id": 4152,
     "title": "Fleeting Buzz",
     "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Moment of Surprise"
+      },
+      "live": {
+        "name": "Kindred Melody"
+      },
+      "support": {
+        "name": "Unexpected Twist"
+      }
+    },
     "quote": {
       "n": "Kyahaha☆ This is my stage!",
       "e": "I'm gonna take all the limelight!"
@@ -41163,6 +41196,17 @@
     "id": 4153,
     "title": "Fleeting Festival",
     "name": "Niki Shiina",
+    "skills": {
+      "center": {
+        "name": "Moment of Harmony"
+      },
+      "live": {
+        "name": "Distant Melody"
+      },
+      "support": {
+        "name": "Lucky Lunch"
+      }
+    },
     "quote": {
       "n": "I step up when it's showtime~!",
       "e": "Nahaha, feeling pumped?"
