@@ -41214,6 +41214,28 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4154,
+    "title": "The World of Dreams Beckons",
+    "name": "Fuyume Hanamura"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4155,
+    "title": "Culture Shock",
+    "name": "Ibuki Taki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4156,
+    "title": "Steaming Hot",
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90121,
     "title": "Sizzling Moonlit Trek",
     "name": "Ibara Saegusa",
