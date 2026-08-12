@@ -41216,19 +41216,52 @@
     "compliant": "TRUE",
     "id": 4154,
     "title": "The World of Dreams Beckons",
-    "name": "Fuyume Hanamura"
+    "name": "Fuyume Hanamura",
+    "skills": {
+      "center": {
+        "name": "The Gemstones of Love"
+      },
+      "live": {
+        "name": "Fantasy Dreamer"
+      },
+      "support": {
+        "name": "A Cute Angle"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4155,
     "title": "Culture Shock",
-    "name": "Ibuki Taki"
+    "name": "Ibuki Taki",
+    "skills": {
+      "center": {
+        "name": "A Consistent Style"
+      },
+      "live": {
+        "name": "An Infectious Smile"
+      },
+      "support": {
+        "name": "American Style"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4156,
     "title": "Steaming Hot",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "A Unique Flavor"
+      },
+      "live": {
+        "name": "A Warm Bond"
+      },
+      "support": {
+        "name": "Unexpected Day Off"
+      }
+    },
     "quote": {
       "n": "I'll show you what I got!",
       "e": "Do you like it♪"
