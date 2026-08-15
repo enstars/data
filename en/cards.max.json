@@ -41269,6 +41269,132 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4162,
+    "title": "A Shared Song of the Moon",
+    "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "A Hesitant Invitation"
+      },
+      "live": {
+        "name": "Meeting the Outside World"
+      },
+      "support": {
+        "name": "Uninvited Guest"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4163,
+    "title": "An Echoing Song of the Moon",
+    "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "A Hesitant Gathering"
+      },
+      "live": {
+        "name": "A Wondrous Meeting"
+      },
+      "support": {
+        "name": "A Room of One's Own"
+      }
+    },
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4164,
+    "title": "An Unyielding Song of the Moon",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "A Hesitant Farewell"
+      },
+      "live": {
+        "name": "An Unexpected Meeting"
+      },
+      "support": {
+        "name": "Distance Between Brothers"
+      }
+    },
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4165,
+    "title": "An Enigmatic Song of the Moon",
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "A Hesitant Investigation"
+      },
+      "live": {
+        "name": "A One-of-a-Kind Meeting"
+      },
+      "support": {
+        "name": "Something to Talk About"
+      }
+    },
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4157,
+    "title": "Wild・Courage",
+    "name": "Tetora Nagumo"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4158,
+    "title": "Wild・Road",
+    "name": "Shinobu Sengoku",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Follow my steps!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4159,
+    "title": "Wild・Guidance",
+    "name": "Kanata Shinkai",
+    "quote": {
+      "n": "Here I am~♪",
+      "e": "Hehe, I am in my best shape♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4160,
+    "title": "Wild・Movement",
+    "name": "Midori Takamine",
+    "quote": {
+      "n": "Leave it to me...!",
+      "e": "RYUSEI Green, on my mark!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4161,
+    "title": "Wild・Drive",
+    "name": "Chiaki Morisawa",
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90121,
     "title": "Sizzling Moonlit Trek",
     "name": "Ibara Saegusa",
