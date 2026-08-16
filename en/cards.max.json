@@ -41351,13 +41351,35 @@
     "compliant": "TRUE",
     "id": 4157,
     "title": "Wild・Courage",
-    "name": "Tetora Nagumo"
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Dashing Passion"
+      },
+      "live": {
+        "name": "Chasing Wishes"
+      },
+      "support": {
+        "name": "A Man of the Wild"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4158,
     "title": "Wild・Road",
     "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Dashing Cheers"
+      },
+      "live": {
+        "name": "Chasing Dreams"
+      },
+      "support": {
+        "name": "A Helping Fist"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Follow my steps!"
@@ -41368,6 +41390,17 @@
     "id": 4159,
     "title": "Wild・Guidance",
     "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Dashing Approach"
+      },
+      "live": {
+        "name": "Chasing Happiness"
+      },
+      "support": {
+        "name": "Blazing Fish"
+      }
+    },
     "quote": {
       "n": "Here I am~♪",
       "e": "Hehe, I am in my best shape♪"
@@ -41378,6 +41411,17 @@
     "id": 4160,
     "title": "Wild・Movement",
     "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Dashing Departure"
+      },
+      "live": {
+        "name": "Chasing Answers"
+      },
+      "support": {
+        "name": "Dangerous Situation"
+      }
+    },
     "quote": {
       "n": "Leave it to me...!",
       "e": "RYUSEI Green, on my mark!"
@@ -41388,6 +41432,17 @@
     "id": 4161,
     "title": "Wild・Drive",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Dashing Skills"
+      },
+      "live": {
+        "name": "Chasing Impulse"
+      },
+      "support": {
+        "name": "A Hero Reporting In"
+      }
+    },
     "quote": {
       "n": "Burn your passion!",
       "e": "Let's go! BOOM!"
