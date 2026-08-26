@@ -41534,6 +41534,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4166,
+    "title": "Attainment VANQUISH",
+    "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Strength to Overcome"
+      },
+      "live": {
+        "name": "That Day's Thorn"
+      },
+      "support": {
+        "name": "Fully Fledged"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4167,
+    "title": "Passion VANQUISH",
+    "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Spirit to Overcome"
+      },
+      "live": {
+        "name": "Thorn Removed"
+      },
+      "support": {
+        "name": "Test Mode"
+      }
+    },
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4168,
+    "title": "Action VANQUISH",
+    "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Inner Power to Overcome"
+      },
+      "live": {
+        "name": "Blunted Thorn"
+      },
+      "support": {
+        "name": "Beyond the Blindfold"
+      }
+    },
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
     "name": "Shu Itsuki",
