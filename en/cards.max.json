@@ -41593,6 +41593,80 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4169,
+    "title": "Growth VANQUISH",
+    "name": "Kuro Kiryu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4170,
+    "title": "Fulfillment VANQUISH",
+    "name": "Nagisa Ran",
+    "quote": {
+      "n": "This is my power.",
+      "e": "Can you keep up with me?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4171,
+    "title": "Equilibrium VANQUISH",
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4172,
+    "title": "Arena of Resolve",
+    "name": "Jun Sazanami"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4173,
+    "title": "Arena of Honesty",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4174,
+    "title": "Arena of Resonance",
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4175,
+    "title": "Arena of Clear Mind",
+    "name": "Kanna Natsu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4176,
+    "title": "Arena of Ignition",
+    "name": "Ibara Saegusa",
+    "quote": {
+      "n": "The time is now!",
+      "e": "Ready, fire!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4177,
+    "title": "Arena of Unity",
+    "name": "Yuta Aoi",
+    "quote": {
+      "n": "Let's go...☆",
+      "e": "Time for the show~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
     "name": "Shu Itsuki",
