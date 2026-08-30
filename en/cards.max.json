@@ -41595,13 +41595,35 @@
     "compliant": "TRUE",
     "id": 4169,
     "title": "Growth VANQUISH",
-    "name": "Kuro Kiryu"
+    "name": "Kuro Kiryu",
+    "skills": {
+      "center": {
+        "name": "Will to Conquer"
+      },
+      "live": {
+        "name": "Breaking the Lock"
+      },
+      "support": {
+        "name": "Childhood Bonds"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4170,
     "title": "Fulfillment VANQUISH",
     "name": "Nagisa Ran",
+    "skills": {
+      "center": {
+        "name": "Joy of Conquest"
+      },
+      "live": {
+        "name": "Interlocking Bonds"
+      },
+      "support": {
+        "name": "Casual Food Review"
+      }
+    },
     "quote": {
       "n": "This is my power.",
       "e": "Can you keep up with me?"
@@ -41612,6 +41634,17 @@
     "id": 4171,
     "title": "Equilibrium VANQUISH",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Freedom to Conquer"
+      },
+      "live": {
+        "name": "Breaking Free"
+      },
+      "support": {
+        "name": "No Promises"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Alright, let me see your smile!"
@@ -41621,19 +41654,52 @@
     "compliant": "TRUE",
     "id": 4172,
     "title": "Arena of Resolve",
-    "name": "Jun Sazanami"
+    "name": "Jun Sazanami",
+    "skills": {
+      "center": {
+        "name": "Piece of Faith"
+      },
+      "live": {
+        "name": "Rising Gladiator"
+      },
+      "support": {
+        "name": "Rewarding Work"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4173,
     "title": "Arena of Honesty",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Piece of Feeling"
+      },
+      "live": {
+        "name": "Victorious Gladiator"
+      },
+      "support": {
+        "name": "Unseen Doubts"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4174,
     "title": "Arena of Resonance",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "Piece of Connection"
+      },
+      "live": {
+        "name": "United Gladiator"
+      },
+      "support": {
+        "name": "Microcosm Battle"
+      }
+    },
     "quote": {
       "n": "I'll show you what I got!",
       "e": "Do you like it♪"
@@ -41643,13 +41709,35 @@
     "compliant": "TRUE",
     "id": 4175,
     "title": "Arena of Clear Mind",
-    "name": "Kanna Natsu"
+    "name": "Kanna Natsu",
+    "skills": {
+      "center": {
+        "name": "Piece of Amusement"
+      },
+      "live": {
+        "name": "Tempered Gladiator"
+      },
+      "support": {
+        "name": "Child's Stamina"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4176,
     "title": "Arena of Ignition",
     "name": "Ibara Saegusa",
+    "skills": {
+      "center": {
+        "name": "Piece of Chaos"
+      },
+      "live": {
+        "name": "Trailblazing Gladiator"
+      },
+      "support": {
+        "name": "Probing True Feelings"
+      }
+    },
     "quote": {
       "n": "The time is now!",
       "e": "Ready, fire!"
@@ -41660,6 +41748,17 @@
     "id": 4177,
     "title": "Arena of Unity",
     "name": "Yuta Aoi",
+    "skills": {
+      "center": {
+        "name": "Piece of Entanglement"
+      },
+      "live": {
+        "name": "Evolving Gladiator"
+      },
+      "support": {
+        "name": "The Twins' Promise"
+      }
+    },
     "quote": {
       "n": "Let's go...☆",
       "e": "Time for the show~!"
