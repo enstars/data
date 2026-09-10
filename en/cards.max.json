@@ -41766,6 +41766,65 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4178,
+    "title": "HOME: Hospitality",
+    "name": "Kanata Shinkai",
+    "skills": {
+      "center": {
+        "name": "Dreamy Time"
+      },
+      "live": {
+        "name": "Energetic Fish"
+      },
+      "support": {
+        "name": "Featured Guest"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4179,
+    "title": "HOME: Comfort",
+    "name": "Koga Oogami",
+    "skills": {
+      "center": {
+        "name": "Dreamy Room"
+      },
+      "live": {
+        "name": "Impatient Fish"
+      },
+      "support": {
+        "name": "After-Bath Bliss"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Over here!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4180,
+    "title": "HOME: Heartbeat",
+    "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Dreamy Spot"
+      },
+      "live": {
+        "name": "Nervous Fish"
+      },
+      "support": {
+        "name": "An Idol's Home"
+      }
+    },
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
     "name": "Shu Itsuki",
