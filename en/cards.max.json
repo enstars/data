@@ -41825,6 +41825,101 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4181,
+    "title": "HOME: Caring",
+    "name": "Arashi Narukami",
+    "skills": {
+      "center": {
+        "name": "Cozy Pose"
+      },
+      "live": {
+        "name": "Content Cat"
+      },
+      "support": {
+        "name": "Poolside Together"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4182,
+    "title": "HOME: Unease",
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Cozy Mood"
+      },
+      "live": {
+        "name": "Flustered Cat"
+      },
+      "support": {
+        "name": "A Lingering Gaze"
+      }
+    },
+    "quote": {
+      "n": "Let's go!",
+      "e": "Leave it to your Ni~chan!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4183,
+    "title": "HOME: Zest",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Cozy Space"
+      },
+      "live": {
+        "name": "Wandering Cat"
+      },
+      "support": {
+        "name": "A Yard to Run Free"
+      }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4184,
+    "title": "Fabled Fairy Tale",
+    "name": "Eichi Tenshouin"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4185,
+    "title": "Dream Fairy Tale",
+    "name": "Tori Himemiya",
+    "quote": {
+      "n": "Attention on me♪",
+      "e": "How do you like it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4186,
+    "title": "Fantasy Fairy Tale",
+    "name": "Wataru Hibiki",
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4187,
+    "title": "Imagined Fairy Tale",
+    "name": "Yuzuru Fushimi",
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
     "name": "Shu Itsuki",
