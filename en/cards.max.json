@@ -41886,13 +41886,35 @@
     "compliant": "TRUE",
     "id": 4184,
     "title": "Fabled Fairy Tale",
-    "name": "Eichi Tenshouin"
+    "name": "Eichi Tenshouin",
+    "skills": {
+      "center": {
+        "name": "An Unfinished Story"
+      },
+      "live": {
+        "name": "Forgotten Dream"
+      },
+      "support": {
+        "name": "Heartfelt Words"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4185,
     "title": "Dream Fairy Tale",
     "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "An Unwritten Future"
+      },
+      "live": {
+        "name": "Forgotten Weakness"
+      },
+      "support": {
+        "name": "Here and Now"
+      }
+    },
     "quote": {
       "n": "Attention on me♪",
       "e": "How do you like it?"
@@ -41903,6 +41925,17 @@
     "id": 4186,
     "title": "Fantasy Fairy Tale",
     "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "An Unfinished Script"
+      },
+      "live": {
+        "name": "Forgotten Wish"
+      },
+      "support": {
+        "name": "A Fine Line"
+      }
+    },
     "quote": {
       "n": "Let me give you a hand☆",
       "e": "With all my love!"
@@ -41913,6 +41946,17 @@
     "id": 4187,
     "title": "Imagined Fairy Tale",
     "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "An Ongoing Moment"
+      },
+      "live": {
+        "name": "Forgotten Hope"
+      },
+      "support": {
+        "name": "The Butler's Wit"
+      }
+    },
     "quote": {
       "n": "Please let me take it from here.",
       "e": "Please leave this to me."
