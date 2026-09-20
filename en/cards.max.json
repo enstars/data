@@ -41964,6 +41964,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4188,
+    "title": "The Killer's Doubt",
+    "name": "Natsume Sakasaki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4189,
+    "title": "The Killer's Specialty",
+    "name": "Makoto Yuuki",
+    "quote": {
+      "n": "I'll look right into the camera!",
+      "e": "Eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4190,
+    "title": "The Killer's Concern",
+    "name": "Hiiro Amagi",
+    "quote": {
+      "n": "March forward!",
+      "e": "I'll surely shine!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97005,
     "title": "Essence of Eternity",
     "name": "Shu Itsuki",
