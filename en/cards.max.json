@@ -40679,6 +40679,10 @@
       "support": {
         "name": "Training in Secret"
       }
+    },
+    "quote": {
+      "n": "Grrrr! Grrrr...!",
+      "e": "I feel as if I can do anything!"
     }
   },
   {
@@ -40717,6 +40721,10 @@
       "support": {
         "name": "Kindness Returned"
       }
+    },
+    "quote": {
+      "n": "... What's the meaning of this?",
+      "e": "Do not let your guard down, brother!"
     }
   },
   {
@@ -40776,6 +40784,10 @@
       "support": {
         "name": "Course Correction"
       }
+    },
+    "quote": {
+      "n": "Would you like to take one of my classes?",
+      "e": "Whoever it is, I'll face them head-on."
     }
   },
   {
@@ -40835,6 +40847,10 @@
       "support": {
         "name": "Confident Guidance"
       }
+    },
+    "quote": {
+      "n": "I'll take over from here as your tutor.",
+      "e": "So this is where it ends...?"
     }
   },
   {
@@ -40894,6 +40910,10 @@
       "support": {
         "name": "Dream-Reality Mask"
       }
+    },
+    "quote": {
+      "n": "We're heading into the world of dreams!",
+      "e": "Let's bring out the best in each other."
     }
   },
   {
@@ -40911,6 +40931,10 @@
       "support": {
         "name": "Panic Cry"
       }
+    },
+    "quote": {
+      "n": "You! All of you...!",
+      "e": "I won't lose to anyone!"
     }
   },
   {
@@ -41029,6 +41053,10 @@
       "support": {
         "name": "Interaction with Horses"
       }
+    },
+    "quote": {
+      "n": "Whaaah?!",
+      "e": "Want to dance with me tonight?"
     }
   },
   {
@@ -41088,6 +41116,10 @@
       "support": {
         "name": "Genuine Smile"
       }
+    },
+    "quote": {
+      "n": "Haha, ahahaha...",
+      "e": "This is my secret spot."
     }
   },
   {
@@ -41147,6 +41179,10 @@
       "support": {
         "name": "Unspoken Answer"
       }
+    },
+    "quote": {
+      "n": "I will protect them for you.",
+      "e": "Dance with HiMERU all night long♪"
     }
   },
   {
@@ -41282,6 +41318,10 @@
       "support": {
         "name": "Uninvited Guest"
       }
+    },
+    "quote": {
+      "n": "A human has seen Ri~cchan...",
+      "e": "Okay, come here already."
     }
   },
   {
@@ -41362,6 +41402,10 @@
       "support": {
         "name": "A Man of the Wild"
       }
+    },
+    "quote": {
+      "n": "I've made up my mind.",
+      "e": "I need to take a step forward!"
     }
   },
   {
@@ -41547,6 +41591,10 @@
       "support": {
         "name": "Fully Fledged"
       }
+    },
+    "quote": {
+      "n": "Just be quiet and rely on me for once",
+      "e": "The only way forward is to clear the path."
     }
   },
   {
@@ -41606,6 +41654,10 @@
       "support": {
         "name": "Childhood Bonds"
       }
+    },
+    "quote": {
+      "n": "I guess I need to grow up a bit too...♪",
+      "e": "I can't stay bound forever."
     }
   },
   {
@@ -41665,6 +41717,10 @@
       "support": {
         "name": "Rewarding Work"
       }
+    },
+    "quote": {
+      "n": "You lose your pace if you keep stopping.",
+      "e": "I'll break through anything!"
     }
   },
   {
@@ -41682,6 +41738,10 @@
       "support": {
         "name": "Unseen Doubts"
       }
+    },
+    "quote": {
+      "n": "Sora's never experienced anything like this before.",
+      "e": "Whatever happens we'll be fine"
     }
   },
   {
@@ -41779,6 +41839,10 @@
       "support": {
         "name": "Featured Guest"
       }
+    },
+    "quote": {
+      "n": "I'm still thinking...",
+      "e": "Is it \"morning\" already...?"
     }
   },
   {
@@ -41838,6 +41902,10 @@
       "support": {
         "name": "Poolside Together"
       }
+    },
+    "quote": {
+      "n": "What a fascinating place.",
+      "e": "Come chat with us♪"
     }
   },
   {
@@ -41897,6 +41965,10 @@
       "support": {
         "name": "Heartfelt Words"
       }
+    },
+    "quote": {
+      "n": "You are the untainted version of me.",
+      "e": "Come, the stage is set."
     }
   },
   {
@@ -41966,13 +42038,39 @@
     "compliant": "TRUE",
     "id": 4188,
     "title": "The Killer's Doubt",
-    "name": "Natsume Sakasaki"
+    "name": "Natsume Sakasaki",
+    "skills": {
+      "center": {
+        "name": "Magical Wink"
+      },
+      "live": {
+        "name": "Truth in the Shadows"
+      },
+      "support": {
+        "name": "Warning Signal"
+      }
+    },
+    "quote": {
+      "n": "Someone has found it ouT.",
+      "e": "Did you forget to question thaT?"
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4189,
     "title": "The Killer's Specialty",
     "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Battle Wink"
+      },
+      "live": {
+        "name": "Strength in the Shadows"
+      },
+      "support": {
+        "name": "Online Urban Legend"
+      }
+    },
     "quote": {
       "n": "I'll look right into the camera!",
       "e": "Eyes on me!"
@@ -41983,6 +42081,17 @@
     "id": 4190,
     "title": "The Killer's Concern",
     "name": "Hiiro Amagi",
+    "skills": {
+      "center": {
+        "name": "Fierce Wink"
+      },
+      "live": {
+        "name": "Figure in the Shadows"
+      },
+      "support": {
+        "name": "Forbidden Box"
+      }
+    },
     "quote": {
       "n": "March forward!",
       "e": "I'll surely shine!"
@@ -43095,6 +43204,10 @@
       "support": {
         "name": "Multiple Identities"
       }
+    },
+    "quote": {
+      "n": "... Oh, right.",
+      "e": "Get out of here with Sora☆"
     }
   },
   {
@@ -43154,6 +43267,10 @@
       "support": {
         "name": "Fey Touched"
       }
+    },
+    "quote": {
+      "n": "Mm! If that's your request, Sir Shinkai...",
+      "e": "To bring everyday happiness to everyone around me...♪"
     }
   }
 ]
