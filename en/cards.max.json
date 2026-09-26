@@ -42120,6 +42120,105 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4191,
+    "title": "The Killer's Truth",
+    "name": "Shinobu Sengoku",
+    "skills": {
+      "center": {
+        "name": "Charming Wink"
+      },
+      "live": {
+        "name": "Jumping Over Lies"
+      },
+      "support": {
+        "name": "Secret Passage"
+      }
+    },
+    "quote": {
+      "n": "Please explain it a little.",
+      "e": "I will live by my beliefs!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4192,
+    "title": "The Killer's Worth",
+    "name": "Yuzuru Fushimi",
+    "skills": {
+      "center": {
+        "name": "Wink on Duty"
+      },
+      "live": {
+        "name": "A Jumping Step"
+      },
+      "support": {
+        "name": "Suspicious Liquid"
+      }
+    },
+    "quote": {
+      "n": "Please let me take it from here.",
+      "e": "Please leave this to me."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4193,
+    "title": "The Killer's Confusion",
+    "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Wink for a Favor"
+      },
+      "live": {
+        "name": "Jumping Over Lines"
+      },
+      "support": {
+        "name": "Mysterious Sign"
+      }
+    },
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4194,
+    "title": "The Werewolf's Heart",
+    "name": "Madara Mikejima"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4195,
+    "title": "The Werewolf's Conflict",
+    "name": "Souma Kanzaki",
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4196,
+    "title": "The Werewolf's Concern",
+    "name": "Chiaki Morisawa",
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4197,
+    "title": "The Werewolf's Whereabouts",
+    "name": "Kaoru Hakaze",
+    "quote": {
+      "n": "Here I am!",
+      "e": "Alright, let me see your smile!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90125,
     "title": "Marvelous Future",
     "name": "Tsukasa Suou",
