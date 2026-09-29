@@ -42185,13 +42185,35 @@
     "compliant": "TRUE",
     "id": 4194,
     "title": "The Werewolf's Heart",
-    "name": "Madara Mikejima"
+    "name": "Madara Mikejima",
+    "skills": {
+      "center": {
+        "name": "Howling Night"
+      },
+      "live": {
+        "name": "Back to Halloween"
+      },
+      "support": {
+        "name": "Words on the Breeze"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4195,
     "title": "The Werewolf's Conflict",
     "name": "Souma Kanzaki",
+    "skills": {
+      "center": {
+        "name": "Howling Time"
+      },
+      "live": {
+        "name": "Merry Halloween"
+      },
+      "support": {
+        "name": "Sudden Mess"
+      }
+    },
     "quote": {
       "n": "En garde!",
       "e": "Please look this way!"
@@ -42202,6 +42224,17 @@
     "id": 4196,
     "title": "The Werewolf's Concern",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Howling Road"
+      },
+      "live": {
+        "name": "Halloween Assistant"
+      },
+      "support": {
+        "name": "Playful Duel"
+      }
+    },
     "quote": {
       "n": "Burn your passion!",
       "e": "Let's go! BOOM!"
@@ -42212,6 +42245,17 @@
     "id": 4197,
     "title": "The Werewolf's Whereabouts",
     "name": "Kaoru Hakaze",
+    "skills": {
+      "center": {
+        "name": "Howling Dawn"
+      },
+      "live": {
+        "name": "Tempting Halloween"
+      },
+      "support": {
+        "name": "Spring Lanterns"
+      }
+    },
     "quote": {
       "n": "Here I am!",
       "e": "Alright, let me see your smile!"
