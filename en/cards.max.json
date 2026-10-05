@@ -42263,6 +42263,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4198,
+    "title": "A Seeker's Resolve",
+    "name": "Adonis Otogari"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4199,
+    "title": "A Seeker's Strategy",
+    "name": "HiMERU",
+    "quote": {
+      "n": "Please keep your eyes on HiMERU.",
+      "e": "HiMERU will captivate everyone here."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4200,
+    "title": "A Seeker's Memories",
+    "name": "Shu Itsuki",
+    "quote": {
+      "n": "Behold!",
+      "e": "Follow me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90125,
     "title": "Marvelous Future",
     "name": "Tsukasa Suou",
