@@ -42263,15 +42263,241 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4204,
+    "title": "ES Idol",
+    "name": "Esu",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Keep Voltage"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4208,
+    "title": "Practice",
+    "name": "Esu",
+    "skills": {
+      "center": {
+        "name": "Dance Flash"
+      },
+      "live": {
+        "name": "Challenge of Idol"
+      },
+      "support": {
+        "name": "Presentation of Unit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4212,
+    "title": "Leader with Two Sides",
+    "name": "Esu",
+    "skills": {
+      "center": {
+        "name": "Bold Camera Appeal"
+      },
+      "live": {
+        "name": "Captivating Gaze"
+      },
+      "support": {
+        "name": "Group Training"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4205,
+    "title": "ES Idol",
+    "name": "Kanna",
+    "skills": {
+      "center": {
+        "name": "Dance Sparkle"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Cheer Dance"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4209,
+    "title": "Practice",
+    "name": "Kanna",
+    "skills": {
+      "center": {
+        "name": "Brilliant Ensemble"
+      },
+      "live": {
+        "name": "Knowledge of Idol"
+      },
+      "support": {
+        "name": "Basics of Unit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4213,
+    "title": "Strategic Debut",
+    "name": "Kanna",
+    "skills": {
+      "center": {
+        "name": "Mechanical Smile"
+      },
+      "live": {
+        "name": "Complete Input"
+      },
+      "support": {
+        "name": "Composed Assessment"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4206,
+    "title": "ES Idol",
+    "name": "Yume",
+    "skills": {
+      "center": {
+        "name": "Vocal Flash"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Fall in Stage"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4210,
+    "title": "Practice",
+    "name": "Yume",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Presentation of Idol"
+      },
+      "support": {
+        "name": "Character of Unit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4214,
+    "title": "Calculated Opening",
+    "name": "Yume",
+    "skills": {
+      "center": {
+        "name": "Thematic Match"
+      },
+      "live": {
+        "name": "Signature Pose"
+      },
+      "support": {
+        "name": "Sense of Teamwork"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4207,
+    "title": "ES Idol",
+    "name": "Raika",
+    "skills": {
+      "center": {
+        "name": "Performance Brilliant"
+      },
+      "live": {
+        "name": "Score Up"
+      },
+      "support": {
+        "name": "Brilliant Cheer"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4211,
+    "title": "Practice",
+    "name": "Raika",
+    "skills": {
+      "center": {
+        "name": "Performance Glitter"
+      },
+      "live": {
+        "name": "Life of Idol"
+      },
+      "support": {
+        "name": "Voice of Unit"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4215,
+    "title": "Guileless Entrance",
+    "name": "Raika",
+    "skills": {
+      "center": {
+        "name": "Effortless Smile"
+      },
+      "live": {
+        "name": "Split-Second Switch"
+      },
+      "support": {
+        "name": "Soothing Presence"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 4198,
     "title": "A Seeker's Resolve",
-    "name": "Adonis Otogari"
+    "name": "Adonis Otogari",
+    "skills": {
+      "center": {
+        "name": "Quest for Strength"
+      },
+      "live": {
+        "name": "Purpose & Secrets"
+      },
+      "support": {
+        "name": "Wild Hunt"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4199,
     "title": "A Seeker's Strategy",
     "name": "HiMERU",
+    "skills": {
+      "center": {
+        "name": "Chasing Hope"
+      },
+      "live": {
+        "name": "Following & Secrets"
+      },
+      "support": {
+        "name": "A Good Job"
+      }
+    },
     "quote": {
       "n": "Please keep your eyes on HiMERU.",
       "e": "HiMERU will captivate everyone here."
@@ -42282,9 +42508,82 @@
     "id": 4200,
     "title": "A Seeker's Memories",
     "name": "Shu Itsuki",
+    "skills": {
+      "center": {
+        "name": "Holding Steady"
+      },
+      "live": {
+        "name": "Past & Secrets"
+      },
+      "support": {
+        "name": "Unwavering Passion"
+      }
+    },
     "quote": {
       "n": "Behold!",
       "e": "Follow me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4201,
+    "title": "A Seeker's Spirit",
+    "name": "Izumi Sena"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4202,
+    "title": "A Seeker's Skill",
+    "name": "Wataru Hibiki",
+    "quote": {
+      "n": "Let me give you a hand☆",
+      "e": "With all my love!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4203,
+    "title": "A Seeker's Purpose",
+    "name": "Hiyori Tomoe",
+    "quote": {
+      "n": "Be more obsessed with me!",
+      "e": "Keep your eyes on me!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4216,
+    "title": "FREEDOM's Pinnacle",
+    "name": "Makoto Yuuki"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4217,
+    "title": "FREEDOM's Radiance",
+    "name": "Subaru Akehoshi",
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4218,
+    "title": "FREEDOM's Wisdom",
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4219,
+    "title": "FREEDOM's Key",
+    "name": "Mao Isara",
+    "quote": {
+      "n": "Leave it to me!",
+      "e": "I'm confident in my flexibility♪"
     }
   },
   {
