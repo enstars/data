@@ -42528,13 +42528,35 @@
     "compliant": "TRUE",
     "id": 4201,
     "title": "A Seeker's Spirit",
-    "name": "Izumi Sena"
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Chasing Possibilities"
+      },
+      "live": {
+        "name": "Finding the Way"
+      },
+      "support": {
+        "name": "Great Taste"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4202,
     "title": "A Seeker's Skill",
     "name": "Wataru Hibiki",
+    "skills": {
+      "center": {
+        "name": "Pursuit of Joy"
+      },
+      "live": {
+        "name": "At the Destination"
+      },
+      "support": {
+        "name": "The Art of Decor"
+      }
+    },
     "quote": {
       "n": "Let me give you a hand☆",
       "e": "With all my love!"
@@ -42545,6 +42567,17 @@
     "id": 4203,
     "title": "A Seeker's Purpose",
     "name": "Hiyori Tomoe",
+    "skills": {
+      "center": {
+        "name": "Setting Trends"
+      },
+      "live": {
+        "name": "Knowing the Way"
+      },
+      "support": {
+        "name": "A Rare Treat"
+      }
+    },
     "quote": {
       "n": "Be more obsessed with me!",
       "e": "Keep your eyes on me!"
@@ -42554,13 +42587,35 @@
     "compliant": "TRUE",
     "id": 4216,
     "title": "FREEDOM's Pinnacle",
-    "name": "Makoto Yuuki"
+    "name": "Makoto Yuuki",
+    "skills": {
+      "center": {
+        "name": "Ideal Reached"
+      },
+      "live": {
+        "name": "From the Heart"
+      },
+      "support": {
+        "name": "Extreme Fun"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4217,
     "title": "FREEDOM's Radiance",
     "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Ideal Revealed"
+      },
+      "live": {
+        "name": "Dreaming Big"
+      },
+      "support": {
+        "name": "Family Time"
+      }
+    },
     "quote": {
       "n": "Let's have a blast!",
       "e": "I'll do my best to shine on everyone!"
@@ -42571,6 +42626,17 @@
     "id": 4218,
     "title": "FREEDOM's Wisdom",
     "name": "Hokuto Hidaka",
+    "skills": {
+      "center": {
+        "name": "Endless Ideal"
+      },
+      "live": {
+        "name": "Freedom Unbound"
+      },
+      "support": {
+        "name": "Unexpected Encounter"
+      }
+    },
     "quote": {
       "n": "This is what I got!",
       "e": "Things are getting interesting."
@@ -42581,6 +42647,17 @@
     "id": 4219,
     "title": "FREEDOM's Key",
     "name": "Mao Isara",
+    "skills": {
+      "center": {
+        "name": "Ideal Realized"
+      },
+      "live": {
+        "name": "Full of Hope"
+      },
+      "support": {
+        "name": "Zombie Crisis"
+      }
+    },
     "quote": {
       "n": "Leave it to me!",
       "e": "I'm confident in my flexibility♪"
