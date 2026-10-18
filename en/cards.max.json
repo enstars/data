@@ -42749,6 +42749,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4220,
+    "title": "Egoist Unbound",
+    "name": "Tori Himemiya"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4221,
+    "title": "Egoist in Pursuit",
+    "name": "Aira Shiratori",
+    "quote": {
+      "n": "I Love♪",
+      "e": "I love you the best~!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4222,
+    "title": "Egoist at Ease",
+    "name": "Leo Tsukinaga",
+    "quote": {
+      "n": "Enjoy the music!",
+      "e": "Wahaha! This is getting fun~♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97006,
     "title": "Fantasy Parade",
     "name": "Mao Isara",
