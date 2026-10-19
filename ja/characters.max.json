@@ -2700,5 +2700,117 @@
     "renders": {
       "unit": 4207
     }
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 91,
+    "sort_id": 45,
+    "last_name": "甘楽",
+    "first_name": "チトセ",
+    "last_nameRuby": "つづら",
+    "first_nameRuby": "ちとせ",
+    "unit": [
+      19
+    ],
+    "character_voice": "服部想之介",
+    "image_color": "#314780",
+    "height": 175,
+    "weight": 57,
+    "birthday": "2000-11-19",
+    "horoscope": 7,
+    "age": 24,
+    "blood_type": "A",
+    "hobby": "映画鑑賞",
+    "specialty": "耳コピができる",
+    "quote": "本当の居場所はこっちなんだ",
+    "tagline": "柔らかスイートなブラウニー",
+    "introduction": "明るく物腰の柔らかな性格。ファンから熱い視線を集める。優しく甘い歌声をムードに合わせて巧みに表現する。『Rhythm Link』の『MELLOW DEAR US』に所属しており、ビジュアル担当でオールラウンダー。",
+    "renders": {
+      "unit": 4830
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 92,
+    "sort_id": 42,
+    "last_name": "小鹿",
+    "first_name": "ジュイス",
+    "last_nameRuby": "こじか",
+    "first_nameRuby": "じゅいす",
+    "unit": [
+      19
+    ],
+    "character_voice": "岩崎諒太",
+    "image_color": "#52cc53",
+    "height": 180,
+    "weight": 66,
+    "birthday": "2000-08-05",
+    "horoscope": 4,
+    "age": 21,
+    "blood_type": "O",
+    "hobby": "カフェ巡り",
+    "specialty": "何時間でも歌って踊れる",
+    "quote": "無駄話はそこまでにして、自己紹介だ",
+    "tagline": "誰より応えて君のNo.1トルテ",
+    "introduction": "堂々とした性格で、どんな時も冷静。持ち前の体格を活かしながら、豊かな表情で魅了する。『Rhythm Link』の『MELLOW DEAR US』に所属しており、リーダー兼パフォーマンス担当でメインボーカル。",
+    "renders": {
+      "unit": 4827
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 93,
+    "sort_id": 43,
+    "last_name": "円果",
+    "first_name": "望見",
+    "last_nameRuby": "まどか",
+    "first_nameRuby": "のぞみ",
+    "unit": [
+      19
+    ],
+    "character_voice": "今井文也",
+    "image_color": "#981558",
+    "height": 176,
+    "weight": 59,
+    "birthday": "2000-06-20",
+    "horoscope": 2,
+    "age": 20,
+    "blood_type": "B",
+    "hobby": "ネイル、解剖・解体",
+    "specialty": "相手の気分がわかる",
+    "quote": "己の名を知れたこと、光栄に思ふが良い",
+    "tagline": "下僕に優しいガナッシュさま",
+    "introduction": "高飛車な性格でファンに対して女王さまのような振る舞いをパフォーマンスとして行っている。『Rhythm Link』の『MELLOW DEAR US』に所属しており、ビジュアル担当でメインラッパー。",
+    "renders": {
+      "unit": 4828
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "character_id": 94,
+    "sort_id": 44,
+    "last_name": "久遠",
+    "first_name": "舞珠",
+    "last_nameRuby": "くおん",
+    "first_nameRuby": "ましゅ",
+    "unit": [
+      19
+    ],
+    "character_voice": "辻史人",
+    "image_color": "#f37a89",
+    "height": 170,
+    "weight": 56,
+    "birthday": "2000-12-14",
+    "horoscope": 8,
+    "age": 23,
+    "blood_type": "AB",
+    "hobby": "写真撮影、SNS更新",
+    "specialty": "振り付けは一回で覚えられる",
+    "quote": "#ファンのみんなと繋がりたい",
+    "tagline": "盛り上げ上手なフルールボラー",
+    "introduction": "朗らかで人懐っこい性格。サーカスの出身で身のこなしの軽さと器用さを活かしている。『Rhythm Link』の『MELLOW DEAR US』に所属しており、ダンス担当でメインダンサー。",
+    "renders": {
+      "unit": 4829
+    }
   }
 ]

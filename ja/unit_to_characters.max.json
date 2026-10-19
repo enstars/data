@@ -556,5 +556,33 @@
     "unit_id": 18,
     "character_id": 85,
     "order_num_in_unit": 4
+  },
+  {
+    "compliant": "TRUE",
+    "id": 57,
+    "unit_id": 20,
+    "character_id": 92,
+    "order_num_in_unit": 1
+  },
+  {
+    "compliant": "TRUE",
+    "id": 58,
+    "unit_id": 20,
+    "character_id": 93,
+    "order_num_in_unit": 2
+  },
+  {
+    "compliant": "TRUE",
+    "id": 59,
+    "unit_id": 20,
+    "character_id": 94,
+    "order_num_in_unit": 3
+  },
+  {
+    "compliant": "TRUE",
+    "id": 60,
+    "unit_id": 20,
+    "character_id": 91,
+    "order_num_in_unit": 4
   }
 ]
