@@ -5960,7 +5960,7 @@
     },
     "quote": {
       "n": "It's Master~'s magic!",
-      "e": "Where are our treasures~?"
+      "e": "Where are our treatures~?{{sic|treasures}}"
     }
   },
   {
@@ -21299,7 +21299,7 @@
         "name": "Coin for Riding the Waves"
       },
       "live": {
-        "name": "Kaoru's Special SKill"
+        "name": "Kaoru's Special Skill"
       },
       "support": {
         "name": "Wave Chance"
@@ -28250,7 +28250,7 @@
         "name": "Memories and Future"
       },
       "live": {
-        "name": "Treasured Moments on Film"
+        "name": "Treasured Moments On Film"
       },
       "support": {
         "name": "A Star's Greeting"
@@ -28295,7 +28295,7 @@
         "name": "Long Hair 101"
       },
       "support": {
-        "name": "Study and Focus"
+        "name": "Study And Focus"
       }
     },
     "quote": {
@@ -34952,7 +34952,7 @@
         "name": "One Shot, Straight Ahead!"
       },
       "support": {
-        "name": "2wink's Sweet Side☆"
+        "name": "2wink’s Sweet Side☆"
       }
     },
     "quote": {
@@ -34973,7 +34973,7 @@
         "name": "Flash, Clash, Sky Battle!"
       },
       "support": {
-        "name": "2wink's Spicy Side!"
+        "name": "2wink’s Spicy Side!"
       }
     },
     "quote": {
@@ -38094,6 +38094,17 @@
     "id": 3803,
     "title": "WELCOME FEST",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "This Room Hides My Fave"
+      },
+      "live": {
+        "name": "Irresistible Charm"
+      },
+      "support": {
+        "name": "The Joy of Cheering"
+      }
+    },
     "quote": {
       "n": "Let's find your fave together!",
       "e": "Did you meet anyone special?"
@@ -38595,7 +38606,7 @@
         "name": "Adorable Hobby"
       },
       "support": {
-        "name": "Child's Domain"
+        "name": "Child’s Domain"
       }
     },
     "quote": {
@@ -38631,7 +38642,7 @@
     "name": "HiMERU",
     "skills": {
       "center": {
-        "name": "Bee's Haven"
+        "name": "Bee’s Haven"
       },
       "live": {
         "name": "Flying Secrets"
@@ -38673,7 +38684,7 @@
     "name": "Kohaku Oukawa",
     "skills": {
       "center": {
-        "name": "Bee's Perspective"
+        "name": "Bee’s Perspective"
       },
       "live": {
         "name": "Flying Experts"
@@ -38721,7 +38732,7 @@
         "name": "Aligned Partners"
       },
       "support": {
-        "name": "Ruler's Reflection"
+        "name": "Ruler’s Reflection"
       }
     },
     "quote": {
@@ -39063,7 +39074,7 @@
       }
     },
     "quote": {
-      "n": "Time to work in the fieldS.",
+      "n": "Time to work in the fieldS",
       "e": "Trust mE."
     }
   },
@@ -40543,7 +40554,7 @@
     },
     "quote": {
       "n": "I'll definitely come back again!",
-      "e": "I'd like to express my feelings in my own words."
+      "e": "I'd like to express my feelings in my own words｡"
     }
   },
   {
@@ -40624,6 +40635,10 @@
       "support": {
         "name": "A Cozy Base"
       }
+    },
+    "quote": {
+      "n": "Mmm~ So comfy...♪",
+      "e": "I'm aiming for the top!"
     }
   },
   {
@@ -41255,7 +41270,7 @@
     "name": "Fuyume Hanamura",
     "skills": {
       "center": {
-        "name": "The Gemstones of Love"
+        "name": "The Gemstone of Love"
       },
       "live": {
         "name": "Fantasy Dreamer"
@@ -41263,6 +41278,10 @@
       "support": {
         "name": "A Cute Angle"
       }
+    },
+    "quote": {
+      "n": "It turned out pretty nice...♪",
+      "e": "Yume will show you the most adorable Yume♪"
     }
   },
   {
@@ -42196,6 +42215,10 @@
       "support": {
         "name": "Words on the Breeze"
       }
+    },
+    "quote": {
+      "n": "See you tomorrow...♪",
+      "e": "Nobody's getting a wink of sleep tonight♪"
     }
   },
   {
@@ -42310,6 +42333,10 @@
       "support": {
         "name": "Group Training"
       }
+    },
+    "quote": {
+      "n": "First up... stretching!",
+      "e": "Listen to our songs, okay?"
     }
   },
   {
