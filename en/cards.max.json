@@ -42778,13 +42778,35 @@
     "compliant": "TRUE",
     "id": 4220,
     "title": "Egoist Unbound",
-    "name": "Tori Himemiya"
+    "name": "Tori Himemiya",
+    "skills": {
+      "center": {
+        "name": "Childhood Trend"
+      },
+      "live": {
+        "name": "Self-Worth"
+      },
+      "support": {
+        "name": "Recommended Look"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4221,
     "title": "Egoist in Pursuit",
     "name": "Aira Shiratori",
+    "skills": {
+      "center": {
+        "name": "Childlike Play"
+      },
+      "live": {
+        "name": "Self-Reflection"
+      },
+      "support": {
+        "name": "Latest Trends"
+      }
+    },
     "quote": {
       "n": "I Love♪",
       "e": "I love you the best~!"
@@ -42795,6 +42817,17 @@
     "id": 4222,
     "title": "Egoist at Ease",
     "name": "Leo Tsukinaga",
+    "skills": {
+      "center": {
+        "name": "Beyond Childhood"
+      },
+      "live": {
+        "name": "Self-Sensation"
+      },
+      "support": {
+        "name": "Life Experience"
+      }
+    },
     "quote": {
       "n": "Enjoy the music!",
       "e": "Wahaha! This is getting fun~♪"
