@@ -42835,6 +42835,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4223,
+    "title": "Egoist Unfiltered",
+    "name": "Rinne Amagi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4224,
+    "title": "Egoist in Focus",
+    "name": "Rei Sakuma",
+    "quote": {
+      "n": "Let's sally forth.",
+      "e": "Kekeke..."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4225,
+    "title": "Egoist Unleashed",
+    "name": "Chiaki Morisawa",
+    "quote": {
+      "n": "Burn your passion!",
+      "e": "Let's go! BOOM!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97006,
     "title": "Fantasy Parade",
     "name": "Mao Isara",
