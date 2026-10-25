@@ -42837,13 +42837,35 @@
     "compliant": "TRUE",
     "id": 4223,
     "title": "Egoist Unfiltered",
-    "name": "Rinne Amagi"
+    "name": "Rinne Amagi",
+    "skills": {
+      "center": {
+        "name": "Adult Challenge"
+      },
+      "live": {
+        "name": "Self-Perspective"
+      },
+      "support": {
+        "name": "Unfamiliar Foods"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4224,
     "title": "Egoist in Focus",
     "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Adult Poise"
+      },
+      "live": {
+        "name": "Self-Awareness"
+      },
+      "support": {
+        "name": "Extreme Party"
+      }
+    },
     "quote": {
       "n": "Let's sally forth.",
       "e": "Kekeke..."
@@ -42854,10 +42876,45 @@
     "id": 4225,
     "title": "Egoist Unleashed",
     "name": "Chiaki Morisawa",
+    "skills": {
+      "center": {
+        "name": "Adult Tastes"
+      },
+      "live": {
+        "name": "Time for Myself"
+      },
+      "support": {
+        "name": "Passionate Performance"
+      }
+    },
     "quote": {
       "n": "Burn your passion!",
       "e": "Let's go! BOOM!"
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4226,
+    "title": "Fairy Tale White",
+    "name": "Yume"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4227,
+    "title": "White Challenge",
+    "name": "Esu"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4228,
+    "title": "White Logic",
+    "name": "Kanna"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4229,
+    "title": "White Lyrical",
+    "name": "Raika"
   },
   {
     "compliant": "TRUE",
