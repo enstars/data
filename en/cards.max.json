@@ -42896,25 +42896,69 @@
     "compliant": "TRUE",
     "id": 4226,
     "title": "Fairy Tale White",
-    "name": "Yume"
+    "name": "Yume",
+    "skills": {
+      "center": {
+        "name": "Melting Snow"
+      },
+      "live": {
+        "name": "Follow Your Heart"
+      },
+      "support": {
+        "name": "Shattered Happiness"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4227,
     "title": "White Challenge",
-    "name": "Esu"
+    "name": "Esu",
+    "skills": {
+      "center": {
+        "name": "Snowfall Halted"
+      },
+      "live": {
+        "name": "A Memorable Expression"
+      },
+      "support": {
+        "name": "Relentless Princess"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4228,
     "title": "White Logic",
-    "name": "Kanna"
+    "name": "Kanna",
+    "skills": {
+      "center": {
+        "name": "Silent Snow"
+      },
+      "live": {
+        "name": "Heart-Touching Days"
+      },
+      "support": {
+        "name": "Snowy Mountain Gear"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4229,
     "title": "White Lyrical",
-    "name": "Raika"
+    "name": "Raika",
+    "skills": {
+      "center": {
+        "name": "Falling Snow"
+      },
+      "live": {
+        "name": "A Moment from the Heart"
+      },
+      "support": {
+        "name": "Friends at the Table"
+      }
+    }
   },
   {
     "compliant": "TRUE",
