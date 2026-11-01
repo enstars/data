@@ -42962,6 +42962,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4230,
+    "title": "Wish ILLUMINATE",
+    "name": "Sora Harukawa"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4231,
+    "title": "Imagination ILLUMINATE",
+    "name": "Kohaku Oukawa",
+    "quote": {
+      "n": "Are you ready?",
+      "e": "Time to hit the stage♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4232,
+    "title": "Fulfillment ILLUMINATE",
+    "name": "Mayoi Ayase",
+    "quote": {
+      "n": "This is my Ensemble!",
+      "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 97006,
     "title": "Fantasy Parade",
     "name": "Mao Isara",
