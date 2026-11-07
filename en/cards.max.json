@@ -42964,13 +42964,35 @@
     "compliant": "TRUE",
     "id": 4230,
     "title": "Wish ILLUMINATE",
-    "name": "Sora Harukawa"
+    "name": "Sora Harukawa",
+    "skills": {
+      "center": {
+        "name": "Hopes for the Spirit"
+      },
+      "live": {
+        "name": "Shining Illusion"
+      },
+      "support": {
+        "name": "The Secret Lamp"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4231,
     "title": "Imagination ILLUMINATE",
     "name": "Kohaku Oukawa",
+    "skills": {
+      "center": {
+        "name": "Theories About the Spirit"
+      },
+      "live": {
+        "name": "Shimmering Illusion"
+      },
+      "support": {
+        "name": "Innocent Showdown"
+      }
+    },
     "quote": {
       "n": "Are you ready?",
       "e": "Time to hit the stage♪"
@@ -42981,9 +43003,82 @@
     "id": 4232,
     "title": "Fulfillment ILLUMINATE",
     "name": "Mayoi Ayase",
+    "skills": {
+      "center": {
+        "name": "In Sync with the Spirit"
+      },
+      "live": {
+        "name": "Sparkling Illusion"
+      },
+      "support": {
+        "name": "A Healing Sight"
+      }
+    },
     "quote": {
       "n": "This is my Ensemble!",
       "e": "Now, let the music resound!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4233,
+    "title": "Duty ILLUMINATE",
+    "name": "Midori Takamine"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4234,
+    "title": "Satisfaction ILLUMINATE",
+    "name": "Ritsu Sakuma",
+    "quote": {
+      "n": "Alright, let's go.",
+      "e": "That's quite exciting, isn't it?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4235,
+    "title": "Playfulness ILLUMINATE",
+    "name": "Hinata Aoi",
+    "quote": {
+      "n": "I'll show you what I got!",
+      "e": "Do you like it♪"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4236,
+    "title": "Challenge HARD ROCK",
+    "name": "Nazuna Nito"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4237,
+    "title": "Satisfying HARD ROCK",
+    "name": "Mitsuru Tenma",
+    "quote": {
+      "n": "Dash with me!",
+      "e": "Dash, dash, dash~☆"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4238,
+    "title": "Helpful HARD ROCK",
+    "name": "Tomoya Mashiro",
+    "quote": {
+      "n": "Here I go!",
+      "e": "I can do it even better!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4239,
+    "title": "Nervous HARD ROCK",
+    "name": "Hajime Shino",
+    "quote": {
+      "n": "Here I go~!",
+      "e": "I'll do my best for everyone's sake...♪"
     }
   },
   {
