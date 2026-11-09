@@ -43023,13 +43023,35 @@
     "compliant": "TRUE",
     "id": 4233,
     "title": "Duty ILLUMINATE",
-    "name": "Midori Takamine"
+    "name": "Midori Takamine",
+    "skills": {
+      "center": {
+        "name": "Wishes for the Spirit"
+      },
+      "live": {
+        "name": "Secrets of Truth"
+      },
+      "support": {
+        "name": "A Healing Letter"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4234,
     "title": "Satisfaction ILLUMINATE",
     "name": "Ritsu Sakuma",
+    "skills": {
+      "center": {
+        "name": "A Vision for the Spirit"
+      },
+      "live": {
+        "name": "The Meaning of Truth"
+      },
+      "support": {
+        "name": "Peaceful Sleeping Face"
+      }
+    },
     "quote": {
       "n": "Alright, let's go.",
       "e": "That's quite exciting, isn't it?"
@@ -43040,6 +43062,17 @@
     "id": 4235,
     "title": "Playfulness ILLUMINATE",
     "name": "Hinata Aoi",
+    "skills": {
+      "center": {
+        "name": "A Prayer for the Spirit"
+      },
+      "live": {
+        "name": "Truth Revealed"
+      },
+      "support": {
+        "name": "Unspoken Worries"
+      }
+    },
     "quote": {
       "n": "I'll show you what I got!",
       "e": "Do you like it♪"
@@ -43049,13 +43082,35 @@
     "compliant": "TRUE",
     "id": 4236,
     "title": "Challenge HARD ROCK",
-    "name": "Nazuna Nito"
+    "name": "Nazuna Nito",
+    "skills": {
+      "center": {
+        "name": "Confidence to Jump Over"
+      },
+      "live": {
+        "name": "Decision Made NOTICE"
+      },
+      "support": {
+        "name": "The Right Time to Speak"
+      }
+    }
   },
   {
     "compliant": "TRUE",
     "id": 4237,
     "title": "Satisfying HARD ROCK",
     "name": "Mitsuru Tenma",
+    "skills": {
+      "center": {
+        "name": "Drive to Jump Over"
+      },
+      "live": {
+        "name": "Overtake NOTICE"
+      },
+      "support": {
+        "name": "Guitar 101"
+      }
+    },
     "quote": {
       "n": "Dash with me!",
       "e": "Dash, dash, dash~☆"
@@ -43066,6 +43121,17 @@
     "id": 4238,
     "title": "Helpful HARD ROCK",
     "name": "Tomoya Mashiro",
+    "skills": {
+      "center": {
+        "name": "Cheer for Jump Over"
+      },
+      "live": {
+        "name": "Passion NOTICE"
+      },
+      "support": {
+        "name": "Rock Research"
+      }
+    },
     "quote": {
       "n": "Here I go!",
       "e": "I can do it even better!"
@@ -43076,6 +43142,17 @@
     "id": 4239,
     "title": "Nervous HARD ROCK",
     "name": "Hajime Shino",
+    "skills": {
+      "center": {
+        "name": "Will to Jump Over"
+      },
+      "live": {
+        "name": "Curing NOTICE"
+      },
+      "support": {
+        "name": "A Taste for Challenges"
+      }
+    },
     "quote": {
       "n": "Here I go~!",
       "e": "I'll do my best for everyone's sake...♪"
