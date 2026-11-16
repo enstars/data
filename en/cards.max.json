@@ -43181,6 +43181,32 @@
   },
   {
     "compliant": "TRUE",
+    "id": 4240,
+    "title": "The World's Dream",
+    "name": "Nagisa Ran"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4241,
+    "title": "The World's Splendor",
+    "name": "Hokuto Hidaka",
+    "quote": {
+      "n": "This is what I got!",
+      "e": "Things are getting interesting."
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4242,
+    "title": "The World's Rivalry",
+    "name": "Eichi Tenshouin",
+    "quote": {
+      "n": "Ah, it's so pleasant...!",
+      "e": "Come along with me."
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90129,
     "title": "Spring Blooms in Ink",
     "name": "Keito Hasumi",
