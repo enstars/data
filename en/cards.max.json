@@ -16507,6 +16507,27 @@
   },
   {
     "compliant": "TRUE",
+    "id": 90029,
+    "title": "Into the Radiance",
+    "name": "Subaru Akehoshi",
+    "skills": {
+      "center": {
+        "name": "Shared Stage"
+      },
+      "live": {
+        "name": "Special Guest"
+      },
+      "support": {
+        "name": "Bouncy Notes"
+      }
+    },
+    "quote": {
+      "n": "Let's have a blast!",
+      "e": "I'll do my best to shine on everyone!"
+    }
+  },
+  {
+    "compliant": "TRUE",
     "id": 90025,
     "title": "Spark of Inspiration",
     "name": "Leo Tsukinaga"
@@ -44387,6 +44408,97 @@
       "n": "Ah, it's so pleasant...!",
       "e": "Come along with me."
     }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4243,
+    "title": "The World's Vision",
+    "name": "Rei Sakuma",
+    "skills": {
+      "center": {
+        "name": "Proclamation of Spring"
+      },
+      "live": {
+        "name": "The Joy of Indulgence"
+      },
+      "support": {
+        "name": "A Professional's Presence"
+      }
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4244,
+    "title": "The World's Aspirations",
+    "name": "Izumi Sena",
+    "skills": {
+      "center": {
+        "name": "Breath of Spring"
+      },
+      "live": {
+        "name": "Joys & Sorrows of Overcoming"
+      },
+      "support": {
+        "name": "Directions in the Cave"
+      }
+    },
+    "quote": {
+      "n": "Hey, pay attention to this!",
+      "e": "It's a good chance to show yourself, right?"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4245,
+    "title": "The World's Hope",
+    "name": "Tetora Nagumo",
+    "skills": {
+      "center": {
+        "name": "Invitation to Spring"
+      },
+      "live": {
+        "name": "The Joy of Contentment"
+      },
+      "support": {
+        "name": "The Figure in the Bushes"
+      }
+    },
+    "quote": {
+      "n": "Let's go~!",
+      "e": "I'll show you my mettle!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4246,
+    "title": "KAGETSU Chronicle of Revolution",
+    "name": "Keito Hasumi"
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4247,
+    "title": "KAGETSU Chronicle of Resolve",
+    "name": "Kuro Kiryu",
+    "quote": {
+      "n": "Follow me!",
+      "e": "One last swing for the win!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4248,
+    "title": "KAGETSU Chronicle of Challenge",
+    "name": "Souma Kanzaki",
+    "quote": {
+      "n": "En garde!",
+      "e": "Please look this way!"
+    }
+  },
+  {
+    "compliant": "TRUE",
+    "id": 4249,
+    "title": "KAGETSU Chronicle of Leaps",
+    "name": "Ibuki Taki"
   },
   {
     "compliant": "TRUE",
